@@ -1,1 +1,13 @@
-["black-white","brilliant-diamond-shining-pearl","diamond-pearl","lets-go-pikachu-eevee","red-blue","ruby-sapphire","scarlet-violet","silver","sun-moon","sword-shield","x-y"]
+[
+  { "prefix": "red-blue", "label": "Red & Blue" },
+  { "prefix": "silver", "label": "Gold & Silver" },
+  { "prefix": "ruby-sapphire", "label": "Ruby & Sapphire" },
+  { "prefix": "diamond-pearl", "label": "Diamond & Pearl" },
+  { "prefix": "black-white", "label": "Black & White" },
+  { "prefix": "x-y", "label": "X & Y" },
+  { "prefix": "sun-moon", "label": "Sun & Moon" },
+  { "prefix": "lets-go-pikachu-eevee", "label": "Lets Go Pikachu Eevee" },
+  { "prefix": "sword-shield", "label": "Sword & Shield" },
+  { "prefix": "brilliant-diamond-shining-pearl", "label": "Brilliant Diamond & Shining Pearl" },
+  { "prefix": "scarlet-violet", "label": "Scarlet & Violet" }
+]

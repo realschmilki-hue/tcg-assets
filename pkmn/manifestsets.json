@@ -33,15 +33,5 @@
       "updated": "2026-04-07",
       "file": "editions/sv03pt.json"
     },
-    {
-      "id": "Karmesin & Purpur 3",
-      "name": "Karmesin & Purpur 3",
-      "nameEN": "Scarlet & Violet 3",
-      "total": 198,
-      "releaseDate": "2025-11-10",
-      "maintainer": "your-name",
-      "updated": "2026-04-07",
-      "file": "editions/sv03.json"
-    }
   ]
 }

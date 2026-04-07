@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-07",
+  "baseUrl": "https://raw.githubusercontent.com/yourusername/pokemon-tcg-data/main",
+  "editions": [
+    {
+      "id": "Karmesin & Purpur 4.5",
+      "name": "Karmesin & Purpur 4.5",
+      "nameEN": "Scarlet & Violet 4.5",
+      "total": 102,
+      "releaseDate": "2026-03-22",
+      "maintainer": "your-name",
+      "updated": "2026-04-07",
+      "file": "editions/sv04pt.json"
+    },
+    {
+      "id": "Karmesin & Purpur 4",
+      "name": "Karmesin & Purpur 4",
+      "nameEN": "Scarlet & Violet 4",
+      "total": 210,
+      "releaseDate": "2026-02-15",
+      "maintainer": "your-name",
+      "updated": "2026-04-07",
+      "file": "editions/sv04.json"
+    },
+    {
+      "id": "Karmesin & Purpur 3.5",
+      "name": "Karmesin & Purpur 3.5",
+      "nameEN": "Scarlet & Violet 3.5",
+      "total": 98,
+      "releaseDate": "2025-12-20",
+      "maintainer": "your-name",
+      "updated": "2026-04-07",
+      "file": "editions/sv03pt.json"
+    },
+    {
+      "id": "Karmesin & Purpur 3",
+      "name": "Karmesin & Purpur 3",
+      "nameEN": "Scarlet & Violet 3",
+      "total": 198,
+      "releaseDate": "2025-11-10",
+      "maintainer": "your-name",
+      "updated": "2026-04-07",
+      "file": "editions/sv03.json"
+    }
+  ]
+}

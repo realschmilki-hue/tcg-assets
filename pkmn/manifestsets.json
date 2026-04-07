@@ -1,7 +1,7 @@
 {
   "version": 1,
   "lastUpdated": "2026-04-07",
-  "baseUrl": "https://raw.githubusercontent.com/yourusername/pokemon-tcg-data/main",
+  "baseUrl": "https://raw.githubusercontent.com/realschmilki-hue/tcg-assets/main/pkmn",
   "editions": [
     {
       "id": "Karmesin & Purpur 4.5",

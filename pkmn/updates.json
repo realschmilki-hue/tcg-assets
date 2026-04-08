@@ -1,16 +1,17 @@
 {
   "updates": [
     {
-      "id": "2026-04-08-perfect-order",
+      "id": "2026-04-08-available-sets",
       "version": "1.0.0",
       "date": "2026-04-08",
-      "title": "New Set + Fixes",
-      "message": "A new set was added and several import/search improvements were shipped.",
+      "title": "New Sets",
+      "message": "First available sets are here",
       "changes": [
         "Added set: Perfect Order (me3)",
-        "Improved import dialog search and keyboard navigation",
-        "Prevent duplicate set import",
-        "Improved active filter visibility"
+        "Added set: Ascended Heroes (me2pt5)",
+        "Added set: Phantasmal Flames (me2)",
+        "Added set: Mega Evolution (me1)",
+        "Added set: White Flare (rsv10üt5)"
       ]
     }
   ]

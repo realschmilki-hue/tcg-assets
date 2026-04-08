@@ -15,15 +15,15 @@
       "file": "editions/sv04pt.json"
     },
     {
-      "id": "Karmesin & Purpur 4",
-      "name": "Karmesin & Purpur 4",
-      "nameEN": "Scarlet & Violet 4",
+      "id": "me3",
+      "name": "Perfect Order",
+      "nameEN": "Perfect Order",
       "logo": "setlogo/perfect-order.avif",
-      "total": 210,
-      "releaseDate": "2026-02-15",
-      "maintainer": "your-name",
-      "updated": "2026-04-07",
-      "file": "editions/sv04.json"
+      "total": 124,
+      "releaseDate": "2026-03-27",
+      "maintainer": "RSch",
+      "updated": "2026-04-08",
+      "file": "editions/me3.json"
     },
     {
       "id": "Karmesin & Purpur 3.5",

@@ -1,16 +1,16 @@
 {
   "updates": [
     {
-      "id": "2026-04-08-perfect-order-v2",
+      "id": "2026-04-07-perfect-order-v",
       "version": "1.0.0",
-      "date": "2026-04-08",
-      "title": "New Set + Fixes",
-      "message": "A new set was added and several import/search improvements were shipped.",
+      "date": "2026-04-07",
+      "title": "Newet + Fixes",
+      "message": "A new ses added and several import/search improvements were shipped.",
       "changes": [
-        "Added set: Perfect Order (me3)",
-        "Improved import dialog search and keyboard navigation",
-        "Prevent duplicate set import",
-        "Improved active filter visibility"
+        "Added set: Perfder (me3)",
+        "Improved imporg search and keyboard navigation",
+        "Prevent dupl set import",
+        "Improved actvisibility"
       ]
     }
   ]

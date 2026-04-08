@@ -1,0 +1,116 @@
+{
+  "edition": {
+    "id": "me3",
+    "name": "Perfect Order",
+    "nameEN": "Perfect Order",
+    "total": 124,
+    "releaseDate": "2026-03-27"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "",
+        "en": "Spinarak",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me3-1/medium",
+        "large": "https://images.scrydex.com/pokemon/me3-1/large"
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "",
+        "en": "Ariados",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me3-2/medium",
+        "large": "https://images.scrydex.com/pokemon/me3-2/large"
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "",
+        "en": "Shaymin",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me3-3/medium",
+        "large": "https://images.scrydex.com/pokemon/me3-3/large"
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "",
+        "en": "Snivy",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me3-4/medium",
+        "large": "https://images.scrydex.com/pokemon/me3-4/large"
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "",
+        "en": "Servine",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me3-5/medium",
+        "large": "https://images.scrydex.com/pokemon/me3-5/large"
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

@@ -4,17 +4,6 @@
   "baseUrl": "https://raw.githubusercontent.com/realschmilki-hue/tcg-assets/main/pkmn",
   "editions": [
     {
-      "id": "Karmesin & Purpur 4.5",
-      "name": "Karmesin & Purpur 4.5",
-      "nameEN": "Scarlet & Violet 4.5",
-      "logo": "setlogo/brilliant-stars.avif",
-      "total": 102,
-      "releaseDate": "2026-03-22",
-      "maintainer": "your-name",
-      "updated": "2026-04-07",
-      "file": "editions/sv04pt.json"
-    },
-    {
       "id": "me3",
       "name": "Perfect Order",
       "nameEN": "Perfect Order",
@@ -26,15 +15,48 @@
       "file": "editions/me3.json"
     },
     {
-      "id": "Karmesin & Purpur 3.5",
-      "name": "Karmesin & Purpur 3.5",
-      "nameEN": "Scarlet & Violet 3.5",
-      "logo": "setlogo/brilliant-stars.avif",
-      "total": 98,
-      "releaseDate": "2025-12-20",
+      "id": "me2pt5",
+      "name": "Ascended Heroes",
+      "nameEN": "Ascended Heroes",
+      "logo": "setlogo/ascended-heroes.avif",
+      "total": 295,
+      "releaseDate": "2026-01-30",
       "maintainer": "your-name",
-      "updated": "2026-04-07",
-      "file": "editions/sv03pt.json"
+      "updated": "2026-04-08",
+      "file": "editions/me2pt5.json"
+    },
+    {
+      "id": "me2",
+      "name": "Phantasmal Flames",
+      "nameEN": "Phantasmal Flames",
+      "logo": "setlogo/phantasmal-flames.avif",
+      "total": 130,
+      "releaseDate": "2025-11-14",
+      "maintainer": "your-name",
+      "updated": "2026-04-08",
+      "file": "editions/me2.json"
+    },    
+    {
+      "id": "me1",
+      "name": "Mega Evolution",
+      "nameEN": "Mega Evolution",
+      "logo": "setlogo/mega-evolution.avif",
+      "total": 188,
+      "releaseDate": "2025-09-26",
+      "maintainer": "your-name",
+      "updated": "2026-04-08",
+      "file": "editions/me1.json"
+    },
+    {
+      "id": "rsv10pt5",
+      "name": "White Flare",
+      "nameEN": "White Flare",
+      "logo": "setlogo/white-flare.avif",
+      "total": 173,
+      "releaseDate": "2025-07-18",
+      "maintainer": "your-name",
+      "updated": "2026-04-08",
+      "file": "editions/rsv10pt5.json"
     }
   ]
 }

@@ -1,0 +1,2701 @@
+{
+  "edition": {
+    "id": "me2",
+    "name": "Phantasmal Flames",
+    "nameEN": "Phantasmal Flames",
+    "total": 130,
+    "releaseDate": "2025-11-14"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "",
+        "en": "Oddish",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-1/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-1/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Oddish-PFL001",
+        "tcgplayer": "https://www.tcgplayer.com/product/662205/pokemon-me02-phantasmal-flames-oddish?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "",
+        "en": "Gloom",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-2/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-2/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Gloom-PFL002",
+        "tcgplayer": "https://www.tcgplayer.com/product/662164/pokemon-me02-phantasmal-flames-gloom?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "",
+        "en": "Vileplume",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-3/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-3/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Vileplume-PFL003",
+        "tcgplayer": "https://www.tcgplayer.com/product/662238/pokemon-me02-phantasmal-flames-vileplume?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "",
+        "en": "Mega Heracross ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-4/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-4/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Heracross-ex-V1-PFL004",
+        "tcgplayer": "https://www.tcgplayer.com/product/662186/pokemon-me02-phantasmal-flames-mega-heracross-ex-004-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "",
+        "en": "Lotad",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-5/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-5/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Lotad-PFL005",
+        "tcgplayer": "https://www.tcgplayer.com/product/662178/pokemon-me02-phantasmal-flames-lotad?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "",
+        "en": "Lombre",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-6/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-6/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Lombre-PFL006",
+        "tcgplayer": "https://www.tcgplayer.com/product/662177/pokemon-me02-phantasmal-flames-lombre?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "",
+        "en": "Ludicolo",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-7/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-7/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Ludicolo-V1-PFL007",
+        "tcgplayer": "https://www.tcgplayer.com/product/662179/pokemon-me02-phantasmal-flames-ludicolo-007-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "",
+        "en": "Genesect",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-8/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-8/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Genesect-PFL008",
+        "tcgplayer": "https://www.tcgplayer.com/product/662161/pokemon-me02-phantasmal-flames-genesect?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "",
+        "en": "Nymble",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-9/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-9/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Nymble-V1-PFL009",
+        "tcgplayer": "https://www.tcgplayer.com/product/662203/pokemon-me02-phantasmal-flames-nymble-009-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "",
+        "en": "Lokix",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-10/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-10/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Lokix-PFL010",
+        "tcgplayer": "https://www.tcgplayer.com/product/662176/pokemon-me02-phantasmal-flames-lokix?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "",
+        "en": "Charmander",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-11/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-11/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Charmander-PFL011",
+        "tcgplayer": "https://www.tcgplayer.com/product/662143/pokemon-me02-phantasmal-flames-charmander?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "",
+        "en": "Charmeleon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-12/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-12/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Charmeleon-PFL012",
+        "tcgplayer": "https://www.tcgplayer.com/product/662144/pokemon-me02-phantasmal-flames-charmeleon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "",
+        "en": "Mega Charizard X ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-13/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-13/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Charizard-X-ex-V1-PFL013",
+        "tcgplayer": "https://www.tcgplayer.com/product/662182/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-013-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "",
+        "en": "Moltres",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-14/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-14/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Moltres-PFL014",
+        "tcgplayer": "https://www.tcgplayer.com/product/662201/pokemon-me02-phantasmal-flames-moltres?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "",
+        "en": "Darumaka",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-15/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-15/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Darumaka-PFL015",
+        "tcgplayer": "https://www.tcgplayer.com/product/662147/pokemon-me02-phantasmal-flames-darumaka?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "",
+        "en": "Darmanitan",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-16/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-16/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Darmanitan-PFL016",
+        "tcgplayer": "https://www.tcgplayer.com/product/662146/pokemon-me02-phantasmal-flames-darmanitan?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "",
+        "en": "Reshiram",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-17/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-17/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Reshiram-PFL017",
+        "tcgplayer": "https://www.tcgplayer.com/product/662219/pokemon-me02-phantasmal-flames-reshiram?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "",
+        "en": "Oricorio ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-18/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-18/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Oricorio-ex-V1-PFL018",
+        "tcgplayer": "https://www.tcgplayer.com/product/662206/pokemon-me02-phantasmal-flames-oricorio-ex-018-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "",
+        "en": "Charcadet",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-19/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-19/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Charcadet-PFL019",
+        "tcgplayer": "https://www.tcgplayer.com/product/662142/pokemon-me02-phantasmal-flames-charcadet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "",
+        "en": "Ceruledge",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-20/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-20/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Ceruledge-PFL020",
+        "tcgplayer": "https://www.tcgplayer.com/product/662141/pokemon-me02-phantasmal-flames-ceruledge?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "",
+        "en": "Seel",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-21/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-21/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Seel-PFL021",
+        "tcgplayer": "https://www.tcgplayer.com/product/662226/pokemon-me02-phantasmal-flames-seel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "",
+        "en": "Dewgong",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-22/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-22/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Dewgong-V1-PFL022",
+        "tcgplayer": "https://www.tcgplayer.com/product/662151/pokemon-me02-phantasmal-flames-dewgong-022-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "",
+        "en": "Swinub",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-23/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-23/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Swinub-PFL023",
+        "tcgplayer": "https://www.tcgplayer.com/product/662230/pokemon-me02-phantasmal-flames-swinub?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "",
+        "en": "Piloswine",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-24/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-24/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Piloswine-PFL024",
+        "tcgplayer": "https://www.tcgplayer.com/product/662213/pokemon-me02-phantasmal-flames-piloswine?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "",
+        "en": "Mamoswine",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-25/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-25/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mamoswine-PFL025",
+        "tcgplayer": "https://www.tcgplayer.com/product/662181/pokemon-me02-phantasmal-flames-mamoswine?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "",
+        "en": "Suicune",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-26/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-26/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Suicune-PFL026",
+        "tcgplayer": "https://www.tcgplayer.com/product/662229/pokemon-me02-phantasmal-flames-suicune?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "",
+        "en": "Piplup",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-27/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-27/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Piplup-V1-PFL027",
+        "tcgplayer": "https://www.tcgplayer.com/product/662214/pokemon-me02-phantasmal-flames-piplup-027-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "",
+        "en": "Prinplup",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-28/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-28/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Prinplup-PFL028",
+        "tcgplayer": "https://www.tcgplayer.com/product/662216/pokemon-me02-phantasmal-flames-prinplup?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "",
+        "en": "Rotom ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-29/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-29/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Rotom-ex-V1-PFL029",
+        "tcgplayer": "https://www.tcgplayer.com/product/662220/pokemon-me02-phantasmal-flames-rotom-ex-029-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "",
+        "en": "Yamper",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-30/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-30/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Yamper-V1-PFL030",
+        "tcgplayer": "https://www.tcgplayer.com/product/662242/pokemon-me02-phantasmal-flames-yamper-030-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "",
+        "en": "Boltund",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-31/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-31/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Boltund-PFL031",
+        "tcgplayer": "https://www.tcgplayer.com/product/662134/pokemon-me02-phantasmal-flames-boltund?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "",
+        "en": "Pawmi",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-32/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-32/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Pawmi-PFL032",
+        "tcgplayer": "https://www.tcgplayer.com/product/662210/pokemon-me02-phantasmal-flames-pawmi?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "",
+        "en": "Pawmo",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-33/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-33/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Pawmo-PFL033",
+        "tcgplayer": "https://www.tcgplayer.com/product/662211/pokemon-me02-phantasmal-flames-pawmo?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "",
+        "en": "Pawmot",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-34/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-34/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Pawmot-PFL034",
+        "tcgplayer": "https://www.tcgplayer.com/product/662212/pokemon-me02-phantasmal-flames-pawmot?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "",
+        "en": "Misdreavus",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-35/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-35/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Misdreavus-PFL035",
+        "tcgplayer": "https://www.tcgplayer.com/product/662198/pokemon-me02-phantasmal-flames-misdreavus?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "",
+        "en": "Mismagius ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-36/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-36/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mismagius-ex-V1-PFL036",
+        "tcgplayer": "https://www.tcgplayer.com/product/662199/pokemon-me02-phantasmal-flames-mismagius-ex-036-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "",
+        "en": "Snubbull",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-37/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-37/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Snubbull-PFL037",
+        "tcgplayer": "https://www.tcgplayer.com/product/662228/pokemon-me02-phantasmal-flames-snubbull?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "",
+        "en": "Granbull",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-38/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-38/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Granbull-PFL038",
+        "tcgplayer": "https://www.tcgplayer.com/product/662165/pokemon-me02-phantasmal-flames-granbull?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "",
+        "en": "Cresselia",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-39/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-39/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Cresselia-PFL039",
+        "tcgplayer": "https://www.tcgplayer.com/product/662145/pokemon-me02-phantasmal-flames-cresselia?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "",
+        "en": "Meloetta",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-40/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-40/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Meloetta-PFL040",
+        "tcgplayer": "https://www.tcgplayer.com/product/662194/pokemon-me02-phantasmal-flames-meloetta?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "",
+        "en": "Mega Diancie ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-41/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-41/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Diancie-ex-PFL041",
+        "tcgplayer": "https://www.tcgplayer.com/product/660379/pokemon-me02-phantasmal-flames-mega-diancie-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "",
+        "en": "Mimikyu",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-42/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-42/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mimikyu-PFL042",
+        "tcgplayer": "https://www.tcgplayer.com/product/662197/pokemon-me02-phantasmal-flames-mimikyu?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "",
+        "en": "Milcery",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-43/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-43/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Milcery-PFL043",
+        "tcgplayer": "https://www.tcgplayer.com/product/662196/pokemon-me02-phantasmal-flames-milcery?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "",
+        "en": "Alcremie",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-44/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-44/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Alcremie-PFL044",
+        "tcgplayer": "https://www.tcgplayer.com/product/660384/pokemon-me02-phantasmal-flames-alcremie?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "",
+        "en": "Zacian",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-45/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-45/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Zacian-V1-PFL045",
+        "tcgplayer": "https://www.tcgplayer.com/product/662244/pokemon-me02-phantasmal-flames-zacian-045-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "",
+        "en": "Bramblin",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-46/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-46/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Bramblin-PFL046",
+        "tcgplayer": "https://www.tcgplayer.com/product/662136/pokemon-me02-phantasmal-flames-bramblin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "",
+        "en": "Brambleghast",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-47/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-47/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Brambleghast-PFL047",
+        "tcgplayer": "https://www.tcgplayer.com/product/662135/pokemon-me02-phantasmal-flames-brambleghast?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "",
+        "en": "Paldean Tauros",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-48/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-48/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Paldean-Tauros-PFL048",
+        "tcgplayer": "https://www.tcgplayer.com/product/662208/pokemon-me02-phantasmal-flames-paldean-tauros?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "",
+        "en": "Gligar",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-49/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-49/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Gligar-PFL049",
+        "tcgplayer": "https://www.tcgplayer.com/product/662162/pokemon-me02-phantasmal-flames-gligar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "",
+        "en": "Gliscor",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-50/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-50/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Gliscor-PFL050",
+        "tcgplayer": "https://www.tcgplayer.com/product/662163/pokemon-me02-phantasmal-flames-gliscor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "",
+        "en": "Trapinch",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-51/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-51/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Trapinch-PFL051",
+        "tcgplayer": "https://www.tcgplayer.com/product/662236/pokemon-me02-phantasmal-flames-trapinch?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "",
+        "en": "Vibrava",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-52/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-52/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Vibrava-PFL052",
+        "tcgplayer": "https://www.tcgplayer.com/product/662237/pokemon-me02-phantasmal-flames-vibrava?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "",
+        "en": "Flygon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-53/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-53/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Flygon-V1-PFL053",
+        "tcgplayer": "https://www.tcgplayer.com/product/662159/pokemon-me02-phantasmal-flames-flygon-053-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "",
+        "en": "Gastly",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-54/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-54/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Gastly-PFL054",
+        "tcgplayer": "https://www.tcgplayer.com/product/660495/pokemon-me02-phantasmal-flames-gastly?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "",
+        "en": "Haunter",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-55/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-55/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Haunter-PFL055",
+        "tcgplayer": "https://www.tcgplayer.com/product/660408/pokemon-me02-phantasmal-flames-haunter-055-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "",
+        "en": "Mega Gengar ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-56/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-56/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Gengar-ex-V1-PFL056",
+        "tcgplayer": "https://www.tcgplayer.com/product/660380/pokemon-me02-phantasmal-flames-mega-gengar-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "",
+        "en": "Murkrow",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-57/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-57/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Murkrow-PFL057",
+        "tcgplayer": "https://www.tcgplayer.com/product/662202/pokemon-me02-phantasmal-flames-murkrow?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "",
+        "en": "Honchkrow",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-58/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-58/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Honchkrow-PFL058",
+        "tcgplayer": "https://www.tcgplayer.com/product/662169/pokemon-me02-phantasmal-flames-honchkrow?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "",
+        "en": "Sableye",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-59/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-59/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Sableye-PFL059",
+        "tcgplayer": "https://www.tcgplayer.com/product/660412/pokemon-me02-phantasmal-flames-sableye?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "",
+        "en": "Carvanha",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-60/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-60/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Carvanha-PFL060",
+        "tcgplayer": "https://www.tcgplayer.com/product/662140/pokemon-me02-phantasmal-flames-carvanha?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "",
+        "en": "Mega Sharpedo ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-61/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-61/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Sharpedo-ex-V1-PFL061",
+        "tcgplayer": "https://www.tcgplayer.com/product/662191/pokemon-me02-phantasmal-flames-mega-sharpedo-ex-061-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "",
+        "en": "Seviper",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-62/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-62/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Seviper-PFL062",
+        "tcgplayer": "https://www.tcgplayer.com/product/660413/pokemon-me02-phantasmal-flames-seviper?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "",
+        "en": "Absol",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-63/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-63/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Absol-PFL063",
+        "tcgplayer": "https://www.tcgplayer.com/product/662125/pokemon-me02-phantasmal-flames-absol?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "",
+        "en": "Sandile",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-64/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-64/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Sandile-PFL064",
+        "tcgplayer": "https://www.tcgplayer.com/product/662225/pokemon-me02-phantasmal-flames-sandile?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "",
+        "en": "Krokorok",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-65/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-65/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Krokorok-PFL065",
+        "tcgplayer": "https://www.tcgplayer.com/product/662173/pokemon-me02-phantasmal-flames-krokorok?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "",
+        "en": "Krookodile",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-66/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-66/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Krookodile-PFL066",
+        "tcgplayer": "https://www.tcgplayer.com/product/662174/pokemon-me02-phantasmal-flames-krookodile?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "",
+        "en": "Toxel",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-67/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-67/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Toxel-PFL067",
+        "tcgplayer": "https://www.tcgplayer.com/product/660411/pokemon-me02-phantasmal-flames-toxel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "",
+        "en": "Toxtricity",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-68/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-68/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Toxtricity-V1-PFL068",
+        "tcgplayer": "https://www.tcgplayer.com/product/660409/pokemon-me02-phantasmal-flames-toxtricity?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "",
+        "en": "Eternatus",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-69/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-69/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Eternatus-PFL069",
+        "tcgplayer": "https://www.tcgplayer.com/product/660406/pokemon-me02-phantasmal-flames-eternatus?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "",
+        "en": "Empoleon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-70/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-70/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Empoleon-ex-V1-PFL070",
+        "tcgplayer": "https://www.tcgplayer.com/product/662155/pokemon-me02-phantasmal-flames-empoleon-ex-070-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "",
+        "en": "Bronzor",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-71/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-71/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Empoleon-ex-V1-PFL070",
+        "tcgplayer": "https://www.tcgplayer.com/product/662138/pokemon-me02-phantasmal-flames-bronzor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "",
+        "en": "Bronzong",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-72/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-72/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Bronzong-PFL072",
+        "tcgplayer": "https://www.tcgplayer.com/product/662137/pokemon-me02-phantasmal-flames-bronzong?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "",
+        "en": "Togedemaru",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-73/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-73/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Togedemaru-V1-PFL073",
+        "tcgplayer": "https://www.tcgplayer.com/product/662232/pokemon-me02-phantasmal-flames-togedemaru-073-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "",
+        "en": "Duraludon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-74/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-74/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Duraludon-PFL074",
+        "tcgplayer": "https://www.tcgplayer.com/product/662154/pokemon-me02-phantasmal-flames-duraludon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "",
+        "en": "Archaludon",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-75/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-75/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Archaludon-PFL075",
+        "tcgplayer": "https://www.tcgplayer.com/product/662129/pokemon-me02-phantasmal-flames-archaludon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "076",
+      "names": {
+        "de": "",
+        "en": "Jigglypuff",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-76/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-76/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Jigglypuff-PFL076",
+        "tcgplayer": "https://www.tcgplayer.com/product/662171/pokemon-me02-phantasmal-flames-jigglypuff?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "077",
+      "names": {
+        "de": "",
+        "en": "Wigglytuff",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-77/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-77/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Wigglytuff-V1-PFL077",
+        "tcgplayer": "https://www.tcgplayer.com/product/662239/pokemon-me02-phantasmal-flames-wigglytuff-077-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "078",
+      "names": {
+        "de": "",
+        "en": "Aipom",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-78/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-78/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Aipom-PFL078",
+        "tcgplayer": "https://www.tcgplayer.com/product/662126/pokemon-me02-phantasmal-flames-aipom?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "079",
+      "names": {
+        "de": "",
+        "en": "Ambipom",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-79/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-79/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Ambipom-V1-PFL079",
+        "tcgplayer": "https://www.tcgplayer.com/product/662127/pokemon-me02-phantasmal-flames-ambipom-079-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "080",
+      "names": {
+        "de": "",
+        "en": "Smeargle",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-80/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-80/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Smeargle-PFL080",
+        "tcgplayer": "https://www.tcgplayer.com/product/662227/pokemon-me02-phantasmal-flames-smeargle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "081",
+      "names": {
+        "de": "",
+        "en": "Zigzagoon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-81/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-81/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Zigzagoon-PFL081",
+        "tcgplayer": "https://www.tcgplayer.com/product/662246/pokemon-me02-phantasmal-flames-zigzagoon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "082",
+      "names": {
+        "de": "",
+        "en": "Linoone",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-82/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-82/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Linoone-PFL082",
+        "tcgplayer": "https://www.tcgplayer.com/product/662175/pokemon-me02-phantasmal-flames-linoone?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "083",
+      "names": {
+        "de": "",
+        "en": "Buneary",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-83/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-83/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Buneary-PFL083",
+        "tcgplayer": "https://www.tcgplayer.com/product/662139/pokemon-me02-phantasmal-flames-buneary?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "084",
+      "names": {
+        "de": "",
+        "en": "Mega Lopunny ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-84/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-84/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Lopunny-ex-V1-PFL084",
+        "tcgplayer": "https://www.tcgplayer.com/product/662188/pokemon-me02-phantasmal-flames-mega-lopunny-ex-084-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "085",
+      "names": {
+        "de": "",
+        "en": "Battle Cage",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-85/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-85/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Battle-Cage-V1-PFL085",
+        "tcgplayer": "https://www.tcgplayer.com/product/662130/pokemon-me02-phantasmal-flames-battle-cage-085-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "086",
+      "names": {
+        "de": "",
+        "en": "Blowtorch",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-86/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-86/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Blowtorch-V1-PFL086",
+        "tcgplayer": "https://www.tcgplayer.com/product/662132/pokemon-me02-phantasmal-flames-blowtorch-086-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "087",
+      "names": {
+        "de": "",
+        "en": "Dawn",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-87/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-87/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Dawn-V1-PFL087",
+        "tcgplayer": "https://www.tcgplayer.com/product/660414/pokemon-me02-phantasmal-flames-dawn?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "088",
+      "names": {
+        "de": "",
+        "en": "Dizzying Valley",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-88/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-88/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Dizzying-Valley-PFL088",
+        "tcgplayer": "https://www.tcgplayer.com/product/662153/pokemon-me02-phantasmal-flames-dizzying-valley?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "089",
+      "names": {
+        "de": "",
+        "en": "Firebreather",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-89/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-89/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Firebreather-V1-PFL089",
+        "tcgplayer": "https://www.tcgplayer.com/product/662157/pokemon-me02-phantasmal-flames-firebreather-089-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "090",
+      "names": {
+        "de": "",
+        "en": "Grimsley's Move",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-90/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-90/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Grimsleys-Move-V1-PFL090",
+        "tcgplayer": "https://www.tcgplayer.com/product/660418/pokemon-me02-phantasmal-flames-grimsleys-move?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "091",
+      "names": {
+        "de": "",
+        "en": "Jumbo Ice Cream",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-91/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-91/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Jumbo-Ice-Cream-PFL091",
+        "tcgplayer": "https://www.tcgplayer.com/product/662172/pokemon-me02-phantasmal-flames-jumbo-ice-cream?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "092",
+      "names": {
+        "de": "",
+        "en": "Punk Helmet",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-92/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-92/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Punk-Helmet-V1-PFL092",
+        "tcgplayer": "https://www.tcgplayer.com/product/660419/pokemon-me02-phantasmal-flames-punk-helmet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "093",
+      "names": {
+        "de": "",
+        "en": "Sacred Charm",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-93/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-93/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Sacred-Charm-V1-PFL093",
+        "tcgplayer": "https://www.tcgplayer.com/product/662223/pokemon-me02-phantasmal-flames-sacred-charm-093-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "094",
+      "names": {
+        "de": "",
+        "en": "Wondrous Patch",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-94/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-94/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Wondrous-Patch-PFL094",
+        "tcgplayer": "https://www.tcgplayer.com/product/662241/pokemon-me02-phantasmal-flames-wondrous-patch?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "095",
+      "names": {
+        "de": "",
+        "en": "Ludicolo",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-95/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-95/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Ludicolo-V2-PFL095",
+        "tcgplayer": "https://www.tcgplayer.com/product/662180/pokemon-me02-phantasmal-flames-ludicolo-095-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "096",
+      "names": {
+        "de": "",
+        "en": "Nymble",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-96/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-96/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Nymble-V2-PFL096",
+        "tcgplayer": "https://www.tcgplayer.com/product/662204/pokemon-me02-phantasmal-flames-nymble-096-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "097",
+      "names": {
+        "de": "",
+        "en": "Dewgong",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-97/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-97/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Dewgong-V2-PFL097",
+        "tcgplayer": "https://www.tcgplayer.com/product/662152/pokemon-me02-phantasmal-flames-dewgong-097-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "098",
+      "names": {
+        "de": "",
+        "en": "Piplup",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-98/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-98/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Piplup-V2-PFL098",
+        "tcgplayer": "https://www.tcgplayer.com/product/662215/pokemon-me02-phantasmal-flames-piplup-098-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "099",
+      "names": {
+        "de": "",
+        "en": "Yamper",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-99/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-99/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Yamper-V2-PFL099",
+        "tcgplayer": "https://www.tcgplayer.com/product/662243/pokemon-me02-phantasmal-flames-yamper-099-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "100",
+      "names": {
+        "de": "",
+        "en": "Zacian",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-100/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-100/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Zacian-V2-PFL100",
+        "tcgplayer": "https://www.tcgplayer.com/product/662245/pokemon-me02-phantasmal-flames-zacian-100-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "101",
+      "names": {
+        "de": "",
+        "en": "Flygon",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-101/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-101/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Flygon-V2-PFL101",
+        "tcgplayer": "https://www.tcgplayer.com/product/662160/pokemon-me02-phantasmal-flames-flygon-101-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "102",
+      "names": {
+        "de": "",
+        "en": "Paldean Wooper",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-102/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-102/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Paldean-Wooper-PFL102",
+        "tcgplayer": "https://www.tcgplayer.com/product/662209/pokemon-me02-phantasmal-flames-paldean-wooper?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "103",
+      "names": {
+        "de": "",
+        "en": "Toxtricity",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-103/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-103/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Toxtricity-V2-PFL103",
+        "tcgplayer": "https://www.tcgplayer.com/product/662235/pokemon-me02-phantasmal-flames-toxtricity-103-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "104",
+      "names": {
+        "de": "",
+        "en": "Togedemaru",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-104/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-104/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Togedemaru-V2-PFL104",
+        "tcgplayer": "https://www.tcgplayer.com/product/662233/pokemon-me02-phantasmal-flames-togedemaru-104-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "105",
+      "names": {
+        "de": "",
+        "en": "Wigglytuff",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-105/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-105/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Wigglytuff-V2-PFL105",
+        "tcgplayer": "https://www.tcgplayer.com/product/662240/pokemon-me02-phantasmal-flames-wigglytuff-105-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "106",
+      "names": {
+        "de": "",
+        "en": "Meowth",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-106/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-106/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Meowth-PFL106",
+        "tcgplayer": "https://www.tcgplayer.com/product/662195/pokemon-me02-phantasmal-flames-meowth?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "107",
+      "names": {
+        "de": "",
+        "en": "Ambipom",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-107/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-107/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Ambipom-V2-PFL107",
+        "tcgplayer": "https://www.tcgplayer.com/product/662128/pokemon-me02-phantasmal-flames-ambipom-107-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "108",
+      "names": {
+        "de": "",
+        "en": "Mega Heracross ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-108/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-108/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Heracross-ex-V2-PFL108",
+        "tcgplayer": "https://www.tcgplayer.com/product/662187/pokemon-me02-phantasmal-flames-mega-heracross-ex-108-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "109",
+      "names": {
+        "de": "",
+        "en": "Mega Charizard X ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-109/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-109/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Charizard-X-ex-V2-PFL109",
+        "tcgplayer": "https://www.tcgplayer.com/product/662183/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-109-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "110",
+      "names": {
+        "de": "",
+        "en": "Oricorio ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-110/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-110/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Oricorio-ex-V2-PFL110",
+        "tcgplayer": "https://www.tcgplayer.com/product/662207/pokemon-me02-phantasmal-flames-oricorio-ex-110-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "111",
+      "names": {
+        "de": "",
+        "en": "Rotom ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-111/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-111/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Rotom-ex-V2-PFL111",
+        "tcgplayer": "https://www.tcgplayer.com/product/662221/pokemon-me02-phantasmal-flames-rotom-ex-111-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "112",
+      "names": {
+        "de": "",
+        "en": "Mismagius ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-112/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-112/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mismagius-ex-V2-PFL112",
+        "tcgplayer": "https://www.tcgplayer.com/product/662200/pokemon-me02-phantasmal-flames-mismagius-ex-112-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "113",
+      "names": {
+        "de": "",
+        "en": "Mega Sharpedo ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-113/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-113/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Sharpedo-ex-V2-PFL113",
+        "tcgplayer": "https://www.tcgplayer.com/product/662192/pokemon-me02-phantasmal-flames-mega-sharpedo-ex-113-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "114",
+      "names": {
+        "de": "",
+        "en": "Empoleon ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-114/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-114/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Empoleon-ex-V2-PFL114",
+        "tcgplayer": "https://www.tcgplayer.com/product/662156/pokemon-me02-phantasmal-flames-empoleon-ex-114-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "115",
+      "names": {
+        "de": "",
+        "en": "Mega Lopunny ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-115/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-115/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Lopunny-ex-V2-PFL115",
+        "tcgplayer": "https://www.tcgplayer.com/product/662189/pokemon-me02-phantasmal-flames-mega-lopunny-ex-115-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "116",
+      "names": {
+        "de": "",
+        "en": "Battle Cage",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-116/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-116/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Battle-Cage-V2-PFL116",
+        "tcgplayer": "https://www.tcgplayer.com/product/662131/pokemon-me02-phantasmal-flames-battle-cage-116-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "117",
+      "names": {
+        "de": "",
+        "en": "Blowtorch",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-117/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-117/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Blowtorch-V2-PFL117",
+        "tcgplayer": "https://www.tcgplayer.com/product/662133/pokemon-me02-phantasmal-flames-blowtorch-117-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "118",
+      "names": {
+        "de": "",
+        "en": "Dawn",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-118/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-118/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Dawn-V2-PFL118",
+        "tcgplayer": "https://www.tcgplayer.com/product/662149/pokemon-me02-phantasmal-flames-dawn-118-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "119",
+      "names": {
+        "de": "",
+        "en": "Firebreather",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-119/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-119/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Firebreather-V2-PFL119",
+        "tcgplayer": "https://www.tcgplayer.com/product/662158/pokemon-me02-phantasmal-flames-firebreather-119-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "120",
+      "names": {
+        "de": "",
+        "en": "Grimsley's Move",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-120/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-120/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Grimsleys-Move-V2-PFL120",
+        "tcgplayer": "https://www.tcgplayer.com/product/662167/pokemon-me02-phantasmal-flames-grimsleys-move-120-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "121",
+      "names": {
+        "de": "",
+        "en": "Punk Helmet",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-121/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-121/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Punk-Helmet-V2-PFL121",
+        "tcgplayer": "https://www.tcgplayer.com/product/662218/pokemon-me02-phantasmal-flames-punk-helmet-121-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "122",
+      "names": {
+        "de": "",
+        "en": "Sacred Charm",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-122/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-122/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Sacred-Charm-V2-PFL122",
+        "tcgplayer": "https://www.tcgplayer.com/product/662224/pokemon-me02-phantasmal-flames-sacred-charm-122-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "123",
+      "names": {
+        "de": "",
+        "en": "Switch",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-123/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-123/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Switch-PFL123",
+        "tcgplayer": "https://www.tcgplayer.com/product/662231/pokemon-me02-phantasmal-flames-switch?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "124",
+      "names": {
+        "de": "",
+        "en": "Ignition Energy",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-124/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-124/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Ignition-Energy-PFL124",
+        "tcgplayer": "https://www.tcgplayer.com/product/662170/pokemon-me02-phantasmal-flames-ignition-energy?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "125",
+      "names": {
+        "de": "",
+        "en": "Mega Charizard X ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-125/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-125/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Charizard-X-ex-V3-PFL125",
+        "tcgplayer": "https://www.tcgplayer.com/product/662184/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-125-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "126",
+      "names": {
+        "de": "",
+        "en": "Rotom ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-126/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-126/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Rotom-ex-V3-PFL126",
+        "tcgplayer": "https://www.tcgplayer.com/product/662222/pokemon-me02-phantasmal-flames-rotom-ex-126-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "127",
+      "names": {
+        "de": "",
+        "en": "Mega Sharpedo ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-127/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-127/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Sharpedo-ex-V3-PFL127",
+        "tcgplayer": "https://www.tcgplayer.com/product/662193/pokemon-me02-phantasmal-flames-mega-sharpedo-ex-127-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "128",
+      "names": {
+        "de": "",
+        "en": "Mega Lopunny ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-128/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-128/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Lopunny-ex-V3-PFL128",
+        "tcgplayer": "https://www.tcgplayer.com/product/662190/pokemon-me02-phantasmal-flames-mega-lopunny-ex-128-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "129",
+      "names": {
+        "de": "",
+        "en": "Dawn",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-129/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-129/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Dawn-V3-PFL129",
+        "tcgplayer": "https://www.tcgplayer.com/product/662150/pokemon-me02-phantasmal-flames-dawn-129-094?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "130",
+      "names": {
+        "de": "",
+        "en": "Mega Charizard X ex",
+        "fr": ""
+      },
+      "rarity": "Mega Hyper Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2-130/medium",
+        "large": "https://images.scrydex.com/pokemon/me2-130/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Phantasmal-Flames/Mega-Charizard-X-ex-V4-PFL130",
+        "tcgplayer": "https://www.tcgplayer.com/product/662185/pokemon-me02-phantasmal-flames-mega-charizard-x-ex-130-094?page=1&Language=English"
+      },
+      "notes": ""
+    }
+  ]
+}

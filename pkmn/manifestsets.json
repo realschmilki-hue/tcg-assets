@@ -21,7 +21,7 @@
       "logo": "setlogo/ascended-heroes.avif",
       "total": 295,
       "releaseDate": "2026-01-30",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-08",
       "file": "editions/me2pt5.json"
     },
@@ -32,7 +32,7 @@
       "logo": "setlogo/phantasmal-flames.avif",
       "total": 130,
       "releaseDate": "2025-11-14",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-08",
       "file": "editions/me2.json"
     },    
@@ -43,7 +43,7 @@
       "logo": "setlogo/mega-evolution.avif",
       "total": 188,
       "releaseDate": "2025-09-26",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-08",
       "file": "editions/me1.json"
     },
@@ -54,9 +54,185 @@
       "logo": "setlogo/white-flare.avif",
       "total": 173,
       "releaseDate": "2025-07-18",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-08",
       "file": "editions/rsv10pt5.json"
-    }
+    },
+    {
+      "id": "zsv10pt5",
+      "name": "Black Bolt",
+      "nameEN": "Black Bolt",
+      "logo": "setlogo/black-bolt.avif",
+      "total": 172,
+      "releaseDate": "2025-07-18",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/zsv10pt5.json"
+    },
+    {
+      "id": "sv10",
+      "name": "Destined Rivals",
+      "nameEN": "Destined Rivals",
+      "logo": "setlogo/destined-rivals.avif",
+      "total": 244,
+      "releaseDate": "2025-05-30",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv10.json"
+    },
+    {
+      "id": "sv9",
+      "name": "Journey Together",
+      "nameEN": "Journey Together",
+      "logo": "setlogo/journey-together.avif",
+      "total": 190,
+      "releaseDate": "2025-03-28",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv9.json"
+    },
+    {
+      "id": "sv8pt5",
+      "name": "Prismatic Evolutions",
+      "nameEN": "Prismatic Evolutions",
+      "logo": "setlogo/prismatic-evolutions.avif",
+      "total": 180,
+      "releaseDate": "2025-01-17",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv8pt5.json"
+    },
+    {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "nameEN": "Surging Sparks",
+      "logo": "setlogo/surging-sparks.avif",
+      "total": 252,
+      "releaseDate": "2024-11-08",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv8.json"
+    },
+    {
+      "id": "sv8",
+      "name": "Surging Sparks",
+      "nameEN": "Surging Sparks",
+      "logo": "setlogo/surging-sparks.avif",
+      "total": 252,
+      "releaseDate": "2024-11-08",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv8.json"
+    },
+    {
+      "id": "sv7",
+      "name": "Stellar Crown",
+      "nameEN": "Stellar Crown",
+      "logo": "setlogo/stellar-crown.avif",
+      "total": 175,
+      "releaseDate": "2024-09-13",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv7.json"
+    },
+    {
+      "id": "sv6pt5",
+      "name": "Shrouded Fable",
+      "nameEN": "Shrouded Fable",
+      "logo": "setlogo/shrouded-fable.avif",
+      "total": 99,
+      "releaseDate": "2024-08-02",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv6pt5.json"
+    },
+    {
+      "id": "sv6",
+      "name": "Twilight Masquerade",
+      "nameEN": "Twilight Masquerade",
+      "logo": "setlogo/twilight-masquerade.avif",
+      "total": 226,
+      "releaseDate": "2024-05-24",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv6.json"
+    },
+    {
+      "id": "sv5",
+      "name": "Temporal Forces",
+      "nameEN": "Temporal Forces",
+      "logo": "setlogo/temporal-forces.avif",
+      "total": 218,
+      "releaseDate": "2024-03-22",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv5.json"
+    },
+    {
+      "id": "sv4pt5",
+      "name": "Paldean Fates",
+      "nameEN": "Paldean Fates",
+      "logo": "setlogo/paldean-fates.avif",
+      "total": 245,
+      "releaseDate": "2024-01-26",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv4pt5.json"
+    },
+    {
+      "id": "sv4",
+      "name": "Paradox Rift",
+      "nameEN": "Paradox Rift",
+      "logo": "setlogo/paradox-rift.avif",
+      "total": 266,
+      "releaseDate": "2023-11-03",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv4.json"
+    },
+    {
+      "id": "sv3pt5",
+      "name": "151",
+      "nameEN": "151",
+      "logo": "setlogo/151.avif",
+      "total": 207,
+      "releaseDate": "2023-09-22",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv3pt5.json"
+    },
+    {
+      "id": "sv3",
+      "name": "Obsidian Flames",
+      "nameEN": "Obsidian Flames",
+      "logo": "setlogo/obsidian-flames.avif",
+      "total": 230,
+      "releaseDate": "2023-08-11",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv3.json"
+    },
+    {
+      "id": "sv2",
+      "name": "Paldea Evolved",
+      "nameEN": "Paldea Evolved",
+      "logo": "setlogo/paldea-evolved.avif",
+      "total": 279,
+      "releaseDate": "2023-06-09",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv2.json"
+    },
+    {
+      "id": "sv1",
+      "name": "Scarlet & Violet",
+      "nameEN": "Scarlet & Violet",
+      "logo": "setlogo/scarlet-violet.avif",
+      "total": 258,
+      "releaseDate": "2023-03-31",
+      "maintainer": "RSch",
+      "updated": "2026-04-09",
+      "file": "editions/sv1.json"
+    }  
   ]
 }

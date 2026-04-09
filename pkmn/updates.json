@@ -1,17 +1,35 @@
 {
   "updates": [
     {
-      "id": "2026-04-08-available-sets",
+      "id": "2026-04-09-available-sets",
       "version": "1.0.0",
-      "date": "2026-04-08",
+      "date": "2026-04-09",
       "title": "New Sets",
       "message": "First available sets are here",
       "changes": [
+        "-----Mega Evolutions SERIES-----",
         "Added set: Perfect Order (me3)",
         "Added set: Ascended Heroes (me2pt5)",
         "Added set: Phantasmal Flames (me2)",
         "Added set: Mega Evolution (me1)",
-        "Added set: White Flare (rsv10üt5)"
+        "Added set: White Flare (rsv10üt5)",
+        "-----Scarlet & Violet SERIES-----",
+        "Added set: black-bolt (zsv10pt5)",
+        "Added set: destined-rivals (sv10)",
+        "Added set: journey-together (sv9)",
+        "Added set: prismatic-evolutions (sv8pt5)",
+        "Added set: surging-sparks (sv8)",
+        "Added set: surging-sparks (sv8)",
+        "Added set: stellar-crown (sv7)",
+        "Added set: shrouded-fable (sv6pt5)",
+        "Added set: twilight-masquerade (sv6)",
+        "Added set: temporal-forces (sv5)",
+        "Added set: paldean-fates (sv4pt5)",
+        "Added set: paradox-rift (sv4)",
+        "Added set: 151 (sv3pt5)",
+        "Added set: obsidian-flames (sv3)",
+        "Added set: paldea-evolved (sv2)",
+        "Added set: scarlet-violet (sv1)",        
       ]
     }
   ]

@@ -114,17 +114,6 @@
       "file": "editions/sv8.json"
     },
     {
-      "id": "sv8",
-      "name": "Surging Sparks",
-      "nameEN": "Surging Sparks",
-      "logo": "setlogo/surging-sparks.avif",
-      "total": 252,
-      "releaseDate": "2024-11-08",
-      "maintainer": "RSch",
-      "updated": "2026-04-09",
-      "file": "editions/sv8.json"
-    },
-    {
       "id": "sv7",
       "name": "Stellar Crown",
       "nameEN": "Stellar Crown",

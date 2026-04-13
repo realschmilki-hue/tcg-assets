@@ -4,15 +4,15 @@
   "baseUrl": "https://raw.githubusercontent.com/realschmilki-hue/tcg-assets/main/pkmn/trackertool",
   "editions": [
     {
-      "id": "me3",
-      "name": "Perfect Order",
-      "nameEN": "Perfect Order",
-      "logo": "setlogo/perfect-order.avif",
-      "total": 124,
-      "releaseDate": "2026-03-27",
-      "maintainer": "RSch",
-      "updated": "2026-04-08",
-      "file": "editions/me3.json"
-    }    
+      "id": "sv04.5",
+      "name": "Paldean Fates",
+      "nameEN": "Paldean Fates",
+      "logo": "setlogo/paldean-fates.png",
+      "total": 245,
+      "releaseDate": "2024-01-26",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv04.5.json"
+    }  
   ]
 }

@@ -4,6 +4,90 @@
   "baseUrl": "https://raw.githubusercontent.com/realschmilki-hue/tcg-assets/main/pkmn/trackertool",
   "editions": [
     {
+      "id": "me02.5",
+      "name": "Ascended Heroes",
+      "nameEN": "Ascended Heroes",
+      "names": {
+        "de": "Erhabene Helden",
+        "en": "Ascended Heroes",
+        "es": "Héroes Ascendentes",
+        "fr": "Héros Transcendants",
+        "it": "Ascesa Eroica",
+        "pt": "Heróis Excelsos"
+      },
+      "logo": "setlogo/ascended-heroes.png",
+      "logos": {
+        "en": "setlogo/ascended-heroes.png",
+        "de": "setlogo/de/ascended-heroes.png",
+        "fr": "setlogo/fr/ascended-heroes.png",
+        "es": "setlogo/es/ascended-heroes.png",
+        "it": "setlogo/it/ascended-heroes.png",
+        "pt": "setlogo/pt/ascended-heroes.png"
+      },
+      "symbol": "",
+      "total": 295,
+      "releaseDate": "2026-01-30",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/me02.5.json"
+    },
+    {
+      "id": "me02",
+      "name": "Phantasmal Flames",
+      "nameEN": "Phantasmal Flames",
+      "names": {
+        "de": "Fatale Flammen",
+        "en": "Phantasmal Flames",
+        "es": "Fuegos Fantasmales",
+        "fr": "Flammes Fantasmagoriques",
+        "it": "Flamme Spettrali",
+        "pt": "Fogo Fantasmagórico"
+      },
+      "logo": "setlogo/phantasmal-flames.png",
+      "logos": {
+        "en": "setlogo/phantasmal-flames.png",
+        "de": "setlogo/de/phantasmal-flames.png",
+        "fr": "setlogo/fr/phantasmal-flames.png",
+        "es": "setlogo/es/phantasmal-flames.png",
+        "it": "setlogo/it/phantasmal-flames.png",
+        "pt": "setlogo/pt/phantasmal-flames.png"
+      },
+      "symbol": "",
+      "total": 130,
+      "releaseDate": "2025-11-14",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/me02.json"
+    },
+    {
+      "id": "me01",
+      "name": "Mega Evolution",
+      "nameEN": "Mega Evolution",
+      "names": {
+        "de": "Mega-Entwicklung",
+        "en": "Mega Evolution",
+        "es": "Megaevolución",
+        "fr": "Méga-Évolution",
+        "it": "Megaevoluzione",
+        "pt": "Megaevolução"
+      },
+      "logo": "setlogo/mega-evolution.png",
+      "logos": {
+        "en": "setlogo/mega-evolution.png",
+        "de": "setlogo/de/mega-evolution.png",
+        "fr": "setlogo/fr/mega-evolution.png",
+        "es": "setlogo/es/mega-evolution.png",
+        "it": "setlogo/it/mega-evolution.png",
+        "pt": "setlogo/pt/mega-evolution.png"
+      },
+      "symbol": "",
+      "total": 188,
+      "releaseDate": "2025-09-26",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/me01.json"
+    },
+    {
       "id": "sv04.5",
       "name": "Paldean Fates",
       "nameEN": "Paldean Fates",

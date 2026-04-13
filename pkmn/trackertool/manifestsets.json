@@ -4,6 +4,34 @@
   "baseUrl": "https://raw.githubusercontent.com/realschmilki-hue/tcg-assets/main/pkmn/trackertool",
   "editions": [
     {
+      "id": "me03",
+      "name": "Perfect Order",
+      "nameEN": "Perfect Order",
+      "names": {
+        "de": "Optimale Ordnung",
+        "en": "Perfect Order",
+        "es": "Equilibrio Perfecto",
+        "fr": "Équilibre Parfait",
+        "it": "Equilibrio Perfetto",
+        "pt": "Heróis Excelsos"
+      },
+      "logo": "setlogo/perfect-order.png",
+      "logos": {
+        "en": "setlogo/perfect-order.png",
+        "de": "setlogo/de/perfect-order.png",
+        "fr": "setlogo/fr/perfect-order.png",
+        "es": "setlogo/es/perfect-order.png",
+        "it": "setlogo/it/perfect-order.png",
+        "pt": "setlogo/pt/perfect-order.png"
+      },
+      "symbol": "",
+      "total": 124,
+      "releaseDate": "2026-03-27",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/me03.json"
+    },
+    {
       "id": "me02.5",
       "name": "Ascended Heroes",
       "nameEN": "Ascended Heroes",
@@ -88,6 +116,286 @@
       "file": "editions/me01.json"
     },
     {
+      "id": "sv10.5w",
+      "name": "White Flare",
+      "nameEN": "White Flare",
+      "names": {
+        "de": "Weiße Flammen",
+        "en": "White Flare",
+        "es": "Llama Blanca",
+        "fr": "Flamme Blanche",
+        "it": "Fuoco Bianco",
+        "pt": "Fogo Branco"
+      },
+      "logo": "setlogo/white-flare.png",
+      "logos": {
+        "en": "setlogo/white-flare.png",
+        "de": "setlogo/de/white-flare.png",
+        "fr": "setlogo/fr/white-flare.png",
+        "es": "setlogo/es/white-flare.png",
+        "it": "setlogo/it/white-flare.png",
+        "pt": "setlogo/pt/white-flare.png"
+      },
+      "symbol": "",
+      "total": 173,
+      "releaseDate": "2025-07-17",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv10.5w.json"
+    },
+    {
+      "id": "sv10.5b",
+      "name": "Black Bolt",
+      "nameEN": "Black Bolt",
+      "names": {
+        "de": "Schwarze Blitze",
+        "en": "Black Bolt",
+        "es": "Fulgor Negro",
+        "fr": "Foudre Noire",
+        "it": "Luce Nera",
+        "pt": "Raio Preto"
+      },
+      "logo": "setlogo/black-bolt.png",
+      "logos": {
+        "en": "setlogo/black-bolt.png",
+        "de": "setlogo/de/black-bolt.png",
+        "fr": "setlogo/fr/black-bolt.png",
+        "es": "setlogo/es/black-bolt.png",
+        "it": "setlogo/it/black-bolt.png",
+        "pt": "setlogo/pt/black-bolt.png"
+      },
+      "symbol": "",
+      "total": 172,
+      "releaseDate": "2025-07-17",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv10.5b.json"
+    },
+    {
+      "id": "sv10",
+      "name": "Destined Rivals",
+      "nameEN": "Destined Rivals",
+      "names": {
+        "de": "Ewige Rivalen",
+        "en": "Destined Rivals",
+        "es": "Rivales Predestinados",
+        "fr": "Rivalités Destinées",
+        "it": "Rivali Predestinati",
+        "pt": "Rivais Predestinados"
+      },
+      "logo": "setlogo/destined-rivals.png",
+      "logos": {
+        "en": "setlogo/destined-rivals.png",
+        "de": "setlogo/de/destined-rivals.png",
+        "fr": "setlogo/fr/destined-rivals.png",
+        "es": "setlogo/es/destined-rivals.png",
+        "it": "setlogo/it/destined-rivals.png",
+        "pt": "setlogo/pt/destined-rivals.png"
+      },
+      "symbol": "",
+      "total": 244,
+      "releaseDate": "2025-05-30",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv10.json"
+    },
+    {
+      "id": "sv09",
+      "name": "Journey Together",
+      "nameEN": "Journey Together",
+      "names": {
+        "de": "Reisegefährten",
+        "en": "Journey Together",
+        "es": "Juntos de Aventuras",
+        "fr": "Aventures Ensemble",
+        "it": "Avventure Insieme",
+        "pt": "Amigos de Jornada"
+      },
+      "logo": "setlogo/journey-together.png",
+      "logos": {
+        "en": "setlogo/journey-together.png",
+        "de": "setlogo/de/journey-together.png",
+        "fr": "setlogo/fr/journey-together.png",
+        "es": "setlogo/es/journey-together.png",
+        "it": "setlogo/it/journey-together.png",
+        "pt": "setlogo/pt/journey-together.png"
+      },
+      "symbol": "",
+      "total": 190,
+      "releaseDate": "2025-03-28",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv09.json"
+    },
+    {
+      "id": "sv08.5",
+      "name": "Prismatic Evolutions",
+      "nameEN": "Prismatic Evolutions",
+      "names": {
+        "de": "Prismatische Entwicklungen",
+        "en": "Prismatic Evolutions",
+        "es": "Evoluciones Prismáticas",
+        "fr": "Évolutions Prismatiques",
+        "it": "Evoluzioni Prismatiche",
+        "pt": "Evoluções Prismáticas"
+      },
+      "logo": "setlogo/prismatic-evolutions.png",
+      "logos": {
+        "en": "setlogo/prismatic-evolutions.png",
+        "de": "setlogo/de/prismatic-evolutions.png",
+        "fr": "setlogo/fr/prismatic-evolutions.png",
+        "es": "setlogo/es/prismatic-evolutions.png",
+        "it": "setlogo/it/prismatic-evolutions.png",
+        "pt": "setlogo/pt/prismatic-evolutions.png"
+      },
+      "symbol": "",
+      "total": 180,
+      "releaseDate": "2025-01-17",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv08.5.json"
+    },
+    {
+      "id": "sv08",
+      "name": "Surging Sparks",
+      "nameEN": "Surging Sparks",
+      "names": {
+        "de": "Stürmische Funken",
+        "en": "Surging Sparks",
+        "es": "Chispas Fulgurantes",
+        "fr": "Étincelles Déferlantes",
+        "it": "Scintille Folgoranti",
+        "pt": "Fagulhas Impetuosas"
+      },
+      "logo": "setlogo/surging-sparks.png",
+      "logos": {
+        "en": "setlogo/surging-sparks.png",
+        "de": "setlogo/de/surging-sparks.png",
+        "fr": "setlogo/fr/surging-sparks.png",
+        "es": "setlogo/es/surging-sparks.png",
+        "it": "setlogo/it/surging-sparks.png",
+        "pt": "setlogo/pt/surging-sparks.png"
+      },
+      "symbol": "",
+      "total": 252,
+      "releaseDate": "2024-11-08",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv08.json"
+    },
+    {
+      "id": "sv07",
+      "name": "Stellar Crown",
+      "nameEN": "Stellar Crown",
+      "names": {
+        "de": "Stellarkrone",
+        "en": "Stellar Crown",
+        "es": "Corona Astral",
+        "fr": "Couronne Stellaire",
+        "it": "Corona Astrale",
+        "pt": "Coroa Estelar"
+      },
+      "logo": "setlogo/stellar-crown.png",
+      "logos": {
+        "en": "setlogo/stellar-crown.png",
+        "de": "setlogo/de/stellar-crown.png",
+        "fr": "setlogo/fr/stellar-crown.png",
+        "es": "setlogo/es/stellar-crown.png",
+        "it": "setlogo/it/stellar-crown.png",
+        "pt": "setlogo/pt/stellar-crown.png"
+      },
+      "symbol": "",
+      "total": 175,
+      "releaseDate": "2024-09-13",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv07.json"
+    },
+    {
+      "id": "sv06.5",
+      "name": "Shrouded Fable",
+      "nameEN": "Shrouded Fable",
+      "names": {
+        "de": "Nebel der Sagen",
+        "en": "Shrouded Fable",
+        "es": "Fabula Sombría",
+        "fr": "Fable Nébuleuse",
+        "it": "Segreto Fiabesco",
+        "pt": "Fábulas Nebulosas"
+      },
+      "logo": "setlogo/shrouded-fable.png",
+      "logos": {
+        "en": "setlogo/shrouded-fable.png",
+        "de": "setlogo/de/shrouded-fable.png",
+        "fr": "setlogo/fr/shrouded-fable.png",
+        "es": "setlogo/es/shrouded-fable.png",
+        "it": "setlogo/it/shrouded-fable.png",
+        "pt": "setlogo/pt/shrouded-fable.png"
+      },
+      "symbol": "",
+      "total": 99,
+      "releaseDate": "2024-08-02",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv06.5.json"
+    },
+    {
+      "id": "sv06",
+      "name": "Twilight Masquerade",
+      "nameEN": "Twilight Masquerade",
+      "names": {
+        "de": "Maskerade im Zwielicht",
+        "en": "Twilight Masquerade",
+        "es": "Mascarada Crepuscular",
+        "fr": "Mascarade Crépusculaire",
+        "it": "Crepuscolo Mascherato",
+        "pt": "Máscaras do Crepúsculo"
+      },
+      "logo": "setlogo/twilight-masquerade.png",
+      "logos": {
+        "en": "setlogo/twilight-masquerade.png",
+        "de": "setlogo/de/twilight-masquerade.png",
+        "fr": "setlogo/fr/twilight-masquerade.png",
+        "es": "setlogo/es/twilight-masquerade.png",
+        "it": "setlogo/it/twilight-masquerade.png",
+        "pt": "setlogo/pt/twilight-masquerade.png"
+      },
+      "symbol": "",
+      "total": 226,
+      "releaseDate": "2024-05-24",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv06.json"
+    },
+    {
+      "id": "sv05",
+      "name": "Temporal Forces",
+      "nameEN": "Temporal Forces",
+      "names": {
+        "de": "Gewalten der Zeit",
+        "en": "Temporal Forces",
+        "es": "Fuerzas Temporales",
+        "fr": "Forces Temporelles",
+        "it": "Cronoforze",
+        "pt": "Forças Temporais"
+      },
+      "logo": "setlogo/temporal-forces.png",
+      "logos": {
+        "en": "setlogo/temporal-forces.png",
+        "de": "setlogo/de/temporal-forces.png",
+        "fr": "setlogo/fr/temporal-forces.png",
+        "es": "setlogo/es/temporal-forces.png",
+        "it": "setlogo/it/temporal-forces.png",
+        "pt": "setlogo/pt/temporal-forces.png"
+      },
+      "symbol": "",
+      "total": 218,
+      "releaseDate": "2024-03-22",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv05.json"
+    },
+    {
       "id": "sv04.5",
       "name": "Paldean Fates",
       "nameEN": "Paldean Fates",
@@ -114,6 +422,146 @@
       "maintainer": "your-name",
       "updated": "2026-04-13",
       "file": "editions/sv04.5.json"
+    },
+    {
+      "id": "sv04",
+      "name": "Paradox Rift",
+      "nameEN": "Paradox Rift",
+      "names": {
+        "de": "Paradoxrift",
+        "en": "Paradox Rift",
+        "es": "Brecha Paradójica",
+        "fr": "Faille Paradoxe",
+        "it": "Paradosso Temporale",
+        "pt": "Fenda Paradoxal"
+      },
+      "logo": "setlogo/paradox-rift.png",
+      "logos": {
+        "en": "setlogo/paradox-rift.png",
+        "de": "setlogo/de/paradox-rift.png",
+        "fr": "setlogo/fr/paradox-rift.png",
+        "es": "setlogo/es/paradox-rift.png",
+        "it": "setlogo/it/paradox-rift.png",
+        "pt": "setlogo/pt/paradox-rift.png"
+      },
+      "symbol": "",
+      "total": 266,
+      "releaseDate": "2023-11-03",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv04.json"
+    },
+    {
+      "id": "sv03.5",
+      "name": "151",
+      "nameEN": "151",
+      "names": {
+        "de": "151",
+        "en": "151",
+        "es": "151",
+        "fr": "151",
+        "it": "151",
+        "pt": "151"
+      },
+      "logo": "setlogo/151.png",
+      "logos": {
+        "en": "setlogo/151.png",
+        "de": "setlogo/de/151.png",
+        "fr": "setlogo/fr/151.png",
+        "es": "setlogo/es/151.png",
+        "it": "setlogo/it/151.png",
+        "pt": "setlogo/pt/151.png"
+      },
+      "symbol": "",
+      "total": 207,
+      "releaseDate": "2023-09-22",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv03.5.json"
+    },
+    {
+      "id": "sv03",
+      "name": "Obsidian Flames",
+      "nameEN": "Obsidian Flames",
+      "names": {
+        "de": "Obsidian Flammen",
+        "en": "Obsidian Flames",
+        "es": "Llamas Obsidianas",
+        "fr": "Flammes Obsidiennes",
+        "it": "Ossidiana Infuocata",
+        "pt": "Obsidiana em Chamas"
+      },
+      "logo": "setlogo/obsidian-flames.png",
+      "logos": {
+        "en": "setlogo/obsidian-flames.png",
+        "de": "setlogo/de/obsidian-flames.png",
+        "fr": "setlogo/fr/obsidian-flames.png",
+        "es": "setlogo/es/obsidian-flames.png",
+        "it": "setlogo/it/obsidian-flames.png",
+        "pt": "setlogo/pt/obsidian-flames.png"
+      },
+      "symbol": "",
+      "total": 230,
+      "releaseDate": "2023-08-11",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv03.json"
+    },
+    {
+      "id": "sv02",
+      "name": "Paldea Evolved",
+      "nameEN": "Paldea Evolved",
+      "names": {
+        "de": "Entwicklungen in Paldea",
+        "en": "Paldea Evolved",
+        "es": "Evoluciones en Paldea",
+        "fr": "Évolutions à Paldea",
+        "it": "Evoluzioni a Paldea",
+        "pt": "Evoluções em Paldea"
+      },
+      "logo": "setlogo/paldea-evolved.png",
+      "logos": {
+        "en": "setlogo/paldea-evolved.png",
+        "de": "setlogo/de/paldea-evolved.png",
+        "fr": "setlogo/fr/paldea-evolved.png",
+        "es": "setlogo/es/paldea-evolved.png",
+        "it": "setlogo/it/paldea-evolved.png",
+        "pt": "setlogo/pt/paldea-evolved.png"
+      },
+      "symbol": "",
+      "total": 279,
+      "releaseDate": "2023-06-09",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv02.json"
+    },
+    {
+      "id": "sv01",
+      "name": "Scarlet & Violet",
+      "nameEN": "Scarlet & Violet",
+      "names": {
+        "de": "Karmesin & Purpur",
+        "en": "Scarlet & Violet",
+        "es": "Escarlata y Púrpura",
+        "fr": "Écarlate et Violet",
+        "it": "Scarlatto e Violetto",
+        "pt": "Escarlate e Violeta"
+      },
+      "logo": "setlogo/scarlet-and-violet.png",
+      "logos": {
+        "en": "setlogo/scarlet-and-violet.png",
+        "de": "setlogo/de/scarlet-and-violet.png",
+        "fr": "setlogo/fr/scarlet-and-violet.png",
+        "es": "setlogo/es/scarlet-and-violet.png",
+        "it": "setlogo/it/scarlet-and-violet.png",
+        "pt": "setlogo/pt/scarlet-and-violet.png"
+      },
+      "symbol": "",
+      "total": 258,
+      "releaseDate": "2023-03-31",
+      "maintainer": "your-name",
+      "updated": "2026-04-13",
+      "file": "editions/sv01.json"
     }
   ]
 }

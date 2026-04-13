@@ -161,7 +161,23 @@
       "id": "sv4pt5",
       "name": "Paldean Fates",
       "nameEN": "Paldean Fates",
+      "names": {
+        "de": "Paldeas Schicksale",
+        "en": "Paldean Fates",
+        "es": "Destinos de Paldea",
+        "fr": "Destinées de Paldea",
+        "it": "Destino di Paldea",
+        "pt": "Destinos de Paldea"
+      },      
       "logo": "setlogo/paldean-fates.avif",
+      "logos": {
+        "en": "setlogo/paldean-fates.png",
+        "de": "setlogo/de/paldean-fates.png",
+        "fr": "setlogo/fr/paldean-fates.png",
+        "es": "setlogo/es/paldean-fates.png",
+        "it": "setlogo/it/paldean-fates.png",
+        "pt": "setlogo/pt/paldean-fates.png"
+      },      
       "total": 245,
       "releaseDate": "2024-01-26",
       "maintainer": "RSch",

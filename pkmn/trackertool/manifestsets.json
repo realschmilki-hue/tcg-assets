@@ -7,12 +7,29 @@
       "id": "sv04.5",
       "name": "Paldean Fates",
       "nameEN": "Paldean Fates",
+      "names": {
+        "de": "Tannza",
+        "en": "Pineco",
+        "es": "Pineco",
+        "fr": "Pomdepik",
+        "it": "Pineco",
+        "pt": "Pineco"
+      },
       "logo": "setlogo/paldean-fates.png",
+      "logos": {
+        "en": "setlogo/paldean-fates.png",
+        "de": "setlogo/de/paldean-fates.png",
+        "fr": "setlogo/fr/paldean-fates.png",
+        "es": "setlogo/es/paldean-fates.png",
+        "it": "setlogo/it/paldean-fates.png",
+        "pt": "setlogo/pt/paldean-fates.png"
+      },
+      "symbol": "",
       "total": 245,
       "releaseDate": "2024-01-26",
       "maintainer": "your-name",
       "updated": "2026-04-13",
       "file": "editions/sv04.5.json"
-    }  
+    } 
   ]
 }

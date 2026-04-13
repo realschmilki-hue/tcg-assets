@@ -8,12 +8,12 @@
       "name": "Paldean Fates",
       "nameEN": "Paldean Fates",
       "names": {
-        "de": "Tannza",
-        "en": "Pineco",
-        "es": "Pineco",
-        "fr": "Pomdepik",
-        "it": "Pineco",
-        "pt": "Pineco"
+        "de": "Paldeas Schicksale",
+        "en": "Paldean Fates",
+        "es": "Destinos de Paldea",
+        "fr": "Destinées de Paldea",
+        "it": "Destino di Paldea",
+        "pt": "Destinos de Paldea"
       },
       "logo": "setlogo/paldean-fates.png",
       "logos": {
@@ -30,6 +30,6 @@
       "maintainer": "your-name",
       "updated": "2026-04-13",
       "file": "editions/sv04.5.json"
-    } 
+    }
   ]
 }

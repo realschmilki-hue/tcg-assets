@@ -3199,7 +3199,7 @@
         "it": "Rowlet",
         "pt": "Rowlet"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3243,7 +3243,7 @@
         "it": "Dartrix",
         "pt": "Dartrix"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3287,7 +3287,7 @@
         "it": "Decidueye",
         "pt": "Decidueye"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3331,7 +3331,7 @@
         "it": "Grookey",
         "pt": "Grookey"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3375,7 +3375,7 @@
         "it": "Thwackey",
         "pt": "Thwackey"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3419,7 +3419,7 @@
         "it": "Rillaboom",
         "pt": "Rillaboom"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3463,7 +3463,7 @@
         "it": "Blipbug",
         "pt": "Blipbug"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3507,7 +3507,7 @@
         "it": "Dottler",
         "pt": "Dottler"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3551,7 +3551,7 @@
         "it": "Orbeetle",
         "pt": "Orbeetle"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3595,7 +3595,7 @@
         "it": "Gossifleur",
         "pt": "Gossifleur"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3639,7 +3639,7 @@
         "it": "Eldegoss",
         "pt": "Eldegoss"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3683,7 +3683,7 @@
         "it": "Applin",
         "pt": "Applin"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3727,7 +3727,7 @@
         "it": "Flapple",
         "pt": "Flapple"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3771,7 +3771,7 @@
         "it": "Appletun",
         "pt": "Appletun"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -3815,7 +3815,7 @@
         "it": "Scorbunny",
         "pt": "Scorbunny"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fire"
       ],
@@ -3859,7 +3859,7 @@
         "it": "Raboot",
         "pt": "Raboot"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fire"
       ],
@@ -3903,7 +3903,7 @@
         "it": "Cinderace",
         "pt": "Cinderace"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fire"
       ],
@@ -3947,7 +3947,7 @@
         "it": "Sizzlipede",
         "pt": "Sizzlipede"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fire"
       ],
@@ -3991,7 +3991,7 @@
         "it": "Centiskorch",
         "pt": "Centiskorch"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fire"
       ],
@@ -4035,7 +4035,7 @@
         "it": "Mr. Mime di Galar",
         "pt": "Mr. Mime de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4079,7 +4079,7 @@
         "it": "Mr. Rime di Galar",
         "pt": "Mr. Rime de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4123,7 +4123,7 @@
         "it": "Suicune",
         "pt": "Suicune"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4167,7 +4167,7 @@
         "it": "Darumaka di Galar",
         "pt": "Darumaka de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4211,7 +4211,7 @@
         "it": "Darmanitan di Galar",
         "pt": "Darmanitan de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4255,7 +4255,7 @@
         "it": "Sobble",
         "pt": "Sobble"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4299,7 +4299,7 @@
         "it": "Drizzile",
         "pt": "Drizzile"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4343,7 +4343,7 @@
         "it": "Inteleon",
         "pt": "Inteleon"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4387,7 +4387,7 @@
         "it": "Chewtle",
         "pt": "Chewtle"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4431,7 +4431,7 @@
         "it": "Drednaw",
         "pt": "Drednaw"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4475,7 +4475,7 @@
         "it": "Cramorant",
         "pt": "Cramorant"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4519,7 +4519,7 @@
         "it": "Arrokuda",
         "pt": "Arrokuda"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4563,7 +4563,7 @@
         "it": "Barraskewda",
         "pt": "Barraskewda"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4607,7 +4607,7 @@
         "it": "Snom",
         "pt": "Snom"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4651,7 +4651,7 @@
         "it": "Frosmoth",
         "pt": "Frosmoth"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4695,7 +4695,7 @@
         "it": "Eiscue",
         "pt": "Eiscue"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4739,7 +4739,7 @@
         "it": "Dracovish",
         "pt": "Dracovish"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4783,7 +4783,7 @@
         "it": "Arctovish",
         "pt": "Arctovish"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -4827,7 +4827,7 @@
         "it": "Rotom",
         "pt": "Rotom"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -4871,7 +4871,7 @@
         "it": "Yamper",
         "pt": "Yamper"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -4915,7 +4915,7 @@
         "it": "Boltund",
         "pt": "Boltund"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -4959,7 +4959,7 @@
         "it": "Toxel",
         "pt": "Toxel"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -5003,7 +5003,7 @@
         "it": "Toxtricity",
         "pt": "Toxtricity"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -5047,7 +5047,7 @@
         "it": "Pincurchin",
         "pt": "Pincurchin"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -5091,7 +5091,7 @@
         "it": "Morpeko",
         "pt": "Morpeko"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -5135,7 +5135,7 @@
         "it": "Dracozolt",
         "pt": "Dracozolt"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -5179,7 +5179,7 @@
         "it": "Arctozolt",
         "pt": "Arctozolt"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -5223,7 +5223,7 @@
         "it": "Ponyta di Galar",
         "pt": "Ponyta de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5267,7 +5267,7 @@
         "it": "Rapidash di Galar",
         "pt": "Rapidash de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5311,7 +5311,7 @@
         "it": "Corsola di Galar",
         "pt": "Corsola de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5355,7 +5355,7 @@
         "it": "Cursola di Galar",
         "pt": "Cursola de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5399,7 +5399,7 @@
         "it": "Dedenne",
         "pt": "Dedenne"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5443,7 +5443,7 @@
         "it": "Sinistea",
         "pt": "Sinistea"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5487,7 +5487,7 @@
         "it": "Polteageist",
         "pt": "Polteageist"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5531,7 +5531,7 @@
         "it": "Hatenna",
         "pt": "Hatenna"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5575,7 +5575,7 @@
         "it": "Hattrem",
         "pt": "Hattrem"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5619,7 +5619,7 @@
         "it": "Hatterene",
         "pt": "Hatterene"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5663,7 +5663,7 @@
         "it": "Milcery",
         "pt": "Milcery"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5707,7 +5707,7 @@
         "it": "Alcremie",
         "pt": "Alcremie"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5751,7 +5751,7 @@
         "it": "Indeedee",
         "pt": "Indeedee"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5795,7 +5795,7 @@
         "it": "Dreepy",
         "pt": "Dreepy"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5839,7 +5839,7 @@
         "it": "Drakloak",
         "pt": "Drakloak"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5883,7 +5883,7 @@
         "it": "Dragapult",
         "pt": "Dragapult"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -5927,7 +5927,7 @@
         "it": "Farfetch'd di Galar",
         "pt": "Farfetch'd de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -5971,7 +5971,7 @@
         "it": "Sirfetch'd di Galar",
         "pt": "Sirfetch'd de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6015,7 +6015,7 @@
         "it": "Yamask di Galar",
         "pt": "Yamask de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6059,7 +6059,7 @@
         "it": "Runerigus di Galar",
         "pt": "Runerigus de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6103,7 +6103,7 @@
         "it": "Rolycoly",
         "pt": "Rolycoly"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6147,7 +6147,7 @@
         "it": "Carkol",
         "pt": "Carkol"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6191,7 +6191,7 @@
         "it": "Coalossal",
         "pt": "Coalossal"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6235,7 +6235,7 @@
         "it": "Silicobra",
         "pt": "Silicobra"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6279,7 +6279,7 @@
         "it": "Sandaconda",
         "pt": "Sandaconda"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6323,7 +6323,7 @@
         "it": "Clobbopus",
         "pt": "Clobbopus"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6367,7 +6367,7 @@
         "it": "Grapploct",
         "pt": "Grapploct"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6411,7 +6411,7 @@
         "it": "Falinks",
         "pt": "Falinks"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6455,7 +6455,7 @@
         "it": "Stonjourner",
         "pt": "Stonjourner"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -6499,7 +6499,7 @@
         "it": "Koffing",
         "pt": "Koffing"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6543,7 +6543,7 @@
         "it": "Weezing di Galar",
         "pt": "Weezing de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6587,7 +6587,7 @@
         "it": "Zigzagoon di Galar",
         "pt": "Zigzagoon de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6631,7 +6631,7 @@
         "it": "Linoone di Galar",
         "pt": "Linoone de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6675,7 +6675,7 @@
         "it": "Obstagoon di Galar",
         "pt": "Obstagoon de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6719,7 +6719,7 @@
         "it": "Nickit",
         "pt": "Nickit"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6763,7 +6763,7 @@
         "it": "Thievul",
         "pt": "Thievul"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6807,7 +6807,7 @@
         "it": "Impidimp",
         "pt": "Impidimp"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6851,7 +6851,7 @@
         "it": "Morgrem",
         "pt": "Morgrem"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6895,7 +6895,7 @@
         "it": "Grimmsnarl",
         "pt": "Grimmsnarl"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -6939,7 +6939,7 @@
         "it": "Meowth di Galar",
         "pt": "Meowth de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Metal"
       ],
@@ -6983,7 +6983,7 @@
         "it": "Perrserker di Galar",
         "pt": "Perrserker de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Metal"
       ],
@@ -7027,7 +7027,7 @@
         "it": "Stunfisk di Galar",
         "pt": "Stunfisk de Galar"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Metal"
       ],
@@ -7071,7 +7071,7 @@
         "it": "Corviknight",
         "pt": "Corviknight"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Metal"
       ],
@@ -7115,7 +7115,7 @@
         "it": "Cufant",
         "pt": "Cufant"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Metal"
       ],
@@ -7159,7 +7159,7 @@
         "it": "Copperajah",
         "pt": "Copperajah"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Metal"
       ],
@@ -7203,7 +7203,7 @@
         "it": "Duraludon",
         "pt": "Duraludon"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Metal"
       ],
@@ -7247,7 +7247,7 @@
         "it": "Minccino",
         "pt": "Minccino"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7291,7 +7291,7 @@
         "it": "Cinccino",
         "pt": "Cinccino"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7335,7 +7335,7 @@
         "it": "Ducklett",
         "pt": "Ducklett"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7379,7 +7379,7 @@
         "it": "Swanna",
         "pt": "Swanna"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7423,7 +7423,7 @@
         "it": "Bunnelby",
         "pt": "Bunnelby"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7467,7 +7467,7 @@
         "it": "Oranguru",
         "pt": "Oranguru"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7511,7 +7511,7 @@
         "it": "Skwovet",
         "pt": "Skwovet"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7555,7 +7555,7 @@
         "it": "Greedent",
         "pt": "Greedent"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7599,7 +7599,7 @@
         "it": "Rookidee",
         "pt": "Rookidee"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7643,7 +7643,7 @@
         "it": "Corvisquire",
         "pt": "Corvisquire"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7687,7 +7687,7 @@
         "it": "Wooloo",
         "pt": "Wooloo"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7731,7 +7731,7 @@
         "it": "Dubwool",
         "pt": "Dubwool"
       },
-      "rarity": "Shiny rare",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -7775,7 +7775,7 @@
         "it": "Rillaboom V",
         "pt": "Rillaboom V"
       },
-      "rarity": "Shiny rare V",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -7819,7 +7819,7 @@
         "it": "Rillaboom VMAX",
         "pt": "Rillaboom VMAX"
       },
-      "rarity": "Shiny rare VMAX",
+      "rarity": "Shiny rare old",
       "types": [
         "Grass"
       ],
@@ -7863,7 +7863,7 @@
         "it": "Charizard VMAX",
         "pt": "Charizard VMAX"
       },
-      "rarity": "Shiny rare VMAX",
+      "rarity": "Shiny rare old",
       "types": [
         "Fire"
       ],
@@ -7907,7 +7907,7 @@
         "it": "Centiskorch V",
         "pt": "Centiskorch V"
       },
-      "rarity": "Shiny rare V",
+      "rarity": "Shiny rare old",
       "types": [
         "Fire"
       ],
@@ -7951,7 +7951,7 @@
         "it": "Centiskorch VMAX",
         "pt": "Centiskorch VMAX"
       },
-      "rarity": "Shiny rare VMAX",
+      "rarity": "Shiny rare old",
       "types": [
         "Fire"
       ],
@@ -7995,7 +7995,7 @@
         "it": "Lapras V",
         "pt": "Lapras V"
       },
-      "rarity": "Shiny rare V",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -8039,7 +8039,7 @@
         "it": "Lapras VMAX",
         "pt": "Lapras VMAX"
       },
-      "rarity": "Shiny rare VMAX",
+      "rarity": "Shiny rare old",
       "types": [
         "Water"
       ],
@@ -8083,7 +8083,7 @@
         "it": "Toxtricity V",
         "pt": "Toxtricity V"
       },
-      "rarity": "Shiny rare V",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -8127,7 +8127,7 @@
         "it": "Toxtricity VMAX",
         "pt": "Toxtricity VMAX"
       },
-      "rarity": "Shiny rare VMAX",
+      "rarity": "Shiny rare old",
       "types": [
         "Lightning"
       ],
@@ -8171,7 +8171,7 @@
         "it": "Indeedee V",
         "pt": "Indeedee V"
       },
-      "rarity": "Shiny rare V",
+      "rarity": "Shiny rare old",
       "types": [
         "Psychic"
       ],
@@ -8215,7 +8215,7 @@
         "it": "Falinks V",
         "pt": "Falinks V"
       },
-      "rarity": "Shiny rare V",
+      "rarity": "Shiny rare old",
       "types": [
         "Fighting"
       ],
@@ -8259,7 +8259,7 @@
         "it": "Grimmsnarl V",
         "pt": "Grimmsnarl V"
       },
-      "rarity": "Shiny rare V",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -8303,7 +8303,7 @@
         "it": "Grimmsnarl VMAX",
         "pt": "Grimmsnarl VMAX"
       },
-      "rarity": "Shiny rare VMAX",
+      "rarity": "Shiny rare old",
       "types": [
         "Darkness"
       ],
@@ -8347,7 +8347,7 @@
         "it": "Ditto V",
         "pt": "Ditto V"
       },
-      "rarity": "Shiny rare V",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -8391,7 +8391,7 @@
         "it": "Ditto VMAX",
         "pt": "Ditto VMAX"
       },
-      "rarity": "Shiny rare VMAX",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],
@@ -8435,7 +8435,7 @@
         "it": "Dubwool V",
         "pt": "Dubwool V"
       },
-      "rarity": "Shiny rare V",
+      "rarity": "Shiny rare old",
       "types": [
         "Colorless"
       ],

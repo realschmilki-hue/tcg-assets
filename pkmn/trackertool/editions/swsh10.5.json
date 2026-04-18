@@ -1,0 +1,3855 @@
+{
+  "edition": {
+    "id": "swsh10.5",
+    "name": "Pokémon GO",
+    "nameEN": "Pokémon GO",
+    "total": 88,
+    "releaseDate": "2022-07-01"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Bisasam",
+        "en": "Bulbasaur",
+        "es": "Bulbasaur",
+        "fr": "Bulbizarre",
+        "it": "Bulbasaur",
+        "pt": "Bulbasaur"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/001/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/001/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/001/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/001/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/001/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/001/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/001/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/001/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/001/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/001/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/001/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/001/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Bulbasaur-PGO001",
+        "tcgplayer": "https://www.tcgplayer.com/product/274433/pokemon-pokemon-go-bulbasaur?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Bisaknosp",
+        "en": "Ivysaur",
+        "es": "Ivysaur",
+        "fr": "Herbizarre",
+        "it": "Ivysaur",
+        "pt": "Ivysaur"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/002/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/002/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/002/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/002/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/002/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/002/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/002/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/002/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/002/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/002/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/002/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/002/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Ivysaur-PGO002",
+        "tcgplayer": "https://www.tcgplayer.com/product/274434/pokemon-pokemon-go-ivysaur?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Bisaflor",
+        "en": "Venusaur",
+        "es": "Venusaur",
+        "fr": "Florizarre",
+        "it": "Venusaur",
+        "pt": "Venusaur"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/003/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/003/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/003/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/003/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/003/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/003/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/003/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/003/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/003/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/003/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/003/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/003/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Venusaur-PGO003",
+        "tcgplayer": "https://www.tcgplayer.com/product/274435/pokemon-pokemon-go-venusaur?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Strahlendes Bisaflor",
+        "en": "Radiant Venusaur",
+        "es": "Venusaur Radiante",
+        "fr": "Florizarre Radieux",
+        "it": "Venusaur Lucente",
+        "pt": "Venusaur Radiante"
+      },
+      "rarity": "Radiant Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/004/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/004/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/004/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/004/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/004/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/004/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/004/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/004/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/004/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/004/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/004/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/004/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Radiant-Venusaur-PGO004",
+        "tcgplayer": "https://www.tcgplayer.com/product/274465/pokemon-pokemon-go-radiant-venusaur?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Alola-Kokowei V",
+        "en": "Alolan Exeggutor V",
+        "es": "Exeggutor de Alola V",
+        "fr": "Noadkoko d'Alola V",
+        "it": "Exeggutor di Alola V",
+        "pt": "Exeggutor de Alola V"
+      },
+      "rarity": "Holo Rare V",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/005/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/005/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/005/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/005/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/005/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/005/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/005/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/005/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/005/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/005/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/005/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/005/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Alolan-Exeggutor-V-V1-PGO005",
+        "tcgplayer": "https://www.tcgplayer.com/product/276943/pokemon-pokemon-go-alolan-exeggutor-v?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Webarak",
+        "en": "Spinarak",
+        "es": "Spinarak",
+        "fr": "Mimigal",
+        "it": "Spinarak",
+        "pt": "Spinarak"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/006/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/006/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/006/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/006/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/006/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/006/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/006/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/006/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/006/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/006/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/006/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/006/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Spinarak-PGO006",
+        "tcgplayer": "https://www.tcgplayer.com/product/276944/pokemon-pokemon-go-spinarak?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Ariados",
+        "en": "Ariados",
+        "es": "Ariados",
+        "fr": "Migalos",
+        "it": "Ariados",
+        "pt": "Ariados"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/007/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/007/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/007/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/007/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/007/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/007/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/007/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/007/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/007/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/007/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/007/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/007/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Ariados-PGO007",
+        "tcgplayer": "https://www.tcgplayer.com/product/276945/pokemon-pokemon-go-ariados?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Glumanda",
+        "en": "Charmander",
+        "es": "Charmander",
+        "fr": "Salamèche",
+        "it": "Charmander",
+        "pt": "Charmander"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/008/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/008/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/008/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/008/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/008/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/008/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/008/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/008/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/008/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/008/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/008/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/008/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Charmander-PGO008",
+        "tcgplayer": "https://www.tcgplayer.com/product/274436/pokemon-pokemon-go-charmander?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Glutexo",
+        "en": "Charmeleon",
+        "es": "Charmeleon",
+        "fr": "Reptincel",
+        "it": "Charmeleon",
+        "pt": "Charmeleon"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/009/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/009/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/009/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/009/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/009/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/009/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/009/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/009/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/009/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/009/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/009/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/009/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Charmeleon-PGO009",
+        "tcgplayer": "https://www.tcgplayer.com/product/274438/pokemon-pokemon-go-charmeleon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Glurak",
+        "en": "Charizard",
+        "es": "Charizard",
+        "fr": "Dracaufeu",
+        "it": "Charizard",
+        "pt": "Charizard"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/010/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/010/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/010/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/010/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/010/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/010/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/010/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/010/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/010/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/010/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/010/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/010/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Charizard-PGO010",
+        "tcgplayer": "https://www.tcgplayer.com/product/274439/pokemon-pokemon-go-charizard?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Strahlendes Glurak",
+        "en": "Radiant Charizard",
+        "es": "Charizard Radiante",
+        "fr": "Dracaufeu Radieux",
+        "it": "Charizard Lucente",
+        "pt": "Charizard Radiante"
+      },
+      "rarity": "Radiant Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/011/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/011/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/011/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/011/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/011/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/011/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/011/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/011/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/011/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/011/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/011/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/011/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Radiant-Charizard-PGO011",
+        "tcgplayer": "https://www.tcgplayer.com/product/274467/pokemon-pokemon-go-radiant-charizard?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Lavados",
+        "en": "Moltres",
+        "es": "Moltres",
+        "fr": "Sulfura",
+        "it": "Moltres",
+        "pt": "Moltres"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/012/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/012/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/012/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/012/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/012/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/012/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/012/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/012/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/012/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/012/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/012/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/012/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Moltres-PGO012",
+        "tcgplayer": "https://www.tcgplayer.com/product/276953/pokemon-pokemon-go-moltres?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "Camaub",
+        "en": "Numel",
+        "es": "Numel",
+        "fr": "Chamallot",
+        "it": "Numel",
+        "pt": "Numel"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/013/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/013/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/013/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/013/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/013/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/013/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/013/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/013/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/013/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/013/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/013/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/013/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Numel-PGO013",
+        "tcgplayer": "https://www.tcgplayer.com/product/276947/pokemon-pokemon-go-numel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "Camerupt",
+        "en": "Camerupt",
+        "es": "Camerupt",
+        "fr": "Camérupt",
+        "it": "Camerupt",
+        "pt": "Camerupt"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/014/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/014/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/014/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/014/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/014/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/014/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/014/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/014/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/014/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/014/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/014/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/014/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Camerupt-PGO014",
+        "tcgplayer": "https://www.tcgplayer.com/product/276948/pokemon-pokemon-go-camerupt?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "Schiggy",
+        "en": "Squirtle",
+        "es": "Squirtle",
+        "fr": "Carapuce",
+        "it": "Squirtle",
+        "pt": "Squirtle"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/015/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/015/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/015/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/015/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/015/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/015/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/015/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/015/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/015/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/015/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/015/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/015/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Squirtle-PGO013",
+        "tcgplayer": "https://www.tcgplayer.com/product/274445/pokemon-pokemon-go-squirtle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Schillok",
+        "en": "Wartortle",
+        "es": "Wartortle",
+        "fr": "Carabaffe",
+        "it": "Wartortle",
+        "pt": "Wartortle"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/016/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/016/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/016/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/016/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/016/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/016/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/016/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/016/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/016/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/016/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/016/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/016/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Wartortle-PGO014",
+        "tcgplayer": "https://www.tcgplayer.com/product/274451/pokemon-pokemon-go-wartortle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Turtok",
+        "en": "Blastoise",
+        "es": "Blastoise",
+        "fr": "Tortank",
+        "it": "Blastoise",
+        "pt": "Blastoise"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/017/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/017/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/017/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/017/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/017/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/017/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/017/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/017/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/017/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/017/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/017/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/017/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Blastoise-PGO015",
+        "tcgplayer": "https://www.tcgplayer.com/product/274453/pokemon-pokemon-go-blastoise?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "Strahlendes Turtok",
+        "en": "Radiant Blastoise",
+        "es": "Blastoise Radiante",
+        "fr": "Tortank Radieux",
+        "it": "Blastoise Lucente",
+        "pt": "Blastoise Radiante"
+      },
+      "rarity": "Radiant Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/018/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/018/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/018/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/018/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/018/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/018/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/018/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/018/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/018/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/018/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/018/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/018/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Radiant-Blastoise-PGO018",
+        "tcgplayer": "https://www.tcgplayer.com/product/274468/pokemon-pokemon-go-radiant-blastoise?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "Flegmon",
+        "en": "Slowpoke",
+        "es": "Slowpoke",
+        "fr": "Ramoloss",
+        "it": "Slowpoke",
+        "pt": "Slowpoke"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/019/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/019/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/019/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/019/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/019/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/019/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/019/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/019/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/019/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/019/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/019/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/019/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Slowpoke-PGO019",
+        "tcgplayer": "https://www.tcgplayer.com/product/276949/pokemon-pokemon-go-slowpoke?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "Lahmus",
+        "en": "Slowbro",
+        "es": "Slowbro",
+        "fr": "Flagadoss",
+        "it": "Slowbro",
+        "pt": "Slowbro"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/020/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/020/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/020/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/020/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/020/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/020/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/020/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/020/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/020/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/020/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/020/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/020/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Slowbro-PGO020",
+        "tcgplayer": "https://www.tcgplayer.com/product/276950/pokemon-pokemon-go-slowbro?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "Karpador",
+        "en": "Magikarp",
+        "es": "Magikarp",
+        "fr": "Magicarpe",
+        "it": "Magikarp",
+        "pt": "Magikarp"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/021/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/021/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/021/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/021/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/021/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/021/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/021/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/021/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/021/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/021/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/021/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/021/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Magikarp-PGO021",
+        "tcgplayer": "https://www.tcgplayer.com/product/276951/pokemon-pokemon-go-magikarp?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "Garados",
+        "en": "Gyarados",
+        "es": "Gyarados",
+        "fr": "Léviator",
+        "it": "Gyarados",
+        "pt": "Gyarados"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/022/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/022/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/022/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/022/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/022/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/022/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/022/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/022/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/022/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/022/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/022/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/022/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Gyarados-PGO022",
+        "tcgplayer": "https://www.tcgplayer.com/product/276955/pokemon-pokemon-go-gyarados?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "Lapras",
+        "en": "Lapras",
+        "es": "Lapras",
+        "fr": "Lokhlass",
+        "it": "Lapras",
+        "pt": "Lapras"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/023/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/023/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/023/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/023/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/023/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/023/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/023/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/023/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/023/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/023/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/023/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/023/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Lapras-PGO023",
+        "tcgplayer": "https://www.tcgplayer.com/product/276957/pokemon-pokemon-go-lapras?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "Arktos",
+        "en": "Articuno",
+        "es": "Articuno",
+        "fr": "Artikodin",
+        "it": "Articuno",
+        "pt": "Articuno"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/024/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/024/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/024/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/024/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/024/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/024/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/024/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/024/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/024/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/024/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/024/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/024/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Articuno-PGO024",
+        "tcgplayer": "https://www.tcgplayer.com/product/276959/pokemon-pokemon-go-articuno?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "Reißlaus",
+        "en": "Wimpod",
+        "es": "Wimpod",
+        "fr": "Sovkipou",
+        "it": "Wimpod",
+        "pt": "Wimpod"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/025/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/025/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/025/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/025/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/025/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/025/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/025/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/025/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/025/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/025/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/025/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/025/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Wimpod-PGO025",
+        "tcgplayer": "https://www.tcgplayer.com/product/274457/pokemon-pokemon-go-wimpod?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "Tectass",
+        "en": "Golisopod",
+        "es": "Golisopod",
+        "fr": "Sarmuraï",
+        "it": "Golisopod",
+        "pt": "Golisopod"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/026/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/026/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/026/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/026/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/026/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/026/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/026/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/026/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/026/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/026/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/026/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/026/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Golisopod-PGO026",
+        "tcgplayer": "https://www.tcgplayer.com/product/274459/pokemon-pokemon-go-golisopod?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "Pikachu",
+        "en": "Pikachu",
+        "es": "Pikachu",
+        "fr": "Pikachu",
+        "it": "Pikachu",
+        "pt": "Pikachu"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/027/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/027/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/027/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/027/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/027/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/027/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/027/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/027/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/027/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/027/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/027/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/027/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Pikachu-V1-PGO027",
+        "tcgplayer": "https://www.tcgplayer.com/product/276946/pokemon-pokemon-go-pikachu-27?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "Pikachu",
+        "en": "Pikachu",
+        "es": "Pikachu",
+        "fr": "Pikachu",
+        "it": "Pikachu",
+        "pt": "Pikachu"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/028/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/028/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/028/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/028/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/028/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/028/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/028/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/028/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/028/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/028/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/028/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/028/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Pikachu-V1-PGO027",
+        "tcgplayer": "https://www.tcgplayer.com/product/274461/pokemon-pokemon-go-pikachu-28?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "Zapdos",
+        "en": "Zapdos",
+        "es": "Zapdos",
+        "fr": "Électhor",
+        "it": "Zapdos",
+        "pt": "Zapdos"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/029/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/029/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/029/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/029/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/029/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/029/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/029/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/029/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/029/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/029/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/029/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/029/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Zapdos-PGO029",
+        "tcgplayer": "https://www.tcgplayer.com/product/276954/pokemon-pokemon-go-zapdos?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "Mewtu V",
+        "en": "Mewtwo V",
+        "es": "Mewtwo V",
+        "fr": "Mewtwo V",
+        "it": "Mewtwo V",
+        "pt": "Mewtwo V"
+      },
+      "rarity": "Holo Rare V",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/030/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/030/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/030/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/030/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/030/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/030/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/030/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/030/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/030/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/030/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Mewtwo-V-V1-PGO030",
+        "tcgplayer": "https://www.tcgplayer.com/product/276960/pokemon-pokemon-go-mewtwo-v?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "Mewtu VSTAR",
+        "en": "Mewtwo VSTAR",
+        "es": "Mewtwo V-ASTRO",
+        "fr": "Mewtwo VSTAR",
+        "it": "Mewtwo V ASTRO",
+        "pt": "Mewtwo V-ASTRO"
+      },
+      "rarity": "Holo Rare VMAX",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/031/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/031/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/031/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/031/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/031/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/031/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/031/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/031/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/031/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/031/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/031/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/031/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Mewtwo-VSTAR-V1-PGO031",
+        "tcgplayer": "https://www.tcgplayer.com/product/276963/pokemon-pokemon-go-mewtwo-vstar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "Natu",
+        "en": "Natu",
+        "es": "Natu",
+        "fr": "Natu",
+        "it": "Natu",
+        "pt": "Natu"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/032/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/032/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/032/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/032/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/032/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/032/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/032/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/032/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/032/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/032/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/032/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/032/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Natu-PGO032",
+        "tcgplayer": "https://www.tcgplayer.com/product/276966/pokemon-pokemon-go-natu?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "Xatu",
+        "en": "Xatu",
+        "es": "Xatu",
+        "fr": "Xatu",
+        "it": "Xatu",
+        "pt": "Xatu"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/033/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/033/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/033/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/033/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/033/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/033/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/033/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/033/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/033/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/033/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/033/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/033/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Xatu-PGO033",
+        "tcgplayer": "https://www.tcgplayer.com/product/276969/pokemon-pokemon-go-xatu?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "Lunastein",
+        "en": "Lunatone",
+        "es": "Lunatone",
+        "fr": "Séléroc",
+        "it": "Lunatone",
+        "pt": "Lunatone"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/034/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/034/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/034/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/034/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/034/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/034/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/034/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/034/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/034/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/034/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/034/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/034/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Lunatone-PGO034",
+        "tcgplayer": "https://www.tcgplayer.com/product/276972/pokemon-pokemon-go-lunatone?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "Feelinara",
+        "en": "Sylveon",
+        "es": "Sylveon",
+        "fr": "Nymphali",
+        "it": "Sylveon",
+        "pt": "Sylveon"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/035/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/035/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/035/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/035/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/035/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/035/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/035/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/035/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/035/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/035/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/035/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/035/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Sylveon-PGO035",
+        "tcgplayer": "https://www.tcgplayer.com/product/276976/pokemon-pokemon-go-sylveon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "Onix",
+        "en": "Onix",
+        "es": "Onix",
+        "fr": "Onix",
+        "it": "Onix",
+        "pt": "Onix"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/036/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/036/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/036/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/036/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/036/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/036/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/036/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/036/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/036/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/036/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/036/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/036/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Onix-PGO036",
+        "tcgplayer": "https://www.tcgplayer.com/product/276981/pokemon-pokemon-go-onix?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "Larvitar",
+        "en": "Larvitar",
+        "es": "Larvitar",
+        "fr": "Embrylex",
+        "it": "Larvitar",
+        "pt": "Larvitar"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/037/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/037/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/037/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/037/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/037/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/037/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/037/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/037/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/037/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/037/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/037/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/037/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Larvitar-PGO037",
+        "tcgplayer": "https://www.tcgplayer.com/product/276984/pokemon-pokemon-go-larvitar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "Pupitar",
+        "en": "Pupitar",
+        "es": "Pupitar",
+        "fr": "Ymphect",
+        "it": "Pupitar",
+        "pt": "Pupitar"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/038/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/038/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/038/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/038/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/038/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/038/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/038/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/038/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/038/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/038/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/038/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/038/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Pupitar-PGO038",
+        "tcgplayer": "https://www.tcgplayer.com/product/276990/pokemon-pokemon-go-pupitar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "Sonnfel",
+        "en": "Solrock",
+        "es": "Solrock",
+        "fr": "Solaroc",
+        "it": "Solrock",
+        "pt": "Solrock"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/039/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/039/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/039/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/039/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/039/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/039/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/039/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/039/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/039/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/039/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/039/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/039/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Solrock-PGO039",
+        "tcgplayer": "https://www.tcgplayer.com/product/276993/pokemon-pokemon-go-solrock?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "Meistagrif V",
+        "en": "Conkeldurr V",
+        "es": "Conkeldurr V",
+        "fr": "Bétochef V",
+        "it": "Conkeldurr V",
+        "pt": "Conkeldurr V"
+      },
+      "rarity": "Holo Rare V",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/040/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/040/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/040/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/040/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/040/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/040/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/040/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/040/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/040/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/040/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/040/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/040/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Conkeldurr-V-V1-PGO040",
+        "tcgplayer": "https://www.tcgplayer.com/product/276999/pokemon-pokemon-go-conkeldurr-v?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "Alola-Rattfratz",
+        "en": "Alolan Rattata",
+        "es": "Rattata de Alola",
+        "fr": "Rattata d'Alola",
+        "it": "Rattata di Alola",
+        "pt": "Rattata de Alola"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/041/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/041/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/041/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/041/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/041/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/041/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/041/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/041/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/041/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/041/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/041/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/041/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Alolan-Rattata-PGO041",
+        "tcgplayer": "https://www.tcgplayer.com/product/277002/pokemon-pokemon-go-alolan-rattata?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "Alola-Rattikarl",
+        "en": "Alolan Raticate",
+        "es": "Raticate de Alola",
+        "fr": "Rattatac d'Alola",
+        "it": "Raticate di Alola",
+        "pt": "Raticate de Alola"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/042/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/042/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/042/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/042/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/042/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/042/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/042/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/042/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/042/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/042/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/042/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/042/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Alolan-Raticate-PGO042",
+        "tcgplayer": "https://www.tcgplayer.com/product/277003/pokemon-pokemon-go-alolan-raticate?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "Despotar",
+        "en": "Tyranitar",
+        "es": "Tyranitar",
+        "fr": "Tyranocif",
+        "it": "Tyranitar",
+        "pt": "Tyranitar"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/043/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/043/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/043/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/043/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/043/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/043/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/043/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/043/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/043/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/043/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/043/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/043/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Tyranitar-PGO043",
+        "tcgplayer": "https://www.tcgplayer.com/product/277007/pokemon-pokemon-go-tyranitar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "Stahlos",
+        "en": "Steelix",
+        "es": "Steelix",
+        "fr": "Steelix",
+        "it": "Steelix",
+        "pt": "Steelix"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/044/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/044/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/044/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/044/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/044/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/044/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/044/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/044/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/044/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/044/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/044/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/044/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Steelix-PGO044",
+        "tcgplayer": "https://www.tcgplayer.com/product/277012/pokemon-pokemon-go-steelix?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "Meltan",
+        "en": "Meltan",
+        "es": "Meltan",
+        "fr": "Meltan",
+        "it": "Meltan",
+        "pt": "Meltan"
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/045/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/045/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/045/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/045/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/045/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/045/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/045/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/045/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/045/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/045/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/045/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/045/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Meltan-PGO045",
+        "tcgplayer": "https://www.tcgplayer.com/product/277027/pokemon-pokemon-go-meltan?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "Melmetal",
+        "en": "Melmetal",
+        "es": "Melmetal",
+        "fr": "Melmetal",
+        "it": "Melmetal",
+        "pt": "Melmetal"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/046/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/046/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/046/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/046/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/046/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/046/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/046/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/046/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/046/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/046/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/046/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/046/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Melmetal-PGO046",
+        "tcgplayer": "https://www.tcgplayer.com/product/277016/pokemon-pokemon-go-melmetal?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "Melmetal V",
+        "en": "Melmetal V",
+        "es": "Melmetal V",
+        "fr": "Melmetal V",
+        "it": "Melmetal V",
+        "pt": "Melmetal V"
+      },
+      "rarity": "Holo Rare V",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/047/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/047/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/047/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/047/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/047/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/047/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/047/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/047/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/047/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/047/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/047/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/047/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Melmetal-V-V1-PGO047",
+        "tcgplayer": "https://www.tcgplayer.com/product/277019/pokemon-pokemon-go-melmetal-v?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "Melmetal VMAX",
+        "en": "Melmetal VMAX",
+        "es": "Melmetal VMAX",
+        "fr": "Melmetal VMAX",
+        "it": "Melmetal VMAX",
+        "pt": "Melmetal VMAX"
+      },
+      "rarity": "Holo Rare VMAX",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/048/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/048/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/048/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/048/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/048/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/048/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/048/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/048/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/048/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/048/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/048/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/048/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Melmetal-VMAX-V1-PGO048",
+        "tcgplayer": "https://www.tcgplayer.com/product/277023/pokemon-pokemon-go-melmetal-vmax?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "Dragoran V",
+        "en": "Dragonite V",
+        "es": "Dragonite V",
+        "fr": "Dracolosse V",
+        "it": "Dragonite V",
+        "pt": "Dragonite V"
+      },
+      "rarity": "Holo Rare V",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/049/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/049/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/049/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/049/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/049/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/049/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/049/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/049/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/049/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/049/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/049/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/049/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Dragonite-V-V1-PGO049",
+        "tcgplayer": "https://www.tcgplayer.com/product/276962/pokemon-pokemon-go-dragonite-v?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "Dragoran VSTAR",
+        "en": "Dragonite VSTAR",
+        "es": "Dragonite V-ASTRO",
+        "fr": "Dracolosse VSTAR",
+        "it": "Dragonite V ASTRO",
+        "pt": "Dragonite V-ASTRO"
+      },
+      "rarity": "Holo Rare VSTAR",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/050/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/050/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/050/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/050/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/050/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/050/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/050/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/050/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/050/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/050/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/050/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/050/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Dragonite-VSTAR-V1-PGO050",
+        "tcgplayer": "https://www.tcgplayer.com/product/276964/pokemon-pokemon-go-dragonite-vstar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "Chaneira",
+        "en": "Chansey",
+        "es": "Chansey",
+        "fr": "Leveinard",
+        "it": "Chansey",
+        "pt": "Chansey"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/051/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/051/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/051/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/051/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/051/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/051/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/051/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/051/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/051/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/051/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/051/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/051/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Chansey-PGO051",
+        "tcgplayer": "https://www.tcgplayer.com/product/276965/pokemon-pokemon-go-chansey?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "Heiteira",
+        "en": "Blissey",
+        "es": "Blissey",
+        "fr": "Leuphorie",
+        "it": "Blissey",
+        "pt": "Blissey"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/052/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/052/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/052/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/052/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/052/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/052/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/052/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/052/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/052/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/052/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/052/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/052/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Blissey-V1-PGO052",
+        "tcgplayer": "https://www.tcgplayer.com/product/276967/pokemon-pokemon-go-blissey?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "Ditto",
+        "en": "Ditto",
+        "es": "Ditto",
+        "fr": "Métamorph",
+        "it": "Ditto",
+        "pt": "Ditto"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/053/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/053/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/053/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/053/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/053/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/053/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/053/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/053/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/053/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/053/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/053/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/053/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Ditto-PGO053",
+        "tcgplayer": "https://www.tcgplayer.com/product/276971/pokemon-pokemon-go-ditto?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "Evoli",
+        "en": "Eevee",
+        "es": "Eevee",
+        "fr": "Évoli",
+        "it": "Eevee",
+        "pt": "Eevee"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/054/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/054/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/054/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/054/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/054/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/054/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/054/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/054/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/054/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/054/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/054/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/054/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Eevee-PGO054",
+        "tcgplayer": "https://www.tcgplayer.com/product/276973/pokemon-pokemon-go-eevee?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "Relaxo",
+        "en": "Snorlax",
+        "es": "Snorlax",
+        "fr": "Ronflex",
+        "it": "Snorlax",
+        "pt": "Snorlax"
+      },
+      "rarity": "Holo Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/055/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/055/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/055/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/055/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/055/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/055/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/055/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/055/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/055/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/055/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/055/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/055/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Snorlax-V1-PGO055",
+        "tcgplayer": "https://www.tcgplayer.com/product/276974/pokemon-pokemon-go-snorlax?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "Griffel",
+        "en": "Aipom",
+        "es": "Aipom",
+        "fr": "Capumain",
+        "it": "Aipom",
+        "pt": "Aipom"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/056/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/056/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/056/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/056/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/056/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/056/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/056/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/056/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/056/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/056/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/056/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/056/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Aipom-PGO056",
+        "tcgplayer": "https://www.tcgplayer.com/product/276975/pokemon-pokemon-go-aipom?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "Ambidiffel",
+        "en": "Ambipom",
+        "es": "Ambipom",
+        "fr": "Capidextre",
+        "it": "Ambipom",
+        "pt": "Ambipom"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/057/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/057/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/057/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/057/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/057/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/057/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/057/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/057/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/057/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/057/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/057/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/057/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Ambipom-PGO057",
+        "tcgplayer": "https://www.tcgplayer.com/product/276978/pokemon-pokemon-go-ambipom?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "Letarking V",
+        "en": "Slaking V",
+        "es": "Slaking V",
+        "fr": "Monaflèmit V",
+        "it": "Slaking V",
+        "pt": "Slaking V"
+      },
+      "rarity": "Holo Rare V",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/058/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/058/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/058/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/058/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/058/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/058/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/058/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/058/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/058/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/058/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/058/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/058/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Slaking-V-V1-PGO058",
+        "tcgplayer": "https://www.tcgplayer.com/product/276980/pokemon-pokemon-go-slaking-v?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "Bidiza",
+        "en": "Bidoof",
+        "es": "Bidoof",
+        "fr": "Keunotor",
+        "it": "Bidoof",
+        "pt": "Bidoof"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/059/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/059/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/059/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/059/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/059/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/059/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/059/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/059/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/059/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/059/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/059/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/059/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Bidoof-PGO059",
+        "tcgplayer": "https://www.tcgplayer.com/product/276982/pokemon-pokemon-go-bidoof?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "Bidifas",
+        "en": "Bibarel",
+        "es": "Bibarel",
+        "fr": "Castorno",
+        "it": "Bibarel",
+        "pt": "Bibarel"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/060/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/060/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/060/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/060/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/060/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/060/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/060/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/060/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/060/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/060/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/060/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/060/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Bibarel-PGO060",
+        "tcgplayer": "https://www.tcgplayer.com/product/276983/pokemon-pokemon-go-bibarel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "Dusselgurr",
+        "en": "Pidove",
+        "es": "Pidove",
+        "fr": "Poichigeon",
+        "it": "Pidove",
+        "pt": "Pidove"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/061/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/061/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/061/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/061/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/061/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/061/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/061/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/061/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/061/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/061/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/061/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/061/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Pidove-PGO061",
+        "tcgplayer": "https://www.tcgplayer.com/product/276985/pokemon-pokemon-go-pidove?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "Navitaub",
+        "en": "Tranquill",
+        "es": "Tranquill",
+        "fr": "Colombeau",
+        "it": "Tranquill",
+        "pt": "Tranquill"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/062/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/062/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/062/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/062/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/062/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/062/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/062/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/062/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/062/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/062/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/062/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/062/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Tranquill-PGO062",
+        "tcgplayer": "https://www.tcgplayer.com/product/276988/pokemon-pokemon-go-tranquill?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "Fasasnob",
+        "en": "Unfezant",
+        "es": "Unfezant",
+        "fr": "Déflaisan",
+        "it": "Unfezant",
+        "pt": "Unfezant"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/063/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/063/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/063/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/063/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/063/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/063/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/063/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/063/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/063/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/063/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/063/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/063/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Unfezant-PGO063",
+        "tcgplayer": "https://www.tcgplayer.com/product/276989/pokemon-pokemon-go-unfezant?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "Blanche",
+        "en": "Blanche",
+        "es": "Líder de Equipo Blanche",
+        "fr": "Capitaine d'équipe Blanche",
+        "it": "Blanche",
+        "pt": "Blanche"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/064/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/064/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/064/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/064/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/064/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/064/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/064/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/064/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/064/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/064/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/064/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/064/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Blanche-V1-PGO064",
+        "tcgplayer": "https://www.tcgplayer.com/product/276991/pokemon-pokemon-go-blanche?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "Candela",
+        "en": "Candela",
+        "es": "Líder de Equipo Candela",
+        "fr": "Capitaine d'équipe Candela",
+        "it": "Candela",
+        "pt": "Candela"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/065/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/065/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/065/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/065/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/065/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/065/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/065/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/065/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/065/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/065/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/065/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/065/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Candela-V1-PGO065",
+        "tcgplayer": "https://www.tcgplayer.com/product/276992/pokemon-pokemon-go-candela?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "Ei-Brutmaschine",
+        "en": "Egg Incubator",
+        "es": "Incubadora",
+        "fr": "Incubateur d'Œufs",
+        "it": "Incubatrice Uova",
+        "pt": "Incubadora de Ovo"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/066/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/066/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/066/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/066/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/066/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/066/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/066/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/066/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/066/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/066/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/066/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/066/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Egg-Incubator-V1-PGO066",
+        "tcgplayer": "https://www.tcgplayer.com/product/276994/pokemon-pokemon-go-egg-incubator?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "Lockmodul",
+        "en": "Lure Module",
+        "es": "Módulo Cebo",
+        "fr": "Module Leurre",
+        "it": "Modulo Esca",
+        "pt": "Módulo Atrair"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/067/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/067/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/067/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/067/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/067/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/067/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/067/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/067/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/067/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/067/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/067/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/067/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Lure-Module-V1-PGO067",
+        "tcgplayer": "https://www.tcgplayer.com/product/276995/pokemon-pokemon-go-lure-module?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "PokéStop",
+        "en": "PokéStop",
+        "es": "Poképarada",
+        "fr": "PokéStop",
+        "it": "Pokéstop",
+        "pt": "Poképarada"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/068/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/068/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/068/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/068/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/068/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/068/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/068/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/068/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/068/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/068/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/068/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/068/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/PokeStop-V1-PGO068",
+        "tcgplayer": "https://www.tcgplayer.com/product/276996/pokemon-pokemon-go-pokestop?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "Sonderbonbon",
+        "en": "Rare Candy",
+        "es": "Caramelo Raro",
+        "fr": "Super Bonbon",
+        "it": "Caramella Rara",
+        "pt": "Doce Raro"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/069/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/069/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/069/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/069/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/069/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/069/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/069/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/069/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/069/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/069/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/069/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/069/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Rare-Candy-PGO069",
+        "tcgplayer": "https://www.tcgplayer.com/product/276997/pokemon-pokemon-go-rare-candy?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "Spark",
+        "en": "Spark",
+        "es": "Líder de Equipo Spark",
+        "fr": "Capitaine d'équipe Spark",
+        "it": "Spark",
+        "pt": "Spark"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/070/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/070/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/070/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/070/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/070/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/070/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/070/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/070/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/070/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/070/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/070/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/070/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Spark-V1-PGO070",
+        "tcgplayer": "https://www.tcgplayer.com/product/276998/pokemon-pokemon-go-spark?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "Alola-Kokowei V",
+        "en": "Alolan Exeggutor V",
+        "es": "Exeggutor de Alola V",
+        "fr": "Noadkoko d'Alola V",
+        "it": "Exeggutor di Alola V",
+        "pt": "Exeggutor de Alola V"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/071/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/071/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/071/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/071/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/071/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/071/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/071/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/071/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/071/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/071/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/071/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/071/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Alolan-Exeggutor-V-V2-PGO071",
+        "tcgplayer": "https://www.tcgplayer.com/product/277000/pokemon-pokemon-go-alolan-exeggutor-v-full-art?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "Mewtu V",
+        "en": "Mewtwo V",
+        "es": "Mewtwo V",
+        "fr": "Mewtwo V",
+        "it": "Mewtwo V",
+        "pt": "Mewtwo V"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/072/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/072/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/072/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/072/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/072/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/072/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/072/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/072/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/072/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/072/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/072/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/072/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Mewtwo-V-V2-PGO072",
+        "tcgplayer": "https://www.tcgplayer.com/product/274470/pokemon-pokemon-go-mewtwo-v-alternate-full-art?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "Meistagrif V",
+        "en": "Conkeldurr V",
+        "es": "Conkeldurr V",
+        "fr": "Bétochef V",
+        "it": "Conkeldurr V",
+        "pt": "Conkeldurr V"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/073/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/073/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/073/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/073/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/073/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/073/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/073/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/073/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/073/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/073/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/073/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/073/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Conkeldurr-V-V2-PGO073",
+        "tcgplayer": "https://www.tcgplayer.com/product/277001/pokemon-pokemon-go-conkeldurr-v-full-art?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "Meistagrif V",
+        "en": "Conkeldurr V",
+        "es": "Conkeldurr V",
+        "fr": "Bétochef V",
+        "it": "Conkeldurr V",
+        "pt": "Conkeldurr V"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/074/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/074/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/074/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/074/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/074/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/074/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/074/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/074/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/074/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/074/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/074/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/074/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Conkeldurr-V-V3-PGO074",
+        "tcgplayer": "https://www.tcgplayer.com/product/277004/pokemon-pokemon-go-conkeldurr-v-alternate-full-art?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "Melmetal V",
+        "en": "Melmetal V",
+        "es": "Melmetal V",
+        "fr": "Melmetal V",
+        "it": "Melmetal V",
+        "pt": "Melmetal V"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/075/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/075/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/075/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/075/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/075/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/075/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/075/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/075/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/075/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/075/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/075/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/075/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Melmetal-V-V2-PGO075",
+        "tcgplayer": "https://www.tcgplayer.com/product/277005/pokemon-pokemon-go-melmetal-v-full-art?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "076",
+      "names": {
+        "de": "Dragoran V",
+        "en": "Dragonite V",
+        "es": "Dragonite V",
+        "fr": "Dracolosse V",
+        "it": "Dragonite V",
+        "pt": "Dragonite V"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/076/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/076/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/076/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/076/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/076/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/076/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/076/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/076/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/076/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/076/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/076/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/076/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Dragonite-V-V2-PGO076",
+        "tcgplayer": "https://www.tcgplayer.com/product/277006/pokemon-pokemon-go-dragonite-v-full-art?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "077",
+      "names": {
+        "de": "Letarking V",
+        "en": "Slaking V",
+        "es": "Slaking V",
+        "fr": "Monaflèmit V",
+        "it": "Slaking V",
+        "pt": "Slaking V"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/077/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/077/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/077/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/077/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/077/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/077/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/077/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/077/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/077/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/077/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/077/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/077/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Slaking-V-V2-PGO077",
+        "tcgplayer": "https://www.tcgplayer.com/product/277008/pokemon-pokemon-go-slaking-v-full-art?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "078",
+      "names": {
+        "de": "Forschung des Professors",
+        "en": "Professor's Research",
+        "es": "Investigación de Profesores",
+        "fr": "Recherches Professorales",
+        "it": "Ricerca Accademica",
+        "pt": "Pesquisa de Professores"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/078/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/078/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/078/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/078/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/078/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/078/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/078/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/078/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/078/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/078/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/078/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/078/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Professors-Research-Professor-Willow-V1-PGO078",
+        "tcgplayer": "https://www.tcgplayer.com/product/277009/pokemon-pokemon-go-professors-research-full-art?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "079",
+      "names": {
+        "de": "Mewtu VSTAR",
+        "en": "Mewtwo VSTAR",
+        "es": "Mewtwo V-ASTRO",
+        "fr": "Mewtwo VSTAR",
+        "it": "Mewtwo V ASTRO",
+        "pt": "Mewtwo V-ASTRO"
+      },
+      "rarity": "Secret Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/079/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/079/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/079/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/079/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/079/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/079/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/079/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/079/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/079/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/079/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/079/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/079/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Mewtwo-VSTAR-V2-PGO079",
+        "tcgplayer": "https://www.tcgplayer.com/product/277011/pokemon-pokemon-go-mewtwo-vstar-79-secret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "080",
+      "names": {
+        "de": "Melmetal VMAX",
+        "en": "Melmetal VMAX",
+        "es": "Melmetal VMAX",
+        "fr": "Melmetal VMAX",
+        "it": "Melmetal VMAX",
+        "pt": "Melmetal VMAX"
+      },
+      "rarity": "Secret Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/080/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/080/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/080/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/080/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/080/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/080/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/080/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/080/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/080/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/080/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/080/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/080/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Melmetal-VMAX-V2-PGO080",
+        "tcgplayer": "https://www.tcgplayer.com/product/277013/pokemon-pokemon-go-melmetal-vmax-secret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "081",
+      "names": {
+        "de": "Dragoran VSTAR",
+        "en": "Dragonite VSTAR",
+        "es": "Dragonite V-ASTRO",
+        "fr": "Dracolosse VSTAR",
+        "it": "Dragonite V ASTRO",
+        "pt": "Dragonite V-ASTRO"
+      },
+      "rarity": "Secret Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/081/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/081/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/081/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/081/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/081/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/081/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/081/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/081/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/081/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/081/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/081/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/081/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Dragonite-VSTAR-V2-PGO081",
+        "tcgplayer": "https://www.tcgplayer.com/product/277014/pokemon-pokemon-go-dragonite-vstar-secret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "082",
+      "names": {
+        "de": "Blanche",
+        "en": "Blanche",
+        "es": "Líder de Equipo Blanche",
+        "fr": "Capitaine d'équipe Blanche",
+        "it": "Blanche",
+        "pt": "Blanche"
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/082/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/082/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/082/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/082/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/082/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/082/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/082/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/082/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/082/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/082/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/082/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/082/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Blanche-V2-PGO082",
+        "tcgplayer": "https://www.tcgplayer.com/product/277015/pokemon-pokemon-go-blanche-secret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "083",
+      "names": {
+        "de": "Candela",
+        "en": "Candela",
+        "es": "Líder de Equipo Candela",
+        "fr": "Capitaine d'équipe Candela",
+        "it": "Candela",
+        "pt": "Candela"
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/083/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/083/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/083/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/083/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/083/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/083/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/083/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/083/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/083/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/083/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/083/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/083/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Candela-V2-PGO083",
+        "tcgplayer": "https://www.tcgplayer.com/product/277017/pokemon-pokemon-go-candela-secret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "084",
+      "names": {
+        "de": "Forschung des Professors",
+        "en": "Professor's Research",
+        "es": "Investigación de Profesores",
+        "fr": "Recherches Professorales",
+        "it": "Ricerca Accademica",
+        "pt": "Pesquisa de Professores"
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/084/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/084/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/084/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/084/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/084/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/084/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/084/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/084/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/084/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/084/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/084/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/084/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Professors-Research-Professor-Willow-V2-PGO084",
+        "tcgplayer": "https://www.tcgplayer.com/product/277018/pokemon-pokemon-go-professors-research-secret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "085",
+      "names": {
+        "de": "Spark",
+        "en": "Spark",
+        "es": "Líder de Equipo Spark",
+        "fr": "Capitaine d'équipe Spark",
+        "it": "Spark",
+        "pt": "Spark"
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/085/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/085/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/085/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/085/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/085/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/085/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/085/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/085/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/085/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/085/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/085/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/085/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Spark-V2-PGO085",
+        "tcgplayer": "https://www.tcgplayer.com/product/277020/pokemon-pokemon-go-spark-secret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "086",
+      "names": {
+        "de": "Mewtu VSTAR",
+        "en": "Mewtwo VSTAR",
+        "es": "Mewtwo V-ASTRO",
+        "fr": "Mewtwo VSTAR",
+        "it": "Mewtwo V ASTRO",
+        "pt": "Mewtwo V-ASTRO"
+      },
+      "rarity": "Secret Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/086/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/086/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/086/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/086/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/086/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/086/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/086/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/086/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/086/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/086/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/086/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/086/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Mewtwo-VSTAR-V3-PGO086",
+        "tcgplayer": "https://www.tcgplayer.com/product/277024/pokemon-pokemon-go-mewtwo-vstar-86-secret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "087",
+      "names": {
+        "de": "Ei-Brutmaschine",
+        "en": "Egg Incubator",
+        "es": "Incubadora",
+        "fr": "Incubateur d'Œufs",
+        "it": "Incubatrice Uova",
+        "pt": "Incubadora de Ovo"
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/087/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/087/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/087/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/087/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/087/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/087/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/087/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/087/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/087/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/087/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/087/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/087/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Egg-Incubator-V2-PGO087",
+        "tcgplayer": "https://www.tcgplayer.com/product/277025/pokemon-pokemon-go-egg-incubator-secret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "088",
+      "names": {
+        "de": "Lockmodul",
+        "en": "Lure Module",
+        "es": "Módulo Cebo",
+        "fr": "Module Leurre",
+        "it": "Modulo Esca",
+        "pt": "Módulo Atrair"
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/swsh/swsh10.5/088/low.webp",
+        "large": "https://assets.tcgdex.net/en/swsh/swsh10.5/088/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/swsh/swsh10.5/088/low.webp",
+          "large": "https://assets.tcgdex.net/de/swsh/swsh10.5/088/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/swsh/swsh10.5/088/low.webp",
+          "large": "https://assets.tcgdex.net/fr/swsh/swsh10.5/088/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/swsh/swsh10.5/088/low.webp",
+          "large": "https://assets.tcgdex.net/es/swsh/swsh10.5/088/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/swsh/swsh10.5/088/low.webp",
+          "large": "https://assets.tcgdex.net/it/swsh/swsh10.5/088/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/swsh/swsh10.5/088/low.webp",
+          "large": "https://assets.tcgdex.net/pt/swsh/swsh10.5/088/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO/Lure-Module-V2-PGO088",
+        "tcgplayer": "https://www.tcgplayer.com/product/277026/pokemon-pokemon-go-lure-module-secret?page=1&Language=English"
+      },
+      "notes": ""
+    }
+  ]
+}

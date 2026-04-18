@@ -238,6 +238,518 @@
       "maintainer": "RSch",
       "updated": "2026-04-09",
       "file": "editions/sv1.json"
-    }  
+    },
+    {
+      "id": "swsh12",
+      "name": "Silver Tempest",
+      "nameEN": "Silver Tempest",
+      "names": {
+        "de": "Silberne Sturmwinde",
+        "en": "Silver Tempest",
+        "es": "Tempestad Plateada",
+        "fr": "Tempête Argentée",
+        "it": "Tempesta Argentata",
+        "pt": "Tempestade Prateada"
+      },
+      "logo": "setlogo/silver-tempest.png",
+      "logos": {
+        "en": "setlogo/silver-tempest.png",
+        "de": "setlogo/de/silver-tempest.png",
+        "fr": "setlogo/fr/silver-tempest.png",
+        "es": "setlogo/es/silver-tempest.png",
+        "it": "setlogo/it/silver-tempest.png",
+        "pt": "setlogo/pt/silver-tempest.png"
+      },
+      "symbol": "",
+      "total": 245,
+      "releaseDate": "2022-11-11",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh12.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh12.5",
+      "name": "Crown Zenith",
+      "nameEN": "Crown Zenith",
+      "names": {
+        "de": "Zenit der Könige",
+        "en": "Crown Zenith",
+        "es": "Cenit Supremo",
+        "fr": "Zénith Suprême",
+        "it": "Zenit Regale",
+        "pt": "Realeza Absoluta"
+      },
+      "logo": "setlogo/crown-zenith.png",
+      "logos": {
+        "en": "setlogo/crown-zenith.png",
+        "de": "setlogo/de/crown-zenith.png",
+        "fr": "setlogo/fr/crown-zenith.png",
+        "es": "setlogo/es/crown-zenith.png",
+        "it": "setlogo/it/crown-zenith.png",
+        "pt": "setlogo/pt/crown-zenith.png"
+      },
+      "symbol": "",
+      "total": 230,
+      "releaseDate": "2023-01-20",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh12.5.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh11",
+      "name": "Lost Origin",
+      "nameEN": "Lost Origin",
+      "names": {
+        "de": "Verlorener Ursprung",
+        "en": "Lost Origin",
+        "es": "Origen Perdido",
+        "fr": "Origine Perdue",
+        "it": "Origine Perduta",
+        "pt": "Origem Perdida"
+      },
+      "logo": "setlogo/lost-origin.png",
+      "logos": {
+        "en": "setlogo/lost-origin.png",
+        "de": "setlogo/de/lost-origin.png",
+        "fr": "setlogo/fr/lost-origin.png",
+        "es": "setlogo/es/lost-origin.png",
+        "it": "setlogo/it/lost-origin.png",
+        "pt": "setlogo/pt/lost-origin.png"
+      },
+      "symbol": "",
+      "total": 247,
+      "releaseDate": "2022-09-09",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh11.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh10",
+      "name": "Astral Radiance",
+      "nameEN": "Astral Radiance",
+      "names": {
+        "de": "Astralglanz",
+        "en": "Astral Radiance",
+        "es": "Resplandor Astral",
+        "fr": "Astres Radieux",
+        "it": "Lucentezza Siderale",
+        "pt": "Estrelas Radiantes"
+      },
+      "logo": "setlogo/astral-radiance.png",
+      "logos": {
+        "en": "setlogo/astral-radiance.png",
+        "de": "setlogo/de/astral-radiance.png",
+        "fr": "setlogo/fr/astral-radiance.png",
+        "es": "setlogo/es/astral-radiance.png",
+        "it": "setlogo/it/astral-radiance.png",
+        "pt": "setlogo/pt/astral-radiance.png"
+      },
+      "symbol": "",
+      "total": 246,
+      "releaseDate": "2022-05-27",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh10.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh10.5",
+      "name": "Pokémon GO",
+      "nameEN": "Pokémon GO",
+      "names": {
+        "de": "Pokémon GO",
+        "en": "Pokémon GO",
+        "es": "Pokémon GO",
+        "fr": "Pokémon GO",
+        "it": "Pokémon GO",
+        "pt": "Pokémon GO"
+      },
+      "logo": "setlogo/pok-mon-go.png",
+      "logos": {
+        "en": "setlogo/pok-mon-go.png",
+        "de": "setlogo/de/pok-mon-go.png",
+        "fr": "setlogo/fr/pok-mon-go.png",
+        "es": "setlogo/es/pok-mon-go.png",
+        "it": "setlogo/it/pok-mon-go.png",
+        "pt": "setlogo/pt/pok-mon-go.png"
+      },
+      "symbol": "",
+      "total": 88,
+      "releaseDate": "2022-07-01",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh10.5.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh9",
+      "name": "Brilliant Stars",
+      "nameEN": "Brilliant Stars",
+      "names": {
+        "de": "Strahlende Sterne",
+        "en": "Brilliant Stars",
+        "es": "Astros Brillantes",
+        "fr": "Stars Étincelantes",
+        "it": "Astri Lucenti",
+        "pt": "Astros Cintilantes"
+      },
+      "logo": "setlogo/brilliant-stars.png",
+      "logos": {
+        "en": "setlogo/brilliant-stars.png",
+        "de": "setlogo/de/brilliant-stars.png",
+        "fr": "setlogo/fr/brilliant-stars.png",
+        "es": "setlogo/es/brilliant-stars.png",
+        "it": "setlogo/it/brilliant-stars.png",
+        "pt": "setlogo/pt/brilliant-stars.png"
+      },
+      "symbol": "",
+      "total": 216,
+      "releaseDate": "2022-02-25",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh9.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh8",
+      "name": "Fusion Strike",
+      "nameEN": "Fusion Strike",
+      "names": {
+        "de": "Fusions Angriff",
+        "en": "Fusion Strike",
+        "es": "Golpe Fusión",
+        "fr": "Poing de Fusion",
+        "it": "Colpo Fusione",
+        "pt": "Golpe Fusão"
+      },
+      "logo": "setlogo/fusion-strike.png",
+      "logos": {
+        "en": "setlogo/fusion-strike.png",
+        "de": "setlogo/de/fusion-strike.png",
+        "fr": "setlogo/fr/fusion-strike.png",
+        "es": "setlogo/es/fusion-strike.png",
+        "it": "setlogo/it/fusion-strike.png",
+        "pt": "setlogo/pt/fusion-strike.png"
+      },
+      "symbol": "",
+      "total": 284,
+      "releaseDate": "2021-11-12",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh8.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh7",
+      "name": "Evolving Skies",
+      "nameEN": "Evolving Skies",
+      "names": {
+        "de": "Drachenwandel",
+        "en": "Evolving Skies",
+        "es": "Cielos Evolutivos",
+        "fr": "Évolution Céleste",
+        "it": "Evoluzioni Eteree",
+        "pt": "Céus em Evolução"
+      },
+      "logo": "setlogo/evolving-skies.png",
+      "logos": {
+        "en": "setlogo/evolving-skies.png",
+        "de": "setlogo/de/evolving-skies.png",
+        "fr": "setlogo/fr/evolving-skies.png",
+        "es": "setlogo/es/evolving-skies.png",
+        "it": "setlogo/it/evolving-skies.png",
+        "pt": "setlogo/pt/evolving-skies.png"
+      },
+      "symbol": "",
+      "total": 237,
+      "releaseDate": "2021-08-27",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh7.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh6",
+      "name": "Chilling Reign",
+      "nameEN": "Chilling Reign",
+      "names": {
+        "de": "Schaurige Herrschaft",
+        "en": "Chilling Reign",
+        "es": "Reinado Escalofriante",
+        "fr": "Règne de Glace",
+        "it": "Regno Glaciale",
+        "pt": "Reinado Arrepiante"
+      },
+      "logo": "setlogo/chilling-reign.png",
+      "logos": {
+        "en": "setlogo/chilling-reign.png",
+        "de": "setlogo/de/chilling-reign.png",
+        "fr": "setlogo/fr/chilling-reign.png",
+        "es": "setlogo/es/chilling-reign.png",
+        "it": "setlogo/it/chilling-reign.png",
+        "pt": "setlogo/pt/chilling-reign.png"
+      },
+      "symbol": "",
+      "total": 233,
+      "releaseDate": "2021-06-18",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh6.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh5",
+      "name": "Battle Styles",
+      "nameEN": "Battle Styles",
+      "names": {
+        "de": "Kampfstile",
+        "en": "Battle Styles",
+        "es": "Estilos de Combate",
+        "fr": "Styles de combat",
+        "it": "Stili di Lotta",
+        "pt": "Estilos de Batalha"
+      },
+      "logo": "setlogo/battle-styles.png",
+      "logos": {
+        "en": "setlogo/battle-styles.png",
+        "de": "setlogo/de/battle-styles.png",
+        "fr": "setlogo/fr/battle-styles.png",
+        "es": "setlogo/es/battle-styles.png",
+        "it": "setlogo/it/battle-styles.png",
+        "pt": "setlogo/pt/battle-styles.png"
+      },
+      "symbol": "",
+      "total": 183,
+      "releaseDate": "2021-03-19",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh5.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh4",
+      "name": "Vivid Voltage",
+      "nameEN": "Vivid Voltage",
+      "names": {
+        "de": "Farbenschock",
+        "en": "Vivid Voltage",
+        "es": "Voltaje Vívido",
+        "fr": "Voltage Éclatant",
+        "it": "Voltaggio Sfolgorante",
+        "pt": "Voltagem Vívida"
+      },
+      "logo": "setlogo/vivid-voltage.png",
+      "logos": {
+        "en": "setlogo/vivid-voltage.png",
+        "de": "setlogo/de/vivid-voltage.png",
+        "fr": "setlogo/fr/vivid-voltage.png",
+        "es": "setlogo/es/vivid-voltage.png",
+        "it": "setlogo/it/vivid-voltage.png",
+        "pt": "setlogo/pt/vivid-voltage.png"
+      },
+      "symbol": "",
+      "total": 203,
+      "releaseDate": "2020-11-13",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh4.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh4.5",
+      "name": "Shining Fates",
+      "nameEN": "Shining Fates",
+      "names": {
+        "de": "Glänzendes Schicksal",
+        "en": "Shining Fates",
+        "es": "Destinos Brillantes",
+        "fr": "Destinées Radieuses",
+        "it": "Destino Splendente",
+        "pt": "Destinos Brilhantes "
+      },
+      "logo": "setlogo/shining-fates.png",
+      "logos": {
+        "en": "setlogo/shining-fates.png",
+        "de": "setlogo/de/shining-fates.png",
+        "fr": "setlogo/fr/shining-fates.png",
+        "es": "setlogo/es/shining-fates.png",
+        "it": "setlogo/it/shining-fates.png",
+        "pt": "setlogo/pt/shining-fates.png"
+      },
+      "symbol": "",
+      "total": 195,
+      "releaseDate": "2021-02-19",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh4.5.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh3",
+      "name": "Darkness Ablaze",
+      "nameEN": "Darkness Ablaze",
+      "names": {
+        "de": "Flammende Finsternis",
+        "en": "Darkness Ablaze",
+        "es": "Oscuridad Incandescente",
+        "fr": "Ténèbres Embrasées",
+        "it": "Fiamme Oscure",
+        "pt": "Escuridão Incandescente"
+      },
+      "logo": "setlogo/darkness-ablaze.png",
+      "logos": {
+        "en": "setlogo/darkness-ablaze.png",
+        "de": "setlogo/de/darkness-ablaze.png",
+        "fr": "setlogo/fr/darkness-ablaze.png",
+        "es": "setlogo/es/darkness-ablaze.png",
+        "it": "setlogo/it/darkness-ablaze.png",
+        "pt": "setlogo/pt/darkness-ablaze.png"
+      },
+      "symbol": "",
+      "total": 201,
+      "releaseDate": "2020-08-14",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh3.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh3.5",
+      "name": "Champion's Path",
+      "nameEN": "Champion's Path",
+      "names": {
+        "de": "Weg des Champs",
+        "en": "Champion's Path",
+        "es": "Camino de Campeones",
+        "fr": "La Voie du Maître",
+        "it": "Futuri Campioni",
+        "pt": "Caminho do Campeão"
+      },
+      "logo": "setlogo/champion-s-path.png",
+      "logos": {
+        "en": "setlogo/champion-s-path.png",
+        "de": "setlogo/de/champion-s-path.png",
+        "fr": "setlogo/fr/champion-s-path.png",
+        "es": "setlogo/es/champion-s-path.png",
+        "it": "setlogo/it/champion-s-path.png",
+        "pt": "setlogo/pt/champion-s-path.png"
+      },
+      "symbol": "",
+      "total": 80,
+      "releaseDate": "2020-09-25",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh3.5.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh2",
+      "name": "Rebel Clash",
+      "nameEN": "Rebel Clash",
+      "names": {
+        "de": "Clash der Rebellen",
+        "en": "Rebel Clash",
+        "es": "Choque Rebelde",
+        "fr": "Clash des Rebelles",
+        "it": "Fragore Ribelle",
+        "pt": "Rixa Rebelde"
+      },
+      "logo": "setlogo/rebel-clash.png",
+      "logos": {
+        "en": "setlogo/rebel-clash.png",
+        "de": "setlogo/de/rebel-clash.png",
+        "fr": "setlogo/fr/rebel-clash.png",
+        "es": "setlogo/es/rebel-clash.png",
+        "it": "setlogo/it/rebel-clash.png",
+        "pt": "setlogo/pt/rebel-clash.png"
+      },
+      "symbol": "",
+      "total": 209,
+      "releaseDate": "2020-05-01",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh2.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    },
+    {
+      "id": "swsh1",
+      "name": "Sword & Shield",
+      "nameEN": "Sword & Shield",
+      "names": {
+        "de": "Schwert & Schild",
+        "en": "Sword & Shield",
+        "es": "Espada y Escudo",
+        "fr": "Épée et Bouclier",
+        "it": "Spada e Scudo",
+        "pt": "Espada e Escudo"
+      },
+      "logo": "setlogo/sword-and-shield.png",
+      "logos": {
+        "en": "setlogo/sword-and-shield.png",
+        "de": "setlogo/de/sword-and-shield.png",
+        "fr": "setlogo/fr/sword-and-shield.png",
+        "es": "setlogo/es/sword-and-shield.png",
+        "it": "setlogo/it/sword-and-shield.png",
+        "pt": "setlogo/pt/sword-and-shield.png"
+      },
+      "symbol": "",
+      "total": 216,
+      "releaseDate": "2020-02-07",
+      "maintainer": "your-name",
+      "updated": "2026-04-18",
+      "file": "editions/swsh1.json",
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      }
+    }    
   ]
 }

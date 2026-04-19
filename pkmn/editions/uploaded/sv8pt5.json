@@ -1,0 +1,3677 @@
+{
+  "edition": {
+    "id": "sv8pt5",
+    "name": "Prismatic Evolutions",
+    "nameEN": "Prismatic Evolutions",
+    "total": 180,
+    "releaseDate": "2025-01-17"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "",
+        "en": "Exeggcute",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-1/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-1/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Exeggcute-PRE001",
+        "tcgplayer": "https://www.tcgplayer.com/product/610356/pokemon-sv-prismatic-evolutions-exeggcute?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "",
+        "en": "Exeggutor",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-2/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-2/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Exeggutor-PRE002",
+        "tcgplayer": "https://www.tcgplayer.com/product/610357/pokemon-sv-prismatic-evolutions-exeggutor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "",
+        "en": "Pinsir",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-3/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-3/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Pinsir-PRE003",
+        "tcgplayer": "https://www.tcgplayer.com/product/610358/pokemon-sv-prismatic-evolutions-pinsir?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "",
+        "en": "Budew",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-4/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-4/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Budew-PRE004",
+        "tcgplayer": "https://www.tcgplayer.com/product/610359/pokemon-sv-prismatic-evolutions-budew?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "",
+        "en": "Leafeon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-5/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-5/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Leafeon-PRE005",
+        "tcgplayer": "https://www.tcgplayer.com/product/610360/pokemon-sv-prismatic-evolutions-leafeon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "",
+        "en": "Leafeon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-6/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-6/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Leafeon-ex-V1-PRE006",
+        "tcgplayer": "https://www.tcgplayer.com/product/610361/pokemon-sv-prismatic-evolutions-leafeon-ex-006-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "",
+        "en": "Cottonee",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-7/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-7/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Cottonee-PRE007",
+        "tcgplayer": "https://www.tcgplayer.com/product/610362/pokemon-sv-prismatic-evolutions-cottonee?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "",
+        "en": "Whimsicott",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-8/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-8/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Whimsicott-PRE008",
+        "tcgplayer": "https://www.tcgplayer.com/product/610363/pokemon-sv-prismatic-evolutions-whimsicott?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "",
+        "en": "Applin",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-9/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-9/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Applin-PRE009",
+        "tcgplayer": "https://www.tcgplayer.com/product/610364/pokemon-sv-prismatic-evolutions-applin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "",
+        "en": "Dipplin",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-10/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-10/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dipplin-PRE010",
+        "tcgplayer": "https://www.tcgplayer.com/product/610365/pokemon-sv-prismatic-evolutions-dipplin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "",
+        "en": "Hydrapple ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-11/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-11/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Hydrapple-ex-PRE011",
+        "tcgplayer": "https://www.tcgplayer.com/product/610366/pokemon-sv-prismatic-evolutions-hydrapple-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "",
+        "en": "Teal Mask Ogerpon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-12/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-12/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Teal-Mask-Ogerpon-ex-V1-PRE012",
+        "tcgplayer": "https://www.tcgplayer.com/product/610367/pokemon-sv-prismatic-evolutions-teal-mask-ogerpon-ex-012-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "",
+        "en": "Flareon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-13/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-13/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Flareon-PRE013",
+        "tcgplayer": "https://www.tcgplayer.com/product/610368/pokemon-sv-prismatic-evolutions-flareon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "",
+        "en": "Flareon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-14/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-14/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Flareon-ex-V1-PRE014",
+        "tcgplayer": "https://www.tcgplayer.com/product/610369/pokemon-sv-prismatic-evolutions-flareon-ex-014-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "",
+        "en": "Litleo",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-15/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-15/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Litleo-PRE015",
+        "tcgplayer": "https://www.tcgplayer.com/product/610370/pokemon-sv-prismatic-evolutions-litleo?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "",
+        "en": "Pyroar",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-16/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-16/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Pyroar-PRE016",
+        "tcgplayer": "https://www.tcgplayer.com/product/610371/pokemon-sv-prismatic-evolutions-pyroar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "",
+        "en": "Hearthflame Mask Ogerpon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-17/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-17/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Hearthflame-Mask-Ogerpon-ex-V1-PRE017",
+        "tcgplayer": "https://www.tcgplayer.com/product/610372/pokemon-sv-prismatic-evolutions-hearthflame-mask-ogerpon-ex-017-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "",
+        "en": "Slowpoke",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-18/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-18/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Slowpoke-PRE018",
+        "tcgplayer": "https://www.tcgplayer.com/product/610373/pokemon-sv-prismatic-evolutions-slowpoke?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "",
+        "en": "Slowking",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-19/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-19/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Slowking-PRE019",
+        "tcgplayer": "https://www.tcgplayer.com/product/610374/pokemon-sv-prismatic-evolutions-slowking?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "",
+        "en": "Goldeen",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-20/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-20/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Goldeen-PRE020",
+        "tcgplayer": "https://www.tcgplayer.com/product/610375/pokemon-sv-prismatic-evolutions-goldeen?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "",
+        "en": "Seaking",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-21/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-21/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Seaking-PRE021",
+        "tcgplayer": "https://www.tcgplayer.com/product/610376/pokemon-sv-prismatic-evolutions-seaking?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "",
+        "en": "Vaporeon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-22/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-22/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Vaporeon-PRE022",
+        "tcgplayer": "https://www.tcgplayer.com/product/610377/pokemon-sv-prismatic-evolutions-vaporeon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "",
+        "en": "Vaporeon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-23/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-23/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Vaporeon-ex-V1-PRE023",
+        "tcgplayer": "https://www.tcgplayer.com/product/610378/pokemon-sv-prismatic-evolutions-vaporeon-ex-023-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "",
+        "en": "Suicune",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-24/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-24/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Suicune-PRE024",
+        "tcgplayer": "https://www.tcgplayer.com/product/610379/pokemon-sv-prismatic-evolutions-suicune?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "",
+        "en": "Glaceon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-25/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-25/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glaceon-PRE025",
+        "tcgplayer": "https://www.tcgplayer.com/product/610380/pokemon-sv-prismatic-evolutions-glaceon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "",
+        "en": "Glaceon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-26/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-26/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glaceon-ex-V1-PRE026",
+        "tcgplayer": "https://www.tcgplayer.com/product/610381/pokemon-sv-prismatic-evolutions-glaceon-ex-026-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "",
+        "en": "Wellspring Mask Ogerpon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-27/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-27/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Wellspring-Mask-Ogerpon-ex-V1-PRE027",
+        "tcgplayer": "https://www.tcgplayer.com/product/610382/pokemon-sv-prismatic-evolutions-wellspring-mask-ogerpon-ex-027-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "",
+        "en": "Pikachu ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-28/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-28/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Pikachu-ex-PRE028",
+        "tcgplayer": "https://www.tcgplayer.com/product/610383/pokemon-sv-prismatic-evolutions-pikachu-ex-028-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "",
+        "en": "Jolteon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-29/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-29/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Jolteon-PRE029",
+        "tcgplayer": "https://www.tcgplayer.com/product/610384/pokemon-sv-prismatic-evolutions-jolteon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "",
+        "en": "Jolteon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-30/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-30/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Jolteon-ex-V1-PRE030",
+        "tcgplayer": "https://www.tcgplayer.com/product/610385/pokemon-sv-prismatic-evolutions-jolteon-ex-030-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "",
+        "en": "Iron Hands ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-31/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-31/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Hands-ex-V1-PRE031",
+        "tcgplayer": "https://www.tcgplayer.com/product/610386/pokemon-sv-prismatic-evolutions-iron-hands-ex-031-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "",
+        "en": "Iron Thorns ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-32/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-32/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Thorns-ex-PRE032",
+        "tcgplayer": "https://www.tcgplayer.com/product/610387/pokemon-sv-prismatic-evolutions-iron-thorns-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "",
+        "en": "Espeon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-33/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-33/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Espeon-PRE033",
+        "tcgplayer": "https://www.tcgplayer.com/product/610388/pokemon-sv-prismatic-evolutions-espeon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "",
+        "en": "Espeon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-34/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-34/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Espeon-ex-V1-PRE034",
+        "tcgplayer": "https://www.tcgplayer.com/product/610389/pokemon-sv-prismatic-evolutions-espeon-ex-034-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "",
+        "en": "Duskull",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-35/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-35/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Duskull-PRE035",
+        "tcgplayer": "https://www.tcgplayer.com/product/610390/pokemon-sv-prismatic-evolutions-duskull?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "",
+        "en": "Dusclops",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-36/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-36/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dusclops-PRE036",
+        "tcgplayer": "https://www.tcgplayer.com/product/610391/pokemon-sv-prismatic-evolutions-dusclops?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "",
+        "en": "Dusknoir",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-37/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-37/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dusknoir-PRE037",
+        "tcgplayer": "https://www.tcgplayer.com/product/610392/pokemon-sv-prismatic-evolutions-dusknoir?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "",
+        "en": "Spritzee",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-38/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-38/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Spritzee-PRE038",
+        "tcgplayer": "https://www.tcgplayer.com/product/610393/pokemon-sv-prismatic-evolutions-spritzee?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "",
+        "en": "Aromatisse",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-39/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-39/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Aromatisse-PRE039",
+        "tcgplayer": "https://www.tcgplayer.com/product/610394/pokemon-sv-prismatic-evolutions-aromatisse?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "",
+        "en": "Sylveon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-40/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-40/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sylveon-PRE040",
+        "tcgplayer": "https://www.tcgplayer.com/product/610395/pokemon-sv-prismatic-evolutions-sylveon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "",
+        "en": "Sylveon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-41/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-41/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sylveon-ex-V1-PRE041",
+        "tcgplayer": "https://www.tcgplayer.com/product/610396/pokemon-sv-prismatic-evolutions-sylveon-ex-041-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "",
+        "en": "Scream Tail",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-42/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-42/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Scream-Tail-PRE042",
+        "tcgplayer": "https://www.tcgplayer.com/product/610397/pokemon-sv-prismatic-evolutions-scream-tail?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "",
+        "en": "Flutter Mane",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-43/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-43/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Flutter-Mane-PRE043",
+        "tcgplayer": "https://www.tcgplayer.com/product/610398/pokemon-sv-prismatic-evolutions-flutter-mane?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "",
+        "en": "Munkidori",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-44/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-44/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Munkidori-PRE044",
+        "tcgplayer": "https://www.tcgplayer.com/product/610399/pokemon-sv-prismatic-evolutions-munkidori?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "",
+        "en": "Fezandipiti",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-45/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-45/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Fezandipiti-PRE045",
+        "tcgplayer": "https://www.tcgplayer.com/product/610400/pokemon-sv-prismatic-evolutions-fezandipiti?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "",
+        "en": "Iron Boulder",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-46/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-46/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Boulder-PRE046",
+        "tcgplayer": "https://www.tcgplayer.com/product/610401/pokemon-sv-prismatic-evolutions-iron-boulder?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "",
+        "en": "Larvitar",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-47/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-47/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Larvitar-PRE047",
+        "tcgplayer": "https://www.tcgplayer.com/product/610402/pokemon-sv-prismatic-evolutions-larvitar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "",
+        "en": "Pupitar",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-48/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-48/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Pupitar-PRE048",
+        "tcgplayer": "https://www.tcgplayer.com/product/610403/pokemon-sv-prismatic-evolutions-pupitar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "",
+        "en": "Groudon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-49/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-49/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Groudon-PRE049",
+        "tcgplayer": "https://www.tcgplayer.com/product/610404/pokemon-sv-prismatic-evolutions-groudon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "",
+        "en": "Riolu",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-50/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-50/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Riolu-PRE050",
+        "tcgplayer": "https://www.tcgplayer.com/product/610405/pokemon-sv-prismatic-evolutions-riolu?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "",
+        "en": "Lucario ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-51/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-51/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lucario-ex-PRE051",
+        "tcgplayer": "https://www.tcgplayer.com/product/610406/pokemon-sv-prismatic-evolutions-lucario-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "",
+        "en": "Hippopotas",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-52/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-52/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Hippopotas-PRE052",
+        "tcgplayer": "https://www.tcgplayer.com/product/610407/pokemon-sv-prismatic-evolutions-hippopotas?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "",
+        "en": "Hippowdon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-53/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-53/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Hippowdon-PRE053",
+        "tcgplayer": "https://www.tcgplayer.com/product/610408/pokemon-sv-prismatic-evolutions-hippowdon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "",
+        "en": "Bloodmoon Ursaluna",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-54/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-54/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Bloodmoon-Ursaluna-PRE054",
+        "tcgplayer": "https://www.tcgplayer.com/product/610409/pokemon-sv-prismatic-evolutions-bloodmoon-ursaluna?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "",
+        "en": "Great Tusk",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-55/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-55/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Great-Tusk-PRE055",
+        "tcgplayer": "https://www.tcgplayer.com/product/610410/pokemon-sv-prismatic-evolutions-great-tusk?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "",
+        "en": "Sandy Shocks ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-56/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-56/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sandy-Shocks-ex-V1-PRE056",
+        "tcgplayer": "https://www.tcgplayer.com/product/610411/pokemon-sv-prismatic-evolutions-sandy-shocks-ex-056-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "",
+        "en": "Okidogi",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-57/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-57/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Okidogi-PRE057",
+        "tcgplayer": "https://www.tcgplayer.com/product/610412/pokemon-sv-prismatic-evolutions-okidogi?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "",
+        "en": "Cornerstone Mask Ogerpon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-58/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-58/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Cornerstone-Mask-Ogerpon-ex-V1-PRE058",
+        "tcgplayer": "https://www.tcgplayer.com/product/610413/pokemon-sv-prismatic-evolutions-cornerstone-mask-ogerpon-ex-058-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "",
+        "en": "Umbreon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-59/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-59/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Umbreon-PRE059",
+        "tcgplayer": "https://www.tcgplayer.com/product/610414/pokemon-sv-prismatic-evolutions-umbreon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "",
+        "en": "Umbreon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-60/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-60/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Umbreon-ex-V1-PRE060",
+        "tcgplayer": "https://www.tcgplayer.com/product/610415/pokemon-sv-prismatic-evolutions-umbreon-ex-060-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "",
+        "en": "Sneasel",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-61/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-61/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sneasel-PRE061",
+        "tcgplayer": "https://www.tcgplayer.com/product/610416/pokemon-sv-prismatic-evolutions-sneasel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "",
+        "en": "Houndour",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-62/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-62/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Houndour-PRE062",
+        "tcgplayer": "https://www.tcgplayer.com/product/610417/pokemon-sv-prismatic-evolutions-houndour?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "",
+        "en": "Houndoom",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-63/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-63/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Houndoom-PRE063",
+        "tcgplayer": "https://www.tcgplayer.com/product/610418/pokemon-sv-prismatic-evolutions-houndoom?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "",
+        "en": "Tyranitar ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-64/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-64/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Tyranitar-ex-PRE064",
+        "tcgplayer": "https://www.tcgplayer.com/product/610419/pokemon-sv-prismatic-evolutions-tyranitar-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "",
+        "en": "Roaring Moon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-65/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-65/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Roaring-Moon-PRE065",
+        "tcgplayer": "https://www.tcgplayer.com/product/610420/pokemon-sv-prismatic-evolutions-roaring-moon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "",
+        "en": "Bronzor",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-66/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-66/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Bronzor-PRE066",
+        "tcgplayer": "https://www.tcgplayer.com/product/610421/pokemon-sv-prismatic-evolutions-bronzor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "",
+        "en": "Bronzong",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-67/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-67/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Bronzong-PRE067",
+        "tcgplayer": "https://www.tcgplayer.com/product/610422/pokemon-sv-prismatic-evolutions-bronzong?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "",
+        "en": "Heatran",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-68/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-68/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Heatran-PRE068",
+        "tcgplayer": "https://www.tcgplayer.com/product/610423/pokemon-sv-prismatic-evolutions-heatran?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "",
+        "en": "Duraludon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-69/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-69/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Duraludon-PRE069",
+        "tcgplayer": "https://www.tcgplayer.com/product/610424/pokemon-sv-prismatic-evolutions-duraludon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "",
+        "en": "Archaludon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-70/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-70/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Archaludon-PRE070",
+        "tcgplayer": "https://www.tcgplayer.com/product/610425/pokemon-sv-prismatic-evolutions-archaludon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "",
+        "en": "Dreepy",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-71/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-71/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dreepy-PRE071",
+        "tcgplayer": "https://www.tcgplayer.com/product/610426/pokemon-sv-prismatic-evolutions-dreepy?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "",
+        "en": "Drakloak",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-72/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-72/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Drakloak-PRE072",
+        "tcgplayer": "https://www.tcgplayer.com/product/610427/pokemon-sv-prismatic-evolutions-drakloak?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "",
+        "en": "Dragapult ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-73/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-73/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dragapult-ex-V1-PRE073",
+        "tcgplayer": "https://www.tcgplayer.com/product/610428/pokemon-sv-prismatic-evolutions-dragapult-ex-073-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "",
+        "en": "Eevee",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-74/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-74/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Eevee-PRE074",
+        "tcgplayer": "https://www.tcgplayer.com/product/610429/pokemon-sv-prismatic-evolutions-eevee?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "",
+        "en": "Eevee ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-75/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-75/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Eevee-ex-V1-PRE075",
+        "tcgplayer": "https://www.tcgplayer.com/product/610430/pokemon-sv-prismatic-evolutions-eevee-ex-075-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "076",
+      "names": {
+        "de": "",
+        "en": "Snorlax ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-76/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-76/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Snorlax-ex-PRE076",
+        "tcgplayer": "https://www.tcgplayer.com/product/610431/pokemon-sv-prismatic-evolutions-snorlax-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "077",
+      "names": {
+        "de": "",
+        "en": "Hoothoot",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-77/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-77/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Hoothoot-PRE077",
+        "tcgplayer": "https://www.tcgplayer.com/product/610432/pokemon-sv-prismatic-evolutions-hoothoot?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "078",
+      "names": {
+        "de": "",
+        "en": "Noctowl",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-78/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-78/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Noctowl-PRE078",
+        "tcgplayer": "https://www.tcgplayer.com/product/610433/pokemon-sv-prismatic-evolutions-noctowl?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "079",
+      "names": {
+        "de": "",
+        "en": "Dunsparce",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-79/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-79/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dunsparce-PRE079",
+        "tcgplayer": "https://www.tcgplayer.com/product/610434/pokemon-sv-prismatic-evolutions-dunsparce?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "080",
+      "names": {
+        "de": "",
+        "en": "Dudunsparce",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-80/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-80/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dudunsparce-PRE080",
+        "tcgplayer": "https://www.tcgplayer.com/product/610435/pokemon-sv-prismatic-evolutions-dudunsparce?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "081",
+      "names": {
+        "de": "",
+        "en": "Miltank",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-81/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-81/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Miltank-PRE081",
+        "tcgplayer": "https://www.tcgplayer.com/product/610436/pokemon-sv-prismatic-evolutions-miltank?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "082",
+      "names": {
+        "de": "",
+        "en": "Lugia ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-82/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-82/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lugia-ex-PRE082",
+        "tcgplayer": "https://www.tcgplayer.com/product/610437/pokemon-sv-prismatic-evolutions-lugia-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "083",
+      "names": {
+        "de": "",
+        "en": "Buneary",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-83/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-83/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buneary-PRE083",
+        "tcgplayer": "https://www.tcgplayer.com/product/610438/pokemon-sv-prismatic-evolutions-buneary?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "084",
+      "names": {
+        "de": "",
+        "en": "Lopunny",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-84/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-84/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lopunny-PRE084",
+        "tcgplayer": "https://www.tcgplayer.com/product/610439/pokemon-sv-prismatic-evolutions-lopunny?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "085",
+      "names": {
+        "de": "",
+        "en": "Fan Rotom",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-85/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-85/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Fan-Rotom-PRE085",
+        "tcgplayer": "https://www.tcgplayer.com/product/610440/pokemon-sv-prismatic-evolutions-fan-rotom?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "086",
+      "names": {
+        "de": "",
+        "en": "Regigigas",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-86/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-86/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Regigigas-PRE086",
+        "tcgplayer": "https://www.tcgplayer.com/product/610441/pokemon-sv-prismatic-evolutions-regigigas?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "087",
+      "names": {
+        "de": "",
+        "en": "Shaymin",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-87/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-87/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Shaymin-PRE087",
+        "tcgplayer": "https://www.tcgplayer.com/product/610442/pokemon-sv-prismatic-evolutions-shaymin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "088",
+      "names": {
+        "de": "",
+        "en": "Furfrou",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-88/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-88/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Furfrou-PRE088",
+        "tcgplayer": "https://www.tcgplayer.com/product/610443/pokemon-sv-prismatic-evolutions-furfrou?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "089",
+      "names": {
+        "de": "",
+        "en": "Hawlucha",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-89/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-89/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Hawlucha-PRE089",
+        "tcgplayer": "https://www.tcgplayer.com/product/610444/pokemon-sv-prismatic-evolutions-hawlucha?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "090",
+      "names": {
+        "de": "",
+        "en": "Noibat",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-90/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-90/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Noibat-PRE090",
+        "tcgplayer": "https://www.tcgplayer.com/product/610445/pokemon-sv-prismatic-evolutions-noibat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "091",
+      "names": {
+        "de": "",
+        "en": "Noivern ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-91/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-91/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Noivern-ex-PRE091",
+        "tcgplayer": "https://www.tcgplayer.com/product/610446/pokemon-sv-prismatic-evolutions-noivern-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "092",
+      "names": {
+        "de": "",
+        "en": "Terapagos ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-92/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-92/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Terapagos-ex-V1-PRE092",
+        "tcgplayer": "https://www.tcgplayer.com/product/610447/pokemon-sv-prismatic-evolutions-terapagos-ex-092-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "093",
+      "names": {
+        "de": "",
+        "en": "Amarys",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-93/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-93/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Amarys-V1-PRE093",
+        "tcgplayer": "https://www.tcgplayer.com/product/610448/pokemon-sv-prismatic-evolutions-amarys-093-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "094",
+      "names": {
+        "de": "",
+        "en": "Area Zero Underdepths",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-94/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-94/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Area-Zero-Underdepths-PRE094",
+        "tcgplayer": "https://www.tcgplayer.com/product/610449/pokemon-sv-prismatic-evolutions-area-zero-underdepths?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "095",
+      "names": {
+        "de": "",
+        "en": "Binding Mochi",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-95/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-95/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Binding-Mochi-PRE095",
+        "tcgplayer": "https://www.tcgplayer.com/product/610450/pokemon-sv-prismatic-evolutions-binding-mochi?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "096",
+      "names": {
+        "de": "",
+        "en": "Black Belt's Training",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-96/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-96/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Black-Belts-Training-V1-PRE096",
+        "tcgplayer": "https://www.tcgplayer.com/product/610451/pokemon-sv-prismatic-evolutions-black-belts-training-096-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "097",
+      "names": {
+        "de": "",
+        "en": "Black Belt's Training",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-97/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-97/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Black-Belts-Training-V2-PRE097",
+        "tcgplayer": "https://www.tcgplayer.com/product/610452/pokemon-sv-prismatic-evolutions-black-belts-training-097-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "098",
+      "names": {
+        "de": "",
+        "en": "Black Belt's Training",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-98/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-98/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Black-Belts-Training-V3-PRE098",
+        "tcgplayer": "https://www.tcgplayer.com/product/610453/pokemon-sv-prismatic-evolutions-black-belts-training-098-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "099",
+      "names": {
+        "de": "",
+        "en": "Black Belt's Training",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-99/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-99/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Black-Belts-Training-V4-PRE099",
+        "tcgplayer": "https://www.tcgplayer.com/product/610454/pokemon-sv-prismatic-evolutions-black-belts-training-099-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "100",
+      "names": {
+        "de": "",
+        "en": "Briar",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-100/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-100/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Briar-PRE100",
+        "tcgplayer": "https://www.tcgplayer.com/product/610455/pokemon-sv-prismatic-evolutions-briar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "101",
+      "names": {
+        "de": "",
+        "en": "Buddy-Buddy Poffin",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-101/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-101/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Buddy-Buddy-Poffin-PRE101",
+        "tcgplayer": "https://www.tcgplayer.com/product/610456/pokemon-sv-prismatic-evolutions-buddy-buddy-poffin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "102",
+      "names": {
+        "de": "",
+        "en": "Bug Catching Set",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-102/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-102/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Bug-Catching-Set-PRE102",
+        "tcgplayer": "https://www.tcgplayer.com/product/610457/pokemon-sv-prismatic-evolutions-bug-catching-set?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "103",
+      "names": {
+        "de": "",
+        "en": "Carmine",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-103/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-103/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Carmine-PRE103",
+        "tcgplayer": "https://www.tcgplayer.com/product/610458/pokemon-sv-prismatic-evolutions-carmine?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "104",
+      "names": {
+        "de": "",
+        "en": "Ciphermaniac's Codebreaking",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-104/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-104/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ciphermaniacs-Codebreaking-PRE104",
+        "tcgplayer": "https://www.tcgplayer.com/product/610459/pokemon-sv-prismatic-evolutions-ciphermaniacs-codebreaking?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "105",
+      "names": {
+        "de": "",
+        "en": "Crispin",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-105/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-105/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Crispin-V1-PRE105",
+        "tcgplayer": "https://www.tcgplayer.com/product/610460/pokemon-sv-prismatic-evolutions-crispin-105-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "106",
+      "names": {
+        "de": "",
+        "en": "Earthen Vessel",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-106/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-106/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Earthen-Vessel-PRE106",
+        "tcgplayer": "https://www.tcgplayer.com/product/610461/pokemon-sv-prismatic-evolutions-earthen-vessel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "107",
+      "names": {
+        "de": "",
+        "en": "Explorer's Guidance",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-107/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-107/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Explorers-Guidance-PRE107",
+        "tcgplayer": "https://www.tcgplayer.com/product/610462/pokemon-sv-prismatic-evolutions-explorers-guidance?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "108",
+      "names": {
+        "de": "",
+        "en": "Festival Grounds",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-108/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-108/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Festival-Grounds-PRE108",
+        "tcgplayer": "https://www.tcgplayer.com/product/610463/pokemon-sv-prismatic-evolutions-festival-grounds?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "109",
+      "names": {
+        "de": "",
+        "en": "Friends in Paldea",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-109/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-109/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Friends-in-Paldea-V1-PRE109",
+        "tcgplayer": "https://www.tcgplayer.com/product/610464/pokemon-sv-prismatic-evolutions-friends-in-paldea-109-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "110",
+      "names": {
+        "de": "",
+        "en": "Glass Trumpet",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-110/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-110/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glass-Trumpet-PRE110",
+        "tcgplayer": "https://www.tcgplayer.com/product/610465/pokemon-sv-prismatic-evolutions-glass-trumpet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "111",
+      "names": {
+        "de": "",
+        "en": "Haban Berry",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-111/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-111/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Haban-Berry-PRE111",
+        "tcgplayer": "https://www.tcgplayer.com/product/610466/pokemon-sv-prismatic-evolutions-haban-berry?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "112",
+      "names": {
+        "de": "",
+        "en": "Janine's Secret Art",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-112/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-112/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Janines-Secret-Art-V1-PRE112",
+        "tcgplayer": "https://www.tcgplayer.com/product/610467/pokemon-sv-prismatic-evolutions-janines-secret-art-112-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "113",
+      "names": {
+        "de": "",
+        "en": "Kieran",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-113/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-113/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Kieran-V1-PRE113",
+        "tcgplayer": "https://www.tcgplayer.com/product/610468/pokemon-sv-prismatic-evolutions-kieran-113-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "114",
+      "names": {
+        "de": "",
+        "en": "Lacey",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-114/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-114/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V1-PRE114",
+        "tcgplayer": "https://www.tcgplayer.com/product/610469/pokemon-sv-prismatic-evolutions-lacey-114-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "115",
+      "names": {
+        "de": "",
+        "en": "Larry's Skill",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-115/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-115/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Larrys-Skill-V1-PRE115",
+        "tcgplayer": "https://www.tcgplayer.com/product/610470/pokemon-sv-prismatic-evolutions-larrys-skill-115-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "116",
+      "names": {
+        "de": "",
+        "en": "Max Rod",
+        "fr": ""
+      },
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-116/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-116/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Max-Rod-PRE116",
+        "tcgplayer": "https://www.tcgplayer.com/product/610471/pokemon-sv-prismatic-evolutions-max-rod?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "117",
+      "names": {
+        "de": "",
+        "en": "Maximum Belt",
+        "fr": ""
+      },
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-117/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-117/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Maximum-Belt-PRE117",
+        "tcgplayer": "https://www.tcgplayer.com/product/610472/pokemon-sv-prismatic-evolutions-maximum-belt?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "118",
+      "names": {
+        "de": "",
+        "en": "Ogre's Mask",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-118/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-118/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ogres-Mask-PRE118",
+        "tcgplayer": "https://www.tcgplayer.com/product/610473/pokemon-sv-prismatic-evolutions-ogres-mask?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "119",
+      "names": {
+        "de": "",
+        "en": "Prime Catcher",
+        "fr": ""
+      },
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-119/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-119/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Prime-Catcher-PRE119",
+        "tcgplayer": "https://www.tcgplayer.com/product/610474/pokemon-sv-prismatic-evolutions-prime-catcher?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "120",
+      "names": {
+        "de": "",
+        "en": "Professor Sada's Vitality",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-120/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-120/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Sadas-Vitality-PRE120",
+        "tcgplayer": "https://www.tcgplayer.com/product/610475/pokemon-sv-prismatic-evolutions-professor-sadas-vitality?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "121",
+      "names": {
+        "de": "",
+        "en": "Professor Turo's Scenario",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-121/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-121/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professor-Turos-Scenario-PRE121",
+        "tcgplayer": "https://www.tcgplayer.com/product/610476/pokemon-sv-prismatic-evolutions-professor-turos-scenario?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "122",
+      "names": {
+        "de": "",
+        "en": "Professor's Research",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-122/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-122/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Oak-PRE122",
+        "tcgplayer": "https://www.tcgplayer.com/product/610478/pokemon-sv-prismatic-evolutions-professors-research-professor-elm?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "123",
+      "names": {
+        "de": "",
+        "en": "Professor's Research",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-123/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-123/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Elm-PRE124",
+        "tcgplayer": "https://www.tcgplayer.com/product/610477/pokemon-sv-prismatic-evolutions-professors-research-professor-oak?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "124",
+      "names": {
+        "de": "",
+        "en": "Professor's Research",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-124/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-124/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Rowan-PRE124",
+        "tcgplayer": "https://www.tcgplayer.com/product/610479/pokemon-sv-prismatic-evolutions-professors-research-professor-rowan?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "125",
+      "names": {
+        "de": "",
+        "en": "Professor's Research",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-125/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-125/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Professors-Research-Professor-Sycamore-PRE125",
+        "tcgplayer": "https://www.tcgplayer.com/product/610480/pokemon-sv-prismatic-evolutions-professors-research-professor-sycamore?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "126",
+      "names": {
+        "de": "",
+        "en": "Rescue Board",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-126/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-126/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Rescue-Board-PRE126",
+        "tcgplayer": "https://www.tcgplayer.com/product/610481/pokemon-sv-prismatic-evolutions-rescue-board?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "127",
+      "names": {
+        "de": "",
+        "en": "Roto-Stick",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-127/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-127/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Roto-Stick-PRE127",
+        "tcgplayer": "https://www.tcgplayer.com/product/610482/pokemon-sv-prismatic-evolutions-roto-stick?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "128",
+      "names": {
+        "de": "",
+        "en": "Scoop Up Cyclone",
+        "fr": ""
+      },
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-128/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-128/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Scoop-Up-Cyclone-PRE128",
+        "tcgplayer": "https://www.tcgplayer.com/product/610483/pokemon-sv-prismatic-evolutions-scoop-up-cyclone?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "129",
+      "names": {
+        "de": "",
+        "en": "Sparkling Crystal",
+        "fr": ""
+      },
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-129/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-129/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sparkling-Crystal-PRE129",
+        "tcgplayer": "https://www.tcgplayer.com/product/610484/pokemon-sv-prismatic-evolutions-sparkling-crystal?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "130",
+      "names": {
+        "de": "",
+        "en": "Techno Radar",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-130/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-130/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Techno-Radar-PRE130",
+        "tcgplayer": "https://www.tcgplayer.com/product/610485/pokemon-sv-prismatic-evolutions-techno-radar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "131",
+      "names": {
+        "de": "",
+        "en": "Treasure Tracker",
+        "fr": ""
+      },
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-131/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-131/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Treasure-Tracker-PRE131",
+        "tcgplayer": "https://www.tcgplayer.com/product/610486/pokemon-sv-prismatic-evolutions-treasure-tracker?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "132",
+      "names": {
+        "de": "",
+        "en": "Amarys",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-132/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-132/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Amarys-V2-PRE132",
+        "tcgplayer": "https://www.tcgplayer.com/product/610487/pokemon-sv-prismatic-evolutions-amarys-132-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "133",
+      "names": {
+        "de": "",
+        "en": "Atticus",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-133/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-133/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Atticus-V1-PRE133",
+        "tcgplayer": "https://www.tcgplayer.com/product/610488/pokemon-sv-prismatic-evolutions-atticus-133-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "134",
+      "names": {
+        "de": "",
+        "en": "Atticus",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-134/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-134/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Atticus-V2-PRE134",
+        "tcgplayer": "https://www.tcgplayer.com/product/610489/pokemon-sv-prismatic-evolutions-atticus-134-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "135",
+      "names": {
+        "de": "",
+        "en": "Brassius",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-135/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-135/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Brassius-PRE135",
+        "tcgplayer": "https://www.tcgplayer.com/product/610490/pokemon-sv-prismatic-evolutions-brassius?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "136",
+      "names": {
+        "de": "",
+        "en": "Eri",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-136/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-136/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Eri-PRE136",
+        "tcgplayer": "https://www.tcgplayer.com/product/610491/pokemon-sv-prismatic-evolutions-eri?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "137",
+      "names": {
+        "de": "",
+        "en": "Friends in Paldea",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-137/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-137/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Friends-in-Paldea-V2-PRE137",
+        "tcgplayer": "https://www.tcgplayer.com/product/610492/pokemon-sv-prismatic-evolutions-friends-in-paldea-137-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "138",
+      "names": {
+        "de": "",
+        "en": "Giacomo",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-138/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-138/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Giacomo-PRE138",
+        "tcgplayer": "https://www.tcgplayer.com/product/610493/pokemon-sv-prismatic-evolutions-giacomo?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "139",
+      "names": {
+        "de": "",
+        "en": "Larry's Skill",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-139/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-139/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Larrys-Skill-V2-PRE139",
+        "tcgplayer": "https://www.tcgplayer.com/product/610494/pokemon-sv-prismatic-evolutions-larrys-skill-139-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "140",
+      "names": {
+        "de": "",
+        "en": "Mela",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-140/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-140/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Mela-PRE140",
+        "tcgplayer": "https://www.tcgplayer.com/product/610495/pokemon-sv-prismatic-evolutions-mela?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "141",
+      "names": {
+        "de": "",
+        "en": "Ortega",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-141/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-141/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ortega-PRE141",
+        "tcgplayer": "https://www.tcgplayer.com/product/610496/pokemon-sv-prismatic-evolutions-ortega?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "142",
+      "names": {
+        "de": "",
+        "en": "Raifort",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-142/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-142/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Raifort-PRE142",
+        "tcgplayer": "https://www.tcgplayer.com/product/610497/pokemon-sv-prismatic-evolutions-raifort?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "143",
+      "names": {
+        "de": "",
+        "en": "Tyme",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-143/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-143/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Tyme-PRE143",
+        "tcgplayer": "https://www.tcgplayer.com/product/610498/pokemon-sv-prismatic-evolutions-tyme?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "144",
+      "names": {
+        "de": "",
+        "en": "Leafeon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-144/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-144/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Leafeon-ex-V2-PRE144",
+        "tcgplayer": "https://www.tcgplayer.com/product/610499/pokemon-sv-prismatic-evolutions-leafeon-ex-144-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "145",
+      "names": {
+        "de": "",
+        "en": "Teal Mask Ogerpon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-145/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-145/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Teal-Mask-Ogerpon-ex-V2-PRE145",
+        "tcgplayer": "https://www.tcgplayer.com/product/610500/pokemon-sv-prismatic-evolutions-teal-mask-ogerpon-ex-145-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "146",
+      "names": {
+        "de": "",
+        "en": "Flareon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-146/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-146/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Flareon-ex-V2-PRE146",
+        "tcgplayer": "https://www.tcgplayer.com/product/610501/pokemon-sv-prismatic-evolutions-flareon-ex-146-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "147",
+      "names": {
+        "de": "",
+        "en": "Ceruledge ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-147/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-147/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Ceruledge-ex-PRE147",
+        "tcgplayer": "https://www.tcgplayer.com/product/610502/pokemon-sv-prismatic-evolutions-ceruledge-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "148",
+      "names": {
+        "de": "",
+        "en": "Hearthflame Mask Ogerpon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-148/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-148/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Hearthflame-Mask-Ogerpon-ex-V2-PRE148",
+        "tcgplayer": "https://www.tcgplayer.com/product/610503/pokemon-sv-prismatic-evolutions-hearthflame-mask-ogerpon-ex-148-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "149",
+      "names": {
+        "de": "",
+        "en": "Vaporeon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-149/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-149/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Vaporeon-ex-V2-PRE149",
+        "tcgplayer": "https://www.tcgplayer.com/product/610504/pokemon-sv-prismatic-evolutions-vaporeon-ex-149-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "150",
+      "names": {
+        "de": "",
+        "en": "Glaceon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-150/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-150/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Glaceon-ex-V2-PRE150",
+        "tcgplayer": "https://www.tcgplayer.com/product/610505/pokemon-sv-prismatic-evolutions-glaceon-ex-150-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "151",
+      "names": {
+        "de": "",
+        "en": "Palafin ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-151/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-151/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Palafin-ex-PRE151",
+        "tcgplayer": "https://www.tcgplayer.com/product/610506/pokemon-sv-prismatic-evolutions-palafin-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "152",
+      "names": {
+        "de": "",
+        "en": "Wellspring Mask Ogerpon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-152/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-152/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Wellspring-Mask-Ogerpon-ex-V2-PRE152",
+        "tcgplayer": "https://www.tcgplayer.com/product/610507/pokemon-sv-prismatic-evolutions-wellspring-mask-ogerpon-ex-152-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "153",
+      "names": {
+        "de": "",
+        "en": "Jolteon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-153/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-153/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Jolteon-ex-V2-PRE153",
+        "tcgplayer": "https://www.tcgplayer.com/product/610508/pokemon-sv-prismatic-evolutions-jolteon-ex-153-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "154",
+      "names": {
+        "de": "",
+        "en": "Iron Hands ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-154/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-154/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Hands-ex-V2-PRE154",
+        "tcgplayer": "https://www.tcgplayer.com/product/610509/pokemon-sv-prismatic-evolutions-iron-hands-ex-154-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "155",
+      "names": {
+        "de": "",
+        "en": "Espeon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-155/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-155/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Espeon-ex-V2-PRE155",
+        "tcgplayer": "https://www.tcgplayer.com/product/610510/pokemon-sv-prismatic-evolutions-espeon-ex-155-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "156",
+      "names": {
+        "de": "",
+        "en": "Sylveon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-156/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-156/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sylveon-ex-V2-PRE156",
+        "tcgplayer": "https://www.tcgplayer.com/product/610511/pokemon-sv-prismatic-evolutions-sylveon-ex-156-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "157",
+      "names": {
+        "de": "",
+        "en": "Iron Valiant ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-157/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-157/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Valiant-ex-PRE157",
+        "tcgplayer": "https://www.tcgplayer.com/product/610512/pokemon-sv-prismatic-evolutions-iron-valiant-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "158",
+      "names": {
+        "de": "",
+        "en": "Iron Crown ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-158/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-158/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Crown-ex-PRE158",
+        "tcgplayer": "https://www.tcgplayer.com/product/610513/pokemon-sv-prismatic-evolutions-iron-crown-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "159",
+      "names": {
+        "de": "",
+        "en": "Sandy Shocks ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-159/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-159/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Sandy-Shocks-ex-V2-PRE159",
+        "tcgplayer": "https://www.tcgplayer.com/product/610514/pokemon-sv-prismatic-evolutions-sandy-shocks-ex-159-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "160",
+      "names": {
+        "de": "",
+        "en": "Cornerstone Mask Ogerpon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-160/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-160/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Cornerstone-Mask-Ogerpon-ex-V2-PRE160",
+        "tcgplayer": "https://www.tcgplayer.com/product/610515/pokemon-sv-prismatic-evolutions-cornerstone-mask-ogerpon-ex-160-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "161",
+      "names": {
+        "de": "",
+        "en": "Umbreon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-161/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-161/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Umbreon-ex-V2-PRE161",
+        "tcgplayer": "https://www.tcgplayer.com/product/610516/pokemon-sv-prismatic-evolutions-umbreon-ex-161-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "162",
+      "names": {
+        "de": "",
+        "en": "Roaring Moon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-162/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-162/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Roaring-Moon-ex-PRE162",
+        "tcgplayer": "https://www.tcgplayer.com/product/610517/pokemon-sv-prismatic-evolutions-roaring-moon-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "163",
+      "names": {
+        "de": "",
+        "en": "Pecharunt ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-163/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-163/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Pecharunt-ex-PRE163",
+        "tcgplayer": "https://www.tcgplayer.com/product/610518/pokemon-sv-prismatic-evolutions-pecharunt-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "164",
+      "names": {
+        "de": "",
+        "en": "Gholdengo ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-164/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-164/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Gholdengo-ex-PRE164",
+        "tcgplayer": "https://www.tcgplayer.com/product/610519/pokemon-sv-prismatic-evolutions-gholdengo-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "165",
+      "names": {
+        "de": "",
+        "en": "Dragapult ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-165/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-165/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Dragapult-ex-V2-PRE165",
+        "tcgplayer": "https://www.tcgplayer.com/product/610520/pokemon-sv-prismatic-evolutions-dragapult-ex-165-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "166",
+      "names": {
+        "de": "",
+        "en": "Raging Bolt ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-166/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-166/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Raging-Bolt-ex-PRE166",
+        "tcgplayer": "https://www.tcgplayer.com/product/610521/pokemon-sv-prismatic-evolutions-raging-bolt-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "167",
+      "names": {
+        "de": "",
+        "en": "Eevee ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-167/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-167/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Eevee-ex-V2-PRE167",
+        "tcgplayer": "https://www.tcgplayer.com/product/610522/pokemon-sv-prismatic-evolutions-eevee-ex-167-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "168",
+      "names": {
+        "de": "",
+        "en": "Bloodmoon Ursaluna ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-168/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-168/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Bloodmoon-Ursaluna-ex-PRE168",
+        "tcgplayer": "https://www.tcgplayer.com/product/610523/pokemon-sv-prismatic-evolutions-bloodmoon-ursaluna-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "169",
+      "names": {
+        "de": "",
+        "en": "Terapagos ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-169/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-169/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Terapagos-ex-V2-PRE169",
+        "tcgplayer": "https://www.tcgplayer.com/product/610524/pokemon-sv-prismatic-evolutions-terapagos-ex-169-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "170",
+      "names": {
+        "de": "",
+        "en": "Amarys",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-170/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-170/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Amarys-V3-PRE170",
+        "tcgplayer": "https://www.tcgplayer.com/product/610525/pokemon-sv-prismatic-evolutions-amarys-170-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "171",
+      "names": {
+        "de": "",
+        "en": "Crispin",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-171/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-171/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Crispin-V2-PRE171",
+        "tcgplayer": "https://www.tcgplayer.com/product/610526/pokemon-sv-prismatic-evolutions-crispin-171-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "172",
+      "names": {
+        "de": "",
+        "en": "Drayton",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-172/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-172/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Drayton-PRE172",
+        "tcgplayer": "https://www.tcgplayer.com/product/610527/pokemon-sv-prismatic-evolutions-drayton?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "173",
+      "names": {
+        "de": "",
+        "en": "Janine's Secret Art",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-173/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-173/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Janines-Secret-Art-V2-PRE173",
+        "tcgplayer": "https://www.tcgplayer.com/product/610528/pokemon-sv-prismatic-evolutions-janines-secret-art-173-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "174",
+      "names": {
+        "de": "",
+        "en": "Kieran",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-174/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-174/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Kieran-V2-PRE174",
+        "tcgplayer": "https://www.tcgplayer.com/product/610529/pokemon-sv-prismatic-evolutions-kieran-174-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "175",
+      "names": {
+        "de": "",
+        "en": "Lacey",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-175/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-175/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Lacey-V2-PRE175",
+        "tcgplayer": "https://www.tcgplayer.com/product/610530/pokemon-sv-prismatic-evolutions-lacey-175-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "176",
+      "names": {
+        "de": "",
+        "en": "Iron Leaves ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-176/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-176/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Iron-Leaves-ex-PRE176",
+        "tcgplayer": "https://www.tcgplayer.com/product/610531/pokemon-sv-prismatic-evolutions-iron-leaves-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "177",
+      "names": {
+        "de": "",
+        "en": "Teal Mask Ogerpon ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-177/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-177/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Teal-Mask-Ogerpon-ex-V3-PRE177",
+        "tcgplayer": "https://www.tcgplayer.com/product/610532/pokemon-sv-prismatic-evolutions-teal-mask-ogerpon-ex-177-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "178",
+      "names": {
+        "de": "",
+        "en": "Walking Wake ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-178/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-178/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Walking-Wake-ex-PRE178",
+        "tcgplayer": "https://www.tcgplayer.com/product/610533/pokemon-sv-prismatic-evolutions-walking-wake-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "179",
+      "names": {
+        "de": "",
+        "en": "Pikachu ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-179/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-179/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Pikachu-ex-PRE179",
+        "tcgplayer": "https://www.tcgplayer.com/product/610534/pokemon-sv-prismatic-evolutions-pikachu-ex-179-131?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "180",
+      "names": {
+        "de": "",
+        "en": "Terapagos ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv8pt5-180/medium",
+        "large": "https://images.scrydex.com/pokemon/sv8pt5-180/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Prismatic-Evolutions/Terapagos-ex-V3-PRE180",
+        "tcgplayer": "https://www.tcgplayer.com/product/610535/pokemon-sv-prismatic-evolutions-terapagos-ex-180-131?page=1&Language=English"
+      },
+      "notes": ""
+    }
+  ]
+}

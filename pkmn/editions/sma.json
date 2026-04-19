@@ -1,0 +1,4144 @@
+{
+  "edition": {
+    "id": "sma",
+    "name": "Hidden Fates Shiny Vault",
+    "nameEN": "Hidden Fates Shiny Vault",
+    "names": {
+      "de": "Verborgenes Schicksal Glitzer-Tresor",
+      "en": "Hidden Fates Shiny Vault",
+      "es": "Destinos Ocultos Tesoro Brillante",
+      "fr": "Destinées Occultes Coffre Étincelant",
+      "it": "Destino Sfuggente Tesoro Lucente",
+      "pt": "Destinos Ocultos Cofre Brilhante"
+    },
+    "series": "Sun & Moon",
+    "seriesNames": {
+      "de": "Sonne & Mond",
+      "en": "Sun & Moon",
+      "es": "Sol y Luna",
+      "fr": "Soleil et Lune",
+      "it": "Sole e Luna",
+      "pt": "Sol e Lua"
+    },
+    "total": 94,
+    "releaseDate": "2019-08-23"
+  },
+  "cards": [
+    {
+      "number": "SV1",
+      "names": {
+        "de": "",
+        "en": "Scyther",
+        "es": "",
+        "fr": "Insécateur",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV1/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV1/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV1/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV1/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV2",
+      "names": {
+        "de": "",
+        "en": "Rowlet",
+        "es": "",
+        "fr": "Brindibou",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV2/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV2/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV2/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV2/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV3",
+      "names": {
+        "de": "",
+        "en": "Dartrix",
+        "es": "",
+        "fr": "Efflèche",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV3/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV3/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV3/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV3/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV4",
+      "names": {
+        "de": "",
+        "en": "Wimpod",
+        "es": "",
+        "fr": "Sovkipou",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV4/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV4/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV4/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV4/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV5",
+      "names": {
+        "de": "",
+        "en": "Pheromosa",
+        "es": "",
+        "fr": "Cancrelove",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV5/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV5/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV5/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV5/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV6",
+      "names": {
+        "de": "",
+        "en": "Charmander",
+        "es": "",
+        "fr": "Salamèche",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV6/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV6/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV6/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV6/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV7",
+      "names": {
+        "de": "",
+        "en": "Charmeleon",
+        "es": "",
+        "fr": "Reptincel",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV7/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV7/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV7/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV7/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV8",
+      "names": {
+        "de": "",
+        "en": "Alolan Vulpix",
+        "es": "",
+        "fr": "Goupix d’Alola",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV8/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV8/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV8/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV8/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV9",
+      "names": {
+        "de": "",
+        "en": "Wooper",
+        "es": "",
+        "fr": "Axoloto",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV9/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV9/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV9/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV9/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV10",
+      "names": {
+        "de": "",
+        "en": "Quagsire",
+        "es": "",
+        "fr": "Maraiste",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV10/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV10/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV10/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV10/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV11",
+      "names": {
+        "de": "",
+        "en": "Froakie",
+        "es": "",
+        "fr": "Grenousse",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV11/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV11/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV11/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV11/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV12",
+      "names": {
+        "de": "",
+        "en": "Frogadier",
+        "es": "",
+        "fr": "Croâporal",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV12/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV12/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV12/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV12/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV13",
+      "names": {
+        "de": "",
+        "en": "Voltorb",
+        "es": "",
+        "fr": "Voltorbe",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV13/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV13/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV13/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV13/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV14",
+      "names": {
+        "de": "",
+        "en": "Xurkitree",
+        "es": "",
+        "fr": "Câblifère",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV14/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV14/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV14/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV14/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV15",
+      "names": {
+        "de": "",
+        "en": "Seviper",
+        "es": "",
+        "fr": "Séviper",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV15/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV15/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV15/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV15/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV16",
+      "names": {
+        "de": "",
+        "en": "Shuppet",
+        "es": "",
+        "fr": "Polichombr",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV16/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV16/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV16/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV16/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV17",
+      "names": {
+        "de": "",
+        "en": "Inkay",
+        "es": "",
+        "fr": "Sepiatop",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV17/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV17/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV17/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV17/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV18",
+      "names": {
+        "de": "",
+        "en": "Malamar",
+        "es": "",
+        "fr": "Sepiatroce",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV18/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV18/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV18/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV18/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV18/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV18/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV18/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV18/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV18/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV18/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV18/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV18/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV19",
+      "names": {
+        "de": "",
+        "en": "Poipole",
+        "es": "",
+        "fr": "Vémini",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV19/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV19/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV19/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV19/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV20",
+      "names": {
+        "de": "",
+        "en": "Sudowoodo",
+        "es": "",
+        "fr": "Simularbre",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV20/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV20/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV20/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV20/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV21",
+      "names": {
+        "de": "",
+        "en": "Riolu",
+        "es": "",
+        "fr": "Riolu",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV21/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV21/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV21/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV21/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV21/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV21/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV21/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV21/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV21/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV21/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV21/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV21/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV22",
+      "names": {
+        "de": "",
+        "en": "Lucario",
+        "es": "",
+        "fr": "Lucario",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV22/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV22/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV22/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV22/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV22/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV22/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV22/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV22/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV22/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV22/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV22/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV22/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV23",
+      "names": {
+        "de": "",
+        "en": "Rockruff",
+        "es": "",
+        "fr": "Rocabot",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV23/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV23/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV23/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV23/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV23/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV23/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV23/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV23/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV23/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV23/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV23/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV23/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV24",
+      "names": {
+        "de": "",
+        "en": "Buzzwole",
+        "es": "",
+        "fr": "Mouscoto",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV24/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV24/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV24/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV24/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV24/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV24/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV24/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV24/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV24/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV24/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV24/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV24/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV25",
+      "names": {
+        "de": "",
+        "en": "Zorua",
+        "es": "",
+        "fr": "Zorua",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV25/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV25/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV25/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV25/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV25/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV25/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV25/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV25/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV25/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV25/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV25/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV25/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV26",
+      "names": {
+        "de": "",
+        "en": "Guzzlord",
+        "es": "",
+        "fr": "Engloutyran",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV26/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV26/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV26/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV26/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV26/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV26/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV26/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV26/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV26/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV26/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV26/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV26/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV27",
+      "names": {
+        "de": "",
+        "en": "Magnemite",
+        "es": "",
+        "fr": "Magnéti",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV27/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV27/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV27/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV27/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV27/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV27/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV27/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV27/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV27/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV27/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV27/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV27/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV28",
+      "names": {
+        "de": "",
+        "en": "Magneton",
+        "es": "",
+        "fr": "Magnéton",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV28/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV28/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV28/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV28/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV28/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV28/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV28/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV28/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV28/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV28/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV28/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV28/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV29",
+      "names": {
+        "de": "",
+        "en": "Magnezone",
+        "es": "",
+        "fr": "Magnézone",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV29/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV29/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV29/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV29/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV29/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV29/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV29/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV29/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV29/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV29/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV29/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV29/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV30",
+      "names": {
+        "de": "",
+        "en": "Beldum",
+        "es": "",
+        "fr": "Terhal",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV30/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV30/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV30/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV30/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV30/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV30/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV30/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV30/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV30/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV30/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV30/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV30/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV31",
+      "names": {
+        "de": "",
+        "en": "Metang",
+        "es": "",
+        "fr": "Métang",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV31/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV31/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV31/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV31/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV31/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV31/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV31/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV31/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV31/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV31/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV31/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV31/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV32",
+      "names": {
+        "de": "",
+        "en": "Celesteela",
+        "es": "",
+        "fr": "Bamboiselle",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV32/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV32/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV32/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV32/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV32/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV32/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV32/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV32/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV32/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV32/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV32/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV32/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV33",
+      "names": {
+        "de": "",
+        "en": "Kartana",
+        "es": "",
+        "fr": "Katagami",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV33/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV33/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV33/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV33/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV33/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV33/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV33/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV33/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV33/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV33/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV33/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV33/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV34",
+      "names": {
+        "de": "",
+        "en": "Ralts",
+        "es": "",
+        "fr": "Tarsal",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV34/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV34/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV34/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV34/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV34/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV34/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV34/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV34/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV34/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV34/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV34/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV34/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV35",
+      "names": {
+        "de": "",
+        "en": "Kirlia",
+        "es": "",
+        "fr": "Kirlia",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV35/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV35/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV35/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV35/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV35/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV35/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV35/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV35/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV35/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV35/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV35/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV35/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV36",
+      "names": {
+        "de": "",
+        "en": "Diancie",
+        "es": "",
+        "fr": "Diancie",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV36/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV36/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV36/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV36/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV36/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV36/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV36/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV36/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV36/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV36/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV36/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV36/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV37",
+      "names": {
+        "de": "",
+        "en": "Altaria",
+        "es": "",
+        "fr": "Altaria",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV37/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV37/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV37/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV37/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV37/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV37/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV37/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV37/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV37/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV37/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV37/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV37/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV38",
+      "names": {
+        "de": "",
+        "en": "Gible",
+        "es": "",
+        "fr": "Griknot",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV38/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV38/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV38/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV38/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV38/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV38/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV38/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV38/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV38/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV38/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV38/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV38/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV39",
+      "names": {
+        "de": "",
+        "en": "Gabite",
+        "es": "",
+        "fr": "Carmache",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV39/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV39/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV39/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV39/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV39/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV39/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV39/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV39/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV39/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV39/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV39/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV39/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV40",
+      "names": {
+        "de": "",
+        "en": "Garchomp",
+        "es": "",
+        "fr": "Carchacrok",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV40/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV40/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV40/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV40/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV40/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV40/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV40/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV40/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV40/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV40/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV40/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV40/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV41",
+      "names": {
+        "de": "",
+        "en": "Eevee",
+        "es": "",
+        "fr": "Évoli",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV41/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV41/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV41/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV41/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV41/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV41/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV41/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV41/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV41/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV41/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV41/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV41/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV42",
+      "names": {
+        "de": "",
+        "en": "Swablu",
+        "es": "",
+        "fr": "Tylton",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV42/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV42/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV42/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV42/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV42/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV42/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV42/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV42/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV42/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV42/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV42/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV42/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV43",
+      "names": {
+        "de": "",
+        "en": "Noibat",
+        "es": "",
+        "fr": "Sonistrelle",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV43/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV43/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV43/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV43/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV43/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV43/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV43/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV43/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV43/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV43/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV43/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV43/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV44",
+      "names": {
+        "de": "",
+        "en": "Oranguru",
+        "es": "",
+        "fr": "Gouroutan",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV44/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV44/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV44/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV44/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV44/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV44/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV44/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV44/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV44/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV44/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV44/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV44/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV45",
+      "names": {
+        "de": "",
+        "en": "Type: Null",
+        "es": "",
+        "fr": "Type:0",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV45/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV45/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV45/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV45/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV45/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV45/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV45/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV45/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV45/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV45/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV45/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV45/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV46",
+      "names": {
+        "de": "",
+        "en": "Leafeon-GX",
+        "es": "",
+        "fr": "Phyllali-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV46/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV46/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV46/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV46/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV46/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV46/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV46/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV46/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV46/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV46/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV46/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV46/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV47",
+      "names": {
+        "de": "",
+        "en": "Decidueye-GX",
+        "es": "",
+        "fr": "Archéduc-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV47/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV47/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV47/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV47/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV47/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV47/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV47/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV47/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV47/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV47/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV47/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV47/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV48",
+      "names": {
+        "de": "",
+        "en": "Golisopod-GX",
+        "es": "",
+        "fr": "Sarmuraï-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV48/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV48/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV48/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV48/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV48/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV48/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV48/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV48/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV48/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV48/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV48/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV48/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV49",
+      "names": {
+        "de": "",
+        "en": "Charizard-GX",
+        "es": "",
+        "fr": "Dracaufeu-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV49/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV49/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV49/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV49/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV49/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV49/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV49/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV49/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV49/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV49/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV49/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV49/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV50",
+      "names": {
+        "de": "",
+        "en": "Ho-Oh-GX",
+        "es": "",
+        "fr": "Ho-Oh-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV50/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV50/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV50/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV50/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV50/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV50/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV50/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV50/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV50/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV50/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV50/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV50/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV51",
+      "names": {
+        "de": "",
+        "en": "Reshiram-GX",
+        "es": "",
+        "fr": "Reshiram-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV51/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV51/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV51/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV51/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV51/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV51/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV51/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV51/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV51/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV51/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV51/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV51/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV52",
+      "names": {
+        "de": "",
+        "en": "Turtonator-GX",
+        "es": "",
+        "fr": "Boumata-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV52/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV52/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV52/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV52/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV52/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV52/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV52/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV52/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV52/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV52/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV52/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV52/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV53",
+      "names": {
+        "de": "",
+        "en": "Alolan Ninetales-GX",
+        "es": "",
+        "fr": "Feunard d’Alola-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV53/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV53/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV53/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV53/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV53/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV53/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV53/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV53/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV53/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV53/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV53/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV53/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV54",
+      "names": {
+        "de": "",
+        "en": "Articuno-GX",
+        "es": "",
+        "fr": "Artikodin-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV54/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV54/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV54/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV54/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV54/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV54/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV54/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV54/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV54/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV54/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV54/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV54/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV55",
+      "names": {
+        "de": "",
+        "en": "Glaceon-GX",
+        "es": "",
+        "fr": "Givrali-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV55/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV55/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV55/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV55/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV55/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV55/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV55/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV55/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV55/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV55/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV55/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV55/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV56",
+      "names": {
+        "de": "",
+        "en": "Greninja-GX",
+        "es": "",
+        "fr": "Amphinobi-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV56/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV56/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV56/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV56/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV56/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV56/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV56/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV56/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV56/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV56/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV56/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV56/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV57",
+      "names": {
+        "de": "",
+        "en": "Electrode-GX",
+        "es": "",
+        "fr": "Électrode-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV57/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV57/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV57/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV57/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV57/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV57/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV57/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV57/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV57/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV57/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV57/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV57/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV58",
+      "names": {
+        "de": "",
+        "en": "Xurkitree-GX",
+        "es": "",
+        "fr": "Câblifère-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV58/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV58/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV58/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV58/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV58/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV58/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV58/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV58/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV58/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV58/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV58/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV58/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV59",
+      "names": {
+        "de": "",
+        "en": "Mewtwo-GX",
+        "es": "",
+        "fr": "Mewtwo-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV59/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV59/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV59/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV59/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV59/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV59/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV59/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV59/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV59/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV59/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV59/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV59/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV60",
+      "names": {
+        "de": "",
+        "en": "Espeon-GX",
+        "es": "",
+        "fr": "Mentali-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV60/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV60/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV60/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV60/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV60/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV60/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV60/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV60/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV60/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV60/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV60/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV60/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV61",
+      "names": {
+        "de": "",
+        "en": "Banette-GX",
+        "es": "",
+        "fr": "Branette-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV61/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV61/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV61/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV61/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV61/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV61/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV61/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV61/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV61/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV61/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV61/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV61/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV62",
+      "names": {
+        "de": "",
+        "en": "Nihilego-GX",
+        "es": "",
+        "fr": "Zéroïd-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV62/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV62/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV62/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV62/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV62/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV62/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV62/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV62/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV62/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV62/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV62/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV62/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV63",
+      "names": {
+        "de": "",
+        "en": "Naganadel-GX",
+        "es": "",
+        "fr": "Mandrillon-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV63/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV63/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV63/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV63/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV63/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV63/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV63/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV63/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV63/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV63/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV63/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV63/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV64",
+      "names": {
+        "de": "",
+        "en": "Lucario-GX",
+        "es": "",
+        "fr": "Lucario-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV64/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV64/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV64/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV64/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV64/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV64/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV64/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV64/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV64/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV64/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV64/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV64/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV65",
+      "names": {
+        "de": "",
+        "en": "Zygarde-GX",
+        "es": "",
+        "fr": "Zygarde-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV65/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV65/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV65/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV65/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV65/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV65/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV65/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV65/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV65/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV65/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV65/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV65/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV66",
+      "names": {
+        "de": "",
+        "en": "Lycanroc-GX",
+        "es": "",
+        "fr": "Lougaroc-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV66/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV66/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV66/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV66/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV66/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV66/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV66/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV66/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV66/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV66/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV66/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV66/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV67",
+      "names": {
+        "de": "",
+        "en": "Lycanroc-GX",
+        "es": "",
+        "fr": "Lougaroc-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV67/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV67/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV67/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV67/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV67/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV67/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV67/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV67/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV67/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV67/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV67/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV67/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV68",
+      "names": {
+        "de": "",
+        "en": "Buzzwole-GX",
+        "es": "",
+        "fr": "Mouscoto-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV68/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV68/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV68/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV68/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV68/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV68/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV68/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV68/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV68/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV68/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV68/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV68/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV69",
+      "names": {
+        "de": "",
+        "en": "Umbreon-GX",
+        "es": "",
+        "fr": "Noctali-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV69/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV69/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV69/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV69/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV69/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV69/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV69/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV69/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV69/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV69/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV69/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV69/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV70",
+      "names": {
+        "de": "",
+        "en": "Darkrai-GX",
+        "es": "",
+        "fr": "Darkrai-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV70/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV70/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV70/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV70/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV70/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV70/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV70/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV70/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV70/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV70/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV70/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV70/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV71",
+      "names": {
+        "de": "",
+        "en": "Guzzlord-GX",
+        "es": "",
+        "fr": "Engloutyran-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV71/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV71/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV71/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV71/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV71/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV71/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV71/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV71/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV71/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV71/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV71/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV71/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV72",
+      "names": {
+        "de": "",
+        "en": "Scizor-GX",
+        "es": "",
+        "fr": "Cizayox-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV72/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV72/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV72/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV72/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV72/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV72/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV72/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV72/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV72/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV72/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV72/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV72/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV73",
+      "names": {
+        "de": "",
+        "en": "Kartana-GX",
+        "es": "",
+        "fr": "Katagami-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV73/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV73/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV73/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV73/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV73/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV73/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV73/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV73/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV73/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV73/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV73/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV73/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV74",
+      "names": {
+        "de": "",
+        "en": "Stakataka-GX",
+        "es": "",
+        "fr": "Ama-Ama-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV74/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV74/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV74/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV74/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV74/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV74/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV74/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV74/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV74/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV74/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV74/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV74/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV75",
+      "names": {
+        "de": "",
+        "en": "Gardevoir-GX",
+        "es": "",
+        "fr": "Gardevoir-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV75/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV75/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV75/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV75/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV75/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV75/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV75/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV75/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV75/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV75/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV75/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV75/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV76",
+      "names": {
+        "de": "",
+        "en": "Sylveon-GX",
+        "es": "",
+        "fr": "Nymphali-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV76/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV76/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV76/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV76/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV76/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV76/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV76/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV76/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV76/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV76/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV76/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV76/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV77",
+      "names": {
+        "de": "",
+        "en": "Altaria-GX",
+        "es": "",
+        "fr": "Altaria-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV77/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV77/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV77/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV77/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV77/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV77/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV77/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV77/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV77/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV77/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV77/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV77/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV78",
+      "names": {
+        "de": "",
+        "en": "Noivern-GX",
+        "es": "",
+        "fr": "Bruyverne-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV78/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV78/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV78/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV78/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV78/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV78/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV78/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV78/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV78/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV78/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV78/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV78/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV79",
+      "names": {
+        "de": "",
+        "en": "Silvally-GX",
+        "es": "",
+        "fr": "Silvallié-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV79/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV79/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV79/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV79/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV79/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV79/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV79/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV79/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV79/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV79/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV79/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV79/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV80",
+      "names": {
+        "de": "",
+        "en": "Drampa-GX",
+        "es": "",
+        "fr": "Draïeul-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV80/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV80/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV80/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV80/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV80/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV80/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV80/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV80/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV80/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV80/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV80/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV80/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV81",
+      "names": {
+        "de": "",
+        "en": "Aether Foundation Employee",
+        "es": "",
+        "fr": "Employés de la Fondation Æther",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV81/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV81/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV81/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV81/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV81/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV81/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV81/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV81/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV81/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV81/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV81/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV81/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV82",
+      "names": {
+        "de": "",
+        "en": "Cynthia",
+        "es": "",
+        "fr": "Cynthia",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV82/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV82/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV82/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV82/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV82/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV82/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV82/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV82/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV82/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV82/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV82/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV82/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV83",
+      "names": {
+        "de": "",
+        "en": "Fisherman",
+        "es": "",
+        "fr": "Pêcheur",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV83/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV83/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV83/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV83/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV83/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV83/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV83/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV83/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV83/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV83/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV83/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV83/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV84",
+      "names": {
+        "de": "",
+        "en": "Guzma",
+        "es": "",
+        "fr": "Guzma",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV84/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV84/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV84/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV84/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV84/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV84/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV84/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV84/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV84/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV84/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV84/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV84/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV85",
+      "names": {
+        "de": "",
+        "en": "Hiker",
+        "es": "",
+        "fr": "Montagnard",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV85/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV85/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV85/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV85/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV85/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV85/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV85/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV85/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV85/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV85/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV85/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV85/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV86",
+      "names": {
+        "de": "",
+        "en": "Lady",
+        "es": "",
+        "fr": "Mademoiselle",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Shiny rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV86/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV86/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV86/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV86/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV86/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV86/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV86/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV86/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV86/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV86/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV86/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV86/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV87",
+      "names": {
+        "de": "",
+        "en": "Aether Paradise Conservation Area",
+        "es": "",
+        "fr": "Réserve Naturelle du Paradis Æther",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV87/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV87/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV87/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV87/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV87/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV87/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV87/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV87/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV87/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV87/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV87/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV87/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV88",
+      "names": {
+        "de": "",
+        "en": "Brooklet Hill",
+        "es": "",
+        "fr": "Colline Clapotis",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV88/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV88/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV88/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV88/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV88/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV88/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV88/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV88/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV88/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV88/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV88/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV88/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV89",
+      "names": {
+        "de": "",
+        "en": "Mt. Coronet",
+        "es": "",
+        "fr": "Mont Couronné",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV89/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV89/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV89/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV89/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV89/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV89/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV89/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV89/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV89/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV89/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV89/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV89/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV90",
+      "names": {
+        "de": "",
+        "en": "Shrine of Punishment",
+        "es": "",
+        "fr": "Chapelle des Châtiments",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Secret Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV90/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV90/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV90/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV90/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV90/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV90/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV90/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV90/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV90/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV90/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV90/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV90/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV91",
+      "names": {
+        "de": "",
+        "en": "Tapu Bulu-GX",
+        "es": "",
+        "fr": "Tokotoro-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Secret Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV91/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV91/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV91/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV91/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV91/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV91/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV91/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV91/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV91/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV91/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV91/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV91/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV92",
+      "names": {
+        "de": "",
+        "en": "Tapu Fini-GX",
+        "es": "",
+        "fr": "Tokopisco-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Secret Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV92/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV92/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV92/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV92/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV92/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV92/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV92/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV92/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV92/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV92/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV92/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV92/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV93",
+      "names": {
+        "de": "",
+        "en": "Tapu Koko-GX",
+        "es": "",
+        "fr": "Tokorico-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Secret Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV93/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV93/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV93/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV93/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV93/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV93/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV93/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV93/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV93/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV93/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV93/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV93/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "SV94",
+      "names": {
+        "de": "",
+        "en": "Tapu Lele-GX",
+        "es": "",
+        "fr": "Tokopiyon-GX",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Secret Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/sm/sma/SV94/low.webp",
+        "large": "https://assets.tcgdex.net/en/sm/sma/SV94/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/sm/sma/SV94/low.webp",
+          "large": "https://assets.tcgdex.net/de/sm/sma/SV94/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/sm/sma/SV94/low.webp",
+          "large": "https://assets.tcgdex.net/fr/sm/sma/SV94/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/sm/sma/SV94/low.webp",
+          "large": "https://assets.tcgdex.net/es/sm/sma/SV94/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/sm/sma/SV94/low.webp",
+          "large": "https://assets.tcgdex.net/it/sm/sma/SV94/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/sm/sma/SV94/low.webp",
+          "large": "https://assets.tcgdex.net/pt/sm/sma/SV94/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

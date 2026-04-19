@@ -783,14 +783,14 @@
         "it": "Pokémon GO",
         "pt": "Pokémon GO"
       },
-      "logo": "setlogo/pok-mon-go.png",
+      "logo": "setlogo/pokemon-go.png",
       "logos": {
-        "en": "setlogo/pok-mon-go.png",
-        "de": "setlogo/de/pok-mon-go.png",
-        "fr": "setlogo/fr/pok-mon-go.png",
-        "es": "setlogo/es/pok-mon-go.png",
-        "it": "setlogo/it/pok-mon-go.png",
-        "pt": "setlogo/pt/pok-mon-go.png"
+        "en": "setlogo/pokemon-go.png",
+        "de": "setlogo/de/pokemon-go.png",
+        "fr": "setlogo/fr/pokemon-go.png",
+        "es": "setlogo/es/pokemon-go.png",
+        "it": "setlogo/it/pokemon-go.png",
+        "pt": "setlogo/pt/pokemon-go.png"
       },
       "symbol": "",
       "total": 88,
@@ -1071,14 +1071,14 @@
         "it": "Futuri Campioni",
         "pt": "Caminho do Campeão"
       },
-      "logo": "setlogo/champion-s-path.png",
+      "logo": "setlogo/champions-path.png",
       "logos": {
-        "en": "setlogo/champion-s-path.png",
-        "de": "setlogo/de/champion-s-path.png",
-        "fr": "setlogo/fr/champion-s-path.png",
-        "es": "setlogo/es/champion-s-path.png",
-        "it": "setlogo/it/champion-s-path.png",
-        "pt": "setlogo/pt/champion-s-path.png"
+        "en": "setlogo/champions-path.png",
+        "de": "setlogo/de/champions-path.png",
+        "fr": "setlogo/fr/champions-path.png",
+        "es": "setlogo/es/champions-path.png",
+        "it": "setlogo/it/champions-path.png",
+        "pt": "setlogo/pt/champions-path.png"
       },
       "symbol": "",
       "total": 80,

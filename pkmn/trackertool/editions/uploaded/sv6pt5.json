@@ -1,0 +1,2050 @@
+{
+  "edition": {
+    "id": "sv6pt5",
+    "name": "Shrouded Fable",
+    "nameEN": "Shrouded Fable",
+    "total": 99,
+    "releaseDate": "2024-08-02"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "",
+        "en": "Joltik",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-1/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-1/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Joltik-SFA001",
+        "tcgplayer": "https://www.tcgplayer.com/product/560311/pokemon-sv-shrouded-fable-joltik?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "",
+        "en": "Galvantula",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-2/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-2/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Galvantula-SFA002",
+        "tcgplayer": "https://www.tcgplayer.com/product/560312/pokemon-sv-shrouded-fable-galvantula?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "",
+        "en": "Rowlet",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-3/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-3/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Rowlet-SFA003",
+        "tcgplayer": "https://www.tcgplayer.com/product/560313/pokemon-sv-shrouded-fable-rowlet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "",
+        "en": "Dartrix",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-4/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-4/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dartrix-SFA004",
+        "tcgplayer": "https://www.tcgplayer.com/product/560314/pokemon-sv-shrouded-fable-dartrix?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "",
+        "en": "Decidueye",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-5/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-5/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Decidueye-SFA005",
+        "tcgplayer": "https://www.tcgplayer.com/product/560315/pokemon-sv-shrouded-fable-decidueye?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "",
+        "en": "Tapu Bulu",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-6/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-6/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Tapu-Bulu-V1-SFA006",
+        "tcgplayer": "https://www.tcgplayer.com/product/560316/pokemon-sv-shrouded-fable-tapu-bulu-006-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "",
+        "en": "Houndour",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-7/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-7/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Houndour-SFA007",
+        "tcgplayer": "https://www.tcgplayer.com/product/560317/pokemon-sv-shrouded-fable-houndour?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "",
+        "en": "Houndoom",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-8/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-8/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Houndoom-V1-SFA008",
+        "tcgplayer": "https://www.tcgplayer.com/product/560318/pokemon-sv-shrouded-fable-houndoom-008-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "",
+        "en": "Iron Moth",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-9/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-9/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Iron-Moth-SFA009",
+        "tcgplayer": "https://www.tcgplayer.com/product/560319/pokemon-sv-shrouded-fable-iron-moth?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "",
+        "en": "Horsea",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-10/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-10/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Horsea-V1-SFA010",
+        "tcgplayer": "https://www.tcgplayer.com/product/560320/pokemon-sv-shrouded-fable-horsea-010-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "",
+        "en": "Seadra",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-11/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-11/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Seadra-V1-SFA011",
+        "tcgplayer": "https://www.tcgplayer.com/product/560321/pokemon-sv-shrouded-fable-seadra?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "",
+        "en": "Kingdra ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-12/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-12/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Kingdra-ex-V1-SFA012",
+        "tcgplayer": "https://www.tcgplayer.com/product/560322/pokemon-sv-shrouded-fable-kingdra-ex-012-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "",
+        "en": "Sneasel",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-13/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-13/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Sneasel-SFA013",
+        "tcgplayer": "https://www.tcgplayer.com/product/560323/pokemon-sv-shrouded-fable-sneasel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "",
+        "en": "Weavile",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-14/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-14/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Weavile-SFA014",
+        "tcgplayer": "https://www.tcgplayer.com/product/560324/pokemon-sv-shrouded-fable-weavile?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "",
+        "en": "Revavroom ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-15/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-15/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Revavroom-ex-V1-SFA015",
+        "tcgplayer": "https://www.tcgplayer.com/product/560325/pokemon-sv-shrouded-fable-revavroom-ex-015-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "",
+        "en": "Drowzee",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-16/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-16/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Drowzee-SFA016",
+        "tcgplayer": "https://www.tcgplayer.com/product/560326/pokemon-sv-shrouded-fable-drowzee?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "",
+        "en": "Hypno",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-17/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-17/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Hypno-SFA017",
+        "tcgplayer": "https://www.tcgplayer.com/product/560327/pokemon-sv-shrouded-fable-hypno?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "",
+        "en": "Duskull",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-18/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-18/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Duskull-V1-SFA018",
+        "tcgplayer": "https://www.tcgplayer.com/product/560328/pokemon-sv-shrouded-fable-duskull-018-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "",
+        "en": "Dusclops",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-19/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-19/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dusclops-V1-SFA019",
+        "tcgplayer": "https://www.tcgplayer.com/product/560329/pokemon-sv-shrouded-fable-dusclops-019-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "",
+        "en": "Dusknoir",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-20/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-20/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dusknoir-V1-SFA020",
+        "tcgplayer": "https://www.tcgplayer.com/product/560330/pokemon-sv-shrouded-fable-dusknoir-020-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "",
+        "en": "Cresselia",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-21/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-21/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cresselia-V1-SFA021",
+        "tcgplayer": "https://www.tcgplayer.com/product/560331/pokemon-sv-shrouded-fable-cresselia-021-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "",
+        "en": "Sylveon",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-22/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-22/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Sylveon-SFA022",
+        "tcgplayer": "https://www.tcgplayer.com/product/560332/pokemon-sv-shrouded-fable-sylveon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "",
+        "en": "Croagunk",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-23/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-23/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Croagunk-SFA023",
+        "tcgplayer": "https://www.tcgplayer.com/product/560333/pokemon-sv-shrouded-fable-croagunk?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "",
+        "en": "Toxicroak",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-24/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-24/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Toxicroak-SFA024",
+        "tcgplayer": "https://www.tcgplayer.com/product/560334/pokemon-sv-shrouded-fable-toxicroak?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "",
+        "en": "Bloodmoon Ursaluna",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-25/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-25/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Bloodmoon-Ursaluna-SFA025",
+        "tcgplayer": "https://www.tcgplayer.com/product/560335/pokemon-sv-shrouded-fable-bloodmoon-ursaluna?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "",
+        "en": "Slither Wing",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-26/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-26/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Slither-Wing-SFA026",
+        "tcgplayer": "https://www.tcgplayer.com/product/560336/pokemon-sv-shrouded-fable-slither-wing?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "",
+        "en": "Zubat",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-27/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-27/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Zubat-SFA027",
+        "tcgplayer": "https://www.tcgplayer.com/product/560337/pokemon-sv-shrouded-fable-zubat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "",
+        "en": "Golbat",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-28/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-28/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Golbat-SFA028",
+        "tcgplayer": "https://www.tcgplayer.com/product/560338/pokemon-sv-shrouded-fable-golbat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "",
+        "en": "Crobat",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-29/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-29/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Crobat-SFA029",
+        "tcgplayer": "https://www.tcgplayer.com/product/560339/pokemon-sv-shrouded-fable-crobat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "",
+        "en": "Absol",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-30/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-30/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Absol-SFA030",
+        "tcgplayer": "https://www.tcgplayer.com/product/560340/pokemon-sv-shrouded-fable-absol?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "",
+        "en": "Zorua",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-31/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-31/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Zorua-V1-SFA031",
+        "tcgplayer": "https://www.tcgplayer.com/product/560341/pokemon-sv-shrouded-fable-zorua-031-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "",
+        "en": "Zoroark",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-32/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-32/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Zoroark-SFA032",
+        "tcgplayer": "https://www.tcgplayer.com/product/560342/pokemon-sv-shrouded-fable-zoroark?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "",
+        "en": "Inkay",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-33/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-33/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Inkay-SFA033",
+        "tcgplayer": "https://www.tcgplayer.com/product/560343/pokemon-sv-shrouded-fable-inkay?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "",
+        "en": "Malamar",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-34/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-34/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Malamar-SFA034",
+        "tcgplayer": "https://www.tcgplayer.com/product/560344/pokemon-sv-shrouded-fable-malamar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "",
+        "en": "Yveltal",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-35/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-35/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Yveltal-SFA035",
+        "tcgplayer": "https://www.tcgplayer.com/product/560345/pokemon-sv-shrouded-fable-yveltal?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "",
+        "en": "Okidogi ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-36/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-36/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Okidogi-ex-V1-SFA036",
+        "tcgplayer": "https://www.tcgplayer.com/product/560346/pokemon-sv-shrouded-fable-okidogi-ex-036-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "",
+        "en": "Munkidori ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-37/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-37/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Okidogi-ex-V1-SFA036",
+        "tcgplayer": "https://www.tcgplayer.com/product/560347/pokemon-sv-shrouded-fable-munkidori-ex-037-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "",
+        "en": "Fezandipiti ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-38/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-38/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-ex-V1-SFA038",
+        "tcgplayer": "https://www.tcgplayer.com/product/560348/pokemon-sv-shrouded-fable-fezandipiti-ex-038-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "",
+        "en": "Pecharunt ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-39/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-39/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Pecharunt-ex-V1-SFA039",
+        "tcgplayer": "https://www.tcgplayer.com/product/560349/pokemon-sv-shrouded-fable-pecharunt-ex-039-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "",
+        "en": "Genesect",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-40/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-40/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Genesect-SFA040",
+        "tcgplayer": "https://www.tcgplayer.com/product/560350/pokemon-sv-shrouded-fable-genesect?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "",
+        "en": "Cufant",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-41/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-41/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cufant-V1-SFA041",
+        "tcgplayer": "https://www.tcgplayer.com/product/560351/pokemon-sv-shrouded-fable-cufant-041-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "",
+        "en": "Copperajah",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-42/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-42/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Copperajah-SFA042",
+        "tcgplayer": "https://www.tcgplayer.com/product/560352/pokemon-sv-shrouded-fable-copperajah?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "",
+        "en": "Varoom",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-43/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-43/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Varoom-SFA043",
+        "tcgplayer": "https://www.tcgplayer.com/product/560353/pokemon-sv-shrouded-fable-varoom?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "",
+        "en": "Axew",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-44/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-44/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Axew-SFA044",
+        "tcgplayer": "https://www.tcgplayer.com/product/560354/pokemon-sv-shrouded-fable-axew?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "",
+        "en": "Fraxure",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-45/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-45/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fraxure-V1-SFA045",
+        "tcgplayer": "https://www.tcgplayer.com/product/560355/pokemon-sv-shrouded-fable-fraxure-045-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "",
+        "en": "Haxorus",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-46/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-46/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Haxorus-SFA046",
+        "tcgplayer": "https://www.tcgplayer.com/product/560356/pokemon-sv-shrouded-fable-haxorus?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "",
+        "en": "Kyurem",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-47/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-47/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Kyurem-SFA047",
+        "tcgplayer": "https://www.tcgplayer.com/product/560358/pokemon-sv-shrouded-fable-kyurem?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "",
+        "en": "Meowth",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-48/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-48/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Meowth-SFA048",
+        "tcgplayer": "https://www.tcgplayer.com/product/560359/pokemon-sv-shrouded-fable-meowth?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "",
+        "en": "Persian",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-49/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-49/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Persian-V1-SFA049",
+        "tcgplayer": "https://www.tcgplayer.com/product/560360/pokemon-sv-shrouded-fable-persian-049-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "",
+        "en": "Eevee",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-50/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-50/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Eevee-SFA050",
+        "tcgplayer": "https://www.tcgplayer.com/product/560361/pokemon-sv-shrouded-fable-eevee?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "",
+        "en": "Furfrou",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-51/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-51/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Furfrou-SFA051",
+        "tcgplayer": "https://www.tcgplayer.com/product/560362/pokemon-sv-shrouded-fable-furfrou?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "",
+        "en": "Stufful",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-52/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-52/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Stufful-SFA052",
+        "tcgplayer": "https://www.tcgplayer.com/product/560363/pokemon-sv-shrouded-fable-stufful?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "",
+        "en": "Bewear",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-53/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-53/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Bewear-V1-SFA053",
+        "tcgplayer": "https://www.tcgplayer.com/product/560364/pokemon-sv-shrouded-fable-bewear-053-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "",
+        "en": "Academy at Night",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-54/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-54/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Academy-at-Night-SFA054",
+        "tcgplayer": "https://www.tcgplayer.com/product/560365/pokemon-sv-shrouded-fable-academy-at-night?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "",
+        "en": "Binding Mochi",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-55/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-55/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Binding-Mochi-SFA055",
+        "tcgplayer": "https://www.tcgplayer.com/product/560366/pokemon-sv-shrouded-fable-binding-mochi?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "",
+        "en": "Cassiopeia",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-56/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-56/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cassiopeia-V1-SFA056",
+        "tcgplayer": "https://www.tcgplayer.com/product/560367/pokemon-sv-shrouded-fable-cassiopeia-056-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "",
+        "en": "Colress's Tenacity",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-57/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-57/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Colresss-Tenacity-V1-SFA057",
+        "tcgplayer": "https://www.tcgplayer.com/product/560368/pokemon-sv-shrouded-fable-colresss-tenacity-057-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "",
+        "en": "Dangerous Laser",
+        "fr": ""
+      },
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-58/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-58/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dangerous-Laser-SFA058",
+        "tcgplayer": "https://www.tcgplayer.com/product/560369/pokemon-sv-shrouded-fable-dangerous-laser?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "",
+        "en": "Janine's Secret Art",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-59/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-59/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Janines-Secret-Art-V1-SFA059",
+        "tcgplayer": "https://www.tcgplayer.com/product/560370/pokemon-sv-shrouded-fable-janines-secret-art-059-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "",
+        "en": "Neutralization Zone",
+        "fr": ""
+      },
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-60/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-60/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Neutralization-Zone-SFA060",
+        "tcgplayer": "https://www.tcgplayer.com/product/560371/pokemon-sv-shrouded-fable-neutralization-zone?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "",
+        "en": "Night Stretcher",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-61/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-61/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Night-Stretcher-SFA061",
+        "tcgplayer": "https://www.tcgplayer.com/product/560372/pokemon-sv-shrouded-fable-night-stretcher?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "",
+        "en": "Poké Vital A",
+        "fr": ""
+      },
+      "rarity": "ACE SPEC Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-62/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-62/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Poke-Vital-A-SFA062",
+        "tcgplayer": "https://www.tcgplayer.com/product/560373/pokemon-sv-shrouded-fable-poke-vital-a?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "",
+        "en": "Powerglass",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-63/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-63/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Powerglass-V1-SFA063",
+        "tcgplayer": "https://www.tcgplayer.com/product/560374/pokemon-sv-shrouded-fable-powerglass-063-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "",
+        "en": "Xerosic's Machinations",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-64/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-64/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Xerosics-Machinations-V1-SFA064",
+        "tcgplayer": "https://www.tcgplayer.com/product/560375/pokemon-sv-shrouded-fable-xerosics-machinations-064-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "",
+        "en": "Tapu Bulu",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-65/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-65/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Tapu-Bulu-V2-SFA065",
+        "tcgplayer": "https://www.tcgplayer.com/product/560376/pokemon-sv-shrouded-fable-tapu-bulu-065-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "",
+        "en": "Houndoom",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-66/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-66/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Houndoom-V2-SFA066",
+        "tcgplayer": "https://www.tcgplayer.com/product/560377/pokemon-sv-shrouded-fable-houndoom-066-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "",
+        "en": "Horsea",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-67/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-67/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Horsea-V2-SFA067",
+        "tcgplayer": "https://www.tcgplayer.com/product/560378/pokemon-sv-shrouded-fable-horsea-067-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "",
+        "en": "Duskull",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-68/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-68/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Duskull-V2-SFA068",
+        "tcgplayer": "https://www.tcgplayer.com/product/560379/pokemon-sv-shrouded-fable-duskull-068-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "",
+        "en": "Dusclops",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-69/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-69/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dusclops-V2-SFA069",
+        "tcgplayer": "https://www.tcgplayer.com/product/560380/pokemon-sv-shrouded-fable-dusclops-069-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "",
+        "en": "Dusknoir",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-70/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-70/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Dusknoir-V2-SFA070",
+        "tcgplayer": "https://www.tcgplayer.com/product/560381/pokemon-sv-shrouded-fable-dusknoir-070-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "",
+        "en": "Cresselia",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-71/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-71/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cresselia-V2-SFA071",
+        "tcgplayer": "https://www.tcgplayer.com/product/560382/pokemon-sv-shrouded-fable-cresselia-071-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "",
+        "en": "Munkidori",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-72/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-72/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Munkidori-V2-SFA072",
+        "tcgplayer": "https://www.tcgplayer.com/product/560383/pokemon-sv-shrouded-fable-munkidori?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "",
+        "en": "Fezandipiti",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-73/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-73/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-V2-SFA073",
+        "tcgplayer": "https://www.tcgplayer.com/product/560384/pokemon-sv-shrouded-fable-fezandipiti?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "",
+        "en": "Okidogi",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-74/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-74/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Okidogi-V2-SFA074",
+        "tcgplayer": "https://www.tcgplayer.com/product/560385/pokemon-sv-shrouded-fable-okidogi?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "",
+        "en": "Zorua",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-75/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-75/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Zorua-V2-SFA075",
+        "tcgplayer": "https://www.tcgplayer.com/product/560386/pokemon-sv-shrouded-fable-zorua-075-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "076",
+      "names": {
+        "de": "",
+        "en": "Cufant",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-76/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-76/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cufant-V2-SFA076",
+        "tcgplayer": "https://www.tcgplayer.com/product/560387/pokemon-sv-shrouded-fable-cufant-076-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "077",
+      "names": {
+        "de": "",
+        "en": "Fraxure",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-77/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-77/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fraxure-V2-SFA077",
+        "tcgplayer": "https://www.tcgplayer.com/product/560388/pokemon-sv-shrouded-fable-fraxure-077-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "078",
+      "names": {
+        "de": "",
+        "en": "Persian",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-78/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-78/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Persian-V2-SFA078",
+        "tcgplayer": "https://www.tcgplayer.com/product/560389/pokemon-sv-shrouded-fable-persian-078-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "079",
+      "names": {
+        "de": "",
+        "en": "Bewear",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-79/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-79/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Bewear-V2-SFA079",
+        "tcgplayer": "https://www.tcgplayer.com/product/560390/pokemon-sv-shrouded-fable-bewear-079-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "080",
+      "names": {
+        "de": "",
+        "en": "Kingdra ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-80/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-80/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Kingdra-ex-V2-SFA080",
+        "tcgplayer": "https://www.tcgplayer.com/product/560391/pokemon-sv-shrouded-fable-kingdra-ex-080-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "081",
+      "names": {
+        "de": "",
+        "en": "Revavroom ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-81/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-81/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Revavroom-ex-V2-SFA081",
+        "tcgplayer": "https://www.tcgplayer.com/product/560392/pokemon-sv-shrouded-fable-revavroom-ex-081-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "082",
+      "names": {
+        "de": "",
+        "en": "Okidogi ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-82/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-82/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Okidogi-ex-V2-SFA082",
+        "tcgplayer": "https://www.tcgplayer.com/product/560393/pokemon-sv-shrouded-fable-okidogi-ex-082-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "083",
+      "names": {
+        "de": "",
+        "en": "Munkidori ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-83/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-83/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Munkidori-ex-V2-SFA083",
+        "tcgplayer": "https://www.tcgplayer.com/product/560394/pokemon-sv-shrouded-fable-munkidori-ex-083-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "084",
+      "names": {
+        "de": "",
+        "en": "Fezandipiti ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-84/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-84/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-ex-V2-SFA084",
+        "tcgplayer": "https://www.tcgplayer.com/product/560395/pokemon-sv-shrouded-fable-fezandipiti-ex-084-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "085",
+      "names": {
+        "de": "",
+        "en": "Pecharunt ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-85/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-85/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Pecharunt-ex-V2-SFA085",
+        "tcgplayer": "https://www.tcgplayer.com/product/560396/pokemon-sv-shrouded-fable-pecharunt-ex-085-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "086",
+      "names": {
+        "de": "",
+        "en": "Cassiopeia",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-86/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-86/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cassiopeia-V2-SFA086",
+        "tcgplayer": "https://www.tcgplayer.com/product/560397/pokemon-sv-shrouded-fable-cassiopeia-086-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "087",
+      "names": {
+        "de": "",
+        "en": "Colress's Tenacity",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-87/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-87/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Colresss-Tenacity-V2-SFA087",
+        "tcgplayer": "https://www.tcgplayer.com/product/560398/pokemon-sv-shrouded-fable-colresss-tenacity-087-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "088",
+      "names": {
+        "de": "",
+        "en": "Janine's Secret Art",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-88/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-88/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Janines-Secret-Art-V2-SFA088",
+        "tcgplayer": "https://www.tcgplayer.com/product/560399/pokemon-sv-shrouded-fable-janines-secret-art-088-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "089",
+      "names": {
+        "de": "",
+        "en": "Xerosic's Machinations",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-89/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-89/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Xerosics-Machinations-V2-SFA089",
+        "tcgplayer": "https://www.tcgplayer.com/product/560400/pokemon-sv-shrouded-fable-xerosics-machinations-089-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "090",
+      "names": {
+        "de": "",
+        "en": "Okidogi ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-90/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-90/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Okidogi-ex-V3-SFA090",
+        "tcgplayer": "https://www.tcgplayer.com/product/560401/pokemon-sv-shrouded-fable-okidogi-ex-090-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "091",
+      "names": {
+        "de": "",
+        "en": "Munkidori ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-91/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-91/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Munkidori-ex-V3-SFA091",
+        "tcgplayer": "https://www.tcgplayer.com/product/560402/pokemon-sv-shrouded-fable-munkidori-ex-091-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "092",
+      "names": {
+        "de": "",
+        "en": "Fezandipiti ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-92/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-92/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Fezandipiti-ex-V3-SFA092",
+        "tcgplayer": "https://www.tcgplayer.com/product/560403/pokemon-sv-shrouded-fable-fezandipiti-ex-092-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "093",
+      "names": {
+        "de": "",
+        "en": "Pecharunt ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-93/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-93/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Pecharunt-ex-V3-SFA093",
+        "tcgplayer": "https://www.tcgplayer.com/product/560404/pokemon-sv-shrouded-fable-pecharunt-ex-093-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "094",
+      "names": {
+        "de": "",
+        "en": "Cassiopeia",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-94/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-94/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Cassiopeia-V3-SFA094",
+        "tcgplayer": "https://www.tcgplayer.com/product/560405/pokemon-sv-shrouded-fable-cassiopeia-094-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "095",
+      "names": {
+        "de": "",
+        "en": "Pecharunt ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-95/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-95/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Pecharunt-ex-V4-SFA095",
+        "tcgplayer": "https://www.tcgplayer.com/product/560406/pokemon-sv-shrouded-fable-pecharunt-ex-095-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "096",
+      "names": {
+        "de": "",
+        "en": "Earthen Vessel",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-96/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-96/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Earthen-Vessel-SFA096",
+        "tcgplayer": "https://www.tcgplayer.com/product/560407/pokemon-sv-shrouded-fable-earthen-vessel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "097",
+      "names": {
+        "de": "",
+        "en": "Powerglass",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-97/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-97/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Powerglass-V2-SFA097",
+        "tcgplayer": "https://www.tcgplayer.com/product/560408/pokemon-sv-shrouded-fable-powerglass-097-064?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "098",
+      "names": {
+        "de": "",
+        "en": "Basic Darkness Energy",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-98/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-98/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Basic-Darkness-Energy-SFA098",
+        "tcgplayer": "https://www.tcgplayer.com/product/560409/pokemon-sv-shrouded-fable-basic-darkness-energy?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "099",
+      "names": {
+        "de": "",
+        "en": "Basic Metal Energy",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv6pt5-99/medium",
+        "large": "https://images.scrydex.com/pokemon/sv6pt5-99/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Shrouded-Fable/Basic-Metal-Energy-SFA099",
+        "tcgplayer": "https://www.tcgplayer.com/product/560410/pokemon-sv-shrouded-fable-basic-metal-energy?page=1&Language=English"
+      },
+      "notes": ""
+    }
+  ]
+}

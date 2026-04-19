@@ -1,0 +1,3957 @@
+{
+  "edition": {
+    "id": "sv9",
+    "name": "Journey Together",
+    "nameEN": "Journey Together",
+    "total": 190,
+    "releaseDate": "2025-03-28"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "",
+        "en": "Caterpie",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-1/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-1/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Caterpie-JTG001",
+        "tcgplayer": "https://www.tcgplayer.com/product/623428/pokemon-sv09-journey-together-caterpie?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "",
+        "en": "Metapod",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-2/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-2/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Metapod-JTG002",
+        "tcgplayer": "https://www.tcgplayer.com/product/623429/pokemon-sv09-journey-together-metapod?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "",
+        "en": "Butterfree",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-3/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-3/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Butterfree-JTG003",
+        "tcgplayer": "https://www.tcgplayer.com/product/623430/pokemon-sv09-journey-together-butterfree?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "",
+        "en": "Paras",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-4/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-4/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Paras-JTG004",
+        "tcgplayer": "https://www.tcgplayer.com/product/623431/pokemon-sv09-journey-together-paras?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "",
+        "en": "Parasect",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-5/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-5/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Parasect-JTG005",
+        "tcgplayer": "https://www.tcgplayer.com/product/623432/pokemon-sv09-journey-together-parasect?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "",
+        "en": "Petilil",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-6/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-6/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Petilil-JTG006",
+        "tcgplayer": "https://www.tcgplayer.com/product/623433/pokemon-sv09-journey-together-petilil?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "",
+        "en": "Lilligant",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-7/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-7/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lilligant-JTG007",
+        "tcgplayer": "https://www.tcgplayer.com/product/623434/pokemon-sv09-journey-together-lilligant?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "",
+        "en": "Maractus",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-8/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-8/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Maractus-V1-JTG008",
+        "tcgplayer": "https://www.tcgplayer.com/product/623435/pokemon-sv09-journey-together-maractus-008-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "",
+        "en": "Karrablast",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-9/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-9/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Karrablast-JTG009",
+        "tcgplayer": "https://www.tcgplayer.com/product/623436/pokemon-sv09-journey-together-karrablast?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "",
+        "en": "Foongus",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-10/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-10/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Foongus-JTG010",
+        "tcgplayer": "https://www.tcgplayer.com/product/623437/pokemon-sv09-journey-together-foongus?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "",
+        "en": "Amoonguss ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-11/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-11/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Amoonguss-ex-JTG011",
+        "tcgplayer": "https://www.tcgplayer.com/product/623438/pokemon-sv09-journey-together-amoonguss-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "",
+        "en": "Shelmet",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-12/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-12/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Shelmet-JTG012",
+        "tcgplayer": "https://www.tcgplayer.com/product/623439/pokemon-sv09-journey-together-shelmet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "",
+        "en": "Accelgor",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-13/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-13/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Accelgor-JTG013",
+        "tcgplayer": "https://www.tcgplayer.com/product/623440/pokemon-sv09-journey-together-accelgor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "",
+        "en": "Durant",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-14/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-14/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Durant-JTG014",
+        "tcgplayer": "https://www.tcgplayer.com/product/623441/pokemon-sv09-journey-together-durant?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "",
+        "en": "Virizion",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-15/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-15/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Virizion-JTG015",
+        "tcgplayer": "https://www.tcgplayer.com/product/623442/pokemon-sv09-journey-together-virizion?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "",
+        "en": "Sprigatito",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-16/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-16/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Sprigatito-JTG016",
+        "tcgplayer": "https://www.tcgplayer.com/product/623443/pokemon-sv09-journey-together-sprigatito?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "",
+        "en": "Floragato",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-17/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-17/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Floragato-JTG017",
+        "tcgplayer": "https://www.tcgplayer.com/product/623444/pokemon-sv09-journey-together-floragato?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "",
+        "en": "Meowscarada",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-18/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-18/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Meowscarada-JTG018",
+        "tcgplayer": "https://www.tcgplayer.com/product/623445/pokemon-sv09-journey-together-meowscarada?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "",
+        "en": "Nymble",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-19/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-19/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Nymble-JTG019",
+        "tcgplayer": "https://www.tcgplayer.com/product/623446/pokemon-sv09-journey-together-nymble?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "",
+        "en": "Magmar",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-20/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-20/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Magmar-JTG020",
+        "tcgplayer": "https://www.tcgplayer.com/product/623447/pokemon-sv09-journey-together-magmar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "",
+        "en": "Magmortar",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-21/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-21/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Magmortar-JTG021",
+        "tcgplayer": "https://www.tcgplayer.com/product/623448/pokemon-sv09-journey-together-magmortar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "",
+        "en": "Torchic",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-22/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-22/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Torchic-JTG022",
+        "tcgplayer": "https://www.tcgplayer.com/product/623449/pokemon-sv09-journey-together-torchic?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "",
+        "en": "Combusken",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-23/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-23/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Combusken-JTG023",
+        "tcgplayer": "https://www.tcgplayer.com/product/623450/pokemon-sv09-journey-together-combusken?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "",
+        "en": "Blaziken ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-24/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-24/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Blaziken-ex-JTG024",
+        "tcgplayer": "https://www.tcgplayer.com/product/623451/pokemon-sv09-journey-together-blaziken-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "",
+        "en": "Torkoal",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-25/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-25/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Torkoal-JTG025",
+        "tcgplayer": "https://www.tcgplayer.com/product/623452/pokemon-sv09-journey-together-torkoal?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "",
+        "en": "N's Darumaka",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-26/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-26/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Darumaka-JTG026",
+        "tcgplayer": "https://www.tcgplayer.com/product/623453/pokemon-sv09-journey-together-ns-darumaka?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "",
+        "en": "N's Darmanitan",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-27/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-27/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Darmanitan-JTG027",
+        "tcgplayer": "https://www.tcgplayer.com/product/623454/pokemon-sv09-journey-together-ns-darmanitan-027-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "",
+        "en": "Larvesta",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-28/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-28/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Larvesta-JTG028",
+        "tcgplayer": "https://www.tcgplayer.com/product/623455/pokemon-sv09-journey-together-larvesta?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "",
+        "en": "Volcarona",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-29/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-29/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Volcarona-JTG029",
+        "tcgplayer": "https://www.tcgplayer.com/product/623456/pokemon-sv09-journey-together-volcarona?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "",
+        "en": "Reshiram ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-30/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-30/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Reshiram-ex-JTG030",
+        "tcgplayer": "https://www.tcgplayer.com/product/623457/pokemon-sv09-journey-together-reshiram-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "",
+        "en": "Volcanion ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-31/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-31/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Volcanion-ex-V1-JTG031",
+        "tcgplayer": "https://www.tcgplayer.com/product/623458/pokemon-sv09-journey-together-volcanion-ex-031-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "",
+        "en": "Articuno",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-32/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-32/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Articuno-V1-JTG032",
+        "tcgplayer": "https://www.tcgplayer.com/product/623459/pokemon-sv09-journey-together-articuno-032-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "",
+        "en": "Remoraid",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-33/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-33/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Remoraid-JTG033",
+        "tcgplayer": "https://www.tcgplayer.com/product/623460/pokemon-sv09-journey-together-remoraid?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "",
+        "en": "Octillery",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-34/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-34/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Octillery-JTG034",
+        "tcgplayer": "https://www.tcgplayer.com/product/623461/pokemon-sv09-journey-together-octillery?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "",
+        "en": "Lotad",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-35/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-35/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lotad-JTG035",
+        "tcgplayer": "https://www.tcgplayer.com/product/623462/pokemon-sv09-journey-together-lotad?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "",
+        "en": "Lombre",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-36/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-36/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lombre-JTG036",
+        "tcgplayer": "https://www.tcgplayer.com/product/623463/pokemon-sv09-journey-together-lombre?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "",
+        "en": "Ludicolo",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-37/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-37/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ludicolo-JTG037",
+        "tcgplayer": "https://www.tcgplayer.com/product/623464/pokemon-sv09-journey-together-ludicolo?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "",
+        "en": "Wingull",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-38/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-38/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Wingull-JTG038",
+        "tcgplayer": "https://www.tcgplayer.com/product/623465/pokemon-sv09-journey-together-wingull?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "",
+        "en": "Pelipper",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-39/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-39/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Pelipper-JTG039",
+        "tcgplayer": "https://www.tcgplayer.com/product/623466/pokemon-sv09-journey-together-pelipper?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "",
+        "en": "Wailmer",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-40/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-40/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Wailmer-JTG040",
+        "tcgplayer": "https://www.tcgplayer.com/product/623467/pokemon-sv09-journey-together-wailmer?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "",
+        "en": "Wailord",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-41/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-41/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Wailord-V1-JTG041",
+        "tcgplayer": "https://www.tcgplayer.com/product/623468/pokemon-sv09-journey-together-wailord-041-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "",
+        "en": "Regice",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-42/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-42/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Regice-JTG042",
+        "tcgplayer": "https://www.tcgplayer.com/product/623469/pokemon-sv09-journey-together-regice?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "",
+        "en": "Veluza ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-43/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-43/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Veluza-ex-JTG043",
+        "tcgplayer": "https://www.tcgplayer.com/product/623470/pokemon-sv09-journey-together-veluza-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "",
+        "en": "Alolan Geodude",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-44/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-44/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Alolan-Geodude-JTG044",
+        "tcgplayer": "https://www.tcgplayer.com/product/623471/pokemon-sv09-journey-together-alolan-geodude?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "",
+        "en": "Alolan Graveler",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-45/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-45/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Alolan-Graveler-JTG045",
+        "tcgplayer": "https://www.tcgplayer.com/product/623472/pokemon-sv09-journey-together-alolan-graveler?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "",
+        "en": "Alolan Golem",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-46/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-46/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Alolan-Golem-JTG046",
+        "tcgplayer": "https://www.tcgplayer.com/product/623473/pokemon-sv09-journey-together-alolan-golem?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "",
+        "en": "Iono's Voltorb",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-47/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-47/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Voltorb-JTG047",
+        "tcgplayer": "https://www.tcgplayer.com/product/623474/pokemon-sv09-journey-together-ionos-voltorb?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "",
+        "en": "Iono's Electrode",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-48/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-48/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Electrode-JTG048",
+        "tcgplayer": "https://www.tcgplayer.com/product/623475/pokemon-sv09-journey-together-ionos-electrode?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "",
+        "en": "N's Joltik",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-49/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-49/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Joltik-JTG049",
+        "tcgplayer": "https://www.tcgplayer.com/product/623476/pokemon-sv09-journey-together-ns-joltik?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "",
+        "en": "Togedemaru",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-50/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-50/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Togedemaru-JTG050",
+        "tcgplayer": "https://www.tcgplayer.com/product/623477/pokemon-sv09-journey-together-togedemaru?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "",
+        "en": "Tapu Koko ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-51/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-51/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Tapu-Koko-ex-JTG051",
+        "tcgplayer": "https://www.tcgplayer.com/product/623478/pokemon-sv09-journey-together-tapu-koko-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "",
+        "en": "Iono's Tadbulb",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-52/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-52/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Tadbulb-JTG052",
+        "tcgplayer": "https://www.tcgplayer.com/product/623479/pokemon-sv09-journey-together-ionos-tadbulb?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "",
+        "en": "Iono's Bellibolt ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-53/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-53/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Bellibolt-ex-V1-JTG053",
+        "tcgplayer": "https://www.tcgplayer.com/product/623480/pokemon-sv09-journey-together-ionos-bellibolt-ex-053-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "",
+        "en": "Iono's Wattrel",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-54/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-54/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Wattrel-JTG054",
+        "tcgplayer": "https://www.tcgplayer.com/product/623481/pokemon-sv09-journey-together-ionos-wattrel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "",
+        "en": "Iono's Kilowattrel",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-55/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-55/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Kilowattrel-V1-JTG055",
+        "tcgplayer": "https://www.tcgplayer.com/product/623482/pokemon-sv09-journey-together-ionos-kilowattrel-055-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "",
+        "en": "Lillie's Clefairy ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-56/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-56/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Clefairy-ex-V1-JTG056",
+        "tcgplayer": "https://www.tcgplayer.com/product/623483/pokemon-sv09-journey-together-lillies-clefairy-ex-056-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "",
+        "en": "Alolan Marowak",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-57/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-57/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Alolan-Marowak-JTG057",
+        "tcgplayer": "https://www.tcgplayer.com/product/623484/pokemon-sv09-journey-together-alolan-marowak?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "",
+        "en": "Mr. Mime",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-58/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-58/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Mr-Mime-JTG058",
+        "tcgplayer": "https://www.tcgplayer.com/product/623485/pokemon-sv09-journey-together-mr-mime?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "",
+        "en": "Shuppet",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-59/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-59/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Shuppet-JTG059",
+        "tcgplayer": "https://www.tcgplayer.com/product/623486/pokemon-sv09-journey-together-shuppet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "",
+        "en": "Banette",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-60/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-60/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Banette-JTG060",
+        "tcgplayer": "https://www.tcgplayer.com/product/623487/pokemon-sv09-journey-together-banette?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "",
+        "en": "Beldum",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-61/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-61/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Beldum-JTG061",
+        "tcgplayer": "https://www.tcgplayer.com/product/623488/pokemon-sv09-journey-together-beldum?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "",
+        "en": "Metang",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-62/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-62/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Metang-JTG062",
+        "tcgplayer": "https://www.tcgplayer.com/product/623489/pokemon-sv09-journey-together-metang?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "",
+        "en": "Metagross",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-63/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-63/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Metagross-JTG063",
+        "tcgplayer": "https://www.tcgplayer.com/product/623490/pokemon-sv09-journey-together-metagross?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "",
+        "en": "N's Sigilyph",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-64/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-64/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Sigilyph-JTG064",
+        "tcgplayer": "https://www.tcgplayer.com/product/623491/pokemon-sv09-journey-together-ns-sigilyph?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "",
+        "en": "Oricorio",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-65/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-65/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Oricorio-JTG065",
+        "tcgplayer": "https://www.tcgplayer.com/product/623492/pokemon-sv09-journey-together-oricorio?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "",
+        "en": "Lillie's Cutiefly",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-66/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-66/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Cutiefly-JTG066",
+        "tcgplayer": "https://www.tcgplayer.com/product/623493/pokemon-sv09-journey-together-lillies-cutiefly?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "",
+        "en": "Lillie's Ribombee",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-67/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-67/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Ribombee-V1-JTG067",
+        "tcgplayer": "https://www.tcgplayer.com/product/623494/pokemon-sv09-journey-together-lillies-ribombee-067-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "",
+        "en": "Lillie's Comfey",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-68/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-68/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Comfey-JTG068",
+        "tcgplayer": "https://www.tcgplayer.com/product/623495/pokemon-sv09-journey-together-lillies-comfey?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "",
+        "en": "Mimikyu ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-69/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-69/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Mimikyu-ex-JTG069",
+        "tcgplayer": "https://www.tcgplayer.com/product/623496/pokemon-sv09-journey-together-mimikyu-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "",
+        "en": "Dhelmise",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-70/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-70/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Dhelmise-JTG070",
+        "tcgplayer": "https://www.tcgplayer.com/product/623497/pokemon-sv09-journey-together-dhelmise?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "",
+        "en": "Impidimp",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-71/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-71/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Impidimp-JTG071",
+        "tcgplayer": "https://www.tcgplayer.com/product/623498/pokemon-sv09-journey-together-impidimp?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "",
+        "en": "Morgrem",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-72/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-72/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Morgrem-JTG072",
+        "tcgplayer": "https://www.tcgplayer.com/product/623499/pokemon-sv09-journey-together-morgrem?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "",
+        "en": "Grimmsnarl",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-73/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-73/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Grimmsnarl-JTG073",
+        "tcgplayer": "https://www.tcgplayer.com/product/623500/pokemon-sv09-journey-together-grimmsnarl?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "",
+        "en": "Milcery",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-74/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-74/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Milcery-JTG074",
+        "tcgplayer": "https://www.tcgplayer.com/product/623501/pokemon-sv09-journey-together-milcery?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "",
+        "en": "Alcremie ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-75/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-75/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Alcremie-ex-JTG075",
+        "tcgplayer": "https://www.tcgplayer.com/product/623502/pokemon-sv09-journey-together-alcremie-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "076",
+      "names": {
+        "de": "",
+        "en": "Cubone",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-76/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-76/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Cubone-JTG076",
+        "tcgplayer": "https://www.tcgplayer.com/product/623503/pokemon-sv09-journey-together-cubone?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "077",
+      "names": {
+        "de": "",
+        "en": "Swinub",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-77/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-77/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Swinub-V1-JTG077",
+        "tcgplayer": "https://www.tcgplayer.com/product/623504/pokemon-sv09-journey-together-swinub-077-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "078",
+      "names": {
+        "de": "",
+        "en": "Piloswine",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-78/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-78/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Piloswine-JTG078",
+        "tcgplayer": "https://www.tcgplayer.com/product/623505/pokemon-sv09-journey-together-piloswine?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "079",
+      "names": {
+        "de": "",
+        "en": "Mamoswine ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-79/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-79/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Mamoswine-ex-V1-JTG079",
+        "tcgplayer": "https://www.tcgplayer.com/product/623506/pokemon-sv09-journey-together-mamoswine-ex-079-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "080",
+      "names": {
+        "de": "",
+        "en": "Larvitar",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-80/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-80/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Larvitar-JTG080",
+        "tcgplayer": "https://www.tcgplayer.com/product/623507/pokemon-sv09-journey-together-larvitar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "081",
+      "names": {
+        "de": "",
+        "en": "Pupitar",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-81/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-81/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Pupitar-JTG081",
+        "tcgplayer": "https://www.tcgplayer.com/product/623508/pokemon-sv09-journey-together-pupitar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "082",
+      "names": {
+        "de": "",
+        "en": "Regirock",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-82/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-82/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Regirock-JTG082",
+        "tcgplayer": "https://www.tcgplayer.com/product/623509/pokemon-sv09-journey-together-regirock?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "083",
+      "names": {
+        "de": "",
+        "en": "Pancham",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-83/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-83/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Pancham-JTG083",
+        "tcgplayer": "https://www.tcgplayer.com/product/623510/pokemon-sv09-journey-together-pancham?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "084",
+      "names": {
+        "de": "",
+        "en": "Rockruff",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-84/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-84/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Rockruff-JTG084",
+        "tcgplayer": "https://www.tcgplayer.com/product/623511/pokemon-sv09-journey-together-rockruff?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "085",
+      "names": {
+        "de": "",
+        "en": "Lycanroc",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-85/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-85/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lycanroc-V1-JTG085",
+        "tcgplayer": "https://www.tcgplayer.com/product/623512/pokemon-sv09-journey-together-lycanroc-085-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "086",
+      "names": {
+        "de": "",
+        "en": "Hop's Silicobra",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-86/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-86/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Silicobra-JTG086",
+        "tcgplayer": "https://www.tcgplayer.com/product/623513/pokemon-sv09-journey-together-hops-silicobra?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "087",
+      "names": {
+        "de": "",
+        "en": "Hop's Sandaconda",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-87/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-87/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Sandaconda-JTG087",
+        "tcgplayer": "https://www.tcgplayer.com/product/623514/pokemon-sv09-journey-together-hops-sandaconda?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "088",
+      "names": {
+        "de": "",
+        "en": "Toedscool",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-88/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-88/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Toedscool-JTG088",
+        "tcgplayer": "https://www.tcgplayer.com/product/623515/pokemon-sv09-journey-together-toedscool?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "089",
+      "names": {
+        "de": "",
+        "en": "Toedscruel",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-89/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-89/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Toedscruel-JTG089",
+        "tcgplayer": "https://www.tcgplayer.com/product/623516/pokemon-sv09-journey-together-toedscruel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "090",
+      "names": {
+        "de": "",
+        "en": "Klawf",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-90/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-90/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Klawf-JTG090",
+        "tcgplayer": "https://www.tcgplayer.com/product/623517/pokemon-sv09-journey-together-klawf?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "091",
+      "names": {
+        "de": "",
+        "en": "Koffing",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-91/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-91/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Koffing-JTG091",
+        "tcgplayer": "https://www.tcgplayer.com/product/623518/pokemon-sv09-journey-together-koffing?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "092",
+      "names": {
+        "de": "",
+        "en": "Weezing",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-92/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-92/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Weezing-JTG092",
+        "tcgplayer": "https://www.tcgplayer.com/product/623519/pokemon-sv09-journey-together-weezing?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "093",
+      "names": {
+        "de": "",
+        "en": "Paldean Wooper",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-93/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-93/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Paldean-Wooper-JTG093",
+        "tcgplayer": "https://www.tcgplayer.com/product/623520/pokemon-sv09-journey-together-paldean-wooper?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "094",
+      "names": {
+        "de": "",
+        "en": "Paldean Clodsire ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-94/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-94/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Paldean-Clodsire-ex-JTG094",
+        "tcgplayer": "https://www.tcgplayer.com/product/623521/pokemon-sv09-journey-together-paldean-clodsire-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "095",
+      "names": {
+        "de": "",
+        "en": "Tyranitar",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-95/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-95/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Tyranitar-JTG095",
+        "tcgplayer": "https://www.tcgplayer.com/product/623522/pokemon-sv09-journey-together-tyranitar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "096",
+      "names": {
+        "de": "",
+        "en": "N's Purrloin",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-96/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-96/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Purrloin-JTG096",
+        "tcgplayer": "https://www.tcgplayer.com/product/623523/pokemon-sv09-journey-together-ns-purrloin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "097",
+      "names": {
+        "de": "",
+        "en": "N's Zorua",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-97/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-97/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Zorua-JTG097",
+        "tcgplayer": "https://www.tcgplayer.com/product/623524/pokemon-sv09-journey-together-ns-zorua?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "098",
+      "names": {
+        "de": "",
+        "en": "N's Zoroark ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-98/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-98/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Zoroark-ex-V1-JTG098",
+        "tcgplayer": "https://www.tcgplayer.com/product/623525/pokemon-sv09-journey-together-ns-zoroark-ex-098-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "099",
+      "names": {
+        "de": "",
+        "en": "Pangoro",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-99/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-99/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Pangoro-JTG099",
+        "tcgplayer": "https://www.tcgplayer.com/product/623526/pokemon-sv09-journey-together-pangoro?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "100",
+      "names": {
+        "de": "",
+        "en": "Lokix",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-100/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-100/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lokix-JTG100",
+        "tcgplayer": "https://www.tcgplayer.com/product/623527/pokemon-sv09-journey-together-lokix?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "101",
+      "names": {
+        "de": "",
+        "en": "Bombirdier",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-101/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-101/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Bombirdier-JTG101",
+        "tcgplayer": "https://www.tcgplayer.com/product/623528/pokemon-sv09-journey-together-bombirdier?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "102",
+      "names": {
+        "de": "",
+        "en": "Escavalier",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-102/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-102/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Escavalier-JTG102",
+        "tcgplayer": "https://www.tcgplayer.com/product/623529/pokemon-sv09-journey-together-escavalier?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "103",
+      "names": {
+        "de": "",
+        "en": "N's Klink",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-103/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-103/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Klink-JTG103",
+        "tcgplayer": "https://www.tcgplayer.com/product/623530/pokemon-sv09-journey-together-ns-klink?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "104",
+      "names": {
+        "de": "",
+        "en": "N's Klang",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-104/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-104/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Klang-JTG104",
+        "tcgplayer": "https://www.tcgplayer.com/product/623531/pokemon-sv09-journey-together-ns-klang?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "105",
+      "names": {
+        "de": "",
+        "en": "N's Klinklang",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-105/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-105/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Klinklang-JTG105",
+        "tcgplayer": "https://www.tcgplayer.com/product/623532/pokemon-sv09-journey-together-ns-klinklang?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "106",
+      "names": {
+        "de": "",
+        "en": "Galarian Stunfisk",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-106/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-106/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Galarian-Stunfisk-JTG106",
+        "tcgplayer": "https://www.tcgplayer.com/product/623533/pokemon-sv09-journey-together-galarian-stunfisk?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "107",
+      "names": {
+        "de": "",
+        "en": "Magearna",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-107/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-107/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Magearna-JTG107",
+        "tcgplayer": "https://www.tcgplayer.com/product/623534/pokemon-sv09-journey-together-magearna?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "108",
+      "names": {
+        "de": "",
+        "en": "Hop's Corviknight",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-108/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-108/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Corviknight-JTG108",
+        "tcgplayer": "https://www.tcgplayer.com/product/623535/pokemon-sv09-journey-together-hops-corviknight?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "109",
+      "names": {
+        "de": "",
+        "en": "Cufant",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-109/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-109/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Cufant-JTG109",
+        "tcgplayer": "https://www.tcgplayer.com/product/623536/pokemon-sv09-journey-together-cufant?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "110",
+      "names": {
+        "de": "",
+        "en": "Copperajah",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-110/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-110/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Copperajah-JTG110",
+        "tcgplayer": "https://www.tcgplayer.com/product/623537/pokemon-sv09-journey-together-copperajah?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "111",
+      "names": {
+        "de": "",
+        "en": "Hop's Zacian ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-111/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-111/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Zacian-ex-V1-JTG111",
+        "tcgplayer": "https://www.tcgplayer.com/product/623538/pokemon-sv09-journey-together-hops-zacian-ex-111-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "112",
+      "names": {
+        "de": "",
+        "en": "Bagon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-112/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-112/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Bagon-JTG112",
+        "tcgplayer": "https://www.tcgplayer.com/product/623539/pokemon-sv09-journey-together-bagon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "113",
+      "names": {
+        "de": "",
+        "en": "Shelgon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-113/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-113/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Shelgon-JTG113",
+        "tcgplayer": "https://www.tcgplayer.com/product/623540/pokemon-sv09-journey-together-shelgon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "114",
+      "names": {
+        "de": "",
+        "en": "Salamence ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-114/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-114/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Salamence-ex-V1-JTG114",
+        "tcgplayer": "https://www.tcgplayer.com/product/623541/pokemon-sv09-journey-together-salamence-ex-114-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "115",
+      "names": {
+        "de": "",
+        "en": "Druddigon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-115/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-115/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Druddigon-JTG115",
+        "tcgplayer": "https://www.tcgplayer.com/product/623542/pokemon-sv09-journey-together-druddigon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "116",
+      "names": {
+        "de": "",
+        "en": "N's Reshiram",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-116/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-116/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Reshiram-V1-JTG116",
+        "tcgplayer": "https://www.tcgplayer.com/product/623543/pokemon-sv09-journey-together-ns-reshiram-116-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "117",
+      "names": {
+        "de": "",
+        "en": "Hop's Snorlax",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-117/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-117/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Snorlax-JTG117",
+        "tcgplayer": "https://www.tcgplayer.com/product/623544/pokemon-sv09-journey-together-hops-snorlax?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "118",
+      "names": {
+        "de": "",
+        "en": "Sentret",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-118/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-118/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Sentret-JTG118",
+        "tcgplayer": "https://www.tcgplayer.com/product/623545/pokemon-sv09-journey-together-sentret?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "119",
+      "names": {
+        "de": "",
+        "en": "Furret",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-119/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-119/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Furret-V1-JTG119",
+        "tcgplayer": "https://www.tcgplayer.com/product/623546/pokemon-sv09-journey-together-furret-119-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "120",
+      "names": {
+        "de": "",
+        "en": "Dunsparce",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-120/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-120/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Dunsparce-JTG120",
+        "tcgplayer": "https://www.tcgplayer.com/product/623547/pokemon-sv09-journey-together-dunsparce?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "121",
+      "names": {
+        "de": "",
+        "en": "Dudunsparce ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-121/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-121/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Dudunsparce-ex-V1-JTG121",
+        "tcgplayer": "https://www.tcgplayer.com/product/623548/pokemon-sv09-journey-together-dudunsparce-ex-121-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "122",
+      "names": {
+        "de": "",
+        "en": "Kecleon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-122/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-122/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Kecleon-JTG122",
+        "tcgplayer": "https://www.tcgplayer.com/product/623549/pokemon-sv09-journey-together-kecleon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "123",
+      "names": {
+        "de": "",
+        "en": "Tropius",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-123/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-123/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Tropius-JTG123",
+        "tcgplayer": "https://www.tcgplayer.com/product/623550/pokemon-sv09-journey-together-tropius?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "124",
+      "names": {
+        "de": "",
+        "en": "Audino",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-124/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-124/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Audino-JTG124",
+        "tcgplayer": "https://www.tcgplayer.com/product/623551/pokemon-sv09-journey-together-audino?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "125",
+      "names": {
+        "de": "",
+        "en": "Minccino",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-125/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-125/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Minccino-JTG125",
+        "tcgplayer": "https://www.tcgplayer.com/product/623552/pokemon-sv09-journey-together-minccino?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "126",
+      "names": {
+        "de": "",
+        "en": "Cinccino",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-126/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-126/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Cinccino-JTG126",
+        "tcgplayer": "https://www.tcgplayer.com/product/623553/pokemon-sv09-journey-together-cinccino?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "127",
+      "names": {
+        "de": "",
+        "en": "Noibat",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-127/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-127/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Noibat-V1-JTG127",
+        "tcgplayer": "https://www.tcgplayer.com/product/623554/pokemon-sv09-journey-together-noibat-127-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "128",
+      "names": {
+        "de": "",
+        "en": "Noivern",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-128/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-128/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Noivern-JTG128",
+        "tcgplayer": "https://www.tcgplayer.com/product/623555/pokemon-sv09-journey-together-noivern?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "129",
+      "names": {
+        "de": "",
+        "en": "Komala",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-129/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-129/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Komala-JTG129",
+        "tcgplayer": "https://www.tcgplayer.com/product/623556/pokemon-sv09-journey-together-komala?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "130",
+      "names": {
+        "de": "",
+        "en": "Drampa",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-130/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-130/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Drampa-JTG130",
+        "tcgplayer": "https://www.tcgplayer.com/product/623557/pokemon-sv09-journey-together-drampa?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "131",
+      "names": {
+        "de": "",
+        "en": "Skwovet",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-131/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-131/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Skwovet-JTG131",
+        "tcgplayer": "https://www.tcgplayer.com/product/623558/pokemon-sv09-journey-together-skwovet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "132",
+      "names": {
+        "de": "",
+        "en": "Greedent",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-132/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-132/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Greedent-JTG132",
+        "tcgplayer": "https://www.tcgplayer.com/product/623559/pokemon-sv09-journey-together-greedent?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "133",
+      "names": {
+        "de": "",
+        "en": "Hop's Rookidee",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-133/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-133/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Rookidee-JTG133",
+        "tcgplayer": "https://www.tcgplayer.com/product/623560/pokemon-sv09-journey-together-hops-rookidee?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "134",
+      "names": {
+        "de": "",
+        "en": "Hop's Corvisquire",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-134/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-134/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Corvisquire-JTG134",
+        "tcgplayer": "https://www.tcgplayer.com/product/623561/pokemon-sv09-journey-together-hops-corvisquire?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "135",
+      "names": {
+        "de": "",
+        "en": "Hop's Wooloo",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-135/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-135/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Wooloo-V1-JTG135",
+        "tcgplayer": "https://www.tcgplayer.com/product/623562/pokemon-sv09-journey-together-hops-wooloo-135-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "136",
+      "names": {
+        "de": "",
+        "en": "Hop's Dubwool",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-136/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-136/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Dubwool-JTG136",
+        "tcgplayer": "https://www.tcgplayer.com/product/623563/pokemon-sv09-journey-together-hops-dubwool?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "137",
+      "names": {
+        "de": "",
+        "en": "Cramorant",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-137/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-137/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Cramorant-JTG137",
+        "tcgplayer": "https://www.tcgplayer.com/product/623564/pokemon-sv09-journey-together-cramorant?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "138",
+      "names": {
+        "de": "",
+        "en": "Hop's Cramorant",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-138/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-138/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Cramorant-JTG138",
+        "tcgplayer": "https://www.tcgplayer.com/product/623565/pokemon-sv09-journey-together-hops-cramorant?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "139",
+      "names": {
+        "de": "",
+        "en": "Lechonk",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-139/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-139/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lechonk-JTG139",
+        "tcgplayer": "https://www.tcgplayer.com/product/623566/pokemon-sv09-journey-together-lechonk?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "140",
+      "names": {
+        "de": "",
+        "en": "Oinkologne",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-140/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-140/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Oinkologne-JTG140",
+        "tcgplayer": "https://www.tcgplayer.com/product/623567/pokemon-sv09-journey-together-oinkologne?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "141",
+      "names": {
+        "de": "",
+        "en": "Squawkabilly",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-141/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-141/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Squawkabilly-JTG141",
+        "tcgplayer": "https://www.tcgplayer.com/product/623568/pokemon-sv09-journey-together-squawkabilly?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "142",
+      "names": {
+        "de": "",
+        "en": "Billy & O'Nare",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-142/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-142/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Billy-ONare-JTG142",
+        "tcgplayer": "https://www.tcgplayer.com/product/623569/pokemon-sv09-journey-together-billy-and-onare?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "143",
+      "names": {
+        "de": "",
+        "en": "Black Belt's Training",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-143/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-143/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Black-Belts-Training-V1-JTG143",
+        "tcgplayer": "https://www.tcgplayer.com/product/623570/pokemon-sv09-journey-together-black-belts-training-143-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "144",
+      "names": {
+        "de": "",
+        "en": "Black Belt's Training",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-144/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-144/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Black-Belts-Training-V2-JTG144",
+        "tcgplayer": "https://www.tcgplayer.com/product/623571/pokemon-sv09-journey-together-black-belts-training-144-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "145",
+      "names": {
+        "de": "",
+        "en": "Black Belt's Training",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-145/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-145/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Black-Belts-Training-V3-JTG145",
+        "tcgplayer": "https://www.tcgplayer.com/product/623572/pokemon-sv09-journey-together-black-belts-training-145-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "146",
+      "names": {
+        "de": "",
+        "en": "Brock's Scouting",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-146/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-146/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Brocks-Scouting-V1-JTG146",
+        "tcgplayer": "https://www.tcgplayer.com/product/623573/pokemon-sv09-journey-together-brocks-scouting-146-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "147",
+      "names": {
+        "de": "",
+        "en": "Hop's Bag",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-147/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-147/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Bag-JTG147",
+        "tcgplayer": "https://www.tcgplayer.com/product/623574/pokemon-sv09-journey-together-hops-bag?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "148",
+      "names": {
+        "de": "",
+        "en": "Hop's Choice Band",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-148/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-148/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Choice-Band-JTG148",
+        "tcgplayer": "https://www.tcgplayer.com/product/623575/pokemon-sv09-journey-together-hops-choice-band?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "149",
+      "names": {
+        "de": "",
+        "en": "Iris's Fighting Spirit",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-149/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-149/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Iriss-Fighting-Spirit-V1-JTG149",
+        "tcgplayer": "https://www.tcgplayer.com/product/623576/pokemon-sv09-journey-together-iriss-fighting-spirit-149-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "150",
+      "names": {
+        "de": "",
+        "en": "Levincia",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-150/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-150/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Levincia-JTG150",
+        "tcgplayer": "https://www.tcgplayer.com/product/623577/pokemon-sv09-journey-together-levincia?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "151",
+      "names": {
+        "de": "",
+        "en": "Lillie's Pearl",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-151/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-151/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Pearl-JTG151",
+        "tcgplayer": "https://www.tcgplayer.com/product/623578/pokemon-sv09-journey-together-lillies-pearl?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "152",
+      "names": {
+        "de": "",
+        "en": "N's Castle",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-152/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-152/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Castle-JTG152",
+        "tcgplayer": "https://www.tcgplayer.com/product/623579/pokemon-sv09-journey-together-ns-castle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "153",
+      "names": {
+        "de": "",
+        "en": "N's PP Up",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-153/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-153/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-PP-Up-JTG153",
+        "tcgplayer": "https://www.tcgplayer.com/product/623580/pokemon-sv09-journey-together-ns-pp-up?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "154",
+      "names": {
+        "de": "",
+        "en": "Postwick",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-154/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-154/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Postwick-JTG154",
+        "tcgplayer": "https://www.tcgplayer.com/product/623581/pokemon-sv09-journey-together-postwick?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "155",
+      "names": {
+        "de": "",
+        "en": "Professor's Research",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-155/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-155/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Professors-Research-Professor-Sada-JTG155",
+        "tcgplayer": "https://www.tcgplayer.com/product/623582/pokemon-sv09-journey-together-professors-research?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "156",
+      "names": {
+        "de": "",
+        "en": "Redeemable Ticket",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-156/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-156/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Redeemable-Ticket-JTG156",
+        "tcgplayer": "https://www.tcgplayer.com/product/623583/pokemon-sv09-journey-together-redeemable-ticket?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "157",
+      "names": {
+        "de": "",
+        "en": "Ruffian",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-157/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-157/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ruffian-V1-JTG157",
+        "tcgplayer": "https://www.tcgplayer.com/product/623584/pokemon-sv09-journey-together-ruffian-157-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "158",
+      "names": {
+        "de": "",
+        "en": "Super Potion",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-158/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-158/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Super-Potion-JTG158",
+        "tcgplayer": "https://www.tcgplayer.com/product/623585/pokemon-sv09-journey-together-super-potion?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "159",
+      "names": {
+        "de": "",
+        "en": "Spiky Energy",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-159/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-159/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Spiky-Energy-V1-JTG159",
+        "tcgplayer": "https://www.tcgplayer.com/product/623586/pokemon-sv09-journey-together-spiky-energy-159-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "160",
+      "names": {
+        "de": "",
+        "en": "Maractus",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-160/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-160/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Maractus-V2-JTG160",
+        "tcgplayer": "https://www.tcgplayer.com/product/623587/pokemon-sv09-journey-together-maractus-160-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "161",
+      "names": {
+        "de": "",
+        "en": "Articuno",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-161/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-161/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Articuno-V2-JTG161",
+        "tcgplayer": "https://www.tcgplayer.com/product/623588/pokemon-sv09-journey-together-articuno-161-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "162",
+      "names": {
+        "de": "",
+        "en": "Wailord",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-162/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-162/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Wailord-V2-JTG162",
+        "tcgplayer": "https://www.tcgplayer.com/product/623589/pokemon-sv09-journey-together-wailord-162-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "163",
+      "names": {
+        "de": "",
+        "en": "Iono's Kilowattrel",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-163/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-163/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Kilowattrel-V2-JTG163",
+        "tcgplayer": "https://www.tcgplayer.com/product/623590/pokemon-sv09-journey-together-ionos-kilowattrel-163-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "164",
+      "names": {
+        "de": "",
+        "en": "Lillie's Ribombee",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-164/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-164/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Ribombee-V2-JTG164",
+        "tcgplayer": "https://www.tcgplayer.com/product/623591/pokemon-sv09-journey-together-lillies-ribombee-164-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "165",
+      "names": {
+        "de": "",
+        "en": "Swinub",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-165/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-165/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Swinub-V2-JTG165",
+        "tcgplayer": "https://www.tcgplayer.com/product/623592/pokemon-sv09-journey-together-swinub-165-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "166",
+      "names": {
+        "de": "",
+        "en": "Lycanroc",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-166/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-166/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lycanroc-V2-JTG166",
+        "tcgplayer": "https://www.tcgplayer.com/product/623593/pokemon-sv09-journey-together-lycanroc-166-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "167",
+      "names": {
+        "de": "",
+        "en": "N's Reshiram",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-167/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-167/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Reshiram-V2-JTG167",
+        "tcgplayer": "https://www.tcgplayer.com/product/624677/pokemon-sv09-journey-together-ns-reshiram-167-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "168",
+      "names": {
+        "de": "",
+        "en": "Furret",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-168/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-168/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Furret-V2-JTG168",
+        "tcgplayer": "https://www.tcgplayer.com/product/623595/pokemon-sv09-journey-together-furret-168-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "169",
+      "names": {
+        "de": "",
+        "en": "Noibat",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-169/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-169/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Noibat-V2-JTG169",
+        "tcgplayer": "https://www.tcgplayer.com/product/623596/pokemon-sv09-journey-together-noibat-169-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "170",
+      "names": {
+        "de": "",
+        "en": "Hop's Wooloo",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-170/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-170/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Wooloo-V2-JTG170",
+        "tcgplayer": "https://www.tcgplayer.com/product/623597/pokemon-sv09-journey-together-hops-wooloo-170-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "171",
+      "names": {
+        "de": "",
+        "en": "Volcanion ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-171/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-171/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Volcanion-ex-V2-JTG171",
+        "tcgplayer": "https://www.tcgplayer.com/product/623598/pokemon-sv09-journey-together-volcanion-ex-171-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "172",
+      "names": {
+        "de": "",
+        "en": "Iono's Bellibolt ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-172/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-172/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Bellibolt-ex-V2-JTG172",
+        "tcgplayer": "https://www.tcgplayer.com/product/623599/pokemon-sv09-journey-together-ionos-bellibolt-ex-172-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "173",
+      "names": {
+        "de": "",
+        "en": "Lillie's Clefairy ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-173/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-173/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Clefairy-ex-V2-JTG173",
+        "tcgplayer": "https://www.tcgplayer.com/product/623600/pokemon-sv09-journey-together-lillies-clefairy-ex-173-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "174",
+      "names": {
+        "de": "",
+        "en": "Mamoswine ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-174/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-174/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Mamoswine-ex-V2-JTG174",
+        "tcgplayer": "https://www.tcgplayer.com/product/623601/pokemon-sv09-journey-together-mamoswine-ex-174-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "175",
+      "names": {
+        "de": "",
+        "en": "N's Zoroark ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-175/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-175/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Zoroark-ex-V2-JTG175",
+        "tcgplayer": "https://www.tcgplayer.com/product/623602/pokemon-sv09-journey-together-ns-zoroark-ex-175-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "176",
+      "names": {
+        "de": "",
+        "en": "Hop's Zacian ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-176/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-176/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Zacian-ex-V2-JTG176",
+        "tcgplayer": "https://www.tcgplayer.com/product/623603/pokemon-sv09-journey-together-hops-zacian-ex-176-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "177",
+      "names": {
+        "de": "",
+        "en": "Salamence ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-177/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-177/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Salamence-ex-V2-JTG177",
+        "tcgplayer": "https://www.tcgplayer.com/product/623604/pokemon-sv09-journey-together-salamence-ex-177-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "178",
+      "names": {
+        "de": "",
+        "en": "Dudunsparce ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-178/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-178/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Dudunsparce-ex-V2-JTG178",
+        "tcgplayer": "https://www.tcgplayer.com/product/623605/pokemon-sv09-journey-together-dudunsparce-ex-178-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "179",
+      "names": {
+        "de": "",
+        "en": "Brock's Scouting",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-179/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-179/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Brocks-Scouting-V2-JTG179",
+        "tcgplayer": "https://www.tcgplayer.com/product/623606/pokemon-sv09-journey-together-brocks-scouting-179-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "180",
+      "names": {
+        "de": "",
+        "en": "Iris's Fighting Spirit",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-180/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-180/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Iriss-Fighting-Spirit-V2-JTG180",
+        "tcgplayer": "https://www.tcgplayer.com/product/623607/pokemon-sv09-journey-together-iriss-fighting-spirit-180-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "181",
+      "names": {
+        "de": "",
+        "en": "Ruffian",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-181/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-181/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ruffian-V2-JTG181",
+        "tcgplayer": "https://www.tcgplayer.com/product/623608/pokemon-sv09-journey-together-ruffian-181-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "182",
+      "names": {
+        "de": "",
+        "en": "Volcanion ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-182/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-182/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Volcanion-ex-V3-JTG182",
+        "tcgplayer": "https://www.tcgplayer.com/product/623609/pokemon-sv09-journey-together-volcanion-ex-182-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "183",
+      "names": {
+        "de": "",
+        "en": "Iono's Bellibolt ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-183/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-183/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Bellibolt-ex-V3-JTG183",
+        "tcgplayer": "https://www.tcgplayer.com/product/623610/pokemon-sv09-journey-together-ionos-bellibolt-ex-183-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "184",
+      "names": {
+        "de": "",
+        "en": "Lillie's Clefairy ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-184/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-184/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Lillies-Clefairy-ex-V3-JTG184",
+        "tcgplayer": "https://www.tcgplayer.com/product/623611/pokemon-sv09-journey-together-lillies-clefairy-ex-184-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "185",
+      "names": {
+        "de": "",
+        "en": "N's Zoroark ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-185/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-185/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Zoroark-ex-V3-JTG185",
+        "tcgplayer": "https://www.tcgplayer.com/product/623612/pokemon-sv09-journey-together-ns-zoroark-ex-185-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "186",
+      "names": {
+        "de": "",
+        "en": "Hop's Zacian ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-186/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-186/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Hops-Zacian-ex-V3-JTG186",
+        "tcgplayer": "https://www.tcgplayer.com/product/623613/pokemon-sv09-journey-together-hops-zacian-ex-186-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "187",
+      "names": {
+        "de": "",
+        "en": "Salamence ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-187/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-187/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Salamence-ex-V3-JTG187",
+        "tcgplayer": "https://www.tcgplayer.com/product/623614/pokemon-sv09-journey-together-salamence-ex-187-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "188",
+      "names": {
+        "de": "",
+        "en": "Iono's Bellibolt ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-188/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-188/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ionos-Bellibolt-ex-V4-JTG188",
+        "tcgplayer": "https://www.tcgplayer.com/product/623615/pokemon-sv09-journey-together-ionos-bellibolt-ex-188-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "189",
+      "names": {
+        "de": "",
+        "en": "N's Zoroark ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-189/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-189/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Ns-Zoroark-ex-V4-JTG189",
+        "tcgplayer": "https://www.tcgplayer.com/product/623616/pokemon-sv09-journey-together-ns-zoroark-ex-189-159?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "190",
+      "names": {
+        "de": "",
+        "en": "Spiky Energy",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv9-190/medium",
+        "large": "https://images.scrydex.com/pokemon/sv9-190/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Journey-Together/Spiky-Energy-V2-JTG190",
+        "tcgplayer": "https://www.tcgplayer.com/product/623617/pokemon-sv09-journey-together-spiky-energy-190-159?page=1&Language=English"
+      },
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,3622 @@
+{
+  "edition": {
+    "id": "rsv10pt5",
+    "name": "White Flare",
+    "nameEN": "White Flare",
+    "total": 173,
+    "releaseDate": "2025-07-18"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "",
+        "en": "Sewaddle",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-1/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-1/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Sewaddle-V1-WHT001",
+        "tcgplayer": "https://www.tcgplayer.com/product/642116/pokemon-sv-white-flare-sewaddle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "",
+        "en": "Swadloon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-2/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-2/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Swadloon-V1-WHT002",
+        "tcgplayer": "https://www.tcgplayer.com/product/642117/pokemon-sv-white-flare-swadloon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "",
+        "en": "Leavanny",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-3/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-3/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Leavanny-V1-WHT003",
+        "tcgplayer": "https://www.tcgplayer.com/product/642118/pokemon-sv-white-flare-leavanny?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "",
+        "en": "Cottonee",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-4/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-4/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Cottonee-V1-WHT004",
+        "tcgplayer": "https://www.tcgplayer.com/product/642119/pokemon-sv-white-flare-cottonee?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "",
+        "en": "Whimsicott ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-5/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-5/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Whimsicott-ex-V1-WHT005",
+        "tcgplayer": "https://www.tcgplayer.com/product/642120/pokemon-sv-white-flare-whimsicott-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "",
+        "en": "Deerling",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-6/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-6/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Deerling-V1-WHT006",
+        "tcgplayer": "https://www.tcgplayer.com/product/642121/pokemon-sv-white-flare-deerling?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "",
+        "en": "Sawsbuck",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-7/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-7/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Sawsbuck-V1-WHT007",
+        "tcgplayer": "https://www.tcgplayer.com/product/642122/pokemon-sv-white-flare-sawsbuck?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "",
+        "en": "Shelmet",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-8/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-8/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Shelmet-V1-WHT008",
+        "tcgplayer": "https://www.tcgplayer.com/product/642123/pokemon-sv-white-flare-shelmet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "",
+        "en": "Accelgor",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-9/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-9/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Accelgor-V1-WHT009",
+        "tcgplayer": "https://www.tcgplayer.com/product/642124/pokemon-sv-white-flare-accelgor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "",
+        "en": "Virizion",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-10/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-10/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Virizion-V1-WHT010",
+        "tcgplayer": "https://www.tcgplayer.com/product/642125/pokemon-sv-white-flare-virizion?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "",
+        "en": "Tepig",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-11/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-11/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Tepig-V1-WHT011",
+        "tcgplayer": "https://www.tcgplayer.com/product/642126/pokemon-sv-white-flare-tepig?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "",
+        "en": "Pignite",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-12/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-12/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Pignite-V1-WHT012",
+        "tcgplayer": "https://www.tcgplayer.com/product/642127/pokemon-sv-white-flare-pignite?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "",
+        "en": "Emboar",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-13/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-13/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Emboar-V1-WHT013",
+        "tcgplayer": "https://www.tcgplayer.com/product/642128/pokemon-sv-white-flare-emboar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "",
+        "en": "Pansear",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-14/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-14/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Pansear-V1-WHT014",
+        "tcgplayer": "https://www.tcgplayer.com/product/642129/pokemon-sv-white-flare-pansear?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "",
+        "en": "Simisear",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-15/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-15/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Simisear-V1-WHT015",
+        "tcgplayer": "https://www.tcgplayer.com/product/642130/pokemon-sv-white-flare-simisear?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "",
+        "en": "Litwick",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-16/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-16/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Litwick-V1-WHT016",
+        "tcgplayer": "https://www.tcgplayer.com/product/642464/pokemon-sv-white-flare-litwick?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "",
+        "en": "Lampent",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-17/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-17/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Lampent-V1-WHT017",
+        "tcgplayer": "https://www.tcgplayer.com/product/642465/pokemon-sv-white-flare-lampent?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "",
+        "en": "Chandelure",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-18/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-18/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Chandelure-V1-WHT018",
+        "tcgplayer": "https://www.tcgplayer.com/product/642466/pokemon-sv-white-flare-chandelure?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "",
+        "en": "Heatmor",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-19/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-19/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Heatmor-V1-WHT019",
+        "tcgplayer": "https://www.tcgplayer.com/product/642131/pokemon-sv-white-flare-heatmor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "",
+        "en": "Reshiram ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-20/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-20/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Reshiram-ex-V1-WHT020",
+        "tcgplayer": "https://www.tcgplayer.com/product/642132/pokemon-sv-white-flare-reshiram-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "",
+        "en": "Oshawott",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-21/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-21/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Oshawott-V1-WHT021",
+        "tcgplayer": "https://www.tcgplayer.com/product/642133/pokemon-sv-white-flare-oshawott?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "",
+        "en": "Dewott",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-22/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-22/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Dewott-V1-WHT022",
+        "tcgplayer": "https://www.tcgplayer.com/product/642134/pokemon-sv-white-flare-dewott?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "",
+        "en": "Samurott",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-23/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-23/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Samurott-V1-WHT023",
+        "tcgplayer": "https://www.tcgplayer.com/product/642135/pokemon-sv-white-flare-samurott?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "",
+        "en": "Basculin",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-24/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-24/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Basculin-V1-WHT024",
+        "tcgplayer": "https://www.tcgplayer.com/product/642136/pokemon-sv-white-flare-basculin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "",
+        "en": "Ducklett",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-25/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-25/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Ducklett-V1-WHT025",
+        "tcgplayer": "https://www.tcgplayer.com/product/642137/pokemon-sv-white-flare-ducklett?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "",
+        "en": "Swanna",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-26/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-26/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Swanna-V1-WHT026",
+        "tcgplayer": "https://www.tcgplayer.com/product/642138/pokemon-sv-white-flare-swanna?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "",
+        "en": "Vanillite",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-27/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-27/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Vanillite-V1-WHT027",
+        "tcgplayer": "https://www.tcgplayer.com/product/642139/pokemon-sv-white-flare-vanillite?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "",
+        "en": "Vanillish",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-28/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-28/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Vanillish-V1-WHT028",
+        "tcgplayer": "https://www.tcgplayer.com/product/642140/pokemon-sv-white-flare-vanillish?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "",
+        "en": "Vanilluxe",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-29/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-29/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Vanilluxe-V1-WHT029",
+        "tcgplayer": "https://www.tcgplayer.com/product/642141/pokemon-sv-white-flare-vanilluxe?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "",
+        "en": "Keldeo ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-30/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-30/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Keldeo-ex-V1-WHT030",
+        "tcgplayer": "https://www.tcgplayer.com/product/642142/pokemon-sv-white-flare-keldeo-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "",
+        "en": "Blitzle",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-31/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-31/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Blitzle-V1-WHT031",
+        "tcgplayer": "https://www.tcgplayer.com/product/642143/pokemon-sv-white-flare-blitzle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "",
+        "en": "Zebstrika",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-32/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-32/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Zebstrika-V1-WHT032",
+        "tcgplayer": "https://www.tcgplayer.com/product/642144/pokemon-sv-white-flare-zebstrika?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "",
+        "en": "Joltik",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-33/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-33/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Joltik-V1-WHT033",
+        "tcgplayer": "https://www.tcgplayer.com/product/642145/pokemon-sv-white-flare-joltik?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "",
+        "en": "Galvantula",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-34/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-34/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Galvantula-V1-WHT034",
+        "tcgplayer": "https://www.tcgplayer.com/product/642146/pokemon-sv-white-flare-galvantula?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "",
+        "en": "Stunfisk",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-35/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-35/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Stunfisk-V1-WHT035",
+        "tcgplayer": "https://www.tcgplayer.com/product/642147/pokemon-sv-white-flare-stunfisk?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "",
+        "en": "Woobat",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-36/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-36/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Woobat-V1-WHT036",
+        "tcgplayer": "https://www.tcgplayer.com/product/642148/pokemon-sv-white-flare-woobat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "",
+        "en": "Swoobat",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-37/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-37/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Swoobat-V1-WHT037",
+        "tcgplayer": "https://www.tcgplayer.com/product/642149/pokemon-sv-white-flare-swoobat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "",
+        "en": "Sigilyph",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-38/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-38/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Sigilyph-V1-WHT038",
+        "tcgplayer": "https://www.tcgplayer.com/product/642150/pokemon-sv-white-flare-sigilyph?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "",
+        "en": "Yamask",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-39/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-39/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Yamask-V1-WHT039",
+        "tcgplayer": "https://www.tcgplayer.com/product/642151/pokemon-sv-white-flare-yamask?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "",
+        "en": "Cofagrigus",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-40/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-40/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Cofagrigus-V1-WHT040",
+        "tcgplayer": "https://www.tcgplayer.com/product/642152/pokemon-sv-white-flare-cofagrigus?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "",
+        "en": "Gothita",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-41/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-41/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Gothita-V1-WHT041",
+        "tcgplayer": "https://www.tcgplayer.com/product/642153/pokemon-sv-white-flare-gothita?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "",
+        "en": "Gothorita",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-42/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-42/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Gothorita-V1-WHT042",
+        "tcgplayer": "https://www.tcgplayer.com/product/642154/pokemon-sv-white-flare-gothorita?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "",
+        "en": "Gothitelle",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-43/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-43/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Gothitelle-WHT043",
+        "tcgplayer": "https://www.tcgplayer.com/product/642155/pokemon-sv-white-flare-gothitelle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "",
+        "en": "Frillish",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-44/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-44/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Frillish-V1-WHT044",
+        "tcgplayer": "https://www.tcgplayer.com/product/642156/pokemon-sv-white-flare-frillish?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "",
+        "en": "Jellicent ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-45/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-45/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Jellicent-ex-V1-WHT045",
+        "tcgplayer": "https://www.tcgplayer.com/product/642157/pokemon-sv-white-flare-jellicent-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "",
+        "en": "Roggenrola",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-46/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-46/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Roggenrola-V1-WHT046",
+        "tcgplayer": "https://www.tcgplayer.com/product/642158/pokemon-sv-white-flare-roggenrola?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "",
+        "en": "Boldore",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-47/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-47/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Boldore-V1-WHT047",
+        "tcgplayer": "https://www.tcgplayer.com/product/642159/pokemon-sv-white-flare-boldore?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "",
+        "en": "Gigalith",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-48/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-48/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Gigalith-V1-WHT048",
+        "tcgplayer": "https://www.tcgplayer.com/product/642160/pokemon-sv-white-flare-gigalith?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "",
+        "en": "Sawk",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-49/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-49/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Sawk-V1-WHT049",
+        "tcgplayer": "https://www.tcgplayer.com/product/642161/pokemon-sv-white-flare-sawk?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "",
+        "en": "Archen",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-50/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-50/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Archen-V1-WHT050",
+        "tcgplayer": "https://www.tcgplayer.com/product/642162/pokemon-sv-white-flare-archen?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "",
+        "en": "Archeops",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-51/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-51/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Archeops-V1-WHT051",
+        "tcgplayer": "https://www.tcgplayer.com/product/642163/pokemon-sv-white-flare-archeops?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "",
+        "en": "Mienfoo",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-52/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-52/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Mienfoo-V1-WHT052",
+        "tcgplayer": "https://www.tcgplayer.com/product/642164/pokemon-sv-white-flare-mienfoo?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "",
+        "en": "Mienshao",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-53/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-53/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Mienshao-V1-WHT053",
+        "tcgplayer": "https://www.tcgplayer.com/product/642165/pokemon-sv-white-flare-mienshao?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "",
+        "en": "Terrakion",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-54/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-54/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Terrakion-V1-WHT054",
+        "tcgplayer": "https://www.tcgplayer.com/product/642166/pokemon-sv-white-flare-terrakion?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "",
+        "en": "Purrloin",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-55/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-55/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Purrloin-V1-WHT055",
+        "tcgplayer": "https://www.tcgplayer.com/product/642167/pokemon-sv-white-flare-purrloin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "",
+        "en": "Liepard",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-56/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-56/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Liepard-V1-WHT056",
+        "tcgplayer": "https://www.tcgplayer.com/product/642168/pokemon-sv-white-flare-liepard?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "",
+        "en": "Scraggy",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-57/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-57/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Scraggy-V1-WHT057",
+        "tcgplayer": "https://www.tcgplayer.com/product/642169/pokemon-sv-white-flare-scraggy?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "",
+        "en": "Scrafty",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-58/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-58/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Scrafty-V1-WHT058",
+        "tcgplayer": "https://www.tcgplayer.com/product/642170/pokemon-sv-white-flare-scrafty?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "",
+        "en": "Trubbish",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-59/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-59/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Trubbish-V1-WHT059",
+        "tcgplayer": "https://www.tcgplayer.com/product/642171/pokemon-sv-white-flare-trubbish?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "",
+        "en": "Garbodor",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-60/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-60/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Garbodor-V1-WHT060",
+        "tcgplayer": "https://www.tcgplayer.com/product/642172/pokemon-sv-white-flare-garbodor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "",
+        "en": "Zorua",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-61/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-61/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Zorua-V1-WHT061",
+        "tcgplayer": "https://www.tcgplayer.com/product/642173/pokemon-sv-white-flare-zorua?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "",
+        "en": "Zoroark",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-62/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-62/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Zoroark-V1-WHT062",
+        "tcgplayer": "https://www.tcgplayer.com/product/642174/pokemon-sv-white-flare-zoroark?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "",
+        "en": "Vullaby",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-63/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-63/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Vullaby-V1-WHT063",
+        "tcgplayer": "https://www.tcgplayer.com/product/642512/pokemon-sv-white-flare-vullaby?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "",
+        "en": "Mandibuzz",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-64/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-64/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Mandibuzz-V1-WHT064",
+        "tcgplayer": "https://www.tcgplayer.com/product/642513/pokemon-sv-white-flare-mandibuzz?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "",
+        "en": "Deino",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-65/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-65/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Deino-V1-WHT065",
+        "tcgplayer": "https://www.tcgplayer.com/product/642175/pokemon-sv-white-flare-deino?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "",
+        "en": "Zweilous",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-66/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-66/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Zweilous-V1-WHT066",
+        "tcgplayer": "https://www.tcgplayer.com/product/642176/pokemon-sv-white-flare-zweilous?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "",
+        "en": "Hydreigon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-67/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-67/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Hydreigon-ex-V1-WHT067",
+        "tcgplayer": "https://www.tcgplayer.com/product/642177/pokemon-sv-white-flare-hydreigon-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "",
+        "en": "Ferroseed",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-68/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-68/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Ferroseed-V1-WHT068",
+        "tcgplayer": "https://www.tcgplayer.com/product/642178/pokemon-sv-white-flare-ferroseed?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "",
+        "en": "Ferrothorn",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-69/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-69/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Ferrothorn-V1-WHT069",
+        "tcgplayer": "https://www.tcgplayer.com/product/642179/pokemon-sv-white-flare-ferrothorn?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "",
+        "en": "Durant",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-70/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-70/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Durant-V1-WHT070",
+        "tcgplayer": "https://www.tcgplayer.com/product/642183/pokemon-sv-white-flare-durant?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "",
+        "en": "Druddigon",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-71/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-71/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Druddigon-V1-WHT071",
+        "tcgplayer": "https://www.tcgplayer.com/product/642184/pokemon-sv-white-flare-druddigon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "",
+        "en": "Patrat",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-72/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-72/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Patrat-V1-WHT072",
+        "tcgplayer": "https://www.tcgplayer.com/product/642185/pokemon-sv-white-flare-patrat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "",
+        "en": "Watchog",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-73/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-73/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Watchog-V1-WHT073",
+        "tcgplayer": "https://www.tcgplayer.com/product/642186/pokemon-sv-white-flare-watchog?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "",
+        "en": "Lillipup",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-74/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-74/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Lillipup-V1-WHT074",
+        "tcgplayer": "https://www.tcgplayer.com/product/642187/pokemon-sv-white-flare-lillipup?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "",
+        "en": "Herdier",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-75/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-75/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Herdier-V1-WHT075",
+        "tcgplayer": "https://www.tcgplayer.com/product/642188/pokemon-sv-white-flare-herdier?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "076",
+      "names": {
+        "de": "",
+        "en": "Stoutland",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-76/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-76/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Stoutland-V1-WHT076",
+        "tcgplayer": "https://www.tcgplayer.com/product/642189/pokemon-sv-white-flare-stoutland?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "077",
+      "names": {
+        "de": "",
+        "en": "Bouffalant ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-77/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-77/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Bouffalant-ex-V1-WHT077",
+        "tcgplayer": "https://www.tcgplayer.com/product/642190/pokemon-sv-white-flare-bouffalant-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "078",
+      "names": {
+        "de": "",
+        "en": "Tornadus",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-78/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-78/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Tornadus-WHT078",
+        "tcgplayer": "https://www.tcgplayer.com/product/642193/pokemon-sv-white-flare-tornadus?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "079",
+      "names": {
+        "de": "",
+        "en": "Antique Plume Fossil",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-79/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-79/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Antique-Plume-Fossil-WHT079",
+        "tcgplayer": "https://www.tcgplayer.com/product/642196/pokemon-sv-white-flare-antique-plume-fossil?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "080",
+      "names": {
+        "de": "",
+        "en": "Brave Bangle",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-80/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-80/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Brave-Bangle-WHT080",
+        "tcgplayer": "https://www.tcgplayer.com/product/642197/pokemon-sv-white-flare-brave-bangle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "081",
+      "names": {
+        "de": "",
+        "en": "Cheren",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-81/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-81/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Cheren-WHT081",
+        "tcgplayer": "https://www.tcgplayer.com/product/642199/pokemon-sv-white-flare-cheren?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "082",
+      "names": {
+        "de": "",
+        "en": "Energy Retrieval",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-82/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-82/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Energy-Retrieval-WHT082",
+        "tcgplayer": "https://www.tcgplayer.com/product/642194/pokemon-sv-white-flare-energy-retrieval?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "083",
+      "names": {
+        "de": "",
+        "en": "Harlequin",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-83/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-83/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Harlequin-V1-WHT083",
+        "tcgplayer": "https://www.tcgplayer.com/product/642198/pokemon-sv-white-flare-harlequin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "084",
+      "names": {
+        "de": "",
+        "en": "Hilda",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-84/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-84/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Hilda-V1-WHT084",
+        "tcgplayer": "https://www.tcgplayer.com/product/642200/pokemon-sv-white-flare-hilda?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "085",
+      "names": {
+        "de": "",
+        "en": "Tool Scrapper",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-85/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-85/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Tool-Scrapper-WHT085",
+        "tcgplayer": "https://www.tcgplayer.com/product/642195/pokemon-sv-white-flare-tool-scrapper?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "086",
+      "names": {
+        "de": "",
+        "en": "Ignition Energy",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-86/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-86/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Ignition-Energy-WHT086",
+        "tcgplayer": "https://www.tcgplayer.com/product/642201/pokemon-sv-white-flare-ignition-energy?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "087",
+      "names": {
+        "de": "",
+        "en": "Sewaddle",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-87/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-87/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Sewaddle-V2-WHT087",
+        "tcgplayer": "https://www.tcgplayer.com/product/642202/pokemon-sv-white-flare-sewaddle-087-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "088",
+      "names": {
+        "de": "",
+        "en": "Swadloon",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-88/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-88/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Swadloon-V2-WHT088",
+        "tcgplayer": "https://www.tcgplayer.com/product/642203/pokemon-sv-white-flare-swadloon-088-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "089",
+      "names": {
+        "de": "",
+        "en": "Leavanny",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-89/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-89/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Leavanny-V2-WHT089",
+        "tcgplayer": "https://www.tcgplayer.com/product/642204/pokemon-sv-white-flare-leavanny-089-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "090",
+      "names": {
+        "de": "",
+        "en": "Cottonee",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-90/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-90/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Cottonee-V2-WHT090",
+        "tcgplayer": "https://www.tcgplayer.com/product/642205/pokemon-sv-white-flare-cottonee-090-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "091",
+      "names": {
+        "de": "",
+        "en": "Deerling",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-91/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-91/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Deerling-V2-WHT091",
+        "tcgplayer": "https://www.tcgplayer.com/product/642206/pokemon-sv-white-flare-deerling-091-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "092",
+      "names": {
+        "de": "",
+        "en": "Sawsbuck",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-92/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-92/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Sawsbuck-V2-WHT092",
+        "tcgplayer": "https://www.tcgplayer.com/product/642207/pokemon-sv-white-flare-sawsbuck-092-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "093",
+      "names": {
+        "de": "",
+        "en": "Shelmet",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-93/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-93/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Shelmet-V2-WHT093",
+        "tcgplayer": "https://www.tcgplayer.com/product/642208/pokemon-sv-white-flare-shelmet-093-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "094",
+      "names": {
+        "de": "",
+        "en": "Accelgor",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-94/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-94/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Accelgor-V2-WHT094",
+        "tcgplayer": "https://www.tcgplayer.com/product/642209/pokemon-sv-white-flare-accelgor-094-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "095",
+      "names": {
+        "de": "",
+        "en": "Virizion",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-95/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-95/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Virizion-V2-WHT095",
+        "tcgplayer": "https://www.tcgplayer.com/product/642210/pokemon-sv-white-flare-virizion-095-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "096",
+      "names": {
+        "de": "",
+        "en": "Tepig",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-96/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-96/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Tepig-V2-WHT096",
+        "tcgplayer": "https://www.tcgplayer.com/product/642211/pokemon-sv-white-flare-tepig-096-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "097",
+      "names": {
+        "de": "",
+        "en": "Pignite",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-97/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-97/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Pignite-V2-WHT097",
+        "tcgplayer": "https://www.tcgplayer.com/product/642212/pokemon-sv-white-flare-pignite-097-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "098",
+      "names": {
+        "de": "",
+        "en": "Emboar",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-98/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-98/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Emboar-V2-WHT098",
+        "tcgplayer": "https://www.tcgplayer.com/product/642213/pokemon-sv-white-flare-emboar-098-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "099",
+      "names": {
+        "de": "",
+        "en": "Pansear",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-99/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-99/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Pansear-V2-WHT099",
+        "tcgplayer": "https://www.tcgplayer.com/product/642214/pokemon-sv-white-flare-pansear-099-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "100",
+      "names": {
+        "de": "",
+        "en": "Simisear",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-100/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-100/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Simisear-V2-WHT100",
+        "tcgplayer": "https://www.tcgplayer.com/product/642215/pokemon-sv-white-flare-simisear-100-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "101",
+      "names": {
+        "de": "",
+        "en": "Litwick",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-101/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-101/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Litwick-V2-WHT101",
+        "tcgplayer": "https://www.tcgplayer.com/product/642549/pokemon-sv-white-flare-litwick-101-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "102",
+      "names": {
+        "de": "",
+        "en": "Lampent",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-102/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-102/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Lampent-V2-WHT102",
+        "tcgplayer": "https://www.tcgplayer.com/product/642550/pokemon-sv-white-flare-lampent-102-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "103",
+      "names": {
+        "de": "",
+        "en": "Chandelure",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-103/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-103/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Chandelure-V2-WHT103",
+        "tcgplayer": "https://www.tcgplayer.com/product/642551/pokemon-sv-white-flare-chandelure-103-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "104",
+      "names": {
+        "de": "",
+        "en": "Heatmor",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-104/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-104/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Heatmor-V2-WHT104",
+        "tcgplayer": "https://www.tcgplayer.com/product/642216/pokemon-sv-white-flare-heatmor-104-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "105",
+      "names": {
+        "de": "",
+        "en": "Oshawott",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-105/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-105/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Oshawott-V2-WHT105",
+        "tcgplayer": "https://www.tcgplayer.com/product/642217/pokemon-sv-white-flare-oshawott-105-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "106",
+      "names": {
+        "de": "",
+        "en": "Dewott",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-106/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-106/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Dewott-V2-WHT106",
+        "tcgplayer": "https://www.tcgplayer.com/product/642218/pokemon-sv-white-flare-dewott-106-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "107",
+      "names": {
+        "de": "",
+        "en": "Samurott",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-107/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-107/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Samurott-V2-WHT107",
+        "tcgplayer": "https://www.tcgplayer.com/product/642219/pokemon-sv-white-flare-samurott-107-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "108",
+      "names": {
+        "de": "",
+        "en": "Basculin",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-108/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-108/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Basculin-V2-WHT108",
+        "tcgplayer": "https://www.tcgplayer.com/product/642220/pokemon-sv-white-flare-basculin-108-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "109",
+      "names": {
+        "de": "",
+        "en": "Ducklett",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-109/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-109/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Ducklett-V2-WHT109",
+        "tcgplayer": "https://www.tcgplayer.com/product/642221/pokemon-sv-white-flare-ducklett-109-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "110",
+      "names": {
+        "de": "",
+        "en": "Swanna",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-110/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-110/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Swanna-V2-WHT110",
+        "tcgplayer": "https://www.tcgplayer.com/product/642222/pokemon-sv-white-flare-swanna-110-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "111",
+      "names": {
+        "de": "",
+        "en": "Vanillite",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-111/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-111/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Vanillite-V2-WHT111",
+        "tcgplayer": "https://www.tcgplayer.com/product/642223/pokemon-sv-white-flare-vanillite-111-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "112",
+      "names": {
+        "de": "",
+        "en": "Vanillish",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-112/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-112/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Vanillish-V2-WHT112",
+        "tcgplayer": "https://www.tcgplayer.com/product/642224/pokemon-sv-white-flare-vanillish-112-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "113",
+      "names": {
+        "de": "",
+        "en": "Vanilluxe",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-113/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-113/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Vanilluxe-V2-WHT113",
+        "tcgplayer": "https://www.tcgplayer.com/product/642225/pokemon-sv-white-flare-vanilluxe-113-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "114",
+      "names": {
+        "de": "",
+        "en": "Blitzle",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-114/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-114/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Blitzle-V2-WHT114",
+        "tcgplayer": "https://www.tcgplayer.com/product/642226/pokemon-sv-white-flare-blitzle-114-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "115",
+      "names": {
+        "de": "",
+        "en": "Zebstrika",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-115/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-115/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Zebstrika-V2-WHT115",
+        "tcgplayer": "https://www.tcgplayer.com/product/642227/pokemon-sv-white-flare-zebstrika-115-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "116",
+      "names": {
+        "de": "",
+        "en": "Joltik",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-116/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-116/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Joltik-V2-WHT116",
+        "tcgplayer": "https://www.tcgplayer.com/product/642228/pokemon-sv-white-flare-joltik-116-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "117",
+      "names": {
+        "de": "",
+        "en": "Galvantula",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-117/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-117/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Galvantula-V2-WHT117",
+        "tcgplayer": "https://www.tcgplayer.com/product/642229/pokemon-sv-white-flare-galvantula-117-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "118",
+      "names": {
+        "de": "",
+        "en": "Stunfisk",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-118/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-118/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Stunfisk-V2-WHT118",
+        "tcgplayer": "https://www.tcgplayer.com/product/642230/pokemon-sv-white-flare-stunfisk-118-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "119",
+      "names": {
+        "de": "",
+        "en": "Woobat",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-119/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-119/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Woobat-V2-WHT119",
+        "tcgplayer": "https://www.tcgplayer.com/product/642231/pokemon-sv-white-flare-woobat-119-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "120",
+      "names": {
+        "de": "",
+        "en": "Swoobat",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-120/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-120/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Swoobat-V2-WHT120",
+        "tcgplayer": "https://www.tcgplayer.com/product/642232/pokemon-sv-white-flare-swoobat-120-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "121",
+      "names": {
+        "de": "",
+        "en": "Sigilyph",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-121/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-121/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Sigilyph-V2-WHT121",
+        "tcgplayer": "https://www.tcgplayer.com/product/642233/pokemon-sv-white-flare-sigilyph-121-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "122",
+      "names": {
+        "de": "",
+        "en": "Yamask",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-122/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-122/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Yamask-V2-WHT122",
+        "tcgplayer": "https://www.tcgplayer.com/product/642234/pokemon-sv-white-flare-yamask-122-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "123",
+      "names": {
+        "de": "",
+        "en": "Cofagrigus",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-123/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-123/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Cofagrigus-V2-WHT123",
+        "tcgplayer": "https://www.tcgplayer.com/product/642235/pokemon-sv-white-flare-cofagrigus-123-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "124",
+      "names": {
+        "de": "",
+        "en": "Gothita",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-124/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-124/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Gothita-V2-WHT124",
+        "tcgplayer": "https://www.tcgplayer.com/product/642236/pokemon-sv-white-flare-gothita-124-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "125",
+      "names": {
+        "de": "",
+        "en": "Gothorita",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-125/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-125/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Gothorita-V2-WHT125",
+        "tcgplayer": "https://www.tcgplayer.com/product/642237/pokemon-sv-white-flare-gothorita-125-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "126",
+      "names": {
+        "de": "",
+        "en": "Frillish",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-126/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-126/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Frillish-V2-WHT126",
+        "tcgplayer": "https://www.tcgplayer.com/product/642239/pokemon-sv-white-flare-frillish-126-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "127",
+      "names": {
+        "de": "",
+        "en": "Roggenrola",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-127/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-127/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Roggenrola-V2-WHT127",
+        "tcgplayer": "https://www.tcgplayer.com/product/642240/pokemon-sv-white-flare-roggenrola-127-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "128",
+      "names": {
+        "de": "",
+        "en": "Boldore",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-128/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-128/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Boldore-V2-WHT128",
+        "tcgplayer": "https://www.tcgplayer.com/product/642241/pokemon-sv-white-flare-boldore-128-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "129",
+      "names": {
+        "de": "",
+        "en": "Gigalith",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-129/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-129/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Gigalith-V2-WHT129",
+        "tcgplayer": "https://www.tcgplayer.com/product/642242/pokemon-sv-white-flare-gigalith-129-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "130",
+      "names": {
+        "de": "",
+        "en": "Sawk",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-130/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-130/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Sawk-V2-WHT130",
+        "tcgplayer": "https://www.tcgplayer.com/product/642243/pokemon-sv-white-flare-sawk-130-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "131",
+      "names": {
+        "de": "",
+        "en": "Archen",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-131/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-131/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Archen-V2-WHT131",
+        "tcgplayer": "https://www.tcgplayer.com/product/642244/pokemon-sv-white-flare-archen-131-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "132",
+      "names": {
+        "de": "",
+        "en": "Archeops",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-132/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-132/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Archeops-V2-WHT132",
+        "tcgplayer": "https://www.tcgplayer.com/product/642245/pokemon-sv-white-flare-archeops-132-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "133",
+      "names": {
+        "de": "",
+        "en": "Mienfoo",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-133/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-133/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Mienfoo-V2-WHT133",
+        "tcgplayer": "https://www.tcgplayer.com/product/642246/pokemon-sv-white-flare-mienfoo-133-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "134",
+      "names": {
+        "de": "",
+        "en": "Mienshao",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-134/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-134/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Mienshao-V2-WHT134",
+        "tcgplayer": "https://www.tcgplayer.com/product/642247/pokemon-sv-white-flare-mienshao-134-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "135",
+      "names": {
+        "de": "",
+        "en": "Terrakion",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-135/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-135/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Terrakion-V2-WHT135",
+        "tcgplayer": "https://www.tcgplayer.com/product/642248/pokemon-sv-white-flare-terrakion-135-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "136",
+      "names": {
+        "de": "",
+        "en": "Purrloin",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-136/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-136/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Purrloin-V2-WHT136",
+        "tcgplayer": "https://www.tcgplayer.com/product/642249/pokemon-sv-white-flare-purrloin-136-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "137",
+      "names": {
+        "de": "",
+        "en": "Liepard",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-137/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-137/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Liepard-V2-WHT137",
+        "tcgplayer": "https://www.tcgplayer.com/product/642250/pokemon-sv-white-flare-liepard-137-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "138",
+      "names": {
+        "de": "",
+        "en": "Scraggy",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-138/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-138/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Scraggy-V2-WHT138",
+        "tcgplayer": "https://www.tcgplayer.com/product/642251/pokemon-sv-white-flare-scraggy-138-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "139",
+      "names": {
+        "de": "",
+        "en": "Scrafty",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-139/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-139/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Scrafty-V2-WHT139",
+        "tcgplayer": "https://www.tcgplayer.com/product/642252/pokemon-sv-white-flare-scrafty-139-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "140",
+      "names": {
+        "de": "",
+        "en": "Trubbish",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-140/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-140/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Trubbish-V2-WHT140",
+        "tcgplayer": "https://www.tcgplayer.com/product/642253/pokemon-sv-white-flare-trubbish-140-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "141",
+      "names": {
+        "de": "",
+        "en": "Garbodor",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-141/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-141/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Garbodor-V2-WHT141",
+        "tcgplayer": "https://www.tcgplayer.com/product/642254/pokemon-sv-white-flare-garbodor-141-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "142",
+      "names": {
+        "de": "",
+        "en": "Zorua",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-142/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-142/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Zorua-V2-WHT142",
+        "tcgplayer": "https://www.tcgplayer.com/product/642255/pokemon-sv-white-flare-zorua-142-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "143",
+      "names": {
+        "de": "",
+        "en": "Zoroark",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-143/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-143/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Zoroark-V2-WHT143",
+        "tcgplayer": "https://www.tcgplayer.com/product/642256/pokemon-sv-white-flare-zoroark-143-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "144",
+      "names": {
+        "de": "",
+        "en": "Vullaby",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-144/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-144/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Vullaby-V2-WHT144",
+        "tcgplayer": "https://www.tcgplayer.com/product/642593/pokemon-sv-white-flare-vullaby-144-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "145",
+      "names": {
+        "de": "",
+        "en": "Mandibuzz",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-145/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-145/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Mandibuzz-V2-WHT145",
+        "tcgplayer": "https://www.tcgplayer.com/product/642594/pokemon-sv-white-flare-mandibuzz-145-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "146",
+      "names": {
+        "de": "",
+        "en": "Deino",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-146/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-146/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Deino-V2-WHT146",
+        "tcgplayer": "https://www.tcgplayer.com/product/642257/pokemon-sv-white-flare-deino-146-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "147",
+      "names": {
+        "de": "",
+        "en": "Zweilous",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-147/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-147/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Zweilous-V2-WHT147",
+        "tcgplayer": "https://www.tcgplayer.com/product/642258/pokemon-sv-white-flare-zweilous-147-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "148",
+      "names": {
+        "de": "",
+        "en": "Ferroseed",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-148/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-148/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Ferroseed-V2-WHT148",
+        "tcgplayer": "https://www.tcgplayer.com/product/642259/pokemon-sv-white-flare-ferroseed-148-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "149",
+      "names": {
+        "de": "",
+        "en": "Ferrothorn",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-149/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-149/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Ferrothorn-V2-WHT149",
+        "tcgplayer": "https://www.tcgplayer.com/product/642260/pokemon-sv-white-flare-ferrothorn-149-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "150",
+      "names": {
+        "de": "",
+        "en": "Durant",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-150/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-150/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Durant-V2-WHT150",
+        "tcgplayer": "https://www.tcgplayer.com/product/642264/pokemon-sv-white-flare-durant-150-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "151",
+      "names": {
+        "de": "",
+        "en": "Druddigon",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-151/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-151/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Druddigon-V2-WHT151",
+        "tcgplayer": "https://www.tcgplayer.com/product/642265/pokemon-sv-white-flare-druddigon-151-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "152",
+      "names": {
+        "de": "",
+        "en": "Patrat",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-152/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-152/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Patrat-V2-WHT152",
+        "tcgplayer": "https://www.tcgplayer.com/product/642266/pokemon-sv-white-flare-patrat-152-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "153",
+      "names": {
+        "de": "",
+        "en": "Watchog",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-153/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-153/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Watchog-V2-WHT153",
+        "tcgplayer": "https://www.tcgplayer.com/product/642267/pokemon-sv-white-flare-watchog-153-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "154",
+      "names": {
+        "de": "",
+        "en": "Lillipup",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-154/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-154/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Lillipup-V2-WHT154",
+        "tcgplayer": "https://www.tcgplayer.com/product/642268/pokemon-sv-white-flare-lillipup-154-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "155",
+      "names": {
+        "de": "",
+        "en": "Herdier",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-155/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-155/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Herdier-V2-WHT155",
+        "tcgplayer": "https://www.tcgplayer.com/product/642269/pokemon-sv-white-flare-herdier-155-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "156",
+      "names": {
+        "de": "",
+        "en": "Stoutland",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-156/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-156/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Stoutland-V2-WHT156",
+        "tcgplayer": "https://www.tcgplayer.com/product/642270/pokemon-sv-white-flare-stoutland-156-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "157",
+      "names": {
+        "de": "",
+        "en": "Whimsicott ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-157/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-157/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Whimsicott-ex-V2-WHT157",
+        "tcgplayer": "https://www.tcgplayer.com/product/642274/pokemon-sv-white-flare-whimsicott-ex-157-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "158",
+      "names": {
+        "de": "",
+        "en": "Reshiram ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-158/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-158/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Reshiram-ex-V2-WHT158",
+        "tcgplayer": "https://www.tcgplayer.com/product/642275/pokemon-sv-white-flare-reshiram-ex-158-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "159",
+      "names": {
+        "de": "",
+        "en": "Keldeo ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-159/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-159/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Keldeo-ex-V2-WHT159",
+        "tcgplayer": "https://www.tcgplayer.com/product/642276/pokemon-sv-white-flare-keldeo-ex-159-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "160",
+      "names": {
+        "de": "",
+        "en": "Jellicent ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-160/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-160/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Jellicent-ex-V2-WHT160",
+        "tcgplayer": "https://www.tcgplayer.com/product/642277/pokemon-sv-white-flare-jellicent-ex-160-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "161",
+      "names": {
+        "de": "",
+        "en": "Hydreigon ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-161/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-161/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Hydreigon-ex-V2-WHT161",
+        "tcgplayer": "https://www.tcgplayer.com/product/642278/pokemon-sv-white-flare-hydreigon-ex-161-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "162",
+      "names": {
+        "de": "",
+        "en": "Bouffalant ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-162/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-162/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Bouffalant-ex-V2-WHT162",
+        "tcgplayer": "https://www.tcgplayer.com/product/642279/pokemon-sv-white-flare-bouffalant-ex-162-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "163",
+      "names": {
+        "de": "",
+        "en": "Harlequin",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-163/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-163/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Harlequin-V2-WHT163",
+        "tcgplayer": "https://www.tcgplayer.com/product/642280/pokemon-sv-white-flare-harlequin-163-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "164",
+      "names": {
+        "de": "",
+        "en": "Hilda",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-164/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-164/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Hilda-V2-WHT164",
+        "tcgplayer": "https://www.tcgplayer.com/product/642281/pokemon-sv-white-flare-hilda-164-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "165",
+      "names": {
+        "de": "",
+        "en": "Whimsicott ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-165/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-165/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Whimsicott-ex-V3-WHT165",
+        "tcgplayer": "https://www.tcgplayer.com/product/642282/pokemon-sv-white-flare-whimsicott-ex-165-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "166",
+      "names": {
+        "de": "",
+        "en": "Reshiram ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-166/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-166/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Reshiram-ex-V3-WHT166",
+        "tcgplayer": "https://www.tcgplayer.com/product/642283/pokemon-sv-white-flare-reshiram-ex-166-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "167",
+      "names": {
+        "de": "",
+        "en": "Keldeo ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-167/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-167/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Keldeo-ex-V3-WHT167",
+        "tcgplayer": "https://www.tcgplayer.com/product/642284/pokemon-sv-white-flare-keldeo-ex-167-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "168",
+      "names": {
+        "de": "",
+        "en": "Jellicent ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-168/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-168/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Jellicent-ex-V3-WHT168",
+        "tcgplayer": "https://www.tcgplayer.com/product/642285/pokemon-sv-white-flare-jellicent-ex-168-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "169",
+      "names": {
+        "de": "",
+        "en": "Hydreigon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-169/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-169/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Hydreigon-ex-V3-WHT169",
+        "tcgplayer": "https://www.tcgplayer.com/product/642286/pokemon-sv-white-flare-hydreigon-ex-169-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "170",
+      "names": {
+        "de": "",
+        "en": "Bouffalant ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-170/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-170/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Bouffalant-ex-V3-WHT170",
+        "tcgplayer": "https://www.tcgplayer.com/product/642287/pokemon-sv-white-flare-bouffalant-ex-170-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "171",
+      "names": {
+        "de": "",
+        "en": "Hilda",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-171/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-171/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Hilda-V3-WHT171",
+        "tcgplayer": "https://www.tcgplayer.com/product/642288/pokemon-sv-white-flare-hilda-171-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "172",
+      "names": {
+        "de": "",
+        "en": "Victini",
+        "fr": ""
+      },
+      "rarity": "Black White Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-172/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-172/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Victini-WHT172",
+        "tcgplayer": "https://www.tcgplayer.com/product/644350/pokemon-sv-white-flare-victini-172-086?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "173",
+      "names": {
+        "de": "",
+        "en": "Reshiram ex",
+        "fr": ""
+      },
+      "rarity": "Black White Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/rsv10pt5-173/medium",
+        "large": "https://images.scrydex.com/pokemon/rsv10pt5-173/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare/Reshiram-ex-V4-WHT173",
+        "tcgplayer": "https://www.tcgplayer.com/product/642289/pokemon-sv-white-flare-reshiram-ex-173-086?page=1&Language=English"
+      },
+      "notes": ""
+    }
+  ]
+}

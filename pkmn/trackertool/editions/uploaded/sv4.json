@@ -1,0 +1,5509 @@
+{
+  "edition": {
+    "id": "sv4",
+    "name": "Paradox Rift",
+    "nameEN": "Paradox Rift",
+    "total": 266,
+    "releaseDate": "2023-11-03"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "",
+        "en": "Surskit",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-1/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-1/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Surskit-PAR001",
+        "tcgplayer": "https://www.tcgplayer.com/product/523584/pokemon-sv04-paradox-rift-surskit?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "",
+        "en": "Masquerain",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-2/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-2/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Masquerain-PAR002",
+        "tcgplayer": "https://www.tcgplayer.com/product/523585/pokemon-sv04-paradox-rift-masquerain?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "",
+        "en": "Froslass ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-3/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-3/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Froslass-ex-V1-PAR003",
+        "tcgplayer": "https://www.tcgplayer.com/product/523587/pokemon-sv04-paradox-rift-froslass-ex-003-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "",
+        "en": "Pansage",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-4/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-4/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Pansage-PAR004",
+        "tcgplayer": "https://www.tcgplayer.com/product/523603/pokemon-sv04-paradox-rift-pansage?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "",
+        "en": "Simisage",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-5/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-5/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Simisage-PAR005",
+        "tcgplayer": "https://www.tcgplayer.com/product/523604/pokemon-sv04-paradox-rift-simisage?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "",
+        "en": "Dwebble",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-6/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-6/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Dwebble-PAR006",
+        "tcgplayer": "https://www.tcgplayer.com/product/523605/pokemon-sv04-paradox-rift-dwebble?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "",
+        "en": "Crustle",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-7/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-7/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Crustle-V1-PAR007",
+        "tcgplayer": "https://www.tcgplayer.com/product/523606/pokemon-sv04-paradox-rift-crustle-007-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "",
+        "en": "Bounsweet",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-8/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-8/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Bounsweet-PAR008",
+        "tcgplayer": "https://www.tcgplayer.com/product/523607/pokemon-sv04-paradox-rift-bounsweet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "",
+        "en": "Steenee",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-9/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-9/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Steenee-PAR009",
+        "tcgplayer": "https://www.tcgplayer.com/product/523608/pokemon-sv04-paradox-rift-steenee?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "",
+        "en": "Blipbug",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-10/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-10/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Blipbug-PAR010",
+        "tcgplayer": "https://www.tcgplayer.com/product/523609/pokemon-sv04-paradox-rift-blipbug?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "",
+        "en": "Dottler",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-11/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-11/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Dottler-V1-PAR011",
+        "tcgplayer": "https://www.tcgplayer.com/product/523610/pokemon-sv04-paradox-rift-dottler-011-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "",
+        "en": "Orbeetle",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-12/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-12/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Orbeetle-PAR012",
+        "tcgplayer": "https://www.tcgplayer.com/product/523611/pokemon-sv04-paradox-rift-orbeetle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "",
+        "en": "Nymble",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-13/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-13/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Nymble-PAR013",
+        "tcgplayer": "https://www.tcgplayer.com/product/523612/pokemon-sv04-paradox-rift-nymble-013-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "",
+        "en": "Nymble",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-14/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-14/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Nymble-PAR014",
+        "tcgplayer": "https://www.tcgplayer.com/product/523614/pokemon-sv04-paradox-rift-nymble-014-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "",
+        "en": "Toedscool",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-15/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-15/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Toedscool-PAR015",
+        "tcgplayer": "https://www.tcgplayer.com/product/523615/pokemon-sv04-paradox-rift-toedscool-015-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "",
+        "en": "Toedscool",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-16/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-16/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Toedscool-PAR016",
+        "tcgplayer": "https://www.tcgplayer.com/product/523616/pokemon-sv04-paradox-rift-toedscool-016-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "",
+        "en": "Toedscruel",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-17/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-17/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Toedscruel-V1-PAR017",
+        "tcgplayer": "https://www.tcgplayer.com/product/523617/pokemon-sv04-paradox-rift-toedscruel-017-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "",
+        "en": "Wo-Chien",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-18/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-18/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Wo-Chien-PAR018",
+        "tcgplayer": "https://www.tcgplayer.com/product/523618/pokemon-sv04-paradox-rift-wo-chien?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "",
+        "en": "Magby",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-19/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-19/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Magby-V1-PAR019",
+        "tcgplayer": "https://www.tcgplayer.com/product/523619/pokemon-sv04-paradox-rift-magby-019-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "",
+        "en": "Pansear",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-20/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-20/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Pansear-PAR020",
+        "tcgplayer": "https://www.tcgplayer.com/product/523621/pokemon-sv04-paradox-rift-pansear?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "",
+        "en": "Simisear",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-21/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-21/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Simisear-PAR021",
+        "tcgplayer": "https://www.tcgplayer.com/product/523622/pokemon-sv04-paradox-rift-simisear?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "",
+        "en": "Volcanion",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-22/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-22/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Volcanion-PAR022",
+        "tcgplayer": "https://www.tcgplayer.com/product/523625/pokemon-sv04-paradox-rift-volcanion?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "",
+        "en": "Fuecoco",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-23/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-23/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Fuecoco-PAR023",
+        "tcgplayer": "https://www.tcgplayer.com/product/523630/pokemon-sv04-paradox-rift-fuecoco?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "",
+        "en": "Crocalor",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-24/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-24/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Crocalor-PAR024",
+        "tcgplayer": "https://www.tcgplayer.com/product/523631/pokemon-sv04-paradox-rift-crocalor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "",
+        "en": "Charcadet",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-25/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-25/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Charcadet-PAR025",
+        "tcgplayer": "https://www.tcgplayer.com/product/523633/pokemon-sv04-paradox-rift-charcadet-025-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "",
+        "en": "Charcadet",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-26/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-26/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Charcadet-V1-PAR026",
+        "tcgplayer": "https://www.tcgplayer.com/product/523634/pokemon-sv04-paradox-rift-charcadet-026-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "",
+        "en": "Armarouge ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-27/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-27/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Armarouge-ex-V1-PAR027",
+        "tcgplayer": "https://www.tcgplayer.com/product/523636/pokemon-sv04-paradox-rift-armarouge-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "",
+        "en": "Iron Moth",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-28/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-28/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Moth-V1-PAR028",
+        "tcgplayer": "https://www.tcgplayer.com/product/523637/pokemon-sv04-paradox-rift-iron-moth-028-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "",
+        "en": "Chi-Yu",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-29/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-29/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Chi-Yu-V1-PAR029",
+        "tcgplayer": "https://www.tcgplayer.com/product/523638/pokemon-sv04-paradox-rift-chi-yu?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "",
+        "en": "Horsea",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-30/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-30/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Horsea-PAR030",
+        "tcgplayer": "https://www.tcgplayer.com/product/523639/pokemon-sv04-paradox-rift-horsea?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "",
+        "en": "Seadra",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-31/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-31/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Seadra-PAR031",
+        "tcgplayer": "https://www.tcgplayer.com/product/523640/pokemon-sv04-paradox-rift-seadra?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "",
+        "en": "Kingdra",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-32/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-32/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Kingdra-V1-PAR032",
+        "tcgplayer": "https://www.tcgplayer.com/product/523641/pokemon-sv04-paradox-rift-kingdra?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "",
+        "en": "Remoraid",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-33/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-33/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Remoraid-PAR033",
+        "tcgplayer": "https://www.tcgplayer.com/product/523642/pokemon-sv04-paradox-rift-remoraid?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "",
+        "en": "Octillery",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-34/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-34/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Octillery-PAR034",
+        "tcgplayer": "https://www.tcgplayer.com/product/523643/pokemon-sv04-paradox-rift-octillery?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "",
+        "en": "Feebas",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-35/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-35/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Feebas-PAR035",
+        "tcgplayer": "https://www.tcgplayer.com/product/523644/pokemon-sv04-paradox-rift-feebas?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "",
+        "en": "Milotic",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-36/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-36/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Milotic-PAR036",
+        "tcgplayer": "https://www.tcgplayer.com/product/523645/pokemon-sv04-paradox-rift-milotic?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "",
+        "en": "Snorunt",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-37/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-37/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Snorunt-V1-PAR037",
+        "tcgplayer": "https://www.tcgplayer.com/product/523646/pokemon-sv04-paradox-rift-snorunt-037-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "",
+        "en": "Garchomp ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-38/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-38/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Garchomp-ex-V1-PAR038",
+        "tcgplayer": "https://www.tcgplayer.com/product/523647/pokemon-sv04-paradox-rift-garchomp-ex-038-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "",
+        "en": "Mantyke",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-39/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-39/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Mantyke-V1-PAR039",
+        "tcgplayer": "https://www.tcgplayer.com/product/523648/pokemon-sv04-paradox-rift-mantyke-039-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "",
+        "en": "Palkia",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-40/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-40/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Palkia-V1-PAR040",
+        "tcgplayer": "https://www.tcgplayer.com/product/523649/pokemon-sv04-paradox-rift-palkia?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "",
+        "en": "Panpour",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-41/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-41/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Panpour-PAR041",
+        "tcgplayer": "https://www.tcgplayer.com/product/523650/pokemon-sv04-paradox-rift-panpour?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "",
+        "en": "Simipour",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-42/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-42/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Simipour-PAR042",
+        "tcgplayer": "https://www.tcgplayer.com/product/523651/pokemon-sv04-paradox-rift-simipour?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "",
+        "en": "Vanillite",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-43/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-43/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Vanillite-PAR043",
+        "tcgplayer": "https://www.tcgplayer.com/product/523652/pokemon-sv04-paradox-rift-vanillite?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "",
+        "en": "Vanillish",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-44/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-44/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Vanillish-V1-PAR044",
+        "tcgplayer": "https://www.tcgplayer.com/product/523653/pokemon-sv04-paradox-rift-vanillish-044-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "",
+        "en": "Vanilluxe",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-45/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-45/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Vanilluxe-V1-PAR045",
+        "tcgplayer": "https://www.tcgplayer.com/product/523654/pokemon-sv04-paradox-rift-vanilluxe?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "",
+        "en": "Tsareena ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-46/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-46/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tsareena-ex-V1-PAR046",
+        "tcgplayer": "https://www.tcgplayer.com/product/523655/pokemon-sv04-paradox-rift-tsareena-ex-046-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "",
+        "en": "Wimpod",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-47/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-47/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Wimpod-PAR047",
+        "tcgplayer": "https://www.tcgplayer.com/product/523656/pokemon-sv04-paradox-rift-wimpod-047-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "",
+        "en": "Wimpod",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-48/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-48/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Wimpod-V1-PAR048",
+        "tcgplayer": "https://www.tcgplayer.com/product/523657/pokemon-sv04-paradox-rift-wimpod-048-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "",
+        "en": "Golisopod",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-49/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-49/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Golisopod-V1-PAR049",
+        "tcgplayer": "https://www.tcgplayer.com/product/523659/pokemon-sv04-paradox-rift-golisopod?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "",
+        "en": "Golisopod ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-50/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-50/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Golisopod-ex-V1-PAR050",
+        "tcgplayer": "https://www.tcgplayer.com/product/523660/pokemon-sv04-paradox-rift-golisopod-ex-050-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "",
+        "en": "Wiglett",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-51/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-51/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Wiglett-PAR051",
+        "tcgplayer": "https://www.tcgplayer.com/product/523661/pokemon-sv04-paradox-rift-wiglett-051-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "",
+        "en": "Wiglett",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-52/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-52/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Wiglett-PAR052",
+        "tcgplayer": "https://www.tcgplayer.com/product/523662/pokemon-sv04-paradox-rift-wiglett-052-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "",
+        "en": "Wugtrio",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-53/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-53/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Wugtrio-PAR053",
+        "tcgplayer": "https://www.tcgplayer.com/product/523663/pokemon-sv04-paradox-rift-wugtrio?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "",
+        "en": "Veluza",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-54/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-54/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Veluza-V1-PAR054",
+        "tcgplayer": "https://www.tcgplayer.com/product/523664/pokemon-sv04-paradox-rift-veluza-054-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "",
+        "en": "Dondozo",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-55/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-55/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Dondozo-PAR055",
+        "tcgplayer": "https://www.tcgplayer.com/product/523665/pokemon-sv04-paradox-rift-dondozo?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "",
+        "en": "Iron Bundle",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-56/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-56/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Bundle-PAR056",
+        "tcgplayer": "https://www.tcgplayer.com/product/523666/pokemon-sv04-paradox-rift-iron-bundle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "",
+        "en": "Chien-Pao",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-57/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-57/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Chien-Pao-V1-PAR057",
+        "tcgplayer": "https://www.tcgplayer.com/product/523668/pokemon-sv04-paradox-rift-chien-pao?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "",
+        "en": "Mewtwo ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-58/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-58/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Mewtwo-ex-PAR058",
+        "tcgplayer": "https://www.tcgplayer.com/product/523670/pokemon-sv04-paradox-rift-mewtwo-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "",
+        "en": "Elekid",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-59/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-59/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Elekid-PAR059",
+        "tcgplayer": "https://www.tcgplayer.com/product/523671/pokemon-sv04-paradox-rift-elekid?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "",
+        "en": "Plusle",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-60/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-60/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Plusle-V1-PAR060",
+        "tcgplayer": "https://www.tcgplayer.com/product/523673/pokemon-sv04-paradox-rift-plusle-060-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "",
+        "en": "Minun",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-61/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-61/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Minun-V1-PAR061",
+        "tcgplayer": "https://www.tcgplayer.com/product/523674/pokemon-sv04-paradox-rift-minun-061-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "",
+        "en": "Blitzle",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-62/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-62/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Blitzle-V1-PAR062",
+        "tcgplayer": "https://www.tcgplayer.com/product/523675/pokemon-sv04-paradox-rift-blitzle-062-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "",
+        "en": "Zebstrika",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-63/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-63/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Zebstrika-PAR063",
+        "tcgplayer": "https://www.tcgplayer.com/product/523679/pokemon-sv04-paradox-rift-zebstrika?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "",
+        "en": "Joltik",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-64/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-64/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Joltik-V1-PAR064",
+        "tcgplayer": "https://www.tcgplayer.com/product/523698/pokemon-sv04-paradox-rift-joltik-064-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "",
+        "en": "Galvantula",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-65/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-65/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Galvantula-PAR065",
+        "tcgplayer": "https://www.tcgplayer.com/product/523699/pokemon-sv04-paradox-rift-galvantula?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "",
+        "en": "Zekrom",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-66/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-66/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Zekrom-V1-PAR066",
+        "tcgplayer": "https://www.tcgplayer.com/product/523700/pokemon-sv04-paradox-rift-zekrom?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "",
+        "en": "Oricorio",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-67/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-67/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Oricorio-PAR067",
+        "tcgplayer": "https://www.tcgplayer.com/product/523702/pokemon-sv04-paradox-rift-oricorio?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "",
+        "en": "Tapu Koko ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-68/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-68/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tapu-Koko-ex-V1-PAR068",
+        "tcgplayer": "https://www.tcgplayer.com/product/523703/pokemon-sv04-paradox-rift-tapu-koko-ex-068-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "",
+        "en": "Toxel",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-69/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-69/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Toxel-PAR069",
+        "tcgplayer": "https://www.tcgplayer.com/product/523705/pokemon-sv04-paradox-rift-toxel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "",
+        "en": "Iron Hands ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-70/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-70/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Hands-ex-V1-PAR070",
+        "tcgplayer": "https://www.tcgplayer.com/product/523706/pokemon-sv04-paradox-rift-iron-hands-ex-070-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "",
+        "en": "Natu",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-71/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-71/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Natu-PAR071",
+        "tcgplayer": "https://www.tcgplayer.com/product/523707/pokemon-sv04-paradox-rift-natu?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "",
+        "en": "Xatu",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-72/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-72/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Xatu-V1-PAR072",
+        "tcgplayer": "https://www.tcgplayer.com/product/523725/pokemon-sv04-paradox-rift-xatu?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "",
+        "en": "Latios",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-73/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-73/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Latios-V1-PAR073",
+        "tcgplayer": "https://www.tcgplayer.com/product/523727/pokemon-sv04-paradox-rift-latios?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "",
+        "en": "Deoxys",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-74/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-74/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Deoxys-PAR074",
+        "tcgplayer": "https://www.tcgplayer.com/product/523734/pokemon-sv04-paradox-rift-deoxys?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "",
+        "en": "Yamask",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-75/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-75/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Yamask-PAR075",
+        "tcgplayer": "https://www.tcgplayer.com/product/523735/pokemon-sv04-paradox-rift-yamask?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "076",
+      "names": {
+        "de": "",
+        "en": "Cofagrigus ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-76/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-76/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Cofagrigus-ex-V1-PAR076",
+        "tcgplayer": "https://www.tcgplayer.com/product/523736/pokemon-sv04-paradox-rift-cofagrigus-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "077",
+      "names": {
+        "de": "",
+        "en": "Pumpkaboo",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-77/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-77/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Pumpkaboo-PAR077",
+        "tcgplayer": "https://www.tcgplayer.com/product/523743/pokemon-sv04-paradox-rift-pumpkaboo?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "078",
+      "names": {
+        "de": "",
+        "en": "Gourgeist",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-78/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-78/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gourgeist-PAR078",
+        "tcgplayer": "https://www.tcgplayer.com/product/523744/pokemon-sv04-paradox-rift-gourgeist?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "079",
+      "names": {
+        "de": "",
+        "en": "Flittle",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-79/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-79/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Flittle-PAR079",
+        "tcgplayer": "https://www.tcgplayer.com/product/523745/pokemon-sv04-paradox-rift-flittle-079-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "080",
+      "names": {
+        "de": "",
+        "en": "Flittle",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-80/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-80/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Flittle-PAR080",
+        "tcgplayer": "https://www.tcgplayer.com/product/523746/pokemon-sv04-paradox-rift-flittle-080-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "081",
+      "names": {
+        "de": "",
+        "en": "Espathra",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-81/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-81/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Espathra-V1-PAR081",
+        "tcgplayer": "https://www.tcgplayer.com/product/523747/pokemon-sv04-paradox-rift-espathra-081-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "082",
+      "names": {
+        "de": "",
+        "en": "Tinkatink",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-82/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-82/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tinkatink-PAR082",
+        "tcgplayer": "https://www.tcgplayer.com/product/523748/pokemon-sv04-paradox-rift-tinkatink-082-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "083",
+      "names": {
+        "de": "",
+        "en": "Tinkatink",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-83/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-83/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tinkatink-PAR083",
+        "tcgplayer": "https://www.tcgplayer.com/product/523749/pokemon-sv04-paradox-rift-tinkatink-083-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "084",
+      "names": {
+        "de": "",
+        "en": "Tinkatuff",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-84/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-84/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tinkatuff-PAR084",
+        "tcgplayer": "https://www.tcgplayer.com/product/523750/pokemon-sv04-paradox-rift-tinkatuff?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "085",
+      "names": {
+        "de": "",
+        "en": "Tinkaton",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-85/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-85/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tinkaton-PAR085",
+        "tcgplayer": "https://www.tcgplayer.com/product/523751/pokemon-sv04-paradox-rift-tinkaton?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "086",
+      "names": {
+        "de": "",
+        "en": "Scream Tail",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-86/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-86/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Scream-Tail-PAR086",
+        "tcgplayer": "https://www.tcgplayer.com/product/523752/pokemon-sv04-paradox-rift-scream-tail?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "087",
+      "names": {
+        "de": "",
+        "en": "Gimmighoul",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-87/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-87/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gimmighoul-PAR087",
+        "tcgplayer": "https://www.tcgplayer.com/product/523753/pokemon-sv04-paradox-rift-gimmighoul-087-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "088",
+      "names": {
+        "de": "",
+        "en": "Gimmighoul",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-88/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-88/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gimmighoul-V1-PAR088",
+        "tcgplayer": "https://www.tcgplayer.com/product/523754/pokemon-sv04-paradox-rift-gimmighoul-088-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "089",
+      "names": {
+        "de": "",
+        "en": "Iron Valiant ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-89/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-89/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Valiant-ex-V1-PAR089",
+        "tcgplayer": "https://www.tcgplayer.com/product/523756/pokemon-sv04-paradox-rift-iron-valiant-ex-089-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "090",
+      "names": {
+        "de": "",
+        "en": "Onix",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-90/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-90/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Onix-PAR090",
+        "tcgplayer": "https://www.tcgplayer.com/product/523757/pokemon-sv04-paradox-rift-onix?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "091",
+      "names": {
+        "de": "",
+        "en": "Gligar",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-91/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-91/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gligar-PAR091",
+        "tcgplayer": "https://www.tcgplayer.com/product/523758/pokemon-sv04-paradox-rift-gligar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "092",
+      "names": {
+        "de": "",
+        "en": "Gliscor",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-92/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-92/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gliscor-PAR092",
+        "tcgplayer": "https://www.tcgplayer.com/product/523759/pokemon-sv04-paradox-rift-gliscor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "093",
+      "names": {
+        "de": "",
+        "en": "Groudon",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-93/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-93/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Groudon-V1-PAR093",
+        "tcgplayer": "https://www.tcgplayer.com/product/523762/pokemon-sv04-paradox-rift-groudon-093-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "094",
+      "names": {
+        "de": "",
+        "en": "Gible",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-94/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-94/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gible-PAR094",
+        "tcgplayer": "https://www.tcgplayer.com/product/523764/pokemon-sv04-paradox-rift-gible?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "095",
+      "names": {
+        "de": "",
+        "en": "Gabite",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-95/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-95/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gabite-PAR095",
+        "tcgplayer": "https://www.tcgplayer.com/product/523765/pokemon-sv04-paradox-rift-gabite?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "096",
+      "names": {
+        "de": "",
+        "en": "Mienfoo",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-96/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-96/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Mienfoo-PAR096",
+        "tcgplayer": "https://www.tcgplayer.com/product/523766/pokemon-sv04-paradox-rift-mienfoo?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "097",
+      "names": {
+        "de": "",
+        "en": "Mienshao",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-97/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-97/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Mienshao-V1-PAR097",
+        "tcgplayer": "https://www.tcgplayer.com/product/523767/pokemon-sv04-paradox-rift-mienshao-097-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "098",
+      "names": {
+        "de": "",
+        "en": "Hoopa ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-98/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-98/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Hoopa-ex-V1-PAR098",
+        "tcgplayer": "https://www.tcgplayer.com/product/523768/pokemon-sv04-paradox-rift-hoopa-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "099",
+      "names": {
+        "de": "",
+        "en": "Minior",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-99/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-99/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Minior-V1-PAR099",
+        "tcgplayer": "https://www.tcgplayer.com/product/523769/pokemon-sv04-paradox-rift-minior-099-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "100",
+      "names": {
+        "de": "",
+        "en": "Toxtricity ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-100/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-100/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Toxtricity-ex-V1-PAR100",
+        "tcgplayer": "https://www.tcgplayer.com/product/523770/pokemon-sv04-paradox-rift-toxtricity-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "101",
+      "names": {
+        "de": "",
+        "en": "Nacli",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-101/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-101/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Nacli-PAR101",
+        "tcgplayer": "https://www.tcgplayer.com/product/523771/pokemon-sv04-paradox-rift-nacli-101-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "102",
+      "names": {
+        "de": "",
+        "en": "Nacli",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-102/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-102/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Nacli-PAR102",
+        "tcgplayer": "https://www.tcgplayer.com/product/523772/pokemon-sv04-paradox-rift-nacli-102-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "103",
+      "names": {
+        "de": "",
+        "en": "Naclstack",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-103/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-103/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Naclstack-PAR103",
+        "tcgplayer": "https://www.tcgplayer.com/product/523773/pokemon-sv04-paradox-rift-naclstack?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "104",
+      "names": {
+        "de": "",
+        "en": "Garganacl",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-104/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-104/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Garganacl-V1-PAR104",
+        "tcgplayer": "https://www.tcgplayer.com/product/523774/pokemon-sv04-paradox-rift-garganacl-104-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "105",
+      "names": {
+        "de": "",
+        "en": "Klawf",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-105/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-105/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Klawf-PAR105",
+        "tcgplayer": "https://www.tcgplayer.com/product/523777/pokemon-sv04-paradox-rift-klawf?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "106",
+      "names": {
+        "de": "",
+        "en": "Flamigo",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-106/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-106/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Flamigo-PAR106",
+        "tcgplayer": "https://www.tcgplayer.com/product/523778/pokemon-sv04-paradox-rift-flamigo?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "107",
+      "names": {
+        "de": "",
+        "en": "Slither Wing",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-107/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-107/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Slither-Wing-V1-PAR107",
+        "tcgplayer": "https://www.tcgplayer.com/product/523779/pokemon-sv04-paradox-rift-slither-wing-107-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "108",
+      "names": {
+        "de": "",
+        "en": "Sandy Shocks ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-108/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-108/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Sandy-Shocks-ex-V1-PAR108",
+        "tcgplayer": "https://www.tcgplayer.com/product/523780/pokemon-sv04-paradox-rift-sandy-shocks-ex-108-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "109",
+      "names": {
+        "de": "",
+        "en": "Ting-Lu",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-109/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-109/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Ting-Lu-PAR109",
+        "tcgplayer": "https://www.tcgplayer.com/product/523781/pokemon-sv04-paradox-rift-ting-lu?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "110",
+      "names": {
+        "de": "",
+        "en": "Zubat",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-110/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-110/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Zubat-PAR110",
+        "tcgplayer": "https://www.tcgplayer.com/product/523783/pokemon-sv04-paradox-rift-zubat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "111",
+      "names": {
+        "de": "",
+        "en": "Golbat",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-111/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-111/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Golbat-PAR111",
+        "tcgplayer": "https://www.tcgplayer.com/product/523784/pokemon-sv04-paradox-rift-golbat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "112",
+      "names": {
+        "de": "",
+        "en": "Crobat",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-112/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-112/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Crobat-PAR112",
+        "tcgplayer": "https://www.tcgplayer.com/product/523786/pokemon-sv04-paradox-rift-crobat?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "113",
+      "names": {
+        "de": "",
+        "en": "Absol",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-113/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-113/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Absol-PAR113",
+        "tcgplayer": "https://www.tcgplayer.com/product/523787/pokemon-sv04-paradox-rift-absol?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "114",
+      "names": {
+        "de": "",
+        "en": "Purrloin",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-114/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-114/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Purrloin-PAR114",
+        "tcgplayer": "https://www.tcgplayer.com/product/523788/pokemon-sv04-paradox-rift-purrloin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "115",
+      "names": {
+        "de": "",
+        "en": "Liepard",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-115/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-115/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Liepard-PAR115",
+        "tcgplayer": "https://www.tcgplayer.com/product/523789/pokemon-sv04-paradox-rift-liepard?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "116",
+      "names": {
+        "de": "",
+        "en": "Trubbish",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-116/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-116/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Trubbish-PAR116",
+        "tcgplayer": "https://www.tcgplayer.com/product/523790/pokemon-sv04-paradox-rift-trubbish?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "117",
+      "names": {
+        "de": "",
+        "en": "Garbodor",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-117/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-117/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Garbodor-V1-PAR117",
+        "tcgplayer": "https://www.tcgplayer.com/product/523791/pokemon-sv04-paradox-rift-garbodor-117-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "118",
+      "names": {
+        "de": "",
+        "en": "Yveltal",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-118/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-118/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Yveltal-V1-PAR118",
+        "tcgplayer": "https://www.tcgplayer.com/product/523793/pokemon-sv04-paradox-rift-yveltal-118-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "119",
+      "names": {
+        "de": "",
+        "en": "Nickit",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-119/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-119/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Nickit-PAR119",
+        "tcgplayer": "https://www.tcgplayer.com/product/523794/pokemon-sv04-paradox-rift-nickit?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "120",
+      "names": {
+        "de": "",
+        "en": "Thievul",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-120/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-120/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Thievul-PAR120",
+        "tcgplayer": "https://www.tcgplayer.com/product/523795/pokemon-sv04-paradox-rift-thievul?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "121",
+      "names": {
+        "de": "",
+        "en": "Morpeko",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-121/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-121/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Morpeko-V1-PAR121",
+        "tcgplayer": "https://www.tcgplayer.com/product/523796/pokemon-sv04-paradox-rift-morpeko-121-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "122",
+      "names": {
+        "de": "",
+        "en": "Lokix",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-122/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-122/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Lokix-V1-PAR122",
+        "tcgplayer": "https://www.tcgplayer.com/product/523797/pokemon-sv04-paradox-rift-lokix?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "123",
+      "names": {
+        "de": "",
+        "en": "Brute Bonnet",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-123/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-123/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Brute-Bonnet-V1-PAR123",
+        "tcgplayer": "https://www.tcgplayer.com/product/523799/pokemon-sv04-paradox-rift-brute-bonnet-123-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "124",
+      "names": {
+        "de": "",
+        "en": "Roaring Moon ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-124/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-124/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Roaring-Moon-ex-V1-PAR124",
+        "tcgplayer": "https://www.tcgplayer.com/product/523800/pokemon-sv04-paradox-rift-roaring-moon-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "125",
+      "names": {
+        "de": "",
+        "en": "Steelix",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-125/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-125/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Steelix-V1-PAR125",
+        "tcgplayer": "https://www.tcgplayer.com/product/523801/pokemon-sv04-paradox-rift-steelix-125-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "126",
+      "names": {
+        "de": "",
+        "en": "Jirachi",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-126/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-126/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Jirachi-PAR126",
+        "tcgplayer": "https://www.tcgplayer.com/product/523803/pokemon-sv04-paradox-rift-jirachi?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "127",
+      "names": {
+        "de": "",
+        "en": "Ferroseed",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-127/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-127/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Ferroseed-PAR127",
+        "tcgplayer": "https://www.tcgplayer.com/product/523804/pokemon-sv04-paradox-rift-ferroseed?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "128",
+      "names": {
+        "de": "",
+        "en": "Ferrothorn",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-128/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-128/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Ferrothorn-V1-PAR128",
+        "tcgplayer": "https://www.tcgplayer.com/product/523805/pokemon-sv04-paradox-rift-ferrothorn-128-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "129",
+      "names": {
+        "de": "",
+        "en": "Durant",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-129/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-129/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Durant-PAR129",
+        "tcgplayer": "https://www.tcgplayer.com/product/523806/pokemon-sv04-paradox-rift-durant?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "130",
+      "names": {
+        "de": "",
+        "en": "Honedge",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-130/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-130/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Honedge-PAR130",
+        "tcgplayer": "https://www.tcgplayer.com/product/523807/pokemon-sv04-paradox-rift-honedge-130-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "131",
+      "names": {
+        "de": "",
+        "en": "Honedge",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-131/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-131/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Honedge-V1-PAR131",
+        "tcgplayer": "https://www.tcgplayer.com/product/523808/pokemon-sv04-paradox-rift-honedge-131-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "132",
+      "names": {
+        "de": "",
+        "en": "Doublade",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-132/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-132/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Doublade-V1-PAR132",
+        "tcgplayer": "https://www.tcgplayer.com/product/523809/pokemon-sv04-paradox-rift-doublade-132-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "133",
+      "names": {
+        "de": "",
+        "en": "Doublade",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-133/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-133/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Doublade-PAR133",
+        "tcgplayer": "https://www.tcgplayer.com/product/523810/pokemon-sv04-paradox-rift-doublade-133-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "134",
+      "names": {
+        "de": "",
+        "en": "Aegislash",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-134/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-134/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Aegislash-V1-PAR134",
+        "tcgplayer": "https://www.tcgplayer.com/product/523813/pokemon-sv04-paradox-rift-aegislash-134-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "135",
+      "names": {
+        "de": "",
+        "en": "Aegislash ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-135/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-135/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Aegislash-ex-V1-PAR135",
+        "tcgplayer": "https://www.tcgplayer.com/product/523814/pokemon-sv04-paradox-rift-aegislash-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "136",
+      "names": {
+        "de": "",
+        "en": "Zacian",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-136/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-136/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Zacian-V1-PAR136",
+        "tcgplayer": "https://www.tcgplayer.com/product/523815/pokemon-sv04-paradox-rift-zacian?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "137",
+      "names": {
+        "de": "",
+        "en": "Skeledirge ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-137/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-137/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Skeledirge-ex-PAR137",
+        "tcgplayer": "https://www.tcgplayer.com/product/523816/pokemon-sv04-paradox-rift-skeledirge-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "138",
+      "names": {
+        "de": "",
+        "en": "Orthworm",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-138/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-138/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Orthworm-PAR138",
+        "tcgplayer": "https://www.tcgplayer.com/product/523817/pokemon-sv04-paradox-rift-orthworm?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "139",
+      "names": {
+        "de": "",
+        "en": "Gholdengo ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-139/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-139/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gholdengo-ex-V1-PAR139",
+        "tcgplayer": "https://www.tcgplayer.com/product/523818/pokemon-sv04-paradox-rift-gholdengo-ex-139-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "140",
+      "names": {
+        "de": "",
+        "en": "Altaria ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-140/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-140/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Altaria-ex-V1-PAR140",
+        "tcgplayer": "https://www.tcgplayer.com/product/523821/pokemon-sv04-paradox-rift-altaria-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "141",
+      "names": {
+        "de": "",
+        "en": "Tatsugiri",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-141/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-141/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tatsugiri-PAR141",
+        "tcgplayer": "https://www.tcgplayer.com/product/523822/pokemon-sv04-paradox-rift-tatsugiri?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "142",
+      "names": {
+        "de": "",
+        "en": "Porygon",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-142/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-142/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Porygon-PAR142",
+        "tcgplayer": "https://www.tcgplayer.com/product/523823/pokemon-sv04-paradox-rift-porygon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "143",
+      "names": {
+        "de": "",
+        "en": "Porygon2",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-143/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-143/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Porygon2-PAR143",
+        "tcgplayer": "https://www.tcgplayer.com/product/523824/pokemon-sv04-paradox-rift-porygon2?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "144",
+      "names": {
+        "de": "",
+        "en": "Porygon-Z",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-144/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-144/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Porygon-Z-V1-PAR144",
+        "tcgplayer": "https://www.tcgplayer.com/product/523825/pokemon-sv04-paradox-rift-porygon-z?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "145",
+      "names": {
+        "de": "",
+        "en": "Aipom",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-145/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-145/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Aipom-V1-PAR145",
+        "tcgplayer": "https://www.tcgplayer.com/product/523826/pokemon-sv04-paradox-rift-aipom-145-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "146",
+      "names": {
+        "de": "",
+        "en": "Ambipom",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-146/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-146/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Ambipom-PAR146",
+        "tcgplayer": "https://www.tcgplayer.com/product/523827/pokemon-sv04-paradox-rift-ambipom?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "147",
+      "names": {
+        "de": "",
+        "en": "Miltank",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-147/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-147/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Miltank-PAR147",
+        "tcgplayer": "https://www.tcgplayer.com/product/523828/pokemon-sv04-paradox-rift-miltank?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "148",
+      "names": {
+        "de": "",
+        "en": "Whismur",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-148/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-148/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Whismur-PAR148",
+        "tcgplayer": "https://www.tcgplayer.com/product/523829/pokemon-sv04-paradox-rift-whismur?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "149",
+      "names": {
+        "de": "",
+        "en": "Loudred",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-149/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-149/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Loudred-V1-PAR149",
+        "tcgplayer": "https://www.tcgplayer.com/product/523830/pokemon-sv04-paradox-rift-loudred?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "150",
+      "names": {
+        "de": "",
+        "en": "Exploud",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-150/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-150/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Exploud-PAR150",
+        "tcgplayer": "https://www.tcgplayer.com/product/523831/pokemon-sv04-paradox-rift-exploud?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "151",
+      "names": {
+        "de": "",
+        "en": "Spinda",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-151/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-151/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Spinda-PAR151",
+        "tcgplayer": "https://www.tcgplayer.com/product/523832/pokemon-sv04-paradox-rift-spinda?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "152",
+      "names": {
+        "de": "",
+        "en": "Swablu",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-152/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-152/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Swablu-V1-PAR152",
+        "tcgplayer": "https://www.tcgplayer.com/product/523833/pokemon-sv04-paradox-rift-swablu-152-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "153",
+      "names": {
+        "de": "",
+        "en": "Tandemaus",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-153/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-153/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tandemaus-PAR153",
+        "tcgplayer": "https://www.tcgplayer.com/product/523834/pokemon-sv04-paradox-rift-tandemaus-153-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "154",
+      "names": {
+        "de": "",
+        "en": "Tandemaus",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-154/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-154/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tandemaus-PAR154",
+        "tcgplayer": "https://www.tcgplayer.com/product/523835/pokemon-sv04-paradox-rift-tandemaus-154-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "155",
+      "names": {
+        "de": "",
+        "en": "Maushold ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-155/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-155/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Maushold-ex-V1-PAR155",
+        "tcgplayer": "https://www.tcgplayer.com/product/523836/pokemon-sv04-paradox-rift-maushold-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "156",
+      "names": {
+        "de": "",
+        "en": "Bombirdier ex",
+        "fr": ""
+      },
+      "rarity": "Double Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-156/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-156/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Bombirdier-ex-V1-PAR156",
+        "tcgplayer": "https://www.tcgplayer.com/product/523837/pokemon-sv04-paradox-rift-bombirdier-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "157",
+      "names": {
+        "de": "",
+        "en": "Cyclizar",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-157/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-157/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Cyclizar-V1-PAR157",
+        "tcgplayer": "https://www.tcgplayer.com/product/523838/pokemon-sv04-paradox-rift-cyclizar-157-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "158",
+      "names": {
+        "de": "",
+        "en": "Iron Jugulis",
+        "fr": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-158/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-158/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Jugulis-V1-PAR158",
+        "tcgplayer": "https://www.tcgplayer.com/product/523839/pokemon-sv04-paradox-rift-iron-jugulis-158-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "159",
+      "names": {
+        "de": "",
+        "en": "Ancient Booster Energy Capsule",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-159/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-159/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Ancient-Booster-Energy-Capsule-V1-PAR159",
+        "tcgplayer": "https://www.tcgplayer.com/product/523840/pokemon-sv04-paradox-rift-ancient-booster-energy-capsule?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "160",
+      "names": {
+        "de": "",
+        "en": "Counter Catcher",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-160/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-160/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Counter-Catcher-V1-PAR160",
+        "tcgplayer": "https://www.tcgplayer.com/product/523841/pokemon-sv04-paradox-rift-counter-catcher?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "161",
+      "names": {
+        "de": "",
+        "en": "Cursed Duster",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-161/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-161/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Cursed-Duster-PAR161",
+        "tcgplayer": "https://www.tcgplayer.com/product/523842/pokemon-sv04-paradox-rift-cursed-duster?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "162",
+      "names": {
+        "de": "",
+        "en": "Defiance Vest",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-162/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-162/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Defiance-Vest-PAR162",
+        "tcgplayer": "https://www.tcgplayer.com/product/523843/pokemon-sv04-paradox-rift-defiance-vest?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "163",
+      "names": {
+        "de": "",
+        "en": "Earthen Vessel",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-163/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-163/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Earthen-Vessel-PAR163",
+        "tcgplayer": "https://www.tcgplayer.com/product/523844/pokemon-sv04-paradox-rift-earthen-vessel?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "164",
+      "names": {
+        "de": "",
+        "en": "Future Booster Energy Capsule",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-164/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-164/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Future-Booster-Energy-Capsule-V1-PAR164",
+        "tcgplayer": "https://www.tcgplayer.com/product/523845/pokemon-sv04-paradox-rift-future-booster-energy-capsule?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "165",
+      "names": {
+        "de": "",
+        "en": "Larry",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-165/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-165/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Larry-V1-PAR165",
+        "tcgplayer": "https://www.tcgplayer.com/product/523846/pokemon-sv04-paradox-rift-larry?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "166",
+      "names": {
+        "de": "",
+        "en": "Luxurious Cape",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-166/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-166/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Luxurious-Cape-V1-PAR166",
+        "tcgplayer": "https://www.tcgplayer.com/product/523847/pokemon-sv04-paradox-rift-luxurious-cape?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "167",
+      "names": {
+        "de": "",
+        "en": "Mela",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-167/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-167/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Mela-V1-PAR167",
+        "tcgplayer": "https://www.tcgplayer.com/product/523848/pokemon-sv04-paradox-rift-mela?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "168",
+      "names": {
+        "de": "",
+        "en": "Norman",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-168/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-168/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Norman-V1-PAR168",
+        "tcgplayer": "https://www.tcgplayer.com/product/523849/pokemon-sv04-paradox-rift-norman?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "169",
+      "names": {
+        "de": "",
+        "en": "Parasol Lady",
+        "fr": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-169/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-169/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Parasol-Lady-V1-PAR169",
+        "tcgplayer": "https://www.tcgplayer.com/product/523850/pokemon-sv04-paradox-rift-parasol-lady?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "170",
+      "names": {
+        "de": "",
+        "en": "Professor Sada's Vitality",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-170/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-170/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Professor-Sadas-Vitality-V1-PAR170",
+        "tcgplayer": "https://www.tcgplayer.com/product/523851/pokemon-sv04-paradox-rift-professor-sadas-vitality?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "171",
+      "names": {
+        "de": "",
+        "en": "Professor Turo's Scenario",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-171/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-171/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Professor-Turos-Scenario-V1-PAR171",
+        "tcgplayer": "https://www.tcgplayer.com/product/523852/pokemon-sv04-paradox-rift-professor-turos-scenario?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "172",
+      "names": {
+        "de": "",
+        "en": "Rika",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-172/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-172/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Rika-V1-PAR172",
+        "tcgplayer": "https://www.tcgplayer.com/product/523853/pokemon-sv04-paradox-rift-rika?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "173",
+      "names": {
+        "de": "",
+        "en": "Roark",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-173/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-173/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Roark-V1-PAR173",
+        "tcgplayer": "https://www.tcgplayer.com/product/523854/pokemon-sv04-paradox-rift-roark?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "174",
+      "names": {
+        "de": "",
+        "en": "Shauntal",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-174/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-174/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Shauntal-V1-PAR174",
+        "tcgplayer": "https://www.tcgplayer.com/product/523855/pokemon-sv04-paradox-rift-shauntal?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "175",
+      "names": {
+        "de": "",
+        "en": "Snorlax Doll",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-175/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-175/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Snorlax-Doll-PAR175",
+        "tcgplayer": "https://www.tcgplayer.com/product/523856/pokemon-sv04-paradox-rift-snorlax-doll?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "176",
+      "names": {
+        "de": "",
+        "en": "Technical Machine: Blindside",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-176/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-176/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Technical-Machine-Blindside-PAR176",
+        "tcgplayer": "https://www.tcgplayer.com/product/523857/pokemon-sv04-paradox-rift-technical-machine-blindside?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "177",
+      "names": {
+        "de": "",
+        "en": "Technical Machine: Devolution",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-177/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-177/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Technical-Machine-Devolution-PAR177",
+        "tcgplayer": "https://www.tcgplayer.com/product/523858/pokemon-sv04-paradox-rift-technical-machine-devolution?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "178",
+      "names": {
+        "de": "",
+        "en": "Technical Machine: Evolution",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-178/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-178/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Technical-Machine-Evolution-PAR178",
+        "tcgplayer": "https://www.tcgplayer.com/product/523859/pokemon-sv04-paradox-rift-technical-machine-evolution?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "179",
+      "names": {
+        "de": "",
+        "en": "Technical Machine: Turbo Energize",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-179/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-179/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Technical-Machine-Turbo-Energize-PAR179",
+        "tcgplayer": "https://www.tcgplayer.com/product/523860/pokemon-sv04-paradox-rift-technical-machine-turbo-energize?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "180",
+      "names": {
+        "de": "",
+        "en": "Techno Radar",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-180/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-180/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Techno-Radar-PAR180",
+        "tcgplayer": "https://www.tcgplayer.com/product/523861/pokemon-sv04-paradox-rift-techno-radar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "181",
+      "names": {
+        "de": "",
+        "en": "Tulip",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-181/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-181/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tulip-V1-PAR181",
+        "tcgplayer": "https://www.tcgplayer.com/product/523862/pokemon-sv04-paradox-rift-tulip?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "182",
+      "names": {
+        "de": "",
+        "en": "Medical Energy",
+        "fr": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-182/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-182/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Medical-Energy-PAR182",
+        "tcgplayer": "https://www.tcgplayer.com/product/523863/pokemon-sv04-paradox-rift-medical-energy?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "183",
+      "names": {
+        "de": "",
+        "en": "Crustle",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-183/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-183/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Crustle-V2-PAR183",
+        "tcgplayer": "https://www.tcgplayer.com/product/523864/pokemon-sv04-paradox-rift-crustle-183-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "184",
+      "names": {
+        "de": "",
+        "en": "Dottler",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-184/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-184/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Crustle-V2-PAR183",
+        "tcgplayer": "https://www.tcgplayer.com/product/523865/pokemon-sv04-paradox-rift-dottler-184-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "185",
+      "names": {
+        "de": "",
+        "en": "Toedscruel",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-185/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-185/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Toedscruel-V2-PAR185",
+        "tcgplayer": "https://www.tcgplayer.com/product/523866/pokemon-sv04-paradox-rift-toedscruel-185-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "186",
+      "names": {
+        "de": "",
+        "en": "Magby",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-186/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-186/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Magby-V2-PAR186",
+        "tcgplayer": "https://www.tcgplayer.com/product/523867/pokemon-sv04-paradox-rift-magby-186-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "187",
+      "names": {
+        "de": "",
+        "en": "Iron Moth",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-187/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-187/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Moth-V2-PAR187",
+        "tcgplayer": "https://www.tcgplayer.com/product/523868/pokemon-sv04-paradox-rift-iron-moth-187-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "188",
+      "names": {
+        "de": "",
+        "en": "Snorunt",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-188/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-188/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Snorunt-V2-PAR188",
+        "tcgplayer": "https://www.tcgplayer.com/product/523869/pokemon-sv04-paradox-rift-snorunt-188-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "189",
+      "names": {
+        "de": "",
+        "en": "Mantyke",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-189/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-189/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Mantyke-V2-PAR189",
+        "tcgplayer": "https://www.tcgplayer.com/product/523870/pokemon-sv04-paradox-rift-mantyke-189-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "190",
+      "names": {
+        "de": "",
+        "en": "Vanillish",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-190/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-190/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Vanillish-V2-PAR190",
+        "tcgplayer": "https://www.tcgplayer.com/product/523871/pokemon-sv04-paradox-rift-vanillish-190-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "191",
+      "names": {
+        "de": "",
+        "en": "Wimpod",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-191/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-191/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Wimpod-V2-PAR191",
+        "tcgplayer": "https://www.tcgplayer.com/product/523872/pokemon-sv04-paradox-rift-wimpod-191-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "192",
+      "names": {
+        "de": "",
+        "en": "Veluza",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-192/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-192/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Veluza-V2-PAR192",
+        "tcgplayer": "https://www.tcgplayer.com/product/523873/pokemon-sv04-paradox-rift-veluza-192-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "193",
+      "names": {
+        "de": "",
+        "en": "Plusle",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-193/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-193/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Plusle-V2-PAR193",
+        "tcgplayer": "https://www.tcgplayer.com/product/523874/pokemon-sv04-paradox-rift-plusle-193-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "194",
+      "names": {
+        "de": "",
+        "en": "Minun",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-194/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-194/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Plusle-V2-PAR193",
+        "tcgplayer": "https://www.tcgplayer.com/product/523875/pokemon-sv04-paradox-rift-minun-194-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "195",
+      "names": {
+        "de": "",
+        "en": "Blitzle",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-195/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-195/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Blitzle-V2-PAR195",
+        "tcgplayer": "https://www.tcgplayer.com/product/523876/pokemon-sv04-paradox-rift-blitzle-195-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "196",
+      "names": {
+        "de": "",
+        "en": "Joltik",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-196/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-196/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Joltik-V2-PAR196",
+        "tcgplayer": "https://www.tcgplayer.com/product/523877/pokemon-sv04-paradox-rift-joltik-196-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "197",
+      "names": {
+        "de": "",
+        "en": "Espathra",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-197/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-197/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Espathra-V2-PAR197",
+        "tcgplayer": "https://www.tcgplayer.com/product/523878/pokemon-sv04-paradox-rift-espathra-197-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "198",
+      "names": {
+        "de": "",
+        "en": "Gimmighoul",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-198/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-198/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gimmighoul-V2-PAR198",
+        "tcgplayer": "https://www.tcgplayer.com/product/523879/pokemon-sv04-paradox-rift-gimmighoul-198-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "199",
+      "names": {
+        "de": "",
+        "en": "Groudon",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-199/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-199/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Groudon-V2-PAR199",
+        "tcgplayer": "https://www.tcgplayer.com/product/523880/pokemon-sv04-paradox-rift-groudon-199-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "200",
+      "names": {
+        "de": "",
+        "en": "Mienshao",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-200/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-200/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Mienshao-V2-PAR200",
+        "tcgplayer": "https://www.tcgplayer.com/product/523881/pokemon-sv04-paradox-rift-mienshao-200-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "201",
+      "names": {
+        "de": "",
+        "en": "Minior",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-201/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-201/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Minior-V2-PAR201",
+        "tcgplayer": "https://www.tcgplayer.com/product/523882/pokemon-sv04-paradox-rift-minior-201-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "202",
+      "names": {
+        "de": "",
+        "en": "Garganacl",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-202/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-202/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Garganacl-V2-PAR202",
+        "tcgplayer": "https://www.tcgplayer.com/product/523883/pokemon-sv04-paradox-rift-garganacl-202-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "203",
+      "names": {
+        "de": "",
+        "en": "Slither Wing",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-203/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-203/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Slither-Wing-V2-PAR203",
+        "tcgplayer": "https://www.tcgplayer.com/product/523884/pokemon-sv04-paradox-rift-slither-wing-203-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "204",
+      "names": {
+        "de": "",
+        "en": "Garbodor",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-204/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-204/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Garbodor-V2-PAR204",
+        "tcgplayer": "https://www.tcgplayer.com/product/523885/pokemon-sv04-paradox-rift-garbodor-204-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "205",
+      "names": {
+        "de": "",
+        "en": "Yveltal",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-205/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-205/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Yveltal-V2-PAR205",
+        "tcgplayer": "https://www.tcgplayer.com/product/523886/pokemon-sv04-paradox-rift-yveltal-205-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "206",
+      "names": {
+        "de": "",
+        "en": "Morpeko",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-206/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-206/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Morpeko-V2-PAR206",
+        "tcgplayer": "https://www.tcgplayer.com/product/523887/pokemon-sv04-paradox-rift-morpeko-206-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "207",
+      "names": {
+        "de": "",
+        "en": "Brute Bonnet",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-207/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-207/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Brute-Bonnet-V2-PAR207",
+        "tcgplayer": "https://www.tcgplayer.com/product/523888/pokemon-sv04-paradox-rift-brute-bonnet-207-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "208",
+      "names": {
+        "de": "",
+        "en": "Steelix",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-208/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-208/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Steelix-V2-PAR208",
+        "tcgplayer": "https://www.tcgplayer.com/product/523889/pokemon-sv04-paradox-rift-steelix-208-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "209",
+      "names": {
+        "de": "",
+        "en": "Ferrothorn",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-209/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-209/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Ferrothorn-V2-PAR209",
+        "tcgplayer": "https://www.tcgplayer.com/product/523890/pokemon-sv04-paradox-rift-ferrothorn-209-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "210",
+      "names": {
+        "de": "",
+        "en": "Aegislash",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-210/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-210/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Aegislash-V2-PAR210",
+        "tcgplayer": "https://www.tcgplayer.com/product/523891/pokemon-sv04-paradox-rift-aegislash-210-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "211",
+      "names": {
+        "de": "",
+        "en": "Aipom",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-211/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-211/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Aipom-V2-PAR211",
+        "tcgplayer": "https://www.tcgplayer.com/product/523892/pokemon-sv04-paradox-rift-aipom-211-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "212",
+      "names": {
+        "de": "",
+        "en": "Loudred",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-212/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-212/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Loudred-V2-PAR212",
+        "tcgplayer": "https://www.tcgplayer.com/product/523893/pokemon-sv04-paradox-rift-loudred-212-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "213",
+      "names": {
+        "de": "",
+        "en": "Swablu",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-213/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-213/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Swablu-V2-PAR213",
+        "tcgplayer": "https://www.tcgplayer.com/product/523894/pokemon-sv04-paradox-rift-swablu-213-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "214",
+      "names": {
+        "de": "",
+        "en": "Porygon-Z",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-214/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-214/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Porygon-Z-V2-PAR214",
+        "tcgplayer": "https://www.tcgplayer.com/product/523895/pokemon-sv04-paradox-rift-porygon-z-214-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "215",
+      "names": {
+        "de": "",
+        "en": "Cyclizar",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-215/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-215/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Cyclizar-V2-PAR215",
+        "tcgplayer": "https://www.tcgplayer.com/product/523896/pokemon-sv04-paradox-rift-cyclizar-215-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "216",
+      "names": {
+        "de": "",
+        "en": "Iron Jugulis",
+        "fr": ""
+      },
+      "rarity": "Illustration Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-216/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-216/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Jugulis-V2-PAR216",
+        "tcgplayer": "https://www.tcgplayer.com/product/523897/pokemon-sv04-paradox-rift-iron-jugulis-216-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "217",
+      "names": {
+        "de": "",
+        "en": "Froslass ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-217/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-217/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Froslass-ex-V2-PAR217",
+        "tcgplayer": "https://www.tcgplayer.com/product/523898/pokemon-sv04-paradox-rift-froslass-ex-217-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "218",
+      "names": {
+        "de": "",
+        "en": "Armarouge ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-218/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-218/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Armarouge-ex-V2-PAR218",
+        "tcgplayer": "https://www.tcgplayer.com/product/523899/pokemon-sv04-paradox-rift-armarouge-ex-218-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "219",
+      "names": {
+        "de": "",
+        "en": "Garchomp ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-219/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-219/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Garchomp-ex-V2-PAR219",
+        "tcgplayer": "https://www.tcgplayer.com/product/523900/pokemon-sv04-paradox-rift-garchomp-ex-219-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "220",
+      "names": {
+        "de": "",
+        "en": "Tsareena ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-220/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-220/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tsareena-ex-V2-PAR220",
+        "tcgplayer": "https://www.tcgplayer.com/product/523901/pokemon-sv04-paradox-rift-tsareena-ex-220-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "221",
+      "names": {
+        "de": "",
+        "en": "Golisopod ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-221/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-221/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Golisopod-ex-V2-PAR221",
+        "tcgplayer": "https://www.tcgplayer.com/product/523902/pokemon-sv04-paradox-rift-golisopod-ex-221-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "222",
+      "names": {
+        "de": "",
+        "en": "Tapu Koko ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-222/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-222/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tapu-Koko-ex-V2-PAR222",
+        "tcgplayer": "https://www.tcgplayer.com/product/523903/pokemon-sv04-paradox-rift-tapu-koko-ex-222-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "223",
+      "names": {
+        "de": "",
+        "en": "Iron Hands ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-223/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-223/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Hands-ex-V2-PAR223",
+        "tcgplayer": "https://www.tcgplayer.com/product/523904/pokemon-sv04-paradox-rift-iron-hands-ex-223-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "224",
+      "names": {
+        "de": "",
+        "en": "Cofagrigus ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-224/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-224/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Cofagrigus-ex-V2-PAR224",
+        "tcgplayer": "https://www.tcgplayer.com/product/523905/pokemon-sv04-paradox-rift-cofagrigus-ex-224-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "225",
+      "names": {
+        "de": "",
+        "en": "Iron Valiant ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-225/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-225/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Valiant-ex-V2-PAR225",
+        "tcgplayer": "https://www.tcgplayer.com/product/523906/pokemon-sv04-paradox-rift-iron-valiant-ex-225-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "226",
+      "names": {
+        "de": "",
+        "en": "Hoopa ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-226/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-226/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Hoopa-ex-V2-PAR226",
+        "tcgplayer": "https://www.tcgplayer.com/product/523907/pokemon-sv04-paradox-rift-hoopa-ex-226-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "227",
+      "names": {
+        "de": "",
+        "en": "Toxtricity ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-227/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-227/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Toxtricity-ex-V2-PAR227",
+        "tcgplayer": "https://www.tcgplayer.com/product/523908/pokemon-sv04-paradox-rift-toxtricity-ex-227-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "228",
+      "names": {
+        "de": "",
+        "en": "Sandy Shocks ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-228/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-228/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Sandy-Shocks-ex-V2-PAR228",
+        "tcgplayer": "https://www.tcgplayer.com/product/523909/pokemon-sv04-paradox-rift-sandy-shocks-ex-228-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "229",
+      "names": {
+        "de": "",
+        "en": "Roaring Moon ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-229/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-229/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Roaring-Moon-ex-V2-PAR229",
+        "tcgplayer": "https://www.tcgplayer.com/product/523910/pokemon-sv04-paradox-rift-roaring-moon-ex-229-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "230",
+      "names": {
+        "de": "",
+        "en": "Aegislash ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-230/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-230/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Aegislash-ex-V2-PAR230",
+        "tcgplayer": "https://www.tcgplayer.com/product/523911/pokemon-sv04-paradox-rift-aegislash-ex-230-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "231",
+      "names": {
+        "de": "",
+        "en": "Gholdengo ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-231/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-231/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gholdengo-ex-V2-PAR231",
+        "tcgplayer": "https://www.tcgplayer.com/product/523912/pokemon-sv04-paradox-rift-gholdengo-ex-231-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "232",
+      "names": {
+        "de": "",
+        "en": "Altaria ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-232/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-232/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Altaria-ex-V2-PAR232",
+        "tcgplayer": "https://www.tcgplayer.com/product/523913/pokemon-sv04-paradox-rift-altaria-ex-232-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "233",
+      "names": {
+        "de": "",
+        "en": "Maushold ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-233/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-233/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Maushold-ex-V2-PAR233",
+        "tcgplayer": "https://www.tcgplayer.com/product/523914/pokemon-sv04-paradox-rift-maushold-ex-233-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "234",
+      "names": {
+        "de": "",
+        "en": "Bombirdier ex",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-234/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-234/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Bombirdier-ex-V2-PAR234",
+        "tcgplayer": "https://www.tcgplayer.com/product/523915/pokemon-sv04-paradox-rift-bombirdier-ex-234-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "235",
+      "names": {
+        "de": "",
+        "en": "Larry",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-235/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-235/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Larry-V2-PAR235",
+        "tcgplayer": "https://www.tcgplayer.com/product/523916/pokemon-sv04-paradox-rift-larry-235-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "236",
+      "names": {
+        "de": "",
+        "en": "Mela",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-236/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-236/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Mela-V2-PAR236",
+        "tcgplayer": "https://www.tcgplayer.com/product/523917/pokemon-sv04-paradox-rift-mela-236-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "237",
+      "names": {
+        "de": "",
+        "en": "Norman",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-237/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-237/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Norman-V2-PAR237",
+        "tcgplayer": "https://www.tcgplayer.com/product/523918/pokemon-sv04-paradox-rift-norman-237-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "238",
+      "names": {
+        "de": "",
+        "en": "Parasol Lady",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-238/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-238/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Parasol-Lady-V2-PAR238",
+        "tcgplayer": "https://www.tcgplayer.com/product/523919/pokemon-sv04-paradox-rift-parasol-lady-238-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "239",
+      "names": {
+        "de": "",
+        "en": "Professor Sada's Vitality",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-239/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-239/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Professor-Sadas-Vitality-V2-PAR239",
+        "tcgplayer": "https://www.tcgplayer.com/product/523920/pokemon-sv04-paradox-rift-professor-sadas-vitality-239-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "240",
+      "names": {
+        "de": "",
+        "en": "Professor Turo's Scenario",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-240/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-240/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Professor-Turos-Scenario-V2-PAR240",
+        "tcgplayer": "https://www.tcgplayer.com/product/523921/pokemon-sv04-paradox-rift-professor-turos-scenario-240-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "241",
+      "names": {
+        "de": "",
+        "en": "Rika",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-241/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-241/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Rika-V2-PAR241",
+        "tcgplayer": "https://www.tcgplayer.com/product/523922/pokemon-sv04-paradox-rift-rika-241-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "242",
+      "names": {
+        "de": "",
+        "en": "Roark",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-242/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-242/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Roark-V2-PAR242",
+        "tcgplayer": "https://www.tcgplayer.com/product/523923/pokemon-sv04-paradox-rift-roark-242-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "243",
+      "names": {
+        "de": "",
+        "en": "Shauntal",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-243/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-243/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Shauntal-V2-PAR243",
+        "tcgplayer": "https://www.tcgplayer.com/product/523924/pokemon-sv04-paradox-rift-shauntal-243-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "244",
+      "names": {
+        "de": "",
+        "en": "Tulip",
+        "fr": ""
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-244/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-244/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tulip-V2-PAR244",
+        "tcgplayer": "https://www.tcgplayer.com/product/523925/pokemon-sv04-paradox-rift-tulip-244-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "245",
+      "names": {
+        "de": "",
+        "en": "Garchomp ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-245/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-245/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Garchomp-ex-V3-PAR245",
+        "tcgplayer": "https://www.tcgplayer.com/product/523926/pokemon-sv04-paradox-rift-garchomp-ex-245-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "246",
+      "names": {
+        "de": "",
+        "en": "Golisopod ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-246/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-246/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Golisopod-ex-V3-PAR246",
+        "tcgplayer": "https://www.tcgplayer.com/product/523927/pokemon-sv04-paradox-rift-golisopod-ex-246-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "247",
+      "names": {
+        "de": "",
+        "en": "Tapu Koko ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-247/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-247/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tapu-Koko-ex-V3-PAR247",
+        "tcgplayer": "https://www.tcgplayer.com/product/523928/pokemon-sv04-paradox-rift-tapu-koko-ex-247-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "248",
+      "names": {
+        "de": "",
+        "en": "Iron Hands ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-248/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-248/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Hands-ex-V3-PAR248",
+        "tcgplayer": "https://www.tcgplayer.com/product/523929/pokemon-sv04-paradox-rift-iron-hands-ex-248-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "249",
+      "names": {
+        "de": "",
+        "en": "Iron Valiant ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-249/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-249/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Valiant-ex-V3-PAR249",
+        "tcgplayer": "https://www.tcgplayer.com/product/523930/pokemon-sv04-paradox-rift-iron-valiant-ex-249-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "250",
+      "names": {
+        "de": "",
+        "en": "Sandy Shocks ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-250/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-250/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Sandy-Shocks-ex-V3-PAR250",
+        "tcgplayer": "https://www.tcgplayer.com/product/523931/pokemon-sv04-paradox-rift-sandy-shocks-ex-250-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "251",
+      "names": {
+        "de": "",
+        "en": "Roaring Moon ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-251/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-251/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Roaring-Moon-ex-V3-PAR251",
+        "tcgplayer": "https://www.tcgplayer.com/product/523932/pokemon-sv04-paradox-rift-roaring-moon-ex-251-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "252",
+      "names": {
+        "de": "",
+        "en": "Gholdengo ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-252/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-252/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Gholdengo-ex-V3-PAR252",
+        "tcgplayer": "https://www.tcgplayer.com/product/523933/pokemon-sv04-paradox-rift-gholdengo-ex-252-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "253",
+      "names": {
+        "de": "",
+        "en": "Altaria ex",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-253/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-253/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Altaria-ex-V3-PAR253",
+        "tcgplayer": "https://www.tcgplayer.com/product/523934/pokemon-sv04-paradox-rift-altaria-ex-253-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "254",
+      "names": {
+        "de": "",
+        "en": "Mela",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-254/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-254/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Mela-V3-PAR254",
+        "tcgplayer": "https://www.tcgplayer.com/product/523935/pokemon-sv04-paradox-rift-mela-254-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "255",
+      "names": {
+        "de": "",
+        "en": "Parasol Lady",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-255/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-255/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Parasol-Lady-V3-PAR255",
+        "tcgplayer": "https://www.tcgplayer.com/product/523936/pokemon-sv04-paradox-rift-parasol-lady-255-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "256",
+      "names": {
+        "de": "",
+        "en": "Professor Sada's Vitality",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-256/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-256/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Professor-Sadas-Vitality-V3-PAR256",
+        "tcgplayer": "https://www.tcgplayer.com/product/523937/pokemon-sv04-paradox-rift-professor-sadas-vitality-256-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "257",
+      "names": {
+        "de": "",
+        "en": "Professor Turo's Scenario",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-257/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-257/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Professor-Turos-Scenario-V3-PAR257",
+        "tcgplayer": "https://www.tcgplayer.com/product/523938/pokemon-sv04-paradox-rift-professor-turos-scenario-257-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "258",
+      "names": {
+        "de": "",
+        "en": "Rika",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-258/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-258/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Rika-V3-PAR258",
+        "tcgplayer": "https://www.tcgplayer.com/product/523939/pokemon-sv04-paradox-rift-rika-258-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "259",
+      "names": {
+        "de": "",
+        "en": "Tulip",
+        "fr": ""
+      },
+      "rarity": "Special Illustration Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-259/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-259/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Tulip-V3-PAR259",
+        "tcgplayer": "https://www.tcgplayer.com/product/523940/pokemon-sv04-paradox-rift-tulip-259-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "260",
+      "names": {
+        "de": "",
+        "en": "Garchomp ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-260/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-260/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Garchomp-ex-V4-PAR260",
+        "tcgplayer": "https://www.tcgplayer.com/product/523941/pokemon-sv04-paradox-rift-garchomp-ex-260-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "261",
+      "names": {
+        "de": "",
+        "en": "Iron Valiant ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-261/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-261/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Iron-Valiant-ex-V4-PAR261",
+        "tcgplayer": "https://www.tcgplayer.com/product/523942/pokemon-sv04-paradox-rift-iron-valiant-ex-261-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "262",
+      "names": {
+        "de": "",
+        "en": "Roaring Moon ex",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-262/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-262/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Roaring-Moon-ex-V4-PAR262",
+        "tcgplayer": "https://www.tcgplayer.com/product/523943/pokemon-sv04-paradox-rift-roaring-moon-ex-262-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "263",
+      "names": {
+        "de": "",
+        "en": "Beach Court",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-263/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-263/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Beach-Court-PAR263",
+        "tcgplayer": "https://www.tcgplayer.com/product/523944/pokemon-sv04-paradox-rift-beach-court-263-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "264",
+      "names": {
+        "de": "",
+        "en": "Counter Catcher",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-264/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-264/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Counter-Catcher-V2-PAR264",
+        "tcgplayer": "https://www.tcgplayer.com/product/523945/pokemon-sv04-paradox-rift-counter-catcher-264-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "265",
+      "names": {
+        "de": "",
+        "en": "Luxurious Cape",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-265/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-265/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Luxurious-Cape-V2-PAR265",
+        "tcgplayer": "https://www.tcgplayer.com/product/523946/pokemon-sv04-paradox-rift-luxurious-cape-265-182?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "266",
+      "names": {
+        "de": "",
+        "en": "Reversal Energy",
+        "fr": ""
+      },
+      "rarity": "Hyper Rare",
+      "types": [],
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/sv4-266/medium",
+        "large": "https://images.scrydex.com/pokemon/sv4-266/large"
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Paradox-Rift/Reversal-Energy-PAR266",
+        "tcgplayer": "https://www.tcgplayer.com/product/523947/pokemon-sv04-paradox-rift-reversal-energy-266-182?page=1&Language=English"
+      },
+      "notes": ""
+    }
+  ]
+}

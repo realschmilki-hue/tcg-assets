@@ -292,38 +292,6 @@
       }
     },
     {
-      "id": "2024sv",
-      "name": "McDonald's Collection 2024",
-      "nameEN": "McDonald's Collection 2024",
-      "names": {
-        "de": "",
-        "en": "McDonald's Collection 2024",
-        "es": "Colecci??n de McDonald's 2024",
-        "fr": "Collection McDonald's 2024",
-        "it": "McDonald's Collection 2024",
-        "pt": ""
-      },
-      "logo": "setlogo/mcdonald-s-collection-2024.png",
-      "logos": {
-        "en": "setlogo/mcdonald-s-collection-2024.png",
-        "de": "setlogo/de/mcdonald-s-collection-2024.png",
-        "fr": "setlogo/fr/mcdonald-s-collection-2024.png",
-        "es": "setlogo/es/mcdonald-s-collection-2024.png",
-        "it": "setlogo/it/mcdonald-s-collection-2024.png",
-        "pt": "setlogo/pt/mcdonald-s-collection-2024.png"
-      },
-      "symbol": "",
-      "total": 15,
-      "releaseDate": "2024-12-04",
-      "maintainer": "RSch",
-      "updated": "2026-04-19",
-      "file": "editions/2024sv.json",
-      "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2024",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2024"
-      }
-    },
-    {
       "id": "sv08",
       "name": "Surging Sparks",
       "nameEN": "Surging Sparks",
@@ -612,38 +580,6 @@
       }
     },
     {
-      "id": "2023sv",
-      "name": "McDonald's Collection 2023",
-      "nameEN": "McDonald's Collection 2023",
-      "names": {
-        "de": "",
-        "en": "McDonald's Collection 2023",
-        "es": "Colecci??n de McDonald's 2023",
-        "fr": "Collection McDonald's 2023",
-        "it": "McDonald's Collection 2023",
-        "pt": ""
-      },
-      "logo": "setlogo/mcdonald-s-collection-2023.png",
-      "logos": {
-        "en": "setlogo/mcdonald-s-collection-2023.png",
-        "de": "setlogo/de/mcdonald-s-collection-2023.png",
-        "fr": "setlogo/fr/mcdonald-s-collection-2023.png",
-        "es": "setlogo/es/mcdonald-s-collection-2023.png",
-        "it": "setlogo/it/mcdonald-s-collection-2023.png",
-        "pt": "setlogo/pt/mcdonald-s-collection-2023.png"
-      },
-      "symbol": "",
-      "total": 15,
-      "releaseDate": "2023-08-01",
-      "maintainer": "RSch",
-      "updated": "2026-04-19",
-      "file": "editions/2023sv.json",
-      "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Match-Battle-2023",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2023"
-      }
-    },
-    {
       "id": "sv02",
       "name": "Paldea Evolved",
       "nameEN": "Paldea Evolved",
@@ -741,11 +677,11 @@
     },
     {
       "id": "sv01",
-      "name": "Scarlet & Violet",
-      "nameEN": "Scarlet & Violet",
+      "name": "Scarlet \u0026 Violet",
+      "nameEN": "Scarlet \u0026 Violet",
       "names": {
-        "de": "Karmesin & Purpur",
-        "en": "Scarlet & Violet",
+        "de": "Karmesin \u0026 Purpur",
+        "en": "Scarlet \u0026 Violet",
         "es": "Escarlata y P??rpura",
         "fr": "??carlate et Violet",
         "it": "Scarlatto e Violetto",
@@ -865,38 +801,6 @@
       "links": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Origin",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/swsh11-lost-origin"
-      }
-    },
-    {
-      "id": "2022swsh",
-      "name": "McDonald's Collection 2022",
-      "nameEN": "McDonald's Collection 2022",
-      "names": {
-        "de": "",
-        "en": "McDonald's Collection 2022",
-        "es": "Colecci??n de McDonald's 2022",
-        "fr": "Collection McDonald's 2022",
-        "it": "McDonald's Collection 2022",
-        "pt": ""
-      },
-      "logo": "setlogo/mcdonald-s-collection-2022.png",
-      "logos": {
-        "en": "setlogo/mcdonald-s-collection-2022.png",
-        "de": "setlogo/de/mcdonald-s-collection-2022.png",
-        "fr": "setlogo/fr/mcdonald-s-collection-2022.png",
-        "es": "setlogo/es/mcdonald-s-collection-2022.png",
-        "it": "setlogo/it/mcdonald-s-collection-2022.png",
-        "pt": "setlogo/pt/mcdonald-s-collection-2022.png"
-      },
-      "symbol": "",
-      "total": 15,
-      "releaseDate": "2022-08-03",
-      "maintainer": "RSch",
-      "updated": "2026-04-19",
-      "file": "editions/2022swsh.json",
-      "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2022",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2022"
       }
     },
     {
@@ -1188,38 +1092,6 @@
       }
     },
     {
-      "id": "2021swsh",
-      "name": "McDonald's Collection 2021",
-      "nameEN": "McDonald's Collection 2021",
-      "names": {
-        "de": "",
-        "en": "McDonald's Collection 2021",
-        "es": "Colecci??n de McDonald's 2021",
-        "fr": "Collection McDonald's 2021",
-        "it": "McDonald's Collection 2021",
-        "pt": ""
-      },
-      "logo": "setlogo/mcdonald-s-collection-2021.png",
-      "logos": {
-        "en": "setlogo/mcdonald-s-collection-2021.png",
-        "de": "setlogo/de/mcdonald-s-collection-2021.png",
-        "fr": "setlogo/fr/mcdonald-s-collection-2021.png",
-        "es": "setlogo/es/mcdonald-s-collection-2021.png",
-        "it": "setlogo/it/mcdonald-s-collection-2021.png",
-        "pt": "setlogo/pt/mcdonald-s-collection-2021.png"
-      },
-      "symbol": "setsymbol/mcdonald-s-collection-2021.png",
-      "total": 25,
-      "releaseDate": "2021-02-09",
-      "maintainer": "RSch",
-      "updated": "2026-04-19",
-      "file": "editions/2021swsh.json",
-      "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-25th-Anniversary",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-25th-anniversary-promos"
-      }
-    },
-    {
       "id": "swsh4",
       "name": "Vivid Voltage",
       "nameEN": "Vivid Voltage",
@@ -1253,11 +1125,11 @@
     },
     {
       "id": "swsh3.5",
-      "name": "Champion's Path",
-      "nameEN": "Champion's Path",
+      "name": "Champion\u0027s Path",
+      "nameEN": "Champion\u0027s Path",
       "names": {
         "de": "Weg des Champs",
-        "en": "Champion's Path",
+        "en": "Champion\u0027s Path",
         "es": "Camino de Campeones",
         "fr": "La Voie du Ma??tre",
         "it": "Futuri Campioni",
@@ -1349,11 +1221,11 @@
     },
     {
       "id": "swsh1",
-      "name": "Sword & Shield",
-      "nameEN": "Sword & Shield",
+      "name": "Sword \u0026 Shield",
+      "nameEN": "Sword \u0026 Shield",
       "names": {
-        "de": "Schwert & Schild",
-        "en": "Sword & Shield",
+        "de": "Schwert \u0026 Schild",
+        "en": "Sword \u0026 Shield",
         "es": "Espada y Escudo",
         "fr": "??p??e et Bouclier",
         "it": "Spada e Scudo",
@@ -1444,38 +1316,6 @@
       }
     },
     {
-      "id": "2019sm",
-      "name": "McDonald's Collection 2019",
-      "nameEN": "McDonald's Collection 2019",
-      "names": {
-        "de": "",
-        "en": "McDonald's Collection 2019",
-        "es": "",
-        "fr": "",
-        "it": "McDonald's Collection 2019",
-        "pt": ""
-      },
-      "logo": "setlogo/mcdonald-s-collection-2019.png",
-      "logos": {
-        "en": "setlogo/mcdonald-s-collection-2019.png",
-        "de": "setlogo/de/mcdonald-s-collection-2019.png",
-        "fr": "setlogo/fr/mcdonald-s-collection-2019.png",
-        "es": "setlogo/es/mcdonald-s-collection-2019.png",
-        "it": "setlogo/it/mcdonald-s-collection-2019.png",
-        "pt": "setlogo/pt/mcdonald-s-collection-2019.png"
-      },
-      "symbol": "",
-      "total": 12,
-      "releaseDate": "2019-10-15",
-      "maintainer": "RSch",
-      "updated": "2026-04-19",
-      "file": "editions/2019sm.json",
-      "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2019",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2019"
-      }
-    },
-    {
       "id": "sm115",
       "name": "Hidden Fates",
       "nameEN": "Hidden Fates",
@@ -1519,16 +1359,16 @@
         "it": "Destino Sfuggente Tesoro Lucente",
         "pt": "Destinos Ocultos Cofre Brilhante"
       },
-      "logo": "setlogo/hidden-fates-shiny-vault.png",
+      "logo": "setlogo/hidden-fates.png",
       "logos": {
-        "en": "setlogo/hidden-fates-shiny-vault.png",
-        "de": "setlogo/de/hidden-fates-shiny-vault.png",
-        "fr": "setlogo/fr/hidden-fates-shiny-vault.png",
-        "es": "setlogo/es/hidden-fates-shiny-vault.png",
-        "it": "setlogo/it/hidden-fates-shiny-vault.png",
-        "pt": "setlogo/pt/hidden-fates-shiny-vault.png"
+        "en": "setlogo/hidden-fates.png",
+        "de": "setlogo/de/hidden-fates.png",
+        "fr": "setlogo/fr/hidden-fates.png",
+        "es": "setlogo/es/hidden-fates.png",
+        "it": "setlogo/it/hidden-fates.png",
+        "pt": "setlogo/pt/hidden-fates.png"
       },
-      "symbol": "setsymbol/hidden-fates-shiny-vault.png",
+      "symbol": "setsymbol/hidden-fates.png",
       "total": 94,
       "releaseDate": "2019-08-23",
       "maintainer": "RSch",
@@ -1697,38 +1537,6 @@
       "links": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Lost-Thunder",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/sm-lost-thunder"
-      }
-    },
-    {
-      "id": "2018sm",
-      "name": "McDonald's Collection 2018",
-      "nameEN": "McDonald's Collection 2018",
-      "names": {
-        "de": "",
-        "en": "McDonald's Collection 2018",
-        "es": "",
-        "fr": "",
-        "it": "McDonald's Collection 2018",
-        "pt": ""
-      },
-      "logo": "setlogo/mcdonald-s-collection-2018.png",
-      "logos": {
-        "en": "setlogo/mcdonald-s-collection-2018.png",
-        "de": "setlogo/de/mcdonald-s-collection-2018.png",
-        "fr": "setlogo/fr/mcdonald-s-collection-2018.png",
-        "es": "setlogo/es/mcdonald-s-collection-2018.png",
-        "it": "setlogo/it/mcdonald-s-collection-2018.png",
-        "pt": "setlogo/pt/mcdonald-s-collection-2018.png"
-      },
-      "symbol": "",
-      "total": 12,
-      "releaseDate": "2018-10-19",
-      "maintainer": "RSch",
-      "updated": "2026-04-19",
-      "file": "editions/2018sm.json",
-      "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2018",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2018"
       }
     },
     {
@@ -1956,38 +1764,6 @@
       }
     },
     {
-      "id": "2017sm",
-      "name": "McDonald's Collection 2017",
-      "nameEN": "McDonald's Collection 2017",
-      "names": {
-        "de": "",
-        "en": "McDonald's Collection 2017",
-        "es": "",
-        "fr": "Collection McDonald's 2017",
-        "it": "McDonald's Collection 2017",
-        "pt": ""
-      },
-      "logo": "setlogo/mcdonald-s-collection-2017.png",
-      "logos": {
-        "en": "setlogo/mcdonald-s-collection-2017.png",
-        "de": "setlogo/de/mcdonald-s-collection-2017.png",
-        "fr": "setlogo/fr/mcdonald-s-collection-2017.png",
-        "es": "setlogo/es/mcdonald-s-collection-2017.png",
-        "it": "setlogo/it/mcdonald-s-collection-2017.png",
-        "pt": "setlogo/pt/mcdonald-s-collection-2017.png"
-      },
-      "symbol": "",
-      "total": 12,
-      "releaseDate": "2017-08-03",
-      "maintainer": "RSch",
-      "updated": "2026-04-19",
-      "file": "editions/2017sm.json",
-      "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2017"
-      }
-    },
-    {
       "id": "sm2",
       "name": "Guardians Rising",
       "nameEN": "Guardians Rising",
@@ -2059,7 +1835,7 @@
         "de": "",
         "en": "SM trainer Kit (Alolan Raichu)",
         "es": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
-        "fr": "SM Kit du dresseur (Raichu d'Alola)",
+        "fr": "SM Kit du dresseur (Raichu d\u0027Alola)",
         "it": "Sole e Luna trainer Kit (Alolan Raichu)",
         "pt": ""
       },
@@ -2117,11 +1893,11 @@
     },
     {
       "id": "sm1",
-      "name": "Sun & Moon",
-      "nameEN": "Sun & Moon",
+      "name": "Sun \u0026 Moon",
+      "nameEN": "Sun \u0026 Moon",
       "names": {
-        "de": "Sonne & Mond",
-        "en": "Sun & Moon",
+        "de": "Sonne \u0026 Mond",
+        "en": "Sun \u0026 Moon",
         "es": "Sol y Luna",
         "fr": "Soleil et Lune",
         "it": "Sole e Luna",

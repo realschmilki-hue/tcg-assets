@@ -1,0 +1,1258 @@
+{
+  "edition": {
+    "id": "exu",
+    "name": "Unseen Forces Unown Collection",
+    "nameEN": "Unseen Forces Unown Collection",
+    "names": {
+      "de": "EX Verborgene Mächte Icognito",
+      "en": "Unseen Forces Unown Collection",
+      "es": "EX Fuerzas Ocultas Unown",
+      "fr": "EX Forces Cachées Collection Zarbi",
+      "it": "EX Forze Segrete Unown",
+      "pt": ""
+    },
+    "series": "EX",
+    "seriesNames": {
+      "de": "EX",
+      "en": "EX",
+      "es": "ex",
+      "fr": "EX",
+      "it": "EX",
+      "pt": ""
+    },
+    "total": 28,
+    "releaseDate": "2005-08-22"
+  },
+  "cards": [
+    {
+      "number": "!",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/!/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/!/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/!/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/!/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/!/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/!/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/!/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/!/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/!/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/!/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/!/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/!/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "%3F",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/%3F/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/%3F/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/%3F/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/%3F/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/%3F/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/%3F/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/%3F/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/%3F/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/%3F/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/%3F/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/%3F/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/%3F/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "A",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/A/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/A/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/A/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/A/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/A/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/A/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/A/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/A/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/A/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/A/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/A/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/A/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "B",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/B/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/B/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/B/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/B/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/B/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/B/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/B/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/B/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/B/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/B/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/B/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/B/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "C",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/C/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/C/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/C/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/C/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/C/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/C/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/C/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/C/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/C/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/C/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/C/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/C/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "D",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/D/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/D/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/D/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/D/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/D/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/D/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/D/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/D/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/D/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/D/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/D/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/D/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "E",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/E/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/E/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/E/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/E/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/E/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/E/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/E/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/E/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/E/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/E/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/E/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/E/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "F",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/F/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/F/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/F/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/F/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/F/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/F/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/F/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/F/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/F/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/F/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/F/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/F/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "G",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/G/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/G/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/G/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/G/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/G/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/G/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/G/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/G/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/G/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/G/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/G/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/G/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "H",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/H/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/H/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/H/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/H/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/H/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/H/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/H/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/H/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/H/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/H/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/H/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/H/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "I",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/I/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/I/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/I/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/I/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/I/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/I/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/I/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/I/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/I/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/I/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/I/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/I/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "J",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/J/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/J/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/J/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/J/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/J/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/J/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/J/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/J/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/J/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/J/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/J/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/J/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "K",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/K/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/K/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/K/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/K/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/K/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/K/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/K/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/K/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/K/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/K/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/K/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/K/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "L",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/L/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/L/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/L/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/L/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/L/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/L/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/L/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/L/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/L/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/L/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/L/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/L/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "M",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/M/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/M/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/M/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/M/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/M/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/M/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/M/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/M/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/M/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/M/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/M/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/M/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "N",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/N/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/N/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/N/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/N/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/N/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/N/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/N/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/N/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/N/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/N/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/N/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/N/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "O",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/O/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/O/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/O/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/O/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/O/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/O/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/O/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/O/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/O/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/O/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/O/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/O/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "P",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/P/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/P/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/P/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/P/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/P/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/P/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/P/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/P/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/P/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/P/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/P/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/P/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "Q",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/Q/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/Q/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/Q/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/Q/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/Q/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/Q/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/Q/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/Q/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/Q/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/Q/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/Q/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/Q/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "R",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/R/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/R/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/R/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/R/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/R/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/R/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/R/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/R/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/R/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/R/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/R/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/R/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "S",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/S/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/S/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/S/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/S/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/S/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/S/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/S/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/S/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/S/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/S/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/S/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/S/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "T",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/T/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/T/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/T/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/T/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/T/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/T/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/T/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/T/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/T/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/T/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/T/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/T/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "U",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/U/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/U/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/U/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/U/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/U/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/U/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/U/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/U/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/U/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/U/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/U/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/U/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "V",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/V/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/V/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/V/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/V/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/V/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/V/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/V/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/V/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/V/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/V/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/V/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/V/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "W",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/W/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/W/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/W/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/W/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/W/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/W/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/W/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/W/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/W/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/W/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/W/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/W/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "X",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/X/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/X/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/X/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/X/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/X/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/X/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/X/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/X/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/X/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/X/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/X/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/X/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "Y",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/Y/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/Y/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/Y/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/Y/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/Y/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/Y/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/Y/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/Y/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/Y/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/Y/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/Y/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/Y/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "Z",
+      "names": {
+        "de": "Icognito",
+        "en": "Unown",
+        "es": "Unown",
+        "fr": "Zarbi",
+        "it": "Unown",
+        "pt": "Unown"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/exu/Z/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/exu/Z/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/exu/Z/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/exu/Z/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/exu/Z/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/exu/Z/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/exu/Z/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/exu/Z/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/exu/Z/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/exu/Z/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/exu/Z/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/exu/Z/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

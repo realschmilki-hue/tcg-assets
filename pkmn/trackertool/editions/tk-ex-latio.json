@@ -1,0 +1,462 @@
+{
+  "edition": {
+    "id": "tk-ex-latio",
+    "name": "EX trainer Kit (Latios)",
+    "nameEN": "EX trainer Kit (Latios)",
+    "names": {
+      "de": "",
+      "en": "EX trainer Kit (Latios)",
+      "es": "Kit de Entrenador EX (Latios)",
+      "fr": "EX Kit dresseur (Latios)",
+      "it": "EX trainer Kit (Latios)",
+      "pt": ""
+    },
+    "series": "Trainer kits",
+    "seriesNames": {
+      "de": "",
+      "en": "Trainer kits",
+      "es": "Kits de Entrenador",
+      "fr": "Kits du dresseur",
+      "it": "Trainer Kit",
+      "pt": ""
+    },
+    "total": 10,
+    "releaseDate": "2004-07-01"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Frizelbliz",
+        "en": "Electrike",
+        "es": "Electrike",
+        "fr": "Dynavolt",
+        "it": "Electrike",
+        "pt": "Electrike"
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Latios",
+        "en": "Latios",
+        "es": "Latios",
+        "fr": "Latios",
+        "it": "Latios",
+        "pt": "Latios"
+      },
+      "rarity": "None",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Geradaks",
+        "en": "Linoone",
+        "es": "Linoone",
+        "fr": "Lineon",
+        "it": "Linoone",
+        "pt": "Linoone"
+      },
+      "rarity": "None",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Magnetilo",
+        "en": "Magnemite",
+        "es": "Magnemite",
+        "fr": "Magneti",
+        "it": "Magnemite",
+        "pt": "Magnemite"
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Magneton",
+        "en": "Magneton",
+        "es": "Magneton",
+        "fr": "Magneton",
+        "it": "Magneton",
+        "pt": "Magneton"
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Pikachu",
+        "en": "Pikachu",
+        "es": "Pikachu",
+        "fr": "Pikachu",
+        "it": "Pikachu",
+        "pt": "Pikachu"
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Zigzachs",
+        "en": "Zigzagoon",
+        "es": "Zigzagoon",
+        "fr": "Zigzaton",
+        "it": "Zigzagoon",
+        "pt": "Zigzagoon"
+      },
+      "rarity": "None",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Trank",
+        "en": "Potion",
+        "es": "Poción",
+        "fr": "Potion",
+        "it": "Pozione",
+        "pt": "Poção"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Energiesuche",
+        "en": "Energy Search",
+        "es": "Búsqueda de Energía",
+        "fr": "Recherche d'énergie",
+        "it": "Ricerca di Energia",
+        "pt": "Busca de Energia"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-ex-latio/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-ex-latio/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-ex-latio/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-ex-latio/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-ex-latio/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-ex-latio/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-ex-latio/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-ex-latio/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-ex-latio/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-ex-latio/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

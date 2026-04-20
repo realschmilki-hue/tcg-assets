@@ -1,0 +1,1320 @@
+{
+  "edition": {
+    "id": "tk-xy-latia",
+    "name": "XY trainer Kit (Latias)",
+    "nameEN": "XY trainer Kit (Latias)",
+    "names": {
+      "de": "",
+      "en": "XY trainer Kit (Latias)",
+      "es": "Kit de Entrenador XY (Latias)",
+      "fr": "XY Kit du dresseur (Latias)",
+      "it": "XY trainer Kit (Latias)",
+      "pt": ""
+    },
+    "series": "Trainer kits",
+    "seriesNames": {
+      "de": "",
+      "en": "Trainer kits",
+      "es": "Kits de Entrenador",
+      "fr": "Kits du dresseur",
+      "it": "Trainer Kit",
+      "pt": ""
+    },
+    "total": 30,
+    "releaseDate": "2015-04-29"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Pflanze-Energie",
+        "en": "Grass Energy",
+        "es": "Energía Planta",
+        "fr": "Énergie Plante",
+        "it": "Energia Erba",
+        "pt": "Energia de Grama"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Pflanze-Energie",
+        "en": "Grass Energy",
+        "es": "Energía Planta",
+        "fr": "Énergie Plante",
+        "it": "Energia Erba",
+        "pt": "Energia de Grama"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Pflanze-Energie",
+        "en": "Grass Energy",
+        "es": "Energía Planta",
+        "fr": "Énergie Plante",
+        "it": "Energia Erba",
+        "pt": "Energia de Grama"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Dartiri",
+        "en": "Fletchling",
+        "es": "Fletchling",
+        "fr": "Passerouge",
+        "it": "Fletchling",
+        "pt": "Fletchling"
+      },
+      "rarity": "None",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Pflanze-Energie",
+        "en": "Grass Energy",
+        "es": "Energía Planta",
+        "fr": "Énergie Plante",
+        "it": "Energia Erba",
+        "pt": "Energia de Grama"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Lombrero",
+        "en": "Lombre",
+        "es": "Lombre",
+        "fr": "Lombre",
+        "it": "Lombre",
+        "pt": "Lombre"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Geckarbor",
+        "en": "Treecko",
+        "es": "Treecko",
+        "fr": "Arcko",
+        "it": "Treecko",
+        "pt": "Treecko"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Loturzel",
+        "en": "Lotad",
+        "es": "Lotad",
+        "fr": "Nénupiot",
+        "it": "Lotad",
+        "pt": "Lotad"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/11/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/11/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/11/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/11/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Tangoloss",
+        "en": "Tangrowth",
+        "es": "Tangrowth",
+        "fr": "Bouldeneu",
+        "it": "Tangrowth",
+        "pt": "Tangrowth"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/12/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/12/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/12/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/12/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "Tangela",
+        "en": "Tangela",
+        "es": "Tangela",
+        "fr": "Saquedeneu",
+        "it": "Tangela",
+        "pt": "Tangela"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/13/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/13/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/13/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/13/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "Latias",
+        "en": "Latias",
+        "es": "Latias",
+        "fr": "Latias",
+        "it": "Latias",
+        "pt": "Latias"
+      },
+      "rarity": "None",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/14/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/14/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/14/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/14/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "Trank",
+        "en": "Potion",
+        "es": "Poción",
+        "fr": "Potion",
+        "it": "Pozione",
+        "pt": "Poção"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/15/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/15/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/15/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/15/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Gehweiher",
+        "en": "Surskit",
+        "es": "Surskit",
+        "fr": "Arakdo",
+        "it": "Surskit",
+        "pt": "Surskit"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/16/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/16/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/16/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/16/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/17/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/17/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/17/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/17/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "Reptain",
+        "en": "Grovyle",
+        "es": "Grovyle",
+        "fr": "Massko",
+        "it": "Grovyle",
+        "pt": "Grovyle"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/18/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/18/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/18/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/18/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/18/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/18/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/18/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/18/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/18/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/18/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/18/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/18/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "Pflanze-Energie",
+        "en": "Grass Energy",
+        "es": "Energía Planta",
+        "fr": "Énergie Plante",
+        "it": "Energia Erba",
+        "pt": "Energia de Grama"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/19/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/19/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/19/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/19/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "Kunstrad",
+        "en": "Acro Bike",
+        "es": "Bici Acrobática",
+        "fr": "Vélo Cross",
+        "it": "Bici da cross",
+        "pt": "Bicicleta Acro"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/20/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/20/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/20/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/20/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "Lombrero",
+        "en": "Lombre",
+        "es": "Lombre",
+        "fr": "Lombre",
+        "it": "Lombre",
+        "pt": "Lombre"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/21/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/21/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/21/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/21/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/21/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/21/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/21/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/21/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/21/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/21/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/21/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/21/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/22/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/22/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/22/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/22/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/22/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/22/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/22/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/22/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/22/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/22/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/22/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/22/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "Loturzel",
+        "en": "Lotad",
+        "es": "Lotad",
+        "fr": "Nénupiot",
+        "it": "Lotad",
+        "pt": "Lotad"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/23/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/23/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/23/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/23/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/23/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/23/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/23/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/23/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/23/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/23/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/23/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/23/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "Geckarbor",
+        "en": "Treecko",
+        "es": "Treecko",
+        "fr": "Arcko",
+        "it": "Treecko",
+        "pt": "Treecko"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/24/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/24/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/24/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/24/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/24/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/24/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/24/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/24/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/24/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/24/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/24/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/24/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "Tangoloss",
+        "en": "Tangrowth",
+        "es": "Tangrowth",
+        "fr": "Bouldeneu",
+        "it": "Tangrowth",
+        "pt": "Tangrowth"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/25/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/25/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/25/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/25/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/25/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/25/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/25/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/25/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/25/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/25/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/25/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/25/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "Tangela",
+        "en": "Tangela",
+        "es": "Tangela",
+        "fr": "Saquedeneu",
+        "it": "Tangela",
+        "pt": "Tangela"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/26/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/26/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/26/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/26/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/26/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/26/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/26/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/26/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/26/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/26/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/26/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/26/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "Reptain",
+        "en": "Grovyle",
+        "es": "Grovyle",
+        "fr": "Massko",
+        "it": "Grovyle",
+        "pt": "Grovyle"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/27/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/27/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/27/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/27/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/27/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/27/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/27/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/27/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/27/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/27/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/27/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/27/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/28/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/28/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/28/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/28/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/28/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/28/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/28/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/28/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/28/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/28/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/28/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/28/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "Kunstrad",
+        "en": "Acro Bike",
+        "es": "Bici Acrobática",
+        "fr": "Vélo Cross",
+        "it": "Bici da cross",
+        "pt": "Bicicleta Acro"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/29/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/29/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/29/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/29/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/29/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/29/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/29/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/29/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/29/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/29/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/29/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/29/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "Latias",
+        "en": "Latias",
+        "es": "Latias",
+        "fr": "Latias",
+        "it": "Latias",
+        "pt": "Latias"
+      },
+      "rarity": "None",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-latia/30/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-latia/30/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-latia/30/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-latia/30/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/30/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-latia/30/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-latia/30/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-latia/30/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-latia/30/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-latia/30/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/30/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/30/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "edition": {
+    "id": "ex5.5",
+    "name": "Poké Card Creator Pack",
+    "nameEN": "Poké Card Creator Pack",
+    "names": {
+      "de": "",
+      "en": "Poké Card Creator Pack",
+      "es": "",
+      "fr": "",
+      "it": "",
+      "pt": ""
+    },
+    "series": "EX",
+    "seriesNames": {
+      "de": "",
+      "en": "EX",
+      "es": "",
+      "fr": "",
+      "it": "",
+      "pt": ""
+    },
+    "total": 5,
+    "releaseDate": "2004-07-01"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Geckarbor",
+        "en": "Treecko",
+        "es": "Treecko",
+        "fr": "Arcko",
+        "it": "Treecko",
+        "pt": "Treecko"
+      },
+      "rarity": "None",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/ex5.5/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/ex5.5/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/ex5.5/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/ex5.5/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/ex5.5/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/ex5.5/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/ex5.5/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/ex5.5/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/ex5.5/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/ex5.5/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/ex5.5/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/ex5.5/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Waumpel",
+        "en": "Wurmple",
+        "es": "Wurmple",
+        "fr": "Chenipotte",
+        "it": "Wurmple",
+        "pt": "Wurmple"
+      },
+      "rarity": "None",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/ex5.5/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/ex5.5/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/ex5.5/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/ex5.5/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/ex5.5/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/ex5.5/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/ex5.5/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/ex5.5/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/ex5.5/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/ex5.5/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/ex5.5/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/ex5.5/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Flemmli",
+        "en": "Torchic",
+        "es": "Torchic",
+        "fr": "Poussifeu",
+        "it": "Torchic",
+        "pt": "Torchic"
+      },
+      "rarity": "None",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/ex5.5/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/ex5.5/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/ex5.5/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/ex5.5/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/ex5.5/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/ex5.5/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/ex5.5/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/ex5.5/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/ex5.5/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/ex5.5/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/ex5.5/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/ex5.5/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Hydropi",
+        "en": "Mudkip",
+        "es": "Mudkip",
+        "fr": "Gobou",
+        "it": "Mudkip",
+        "pt": "Mudkip"
+      },
+      "rarity": "None",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/ex5.5/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/ex5.5/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/ex5.5/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/ex5.5/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/ex5.5/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/ex5.5/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/ex5.5/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/ex5.5/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/ex5.5/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/ex5.5/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/ex5.5/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/ex5.5/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Pikachu",
+        "en": "Pikachu",
+        "es": "Pikachu",
+        "fr": "Pikachu",
+        "it": "Pikachu",
+        "pt": "Pikachu"
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/ex/ex5.5/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/ex/ex5.5/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/ex/ex5.5/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/ex/ex5.5/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/ex/ex5.5/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/ex/ex5.5/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/ex/ex5.5/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/ex/ex5.5/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/ex/ex5.5/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/ex/ex5.5/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/ex/ex5.5/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/ex/ex5.5/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

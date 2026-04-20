@@ -1,0 +1,70 @@
+{
+  "edition": {
+    "id": "tk-hs-g",
+    "name": "HS trainer Kit (Gyarados)",
+    "nameEN": "HS trainer Kit (Gyarados)",
+    "names": {
+      "de": "",
+      "en": "HS trainer Kit (Gyarados)",
+      "es": "Kit de Entrenador HeatGold & SoulSilver (Gyarados)",
+      "fr": "HS Kit du dresseur (Léviator)",
+      "it": "HS trainer Kit (Gyarados)",
+      "pt": ""
+    },
+    "series": "Trainer kits",
+    "seriesNames": {
+      "de": "",
+      "en": "Trainer kits",
+      "es": "Kits de Entrenador",
+      "fr": "Kits du dresseur",
+      "it": "Trainer Kit",
+      "pt": ""
+    },
+    "total": 30,
+    "releaseDate": "2010-05-01"
+  },
+  "cards": [
+    {
+      "number": "020",
+      "names": {
+        "de": "Garados",
+        "en": "Gyarados",
+        "es": "Gyarados",
+        "fr": "Léviator",
+        "it": "Gyarados",
+        "pt": "Gyarados"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-hs-g/20/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-hs-g/20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-hs-g/20/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-hs-g/20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-hs-g/20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-hs-g/20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-hs-g/20/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-hs-g/20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-hs-g/20/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-hs-g/20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-hs-g/20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-hs-g/20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

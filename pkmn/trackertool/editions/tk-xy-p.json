@@ -1,0 +1,1324 @@
+{
+  "edition": {
+    "id": "tk-xy-p",
+    "name": "XY trainer Kit (Pikachu Libre)",
+    "nameEN": "XY trainer Kit (Pikachu Libre)",
+    "names": {
+      "de": "",
+      "en": "XY trainer Kit (Pikachu Libre)",
+      "es": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "fr": "XY Kit du dresseur (Pikachu Libre)",
+      "it": "XY trainer Kit (Pikachu Libre)",
+      "pt": ""
+    },
+    "series": "Trainer kits",
+    "seriesNames": {
+      "de": "",
+      "en": "Trainer kits",
+      "es": "Kits de Entrenador",
+      "fr": "Kits du dresseur",
+      "it": "Trainer Kit",
+      "pt": ""
+    },
+    "total": 30,
+    "releaseDate": "2016-04-27"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Charmian",
+        "en": "Glameow",
+        "es": "Glameow",
+        "fr": "Chaglam",
+        "it": "Glameow",
+        "pt": "Glameow"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Elevoltek",
+        "en": "Electivire",
+        "es": "Electivire",
+        "fr": "Élekable",
+        "it": "Electivire",
+        "pt": "Electivire"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Schwalbini",
+        "en": "Taillow",
+        "es": "Taillow",
+        "fr": "Nirondelle",
+        "it": "Taillow",
+        "pt": "Taillow"
+      },
+      "rarity": "None",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Frizelbliz",
+        "en": "Electrike",
+        "es": "Electrike",
+        "fr": "Dynavolt",
+        "it": "Electrike",
+        "pt": "Electrike"
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/11/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/11/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/11/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/11/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Elezeba",
+        "en": "Blitzle",
+        "es": "Blitzle",
+        "fr": "Zébibron",
+        "it": "Blitzle",
+        "pt": "Blitzle"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/12/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/12/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/12/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/12/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "Voltenso",
+        "en": "Manectric",
+        "es": "Manectric",
+        "fr": "Élecsprint",
+        "it": "Manectric",
+        "pt": "Manectric"
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/13/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/13/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/13/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/13/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "",
+        "en": "Pikachu Libre",
+        "es": "Pikachu Enmascarada",
+        "fr": "Pikachu Catcheur",
+        "it": "Pikachu wrestler",
+        "pt": ""
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/14/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/14/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/14/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/14/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "Elektek",
+        "en": "Electabuzz",
+        "es": "Electabuzz",
+        "fr": "Élektek",
+        "it": "Electabuzz",
+        "pt": "Electabuzz"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/15/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/15/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/15/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/15/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Dartiri",
+        "en": "Fletchling",
+        "es": "Fletchling",
+        "fr": "Passerouge",
+        "it": "Fletchling",
+        "pt": "Fletchling"
+      },
+      "rarity": "None",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/16/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/16/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/16/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/16/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/17/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/17/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/17/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/17/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/18/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/18/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/18/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/18/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/18/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/18/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/18/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/18/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/18/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/18/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/18/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/18/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "Shnurgarst",
+        "en": "Purugly",
+        "es": "Purugly",
+        "fr": "Chaffreux",
+        "it": "Purugly",
+        "pt": "Purugly"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/19/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/19/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/19/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/19/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "Tierno",
+        "en": "Tierno",
+        "es": "Beni",
+        "fr": "Tierno",
+        "it": "Tierno",
+        "pt": "Tierno"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/20/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/20/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/20/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/20/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "Trank",
+        "en": "Potion",
+        "es": "Poción",
+        "fr": "Potion",
+        "it": "Pozione",
+        "pt": "Poção"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/21/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/21/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/21/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/21/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/21/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/21/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/21/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/21/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/21/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/21/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/21/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/21/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "Voltenso",
+        "en": "Manectric",
+        "es": "Manectric",
+        "fr": "Élecsprint",
+        "it": "Manectric",
+        "pt": "Manectric"
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/22/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/22/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/22/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/22/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/22/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/22/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/22/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/22/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/22/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/22/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/22/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/22/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "Elektek",
+        "en": "Electabuzz",
+        "es": "Electabuzz",
+        "fr": "Élektek",
+        "it": "Electabuzz",
+        "pt": "Electabuzz"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/23/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/23/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/23/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/23/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/23/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/23/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/23/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/23/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/23/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/23/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/23/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/23/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "Shnurgarst",
+        "en": "Purugly",
+        "es": "Purugly",
+        "fr": "Chaffreux",
+        "it": "Purugly",
+        "pt": "Purugly"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/24/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/24/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/24/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/24/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/24/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/24/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/24/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/24/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/24/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/24/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/24/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/24/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "Elevoltek",
+        "en": "Electivire",
+        "es": "Electivire",
+        "fr": "Élekable",
+        "it": "Electivire",
+        "pt": "Electivire"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/25/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/25/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/25/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/25/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/25/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/25/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/25/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/25/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/25/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/25/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/25/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/25/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "Elezeba",
+        "en": "Blitzle",
+        "es": "Blitzle",
+        "fr": "Zébibron",
+        "it": "Blitzle",
+        "pt": "Blitzle"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/26/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/26/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/26/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/26/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/26/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/26/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/26/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/26/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/26/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/26/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/26/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/26/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "Charmian",
+        "en": "Glameow",
+        "es": "Glameow",
+        "fr": "Chaglam",
+        "it": "Glameow",
+        "pt": "Glameow"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/27/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/27/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/27/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/27/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/27/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/27/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/27/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/27/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/27/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/27/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/27/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/27/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "Frizelbliz",
+        "en": "Electrike",
+        "es": "Electrike",
+        "fr": "Dynavolt",
+        "it": "Electrike",
+        "pt": "Electrike"
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/28/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/28/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/28/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/28/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/28/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/28/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/28/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/28/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/28/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/28/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/28/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/28/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "Elektro-Energie",
+        "en": "Lightning Energy",
+        "es": "Energía Rayo",
+        "fr": "Énergie Électrique",
+        "it": "Energia Lampo",
+        "pt": "Energia de Raios"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/29/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/29/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/29/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/29/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/29/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/29/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/29/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/29/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/29/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/29/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/29/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/29/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "",
+        "en": "Pikachu Libre",
+        "es": "Pikachu Enmascarada",
+        "fr": "Pikachu Catcheur",
+        "it": "Pikachu wrestler",
+        "pt": ""
+      },
+      "rarity": "None",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-p/30/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-p/30/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-p/30/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-p/30/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-p/30/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-p/30/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-p/30/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-p/30/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-p/30/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-p/30/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-p/30/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-p/30/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

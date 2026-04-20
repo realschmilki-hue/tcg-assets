@@ -1,0 +1,288 @@
+{
+  "edition": {
+    "id": "xya",
+    "name": "Yellow A Alternate",
+    "nameEN": "Yellow A Alternate",
+    "names": {
+      "de": "Gelbes-A-Alternativkarten",
+      "en": "Yellow A Alternate",
+      "es": "Cartas alternativas",
+      "fr": "carte alternative A Jaune",
+      "it": "Carta Alternatica A Gialla",
+      "pt": ""
+    },
+    "series": "XY",
+    "seriesNames": {
+      "de": "XY",
+      "en": "XY",
+      "es": "XY",
+      "fr": "XY",
+      "it": "XY",
+      "pt": ""
+    },
+    "total": 6,
+    "releaseDate": "2014-02-05"
+  },
+  "cards": [
+    {
+      "number": "24a",
+      "names": {
+        "de": "",
+        "en": "M Manectric-EX",
+        "es": "",
+        "fr": "M-Élecsprint-ex",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xya/24a/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xya/24a/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xya/24a/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xya/24a/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xya/24a/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xya/24a/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xya/24a/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xya/24a/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xya/24a/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xya/24a/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xya/24a/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xya/24a/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "28a",
+      "names": {
+        "de": "",
+        "en": "Jolteon-EX",
+        "es": "",
+        "fr": "Voltali-ex",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xya/28a/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xya/28a/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xya/28a/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xya/28a/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xya/28a/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xya/28a/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xya/28a/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xya/28a/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xya/28a/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xya/28a/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xya/28a/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xya/28a/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "54a",
+      "names": {
+        "de": "",
+        "en": "Zygarde-EX",
+        "es": "",
+        "fr": "Zygarde-ex",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xya/54a/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xya/54a/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xya/54a/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xya/54a/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xya/54a/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xya/54a/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xya/54a/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xya/54a/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xya/54a/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xya/54a/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xya/54a/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xya/54a/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "55a",
+      "names": {
+        "de": "",
+        "en": "M Lucario-EX",
+        "es": "",
+        "fr": "M-Lucario-ex",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xya/55a/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xya/55a/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xya/55a/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xya/55a/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xya/55a/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xya/55a/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xya/55a/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xya/55a/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xya/55a/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xya/55a/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xya/55a/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xya/55a/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "92a",
+      "names": {
+        "de": "",
+        "en": "Trainers’ Mail",
+        "es": "",
+        "fr": "Courrier du Dresseur",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xya/92a/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xya/92a/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xya/92a/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xya/92a/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xya/92a/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xya/92a/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xya/92a/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xya/92a/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xya/92a/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xya/92a/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xya/92a/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xya/92a/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "107a",
+      "names": {
+        "de": "Prof. Platan",
+        "en": "Professor Sycamore",
+        "es": "Profesor Ciprés",
+        "fr": "Professeur Platane",
+        "it": "Professor Platan",
+        "pt": "Professor Sycamore"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xya/107a/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xya/107a/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xya/107a/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xya/107a/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xya/107a/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xya/107a/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xya/107a/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xya/107a/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xya/107a/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xya/107a/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xya/107a/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xya/107a/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

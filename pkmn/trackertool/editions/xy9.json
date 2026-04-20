@@ -1,0 +1,5528 @@
+{
+  "edition": {
+    "id": "xy9",
+    "name": "BREAKpoint",
+    "nameEN": "BREAKpoint",
+    "names": {
+      "de": "TURBOfieber",
+      "en": "BREAKpoint",
+      "es": "TURBOLímite",
+      "fr": "Rupture Turbo",
+      "it": "Turbo Crash",
+      "pt": "Turbo Colisão"
+    },
+    "series": "XY",
+    "seriesNames": {
+      "de": "XY",
+      "en": "XY",
+      "es": "XY",
+      "fr": "XY",
+      "it": "XY",
+      "pt": "XY"
+    },
+    "total": 126,
+    "releaseDate": "2016-02-03"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Endivie",
+        "en": "Chikorita",
+        "es": "Chikorita",
+        "fr": "Germignon",
+        "it": "Chikorita",
+        "pt": "Chikorita"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Lorblatt",
+        "en": "Bayleef",
+        "es": "Bayleef",
+        "fr": "Macronium",
+        "it": "Bayleef",
+        "pt": "Bayleef"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Meganie",
+        "en": "Meganium",
+        "es": "Meganium",
+        "fr": "Méganium",
+        "it": "Meganium",
+        "pt": "Meganium"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Samurzel",
+        "en": "Seedot",
+        "es": "Seedot",
+        "fr": "Grainipiot",
+        "it": "Seedot",
+        "pt": "Seedot"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Zirpurze",
+        "en": "Kricketot",
+        "es": "Kricketot",
+        "fr": "Crikzik",
+        "it": "Kricketot",
+        "pt": "Kricketot"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Zirpeise",
+        "en": "Kricketune",
+        "es": "Kricketune",
+        "fr": "Mélokrik",
+        "it": "Kricketune",
+        "pt": "Kricketune"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Lilminip",
+        "en": "Petilil",
+        "es": "Petilil",
+        "fr": "Chlorobule",
+        "it": "Petilil",
+        "pt": "Petilil"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Dressella",
+        "en": "Lilligant",
+        "es": "Lilligant",
+        "fr": "Fragilady",
+        "it": "Lilligant",
+        "pt": "Lilligant"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Fermicula",
+        "en": "Durant",
+        "es": "Durant",
+        "fr": "Fermite",
+        "it": "Durant",
+        "pt": "Durant"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Fukano",
+        "en": "Growlithe",
+        "es": "Growlithe",
+        "fr": "Caninos",
+        "it": "Growlithe",
+        "pt": "Growlithe"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Arkani",
+        "en": "Arcanine",
+        "es": "Arcanine",
+        "fr": "Arcanin",
+        "it": "Arcanine",
+        "pt": "Arcanine"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/11/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/11/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/11/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/11/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Camaub",
+        "en": "Numel",
+        "es": "Numel",
+        "fr": "Chamallot",
+        "it": "Numel",
+        "pt": "Numel"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/12/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/12/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/12/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/12/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "Camerupt",
+        "en": "Camerupt",
+        "es": "Camerupt",
+        "fr": "Camérupt",
+        "it": "Camerupt",
+        "pt": "Camerupt"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/13/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/13/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/13/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/13/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "Flambirex EX",
+        "en": "Emboar EX",
+        "es": "Emboar EX",
+        "fr": "Roitiflam EX",
+        "it": "Emboar EX",
+        "pt": "Emboar EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/14/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/14/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/14/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/14/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "Furnifraß",
+        "en": "Heatmor",
+        "es": "Heatmor",
+        "fr": "Aflamanoir",
+        "it": "Heatmor",
+        "pt": "Heatmor"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/15/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/15/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/15/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/15/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Enton",
+        "en": "Psyduck",
+        "es": "Psyduck",
+        "fr": "Psykokwak",
+        "it": "Psyduck",
+        "pt": "Psyduck"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/16/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/16/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/16/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/16/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Entoron",
+        "en": "Golduck",
+        "es": "Golduck",
+        "fr": "Akwakwak",
+        "it": "Golduck",
+        "pt": "Golduck"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/17/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/17/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/17/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/17/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "Entoron-TURBO",
+        "en": "Golduck BREAK",
+        "es": "Golduck TURBO",
+        "fr": "Akwakwak TURBO",
+        "it": "Golduck TURBO",
+        "pt": "Golduck TURBO"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/18/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/18/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/18/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/18/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/18/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/18/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/18/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/18/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/18/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/18/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/18/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/18/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "Flegmon",
+        "en": "Slowpoke",
+        "es": "Slowpoke",
+        "fr": "Ramoloss",
+        "it": "Slowpoke",
+        "pt": "Slowpoke"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/19/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/19/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/19/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/19/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "Lahmus",
+        "en": "Slowbro",
+        "es": "Slowbro",
+        "fr": "Flagadoss",
+        "it": "Slowbro",
+        "pt": "Slowbro"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/20/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/20/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/20/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/20/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "Laschoking",
+        "en": "Slowking",
+        "es": "Slowking",
+        "fr": "Roigada",
+        "it": "Slowking",
+        "pt": "Slowking"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/21/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/21/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/21/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/21/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/21/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/21/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/21/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/21/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/21/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/21/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/21/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/21/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "Muschas",
+        "en": "Shellder",
+        "es": "Shellder",
+        "fr": "Kokiyas",
+        "it": "Shellder",
+        "pt": "Shellder"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/22/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/22/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/22/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/22/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/22/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/22/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/22/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/22/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/22/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/22/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/22/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/22/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "Muschas",
+        "en": "Shellder",
+        "es": "Shellder",
+        "fr": "Kokiyas",
+        "it": "Shellder",
+        "pt": "Shellder"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/23/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/23/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/23/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/23/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/23/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/23/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/23/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/23/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/23/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/23/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/23/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/23/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "Austos",
+        "en": "Cloyster",
+        "es": "Cloyster",
+        "fr": "Crustabri",
+        "it": "Cloyster",
+        "pt": "Cloyster"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/24/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/24/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/24/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/24/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/24/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/24/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/24/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/24/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/24/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/24/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/24/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/24/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "Sterndu",
+        "en": "Staryu",
+        "es": "Staryu",
+        "fr": "Stari",
+        "it": "Staryu",
+        "pt": "Staryu"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/25/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/25/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/25/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/25/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/25/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/25/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/25/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/25/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/25/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/25/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/25/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/25/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "Garados EX",
+        "en": "Gyarados EX",
+        "es": "Gyarados EX",
+        "fr": "Léviator EX",
+        "it": "Gyarados EX",
+        "pt": "Gyarados EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/26/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/26/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/26/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/26/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/26/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/26/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/26/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/26/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/26/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/26/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/26/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/26/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "M-Garados EX",
+        "en": "M Gyarados EX",
+        "es": "M-Gyarados EX",
+        "fr": "M-Léviator EX",
+        "it": "M Gyarados EX",
+        "pt": "M-Gyarados EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/27/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/27/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/27/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/27/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/27/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/27/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/27/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/27/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/27/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/27/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/27/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/27/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "Lapras",
+        "en": "Lapras",
+        "es": "Lapras",
+        "fr": "Lokhlass",
+        "it": "Lapras",
+        "pt": "Lapras"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/28/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/28/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/28/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/28/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/28/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/28/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/28/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/28/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/28/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/28/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/28/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/28/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "Corasonn",
+        "en": "Corsola",
+        "es": "Corsola",
+        "fr": "Corayon",
+        "it": "Corsola",
+        "pt": "Corsola"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/29/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/29/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/29/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/29/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/29/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/29/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/29/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/29/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/29/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/29/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/29/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/29/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "Suicune",
+        "en": "Suicune",
+        "es": "Suicune",
+        "fr": "Suicune",
+        "it": "Suicune",
+        "pt": "Suicune"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/30/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/30/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/30/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/30/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/30/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/30/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/30/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/30/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/30/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/30/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/30/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/30/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "Palkia EX",
+        "en": "Palkia EX",
+        "es": "Palkia EX",
+        "fr": "Palkia EX",
+        "it": "Palkia EX",
+        "pt": "Palkia EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/31/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/31/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/31/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/31/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/31/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/31/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/31/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/31/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/31/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/31/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/31/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/31/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "Manaphy EX",
+        "en": "Manaphy EX",
+        "es": "Manaphy EX",
+        "fr": "Manaphy EX",
+        "it": "Manaphy EX",
+        "pt": "Manaphy EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/32/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/32/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/32/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/32/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/32/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/32/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/32/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/32/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/32/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/32/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/32/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/32/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "Schallquap",
+        "en": "Tympole",
+        "es": "Tympole",
+        "fr": "Tritonde",
+        "it": "Tympole",
+        "pt": "Tympole"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/33/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/33/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/33/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/33/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/33/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/33/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/33/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/33/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/33/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/33/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/33/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/33/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "Mebrana",
+        "en": "Palpitoad",
+        "es": "Palpitoad",
+        "fr": "Batracné",
+        "it": "Palpitoad",
+        "pt": "Palpitoad"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/34/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/34/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/34/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/34/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/34/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/34/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/34/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/34/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/34/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/34/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/34/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/34/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "Branawarz",
+        "en": "Seismitoad",
+        "es": "Seismitoad",
+        "fr": "Crapustule",
+        "it": "Seismitoad",
+        "pt": "Seismitoad"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/35/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/35/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/35/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/35/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/35/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/35/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/35/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/35/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/35/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/35/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/35/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/35/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "Piccolente",
+        "en": "Ducklett",
+        "es": "Ducklett",
+        "fr": "Couaneton",
+        "it": "Ducklett",
+        "pt": "Ducklett"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/36/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/36/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/36/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/36/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/36/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/36/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/36/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/36/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/36/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/36/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/36/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/36/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "Swaroness",
+        "en": "Swanna",
+        "es": "Swanna",
+        "fr": "Lakmécygne",
+        "it": "Swanna",
+        "pt": "Swanna"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/37/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/37/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/37/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/37/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/37/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/37/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/37/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/37/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/37/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/37/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/37/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/37/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "Froxy",
+        "en": "Froakie",
+        "es": "Froakie",
+        "fr": "Grenousse",
+        "it": "Froakie",
+        "pt": "Froakie"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/38/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/38/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/38/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/38/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/38/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/38/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/38/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/38/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/38/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/38/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/38/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/38/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "Amphizel",
+        "en": "Frogadier",
+        "es": "Frogadier",
+        "fr": "Croâporal",
+        "it": "Frogadier",
+        "pt": "Frogadier"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/39/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/39/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/39/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/39/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/39/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/39/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/39/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/39/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/39/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/39/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/39/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/39/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "Quajutsu",
+        "en": "Greninja",
+        "es": "Greninja",
+        "fr": "Amphinobi",
+        "it": "Greninja",
+        "pt": "Greninja"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/40/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/40/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/40/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/40/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/40/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/40/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/40/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/40/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/40/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/40/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/40/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/40/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "Quajutsu-TURBO",
+        "en": "Greninja BREAK",
+        "es": "Greninja TURBO",
+        "fr": "Amphinobi TURBO",
+        "it": "Greninja TURBO",
+        "pt": "Greninja TURBO"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/41/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/41/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/41/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/41/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/41/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/41/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/41/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/41/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/41/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/41/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/41/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/41/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "Elektek",
+        "en": "Electabuzz",
+        "es": "Electabuzz",
+        "fr": "Élektek",
+        "it": "Electabuzz",
+        "pt": "Electabuzz"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/42/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/42/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/42/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/42/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/42/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/42/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/42/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/42/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/42/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/42/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/42/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/42/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "Elevoltek",
+        "en": "Electivire",
+        "es": "Electivire",
+        "fr": "Élekable",
+        "it": "Electivire",
+        "pt": "Electivire"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/43/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/43/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/43/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/43/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/43/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/43/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/43/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/43/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/43/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/43/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/43/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/43/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "Sheinux",
+        "en": "Shinx",
+        "es": "Shinx",
+        "fr": "Lixy",
+        "it": "Shinx",
+        "pt": "Shinx"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/44/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/44/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/44/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/44/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/44/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/44/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/44/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/44/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/44/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/44/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/44/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/44/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "Luxio",
+        "en": "Luxio",
+        "es": "Luxio",
+        "fr": "Luxio",
+        "it": "Luxio",
+        "pt": "Luxio"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/45/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/45/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/45/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/45/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/45/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/45/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/45/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/45/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/45/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/45/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/45/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/45/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "Luxtra",
+        "en": "Luxray",
+        "es": "Luxray",
+        "fr": "Luxray",
+        "it": "Luxray",
+        "pt": "Luxray"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/46/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/46/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/46/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/46/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/46/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/46/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/46/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/46/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/46/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/46/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/46/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/46/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "Luxtra-TURBO",
+        "en": "Luxray BREAK",
+        "es": "Luxray TURBO",
+        "fr": "Luxray TURBO",
+        "it": "Luxray TURBO",
+        "pt": "Luxray TURBO"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/47/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/47/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/47/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/47/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/47/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/47/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/47/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/47/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/47/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/47/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/47/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/47/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "Elezeba",
+        "en": "Blitzle",
+        "es": "Blitzle",
+        "fr": "Zébibron",
+        "it": "Blitzle",
+        "pt": "Blitzle"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/48/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/48/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/48/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/48/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/48/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/48/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/48/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/48/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/48/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/48/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/48/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/48/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "Zebritz",
+        "en": "Zebstrika",
+        "es": "Zebstrika",
+        "fr": "Zéblitz",
+        "it": "Zebstrika",
+        "pt": "Zebstrika"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/49/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/49/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/49/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/49/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/49/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/49/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/49/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/49/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/49/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/49/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/49/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/49/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "Traumato",
+        "en": "Drowzee",
+        "es": "Drowzee",
+        "fr": "Soporifik",
+        "it": "Drowzee",
+        "pt": "Drowzee"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/50/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/50/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/50/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/50/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/50/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/50/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/50/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/50/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/50/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/50/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/50/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/50/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "Hypno",
+        "en": "Hypno",
+        "es": "Hypno",
+        "fr": "Hypnomade",
+        "it": "Hypno",
+        "pt": "Hypno"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/51/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/51/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/51/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/51/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/51/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/51/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/51/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/51/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/51/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/51/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/51/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/51/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "Psiana EX",
+        "en": "Espeon EX",
+        "es": "Espeon EX",
+        "fr": "Mentali EX",
+        "it": "Espeon EX",
+        "pt": "Espeon EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/52/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/52/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/52/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/52/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/52/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/52/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/52/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/52/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/52/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/52/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/52/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/52/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "Pionskora",
+        "en": "Skorupi",
+        "es": "Skorupi",
+        "fr": "Rapion",
+        "it": "Skorupi",
+        "pt": "Skorupi"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/53/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/53/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/53/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/53/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/53/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/53/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/53/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/53/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/53/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/53/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/53/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/53/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "Piondragi",
+        "en": "Drapion",
+        "es": "Drapion",
+        "fr": "Drascore",
+        "it": "Drapion",
+        "pt": "Drapion"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/54/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/54/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/54/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/54/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/54/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/54/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/54/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/54/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/54/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/54/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/54/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/54/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "Symvolara",
+        "en": "Sigilyph",
+        "es": "Sigilyph",
+        "fr": "Cryptéro",
+        "it": "Sigilyph",
+        "pt": "Sigilyph"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/55/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/55/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/55/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/55/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/55/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/55/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/55/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/55/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/55/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/55/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/55/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/55/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "Unratütox",
+        "en": "Trubbish",
+        "es": "Trubbish",
+        "fr": "Miamiasme",
+        "it": "Trubbish",
+        "pt": "Trubbish"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/56/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/56/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/56/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/56/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/56/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/56/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/56/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/56/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/56/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/56/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/56/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/56/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "Deponitox",
+        "en": "Garbodor",
+        "es": "Garbodor",
+        "fr": "Miasmax",
+        "it": "Garbodor",
+        "pt": "Garbodor"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/57/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/57/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/57/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/57/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/57/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/57/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/57/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/57/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/57/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/57/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/57/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/57/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "Psiau",
+        "en": "Espurr",
+        "es": "Espurr",
+        "fr": "Psystigri",
+        "it": "Espurr",
+        "pt": "Espurr"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/58/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/58/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/58/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/58/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/58/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/58/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/58/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/58/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/58/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/58/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/58/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/58/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "Psiaugon",
+        "en": "Meowstic",
+        "es": "Meowstic",
+        "fr": "Mistigrix",
+        "it": "Meowstic",
+        "pt": "Meowstic"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/59/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/59/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/59/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/59/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/59/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/59/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/59/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/59/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/59/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/59/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/59/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/59/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "Gramokles",
+        "en": "Honedge",
+        "es": "Honedge",
+        "fr": "Monorpale",
+        "it": "Honedge",
+        "pt": "Honedge"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/60/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/60/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/60/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/60/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/60/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/60/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/60/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/60/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/60/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/60/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/60/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/60/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "Duokles",
+        "en": "Doublade",
+        "es": "Doublade",
+        "fr": "Dimoclès",
+        "it": "Doublade",
+        "pt": "Doublade"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/61/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/61/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/61/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/61/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/61/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/61/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/61/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/61/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/61/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/61/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/61/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/61/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "Durengard",
+        "en": "Aegislash",
+        "es": "Aegislash",
+        "fr": "Exagide",
+        "it": "Aegislash",
+        "pt": "Aegislash"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/62/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/62/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/62/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/62/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/62/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/62/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/62/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/62/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/62/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/62/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/62/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/62/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "Algitt",
+        "en": "Skrelp",
+        "es": "Skrelp",
+        "fr": "Venalgue",
+        "it": "Skrelp",
+        "pt": "Skrelp"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/63/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/63/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/63/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/63/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/63/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/63/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/63/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/63/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/63/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/63/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/63/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/63/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "Paragoni",
+        "en": "Phantump",
+        "es": "Phantump",
+        "fr": "Brocélôme",
+        "it": "Phantump",
+        "pt": "Phantump"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/64/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/64/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/64/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/64/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/64/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/64/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/64/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/64/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/64/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/64/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/64/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/64/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "Trombork",
+        "en": "Trevenant",
+        "es": "Trevenant",
+        "fr": "Desséliande",
+        "it": "Trevenant",
+        "pt": "Trevenant"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/65/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/65/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/65/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/65/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/65/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/65/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/65/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/65/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/65/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/65/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/65/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/65/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "Trombork-TURBO",
+        "en": "Trevenant BREAK",
+        "es": "Trevenant TURBO",
+        "fr": "Desséliande TURBO",
+        "it": "Trevenant TURBO",
+        "pt": "Trevenant TURBO"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/66/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/66/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/66/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/66/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/66/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/66/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/66/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/66/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/66/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/66/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/66/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/66/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "Mogelbaum",
+        "en": "Sudowoodo",
+        "es": "Sudowoodo",
+        "fr": "Simularbre",
+        "it": "Sudowoodo",
+        "pt": "Sudowoodo"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/67/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/67/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/67/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/67/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/67/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/67/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/67/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/67/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/67/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/67/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/67/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/67/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "Kaumalat",
+        "en": "Gible",
+        "es": "Gible",
+        "fr": "Griknot",
+        "it": "Gible",
+        "pt": "Gible"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/68/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/68/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/68/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/68/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/68/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/68/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/68/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/68/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/68/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/68/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/68/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/68/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "Knarksel",
+        "en": "Gabite",
+        "es": "Gabite",
+        "fr": "Carmache",
+        "it": "Gabite",
+        "pt": "Gabite"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/69/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/69/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/69/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/69/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/69/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/69/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/69/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/69/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/69/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/69/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/69/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/69/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "Knakrack",
+        "en": "Garchomp",
+        "es": "Garchomp",
+        "fr": "Carchacrok",
+        "it": "Garchomp",
+        "pt": "Garchomp"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/70/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/70/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/70/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/70/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/70/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/70/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/70/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/70/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/70/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/70/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/70/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/70/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "Pam-Pam",
+        "en": "Pancham",
+        "es": "Pancham",
+        "fr": "Pandespiègle",
+        "it": "Pancham",
+        "pt": "Pancham"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/71/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/71/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/71/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/71/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/71/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/71/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/71/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/71/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/71/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/71/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/71/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/71/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "Blanas",
+        "en": "Nuzleaf",
+        "es": "Nuzleaf",
+        "fr": "Pifeuil",
+        "it": "Nuzleaf",
+        "pt": "Nuzleaf"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/72/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/72/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/72/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/72/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/72/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/72/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/72/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/72/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/72/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/72/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/72/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/72/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "Tengulist",
+        "en": "Shiftry",
+        "es": "Shiftry",
+        "fr": "Tengalice",
+        "it": "Shiftry",
+        "pt": "Shiftry"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/73/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/73/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/73/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/73/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/73/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/73/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/73/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/73/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/73/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/73/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/73/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/73/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "Darkrai EX",
+        "en": "Darkrai EX",
+        "es": "Darkrai EX",
+        "fr": "Darkrai EX",
+        "it": "Darkrai EX",
+        "pt": "Darkrai EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/74/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/74/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/74/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/74/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/74/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/74/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/74/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/74/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/74/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/74/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/74/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/74/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "Pandagro",
+        "en": "Pangoro",
+        "es": "Pangoro",
+        "fr": "Pandarbare",
+        "it": "Pangoro",
+        "pt": "Pangoro"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/75/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/75/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/75/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/75/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/75/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/75/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/75/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/75/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/75/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/75/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/75/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/75/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "076",
+      "names": {
+        "de": "Scherox EX",
+        "en": "Scizor EX",
+        "es": "Scizor EX",
+        "fr": "Cizayox EX",
+        "it": "Scizor EX",
+        "pt": "Scizor EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/76/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/76/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/76/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/76/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/76/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/76/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/76/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/76/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/76/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/76/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/76/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/76/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "077",
+      "names": {
+        "de": "M-Scherox EX",
+        "en": "M Scizor EX",
+        "es": "M-Scizor EX",
+        "fr": "M-Cizayox EX",
+        "it": "M Scizor EX",
+        "pt": "M-Scizor EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/77/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/77/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/77/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/77/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/77/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/77/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/77/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/77/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/77/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/77/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/77/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/77/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "078",
+      "names": {
+        "de": "Flunkifer",
+        "en": "Mawile",
+        "es": "Mawile",
+        "fr": "Mysdibule",
+        "it": "Mawile",
+        "pt": "Mawile"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/78/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/78/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/78/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/78/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/78/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/78/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/78/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/78/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/78/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/78/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/78/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/78/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "079",
+      "names": {
+        "de": "Kastadur",
+        "en": "Ferroseed",
+        "es": "Ferroseed",
+        "fr": "Grindur",
+        "it": "Ferroseed",
+        "pt": "Ferroseed"
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/79/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/79/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/79/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/79/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/79/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/79/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/79/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/79/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/79/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/79/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/79/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/79/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "080",
+      "names": {
+        "de": "Tentantel",
+        "en": "Ferrothorn",
+        "es": "Ferrothorn",
+        "fr": "Noacier",
+        "it": "Ferrothorn",
+        "pt": "Ferrothorn"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/80/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/80/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/80/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/80/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/80/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/80/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/80/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/80/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/80/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/80/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/80/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/80/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "081",
+      "names": {
+        "de": "Piepi",
+        "en": "Clefairy",
+        "es": "Clefairy",
+        "fr": "Mélofée",
+        "it": "Clefairy",
+        "pt": "Clefairy"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/81/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/81/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/81/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/81/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/81/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/81/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/81/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/81/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/81/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/81/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/81/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/81/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "082",
+      "names": {
+        "de": "Pixi",
+        "en": "Clefable",
+        "es": "Clefable",
+        "fr": "Mélodelfe",
+        "it": "Clefable",
+        "pt": "Clefable"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/82/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/82/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/82/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/82/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/82/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/82/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/82/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/82/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/82/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/82/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/82/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/82/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "083",
+      "names": {
+        "de": "Togekiss EX",
+        "en": "Togekiss EX",
+        "es": "Togekiss EX",
+        "fr": "Togekiss EX",
+        "it": "Togekiss EX",
+        "pt": "Togekiss EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/83/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/83/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/83/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/83/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/83/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/83/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/83/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/83/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/83/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/83/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/83/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/83/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "084",
+      "names": {
+        "de": "Parfi",
+        "en": "Spritzee",
+        "es": "Spritzee",
+        "fr": "Fluvetin",
+        "it": "Spritzee",
+        "pt": "Spritzee"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/84/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/84/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/84/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/84/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/84/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/84/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/84/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/84/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/84/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/84/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/84/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/84/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "085",
+      "names": {
+        "de": "Parfinesse",
+        "en": "Aromatisse",
+        "es": "Aromatisse",
+        "fr": "Cocotine",
+        "it": "Aromatisse",
+        "pt": "Aromatisse"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/85/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/85/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/85/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/85/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/85/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/85/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/85/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/85/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/85/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/85/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/85/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/85/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "086",
+      "names": {
+        "de": "Tandrak",
+        "en": "Dragalge",
+        "es": "Dragalge",
+        "fr": "Kravarech",
+        "it": "Dragalge",
+        "pt": "Dragalge"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/86/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/86/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/86/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/86/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/86/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/86/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/86/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/86/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/86/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/86/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/86/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/86/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "087",
+      "names": {
+        "de": "Rattfratz",
+        "en": "Rattata",
+        "es": "Rattata",
+        "fr": "Rattata",
+        "it": "Rattata",
+        "pt": "Rattata"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/87/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/87/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/87/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/87/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/87/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/87/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/87/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/87/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/87/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/87/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/87/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/87/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "088",
+      "names": {
+        "de": "Rattikarl",
+        "en": "Raticate",
+        "es": "Raticate",
+        "fr": "Rattatac",
+        "it": "Raticate",
+        "pt": "Raticate"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/88/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/88/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/88/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/88/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/88/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/88/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/88/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/88/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/88/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/88/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/88/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/88/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "089",
+      "names": {
+        "de": "Rattikarl-TURBO",
+        "en": "Raticate BREAK",
+        "es": "Raticate TURBO",
+        "fr": "Rattatac TURBO",
+        "it": "Raticate TURBO",
+        "pt": "Raticate TURBO"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/89/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/89/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/89/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/89/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/89/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/89/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/89/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/89/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/89/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/89/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/89/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/89/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "090",
+      "names": {
+        "de": "Dummisel",
+        "en": "Dunsparce",
+        "es": "Dunsparce",
+        "fr": "Insolourdo",
+        "it": "Dunsparce",
+        "pt": "Dunsparce"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/90/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/90/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/90/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/90/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/90/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/90/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/90/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/90/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/90/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/90/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/90/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/90/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "091",
+      "names": {
+        "de": "Damhirplex",
+        "en": "Stantler",
+        "es": "Stantler",
+        "fr": "Cerfrousse",
+        "it": "Stantler",
+        "pt": "Stantler"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/91/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/91/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/91/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/91/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/91/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/91/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/91/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/91/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/91/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/91/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/91/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/91/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "092",
+      "names": {
+        "de": "Ho-Oh EX",
+        "en": "Ho-Oh EX",
+        "es": "Ho-Oh EX",
+        "fr": "Ho-Oh EX",
+        "it": "Ho-Oh EX",
+        "pt": "Ho-Oh EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/92/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/92/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/92/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/92/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/92/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/92/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/92/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/92/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/92/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/92/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/92/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/92/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "093",
+      "names": {
+        "de": "Charmian",
+        "en": "Glameow",
+        "es": "Glameow",
+        "fr": "Chaglam",
+        "it": "Glameow",
+        "pt": "Glameow"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/93/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/93/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/93/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/93/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/93/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/93/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/93/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/93/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/93/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/93/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/93/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/93/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "094",
+      "names": {
+        "de": "Shnurgarst",
+        "en": "Purugly",
+        "es": "Purugly",
+        "fr": "Chaffreux",
+        "it": "Purugly",
+        "pt": "Purugly"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/94/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/94/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/94/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/94/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/94/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/94/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/94/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/94/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/94/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/94/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/94/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/94/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "095",
+      "names": {
+        "de": "Coiffwaff",
+        "en": "Furfrou",
+        "es": "Furfrou",
+        "fr": "Couafarel",
+        "it": "Furfrou",
+        "pt": "Furfrou"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/95/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/95/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/95/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/95/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/95/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/95/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/95/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/95/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/95/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/95/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/95/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/95/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "096",
+      "names": {
+        "de": "Durchfeiern",
+        "en": "All-Night Party",
+        "es": "Fiesta Nocturna",
+        "fr": "Célébration Nocturne",
+        "it": "Festa Notturna",
+        "pt": "Festa a Noite Toda"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/96/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/96/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/96/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/96/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/96/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/96/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/96/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/96/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/96/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/96/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/96/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/96/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "097",
+      "names": {
+        "de": "Platzballon",
+        "en": "Bursting Balloon",
+        "es": "Globo Explosivo",
+        "fr": "Ballon Explosif",
+        "it": "Palloncino Esplosivo",
+        "pt": "Estouro de Balão"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/97/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/97/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/97/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/97/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/97/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/97/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/97/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/97/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/97/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/97/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/97/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/97/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "098",
+      "names": {
+        "de": "Halbstarke",
+        "en": "Delinquent",
+        "es": "Macarra",
+        "fr": "Terreur",
+        "it": "Tipaccia",
+        "pt": "Delinquente"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/98/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/98/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/98/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/98/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/98/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/98/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/98/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/98/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/98/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/98/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/98/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/98/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "98a",
+      "names": {
+        "de": "Halbstarke",
+        "en": "Delinquent",
+        "es": "Macarra",
+        "fr": "Terreur",
+        "it": "Tipaccia",
+        "pt": "Delinquente"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/98a/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/98a/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/98a/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/98a/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/98a/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/98a/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/98a/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/98a/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/98a/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/98a/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/98a/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/98a/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "98b",
+      "names": {
+        "de": "Halbstarke",
+        "en": "Delinquent",
+        "es": "Macarra",
+        "fr": "Terreur",
+        "it": "Tipaccia",
+        "pt": "Delinquente"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/98b/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/98b/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/98b/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/98b/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/98b/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/98b/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/98b/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/98b/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/98b/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/98b/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/98b/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/98b/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "099",
+      "names": {
+        "de": "Kampfgeistgürtel",
+        "en": "Fighting Fury Belt",
+        "es": "Faldón Furia Luchadora",
+        "fr": "Ceinture Furie Combative",
+        "it": "Cintura Furialotta",
+        "pt": "Cinto de Luta Furiosa"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/99/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/99/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/99/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/99/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/99/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/99/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/99/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/99/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/99/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/99/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/99/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/99/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "100",
+      "names": {
+        "de": "Superball",
+        "en": "Great Ball",
+        "es": "Super Ball",
+        "fr": "Super Ball",
+        "it": "Mega Ball",
+        "pt": "Grande Bola"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/100/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/100/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/100/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/100/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/100/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/100/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/100/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/100/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/100/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/100/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/100/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/100/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "101",
+      "names": {
+        "de": "Garados' Geistesbund",
+        "en": "Gyarados Spirit Link",
+        "es": "Vínculo Espiritual de Gyarados",
+        "fr": "Lien Spirituel Léviator",
+        "it": "Legame Mentale con Gyarados",
+        "pt": "Elo Espiritual de Gyarados"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/101/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/101/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/101/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/101/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/101/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/101/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/101/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/101/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/101/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/101/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/101/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/101/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "102",
+      "names": {
+        "de": "Top-Elixier",
+        "en": "Max Elixir",
+        "es": "Elixir Máximo",
+        "fr": "Max Élixir",
+        "it": "Elisir Max",
+        "pt": "Elixir Máximo"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/102/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/102/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/102/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/102/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/102/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/102/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/102/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/102/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/102/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/102/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/102/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/102/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "103",
+      "names": {
+        "de": "Top-Trank",
+        "en": "Max Potion",
+        "es": "Poción Máxima",
+        "fr": "Potion Max",
+        "it": "Pozione Max",
+        "pt": "Poção Máxima"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/103/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/103/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/103/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/103/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/103/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/103/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/103/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/103/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/103/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/103/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/103/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/103/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "104",
+      "names": {
+        "de": "Mistys Entschlossenheit",
+        "en": "Misty's Determination",
+        "es": "Determinación de Misty",
+        "fr": "Détermination d'Ondine",
+        "it": "Determinazione di Misty",
+        "pt": "Determinação da Misty"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/104/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/104/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/104/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/104/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/104/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/104/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/104/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/104/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/104/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/104/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/104/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/104/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "105",
+      "names": {
+        "de": "Pokémon-Fänger",
+        "en": "Pokémon Catcher",
+        "es": "Capturapokémon",
+        "fr": "Attrape-Pokémon",
+        "it": "Acchiappa-Pokémon",
+        "pt": "Pegador de Pokémon"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/105/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/105/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/105/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/105/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/105/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/105/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/105/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/105/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/105/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/105/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/105/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/105/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "106",
+      "names": {
+        "de": "Trank",
+        "en": "Potion",
+        "es": "Poción",
+        "fr": "Potion",
+        "it": "Pozione",
+        "pt": "Poção"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/106/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/106/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/106/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/106/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/106/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/106/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/106/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/106/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/106/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/106/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/106/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/106/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "107",
+      "names": {
+        "de": "Prof. Platan",
+        "en": "Professor Sycamore",
+        "es": "Profesor Ciprés",
+        "fr": "Professeur Platane",
+        "it": "Professor Platan",
+        "pt": "Professor Sycamore"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/107/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/107/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/107/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/107/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/107/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/107/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/107/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/107/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/107/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/107/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/107/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/107/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "107a",
+      "names": {
+        "de": "Prof. Platan",
+        "en": "Professor Sycamore",
+        "es": "Profesor Ciprés",
+        "fr": "Professeur Platane",
+        "it": "Professor Platan",
+        "pt": "Professor Sycamore"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/107a/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/107a/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/107a/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/107a/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/107a/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/107a/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/107a/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/107a/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/107a/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/107a/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/107a/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/107a/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "108",
+      "names": {
+        "de": "Psychos siebter Sinn",
+        "en": "Psychic's Third Eye",
+        "es": "Tercer Ojo de Médium",
+        "fr": "Troisième Œil du Kinésiste",
+        "it": "Terzo Occhio del Sensitivo",
+        "pt": "Terceiro Olho do Psíquico"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/108/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/108/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/108/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/108/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/108/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/108/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/108/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/108/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/108/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/108/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/108/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/108/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "109",
+      "names": {
+        "de": "Zeitpuzzle",
+        "en": "Puzzle of Time",
+        "es": "Puzle Temporal",
+        "fr": "Énigme du Temps",
+        "it": "Enigma Cronologico",
+        "pt": "Enigma do Tempo"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/109/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/109/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/109/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/109/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/109/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/109/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/109/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/109/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/109/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/109/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/109/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/109/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "110",
+      "names": {
+        "de": "Umgekehrtes Tal",
+        "en": "Reverse Valley",
+        "es": "Valle Invertido",
+        "fr": "Vallée Inverse",
+        "it": "Valle Inversa",
+        "pt": "Vale Invertido"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/110/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/110/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/110/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/110/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/110/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/110/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/110/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/110/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/110/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/110/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/110/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/110/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "111",
+      "names": {
+        "de": "Scherox' Geistesbund",
+        "en": "Scizor Spirit Link",
+        "es": "Vínculo Espiritual de Scizor",
+        "fr": "Lien Spirituel Cizayox",
+        "it": "Legame Mentale con Scizor",
+        "pt": "Elo Espiritual de Scizor"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/111/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/111/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/111/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/111/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/111/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/111/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/111/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/111/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/111/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/111/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/111/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/111/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "112",
+      "names": {
+        "de": "Tierno",
+        "en": "Tierno",
+        "es": "Beni",
+        "fr": "Tierno",
+        "it": "Tierno",
+        "pt": "Tierno"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/112/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/112/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/112/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/112/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/112/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/112/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/112/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/112/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/112/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/112/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/112/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/112/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "113",
+      "names": {
+        "de": "Platsch-Energie",
+        "en": "Splash Energy",
+        "es": "Energía Salpicadura",
+        "fr": "Énergie Éclaboussure",
+        "it": "Energia Spruzzo",
+        "pt": "Energia Borrifada"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/113/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/113/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/113/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/113/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/113/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/113/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/113/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/113/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/113/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/113/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/113/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/113/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "114",
+      "names": {
+        "de": "Garados EX",
+        "en": "Gyarados EX",
+        "es": "Gyarados EX",
+        "fr": "Léviator EX",
+        "it": "Gyarados EX",
+        "pt": "Gyarados EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/114/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/114/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/114/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/114/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/114/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/114/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/114/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/114/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/114/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/114/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/114/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/114/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "115",
+      "names": {
+        "de": "M-Garados EX",
+        "en": "M Gyarados EX",
+        "es": "M-Gyarados EX",
+        "fr": "M-Léviator EX",
+        "it": "M Gyarados EX",
+        "pt": "M-Gyarados EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/115/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/115/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/115/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/115/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/115/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/115/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/115/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/115/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/115/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/115/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/115/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/115/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "116",
+      "names": {
+        "de": "Manaphy EX",
+        "en": "Manaphy EX",
+        "es": "Manaphy EX",
+        "fr": "Manaphy EX",
+        "it": "Manaphy EX",
+        "pt": "Manaphy EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/116/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/116/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/116/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/116/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/116/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/116/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/116/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/116/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/116/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/116/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/116/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/116/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "117",
+      "names": {
+        "de": "Psiana EX",
+        "en": "Espeon EX",
+        "es": "Espeon EX",
+        "fr": "Mentali EX",
+        "it": "Espeon EX",
+        "pt": "Espeon EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/117/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/117/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/117/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/117/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/117/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/117/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/117/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/117/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/117/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/117/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/117/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/117/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "118",
+      "names": {
+        "de": "Darkrai EX",
+        "en": "Darkrai EX",
+        "es": "Darkrai EX",
+        "fr": "Darkrai EX",
+        "it": "Darkrai EX",
+        "pt": "Darkrai EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/118/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/118/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/118/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/118/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/118/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/118/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/118/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/118/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/118/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/118/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/118/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/118/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "119",
+      "names": {
+        "de": "Scherox EX",
+        "en": "Scizor EX",
+        "es": "Scizor EX",
+        "fr": "Cizayox EX",
+        "it": "Scizor EX",
+        "pt": "Scizor EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/119/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/119/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/119/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/119/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/119/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/119/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/119/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/119/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/119/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/119/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/119/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/119/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "120",
+      "names": {
+        "de": "M-Scherox EX",
+        "en": "M Scizor EX",
+        "es": "M-Scizor EX",
+        "fr": "M-Cizayox EX",
+        "it": "M Scizor EX",
+        "pt": "M-Scizor EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/120/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/120/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/120/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/120/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/120/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/120/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/120/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/120/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/120/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/120/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/120/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/120/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "121",
+      "names": {
+        "de": "Ho-Oh EX",
+        "en": "Ho-Oh EX",
+        "es": "Ho-Oh EX",
+        "fr": "Ho-Oh EX",
+        "it": "Ho-Oh EX",
+        "pt": "Ho-Oh EX"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/121/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/121/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/121/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/121/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/121/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/121/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/121/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/121/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/121/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/121/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/121/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/121/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "122",
+      "names": {
+        "de": "Géraldine",
+        "en": "Skyla",
+        "es": "Gerania",
+        "fr": "Carolina",
+        "it": "Anemone",
+        "pt": "Skyla"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/122/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/122/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/122/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/122/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/122/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/122/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/122/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/122/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/122/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/122/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/122/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/122/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "123",
+      "names": {
+        "de": "Garados EX",
+        "en": "Gyarados EX",
+        "es": "Gyarados EX",
+        "fr": "Léviator EX",
+        "it": "Gyarados EX",
+        "pt": "Gyarados EX"
+      },
+      "rarity": "Secret Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/xy9/123/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/xy9/123/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/xy9/123/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/xy9/123/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/xy9/123/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/xy9/123/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/xy9/123/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/xy9/123/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/xy9/123/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/xy9/123/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/xy9/123/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/xy9/123/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

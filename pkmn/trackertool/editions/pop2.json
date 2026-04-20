@@ -1,0 +1,768 @@
+{
+  "edition": {
+    "id": "pop2",
+    "name": "POP Series 2",
+    "nameEN": "POP Series 2",
+    "names": {
+      "de": "",
+      "en": "POP Series 2",
+      "es": "",
+      "fr": "POP Série 2",
+      "it": "POP Serie 2",
+      "pt": ""
+    },
+    "series": "POP",
+    "seriesNames": {
+      "de": "",
+      "en": "POP",
+      "es": "",
+      "fr": "POP",
+      "it": "POP",
+      "pt": ""
+    },
+    "total": 17,
+    "releaseDate": "2005-08-01"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Entei",
+        "en": "Entei",
+        "es": "Entei",
+        "fr": "Entei",
+        "it": "Entei",
+        "pt": "Entei"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Tauboss",
+        "en": "Pidgeot",
+        "es": "Pidgeot",
+        "fr": "Roucarnage",
+        "it": "Pidgeot",
+        "pt": "Pidgeot"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Raikou",
+        "en": "Raikou",
+        "es": "Raikou",
+        "fr": "Raikou",
+        "it": "Raikou",
+        "pt": "Raikou"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Suicune",
+        "en": "Suicune",
+        "es": "Suicune",
+        "fr": "Suicune",
+        "it": "Suicune",
+        "pt": "Suicune"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Tauros",
+        "en": "Tauros",
+        "es": "Tauros",
+        "fr": "Tauros",
+        "it": "Tauros",
+        "pt": "Tauros"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Bisaflor",
+        "en": "Venusaur",
+        "es": "Venusaur",
+        "fr": "Florizarre",
+        "it": "Venusaur",
+        "pt": "Venusaur"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Bisaknosp",
+        "en": "Ivysaur",
+        "es": "Ivysaur",
+        "fr": "Herbizarre",
+        "it": "Ivysaur",
+        "pt": "Ivysaur"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "",
+        "en": "Mr. Briney’s Compassion",
+        "es": "",
+        "fr": "La compassion de M. Briney",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Vielzweckmaschine 01",
+        "en": "Multi Technical Machine 01",
+        "es": "",
+        "fr": "Machine multi-technique 01",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Pokémon Park*",
+        "en": "Pokémon Park",
+        "es": "",
+        "fr": "Parc Pokémon",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "TV-Reporter",
+        "en": "TV Reporter",
+        "es": "Reportera de Televisión",
+        "fr": "Journaliste télé",
+        "it": "Reporter Televisivo",
+        "pt": "Repórter Televisivo"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/11/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/11/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/11/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/11/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Bisasam",
+        "en": "Bulbasaur",
+        "es": "Bulbasaur",
+        "fr": "Bulbizarre",
+        "it": "Bulbasaur",
+        "pt": "Bulbasaur"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/12/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/12/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/12/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/12/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "Tuska",
+        "en": "Cacnea",
+        "es": "Cacnea",
+        "fr": "Cacnea",
+        "it": "Cacnea",
+        "pt": "Cacnea"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/13/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/13/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/13/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/13/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "Liebiskus",
+        "en": "Luvdisc",
+        "es": "Luvdisc",
+        "fr": "Lovdisc",
+        "it": "Luvdisc",
+        "pt": "Luvdisc"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/14/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/14/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/14/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/14/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "Phanpy",
+        "en": "Phanpy",
+        "es": "Phanpy",
+        "fr": "Phanpy",
+        "it": "Phanpy",
+        "pt": "Phanpy"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/15/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/15/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/15/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/15/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Pikachu",
+        "en": "Pikachu",
+        "es": "Pikachu",
+        "fr": "Pikachu",
+        "it": "Pikachu",
+        "pt": "Pikachu"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/16/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/16/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/16/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/16/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Celebi ex",
+        "en": "Celebi ex",
+        "es": "",
+        "fr": "Celebi ex",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/pop/pop2/17/low.webp",
+        "large": "https://assets.tcgdex.net/en/pop/pop2/17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/pop/pop2/17/low.webp",
+          "large": "https://assets.tcgdex.net/de/pop/pop2/17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/pop/pop2/17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/pop/pop2/17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/pop/pop2/17/low.webp",
+          "large": "https://assets.tcgdex.net/es/pop/pop2/17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/pop/pop2/17/low.webp",
+          "large": "https://assets.tcgdex.net/it/pop/pop2/17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/pop/pop2/17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/pop/pop2/17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

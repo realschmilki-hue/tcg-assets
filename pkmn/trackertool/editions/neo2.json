@@ -1,0 +1,3320 @@
+{
+  "edition": {
+    "id": "neo2",
+    "name": "Neo Discovery",
+    "nameEN": "Neo Discovery",
+    "names": {
+      "de": "Neo Entdeckung",
+      "en": "Neo Discovery",
+      "es": "",
+      "fr": "Neo Discovery",
+      "it": "Neo Discovery",
+      "pt": ""
+    },
+    "series": "Neo",
+    "seriesNames": {
+      "de": "Neo",
+      "en": "Neo",
+      "es": "",
+      "fr": "Neo",
+      "it": "Neo",
+      "pt": ""
+    },
+    "total": 75,
+    "releaseDate": "2001-06-01"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Psiana",
+        "en": "Espeon",
+        "es": "Espeon",
+        "fr": "Mentali",
+        "it": "Espeon",
+        "pt": "Espeon"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Forstellka",
+        "en": "Forretress",
+        "es": "Forretress",
+        "fr": "Foretress",
+        "it": "Forretress",
+        "pt": "Forretress"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Kapoera",
+        "en": "Hitmontop",
+        "es": "Hitmontop",
+        "fr": "Kapoera",
+        "it": "Hitmontop",
+        "pt": "Hitmontop"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Hundemon",
+        "en": "Houndoom",
+        "es": "Houndoom",
+        "fr": "Démolosse",
+        "it": "Houndoom",
+        "pt": "Houndoom"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Hunduster",
+        "en": "Houndour",
+        "es": "Houndour",
+        "fr": "Malosse",
+        "it": "Houndour",
+        "pt": "Houndour"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Kabutops",
+        "en": "Kabutops",
+        "es": "Kabutops",
+        "fr": "Kabutops",
+        "it": "Kabutops",
+        "pt": "Kabutops"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Magnetilo",
+        "en": "Magnemite",
+        "es": "Magnemite",
+        "fr": "Magneti",
+        "it": "Magnemite",
+        "pt": "Magnemite"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Quaxo",
+        "en": "Politoed",
+        "es": "Politoed",
+        "fr": "Tarpaud",
+        "it": "Politoed",
+        "pt": "Politoed"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Quappo",
+        "en": "Poliwrath",
+        "es": "Poliwrath",
+        "fr": "Tartard",
+        "it": "Poliwrath",
+        "pt": "Poliwrath"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Scherox",
+        "en": "Scizor",
+        "es": "Scizor",
+        "fr": "Cizayox",
+        "it": "Scizor",
+        "pt": "Scizor"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Farbeagle",
+        "en": "Smeargle",
+        "es": "Smeargle",
+        "fr": "Queulorior",
+        "it": "Smeargle",
+        "pt": "Smeargle"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/11/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/11/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/11/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/11/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Despotar",
+        "en": "Tyranitar",
+        "es": "Tyranitar",
+        "fr": "Tyranocif",
+        "it": "Tyranitar",
+        "pt": "Tyranitar"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/12/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/12/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/12/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/12/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "Nachtara",
+        "en": "Umbreon",
+        "es": "Umbreon",
+        "fr": "Noctali",
+        "it": "Umbreon",
+        "pt": "Umbreon"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/13/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/13/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/13/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/13/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "Icognito A",
+        "en": "Unown [A]",
+        "es": "",
+        "fr": "Zarbi A",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/14/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/14/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/14/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/14/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "Ursaring",
+        "en": "Ursaring",
+        "es": "Ursaring",
+        "fr": "Ursaring",
+        "it": "Ursaring",
+        "pt": "Ursaring"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/15/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/15/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/15/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/15/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Woingenau",
+        "en": "Wobbuffet",
+        "es": "Wobbuffet",
+        "fr": "Qulbutoke",
+        "it": "Wobbuffet",
+        "pt": "Wobbuffet"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/16/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/16/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/16/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/16/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Yanma",
+        "en": "Yanma",
+        "es": "Yanma",
+        "fr": "Yanma",
+        "it": "Yanma",
+        "pt": "Yanma"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/17/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/17/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/17/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/17/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "Bibor",
+        "en": "Beedrill",
+        "es": "Beedrill",
+        "fr": "Dardargnan",
+        "it": "Beedrill",
+        "pt": "Beedrill"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/18/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/18/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/18/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/18/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/18/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/18/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/18/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/18/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/18/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/18/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/18/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/18/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "Smettbo",
+        "en": "Butterfree",
+        "es": "Butterfree",
+        "fr": "Papilusion",
+        "it": "Butterfree",
+        "pt": "Butterfree"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/19/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/19/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/19/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/19/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "Psiana",
+        "en": "Espeon",
+        "es": "Espeon",
+        "fr": "Mentali",
+        "it": "Espeon",
+        "pt": "Espeon"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/20/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/20/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/20/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/20/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "Forstellka",
+        "en": "Forretress",
+        "es": "Forretress",
+        "fr": "Foretress",
+        "it": "Forretress",
+        "pt": "Forretress"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/21/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/21/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/21/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/21/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/21/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/21/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/21/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/21/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/21/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/21/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/21/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/21/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "Kapoera",
+        "en": "Hitmontop",
+        "es": "Hitmontop",
+        "fr": "Kapoera",
+        "it": "Hitmontop",
+        "pt": "Hitmontop"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/22/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/22/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/22/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/22/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/22/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/22/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/22/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/22/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/22/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/22/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/22/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/22/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "Hundemon",
+        "en": "Houndoom",
+        "es": "Houndoom",
+        "fr": "Démolosse",
+        "it": "Houndoom",
+        "pt": "Houndoom"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/23/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/23/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/23/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/23/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/23/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/23/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/23/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/23/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/23/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/23/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/23/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/23/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "Hunduster",
+        "en": "Houndour",
+        "es": "Houndour",
+        "fr": "Malosse",
+        "it": "Houndour",
+        "pt": "Houndour"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/24/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/24/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/24/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/24/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/24/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/24/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/24/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/24/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/24/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/24/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/24/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/24/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "Kabutops",
+        "en": "Kabutops",
+        "es": "Kabutops",
+        "fr": "Kabutops",
+        "it": "Kabutops",
+        "pt": "Kabutops"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/25/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/25/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/25/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/25/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/25/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/25/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/25/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/25/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/25/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/25/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/25/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/25/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "Magnetilo",
+        "en": "Magnemite",
+        "es": "Magnemite",
+        "fr": "Magneti",
+        "it": "Magnemite",
+        "pt": "Magnemite"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/26/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/26/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/26/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/26/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/26/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/26/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/26/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/26/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/26/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/26/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/26/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/26/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "Quaxo",
+        "en": "Politoed",
+        "es": "Politoed",
+        "fr": "Tarpaud",
+        "it": "Politoed",
+        "pt": "Politoed"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/27/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/27/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/27/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/27/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/27/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/27/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/27/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/27/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/27/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/27/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/27/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/27/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "Quappo",
+        "en": "Poliwrath",
+        "es": "Poliwrath",
+        "fr": "Tartard",
+        "it": "Poliwrath",
+        "pt": "Poliwrath"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/28/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/28/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/28/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/28/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/28/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/28/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/28/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/28/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/28/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/28/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/28/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/28/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "Scherox",
+        "en": "Scizor",
+        "es": "Scizor",
+        "fr": "Cizayox",
+        "it": "Scizor",
+        "pt": "Scizor"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/29/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/29/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/29/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/29/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/29/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/29/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/29/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/29/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/29/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/29/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/29/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/29/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "Farbeagle",
+        "en": "Smeargle",
+        "es": "Smeargle",
+        "fr": "Queulorior",
+        "it": "Smeargle",
+        "pt": "Smeargle"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/30/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/30/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/30/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/30/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/30/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/30/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/30/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/30/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/30/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/30/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/30/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/30/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "Despotar",
+        "en": "Tyranitar",
+        "es": "Tyranitar",
+        "fr": "Tyranocif",
+        "it": "Tyranitar",
+        "pt": "Tyranitar"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/31/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/31/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/31/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/31/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/31/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/31/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/31/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/31/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/31/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/31/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/31/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/31/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "Nachtara",
+        "en": "Umbreon",
+        "es": "Umbreon",
+        "fr": "Noctali",
+        "it": "Umbreon",
+        "pt": "Umbreon"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/32/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/32/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/32/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/32/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/32/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/32/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/32/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/32/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/32/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/32/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/32/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/32/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "Icognito A",
+        "en": "Unown [A]",
+        "es": "",
+        "fr": "Zarbi A",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/33/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/33/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/33/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/33/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/33/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/33/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/33/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/33/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/33/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/33/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/33/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/33/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "Ursaring",
+        "en": "Ursaring",
+        "es": "Ursaring",
+        "fr": "Ursaring",
+        "it": "Ursaring",
+        "pt": "Ursaring"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/34/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/34/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/34/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/34/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/34/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/34/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/34/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/34/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/34/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/34/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/34/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/34/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "Woingenau",
+        "en": "Wobbuffet",
+        "es": "Wobbuffet",
+        "fr": "Qulbutoke",
+        "it": "Wobbuffet",
+        "pt": "Wobbuffet"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/35/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/35/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/35/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/35/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/35/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/35/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/35/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/35/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/35/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/35/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/35/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/35/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "Yanma",
+        "en": "Yanma",
+        "es": "Yanma",
+        "fr": "Yanma",
+        "it": "Yanma",
+        "pt": "Yanma"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/36/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/36/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/36/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/36/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/36/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/36/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/36/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/36/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/36/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/36/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/36/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/36/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "Corasonn",
+        "en": "Corsola",
+        "es": "Corsola",
+        "fr": "Corayon",
+        "it": "Corsola",
+        "pt": "Corsola"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/37/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/37/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/37/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/37/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/37/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/37/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/37/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/37/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/37/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/37/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/37/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/37/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "Evoli",
+        "en": "Eevee",
+        "es": "Eevee",
+        "fr": "Évoli",
+        "it": "Eevee",
+        "pt": "Eevee"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/38/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/38/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/38/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/38/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/38/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/38/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/38/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/38/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/38/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/38/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/38/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/38/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "Hunduster",
+        "en": "Houndour",
+        "es": "Houndour",
+        "fr": "Malosse",
+        "it": "Houndour",
+        "pt": "Houndour"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/39/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/39/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/39/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/39/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/39/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/39/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/39/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/39/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/39/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/39/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/39/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/39/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "Fluffeluff",
+        "en": "Igglybuff",
+        "es": "Igglybuff",
+        "fr": "Toudoudou",
+        "it": "Igglybuff",
+        "pt": "Igglybuff"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/40/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/40/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/40/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/40/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/40/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/40/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/40/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/40/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/40/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/40/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/40/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/40/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "Kokuna",
+        "en": "Kakuna",
+        "es": "Kakuna",
+        "fr": "Coconfort",
+        "it": "Kakuna",
+        "pt": "Kakuna"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/41/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/41/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/41/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/41/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/41/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/41/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/41/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/41/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/41/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/41/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/41/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/41/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "Safcon",
+        "en": "Metapod",
+        "es": "Metapod",
+        "fr": "Chrysacier",
+        "it": "Metapod",
+        "pt": "Metapod"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/42/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/42/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/42/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/42/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/42/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/42/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/42/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/42/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/42/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/42/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/42/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/42/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "Amoroso",
+        "en": "Omastar",
+        "es": "Omastar",
+        "fr": "Amonistar",
+        "it": "Omastar",
+        "pt": "Omastar"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/43/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/43/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/43/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/43/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/43/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/43/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/43/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/43/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/43/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/43/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/43/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/43/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "Quaputzi",
+        "en": "Poliwhirl",
+        "es": "Poliwhirl",
+        "fr": "Têtarte",
+        "it": "Poliwhirl",
+        "pt": "Poliwhirl"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/44/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/44/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/44/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/44/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/44/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/44/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/44/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/44/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/44/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/44/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/44/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/44/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "Pupitar",
+        "en": "Pupitar",
+        "es": "Pupitar",
+        "fr": "Ymphect",
+        "it": "Pupitar",
+        "pt": "Pupitar"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/45/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/45/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/45/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/45/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/45/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/45/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/45/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/45/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/45/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/45/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/45/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/45/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "Sichlor",
+        "en": "Scyther",
+        "es": "Scyther",
+        "fr": "Insécateur",
+        "it": "Scyther",
+        "pt": "Scyther"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/46/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/46/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/46/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/46/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/46/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/46/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/46/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/46/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/46/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/46/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/46/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/46/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "Icognito D",
+        "en": "Unown [D]",
+        "es": "",
+        "fr": "Zarbi D",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/47/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/47/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/47/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/47/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/47/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/47/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/47/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/47/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/47/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/47/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/47/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/47/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "Icognito F",
+        "en": "Unown [F]",
+        "es": "",
+        "fr": "Zarbi F",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/48/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/48/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/48/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/48/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/48/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/48/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/48/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/48/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/48/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/48/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/48/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/48/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "Icognito M",
+        "en": "Unown [M]",
+        "es": "",
+        "fr": "Zarbi M",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/49/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/49/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/49/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/49/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/49/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/49/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/49/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/49/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/49/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/49/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/49/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/49/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "Icognito N",
+        "en": "Unown [N]",
+        "es": "",
+        "fr": "Zarbi N",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/50/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/50/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/50/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/50/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/50/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/50/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/50/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/50/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/50/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/50/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/50/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/50/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "Icognito U",
+        "en": "Unown [U]",
+        "es": "",
+        "fr": "Zarbi U",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/51/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/51/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/51/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/51/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/51/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/51/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/51/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/51/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/51/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/51/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/51/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/51/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "Xatu",
+        "en": "Xatu",
+        "es": "Xatu",
+        "fr": "Xatu",
+        "it": "Xatu",
+        "pt": "Xatu"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/52/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/52/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/52/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/52/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/52/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/52/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/52/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/52/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/52/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/52/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/52/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/52/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "Raupy",
+        "en": "Caterpie",
+        "es": "Caterpie",
+        "fr": "Chenipan",
+        "it": "Caterpie",
+        "pt": "Caterpie"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/53/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/53/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/53/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/53/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/53/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/53/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/53/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/53/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/53/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/53/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/53/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/53/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "Dummisel",
+        "en": "Dunsparce",
+        "es": "Dunsparce",
+        "fr": "Insolourdo",
+        "it": "Dunsparce",
+        "pt": "Dunsparce"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/54/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/54/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/54/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/54/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/54/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/54/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/54/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/54/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/54/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/54/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/54/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/54/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "Hoppspross",
+        "en": "Hoppip",
+        "es": "Hoppip",
+        "fr": "Granivol",
+        "it": "Hoppip",
+        "pt": "Hoppip"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/55/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/55/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/55/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/55/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/55/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/55/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/55/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/55/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/55/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/55/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/55/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/55/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "Kabuto",
+        "en": "Kabuto",
+        "es": "Kabuto",
+        "fr": "Kabuto",
+        "it": "Kabuto",
+        "pt": "Kabuto"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/56/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/56/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/56/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/56/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/56/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/56/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/56/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/56/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/56/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/56/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/56/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/56/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "Larvitar",
+        "en": "Larvitar",
+        "es": "Larvitar",
+        "fr": "Embrylex",
+        "it": "Larvitar",
+        "pt": "Larvitar"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/57/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/57/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/57/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/57/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/57/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/57/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/57/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/57/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/57/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/57/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/57/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/57/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "Voltilamm",
+        "en": "Mareep",
+        "es": "Mareep",
+        "fr": "Wattouat",
+        "it": "Mareep",
+        "pt": "Mareep"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/58/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/58/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/58/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/58/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/58/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/58/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/58/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/58/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/58/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/58/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/58/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/58/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "Natu",
+        "en": "Natu",
+        "es": "Natu",
+        "fr": "Natu",
+        "it": "Natu",
+        "pt": "Natu"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/59/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/59/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/59/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/59/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/59/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/59/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/59/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/59/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/59/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/59/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/59/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/59/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "Amonitas",
+        "en": "Omanyte",
+        "es": "Omanyte",
+        "fr": "Amonita",
+        "it": "Omanyte",
+        "pt": "Omanyte"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/60/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/60/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/60/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/60/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/60/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/60/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/60/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/60/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/60/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/60/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/60/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/60/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "Tannza",
+        "en": "Pineco",
+        "es": "Pineco",
+        "fr": "Pomdepik",
+        "it": "Pineco",
+        "pt": "Pineco"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/61/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/61/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/61/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/61/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/61/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/61/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/61/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/61/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/61/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/61/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/61/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/61/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "Quapsel",
+        "en": "Poliwag",
+        "es": "Poliwag",
+        "fr": "Ptitard",
+        "it": "Poliwag",
+        "pt": "Poliwag"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/62/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/62/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/62/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/62/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/62/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/62/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/62/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/62/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/62/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/62/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/62/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/62/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "Wiesor",
+        "en": "Sentret",
+        "es": "Sentret",
+        "fr": "Fouinette",
+        "it": "Sentret",
+        "pt": "Sentret"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/63/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/63/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/63/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/63/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/63/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/63/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/63/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/63/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/63/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/63/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/63/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/63/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "Weberak",
+        "en": "Spinarak",
+        "es": "Spinarak",
+        "fr": "Mimigal",
+        "it": "Spinarak",
+        "pt": "Spinarak"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/64/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/64/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/64/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/64/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/64/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/64/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/64/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/64/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/64/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/64/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/64/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/64/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "Teddiursa",
+        "en": "Teddiursa",
+        "es": "Teddiursa",
+        "fr": "Teddiursa",
+        "it": "Teddiursa",
+        "pt": "Teddiursa"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/65/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/65/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/65/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/65/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/65/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/65/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/65/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/65/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/65/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/65/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/65/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/65/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "Rabauz",
+        "en": "Tyrogue",
+        "es": "Tyrogue",
+        "fr": "Débugant",
+        "it": "Tyrogue",
+        "pt": "Tyrogue"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/66/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/66/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/66/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/66/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/66/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/66/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/66/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/66/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/66/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/66/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/66/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/66/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "Icognito E",
+        "en": "Unown [E]",
+        "es": "",
+        "fr": "Zarbi E",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/67/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/67/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/67/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/67/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/67/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/67/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/67/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/67/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/67/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/67/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/67/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/67/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "Icognito I",
+        "en": "Unown [I]",
+        "es": "",
+        "fr": "Zarbi I",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/68/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/68/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/68/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/68/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/68/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/68/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/68/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/68/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/68/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/68/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/68/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/68/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "Icognito O",
+        "en": "Unown [O]",
+        "es": "",
+        "fr": "Zarbi O",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/69/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/69/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/69/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/69/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/69/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/69/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/69/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/69/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/69/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/69/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/69/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/69/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "Hornliu",
+        "en": "Weedle",
+        "es": "Weedle",
+        "fr": "Aspicot",
+        "it": "Weedle",
+        "pt": "Weedle"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/70/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/70/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/70/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/70/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/70/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/70/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/70/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/70/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/70/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/70/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/70/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/70/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "Felino",
+        "en": "Wooper",
+        "es": "Wooper",
+        "fr": "Axoloto",
+        "it": "Wooper",
+        "pt": "Wooper"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/71/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/71/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/71/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/71/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/71/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/71/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/71/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/71/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/71/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/71/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/71/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/71/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "Fossil-Ei",
+        "en": "Fossil Egg",
+        "es": "",
+        "fr": "Oeuf fossile",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/72/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/72/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/72/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/72/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/72/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/72/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/72/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/72/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/72/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/72/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/72/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/72/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "Hyper-Rückentwicklungs-Spray",
+        "en": "Hyper Devolution Spray",
+        "es": "",
+        "fr": "Vaporisateur hyper rétrograde",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/73/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/73/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/73/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/73/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/73/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/73/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/73/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/73/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/73/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/73/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/73/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/73/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "Ruinenwand",
+        "en": "Ruin Wall",
+        "es": "",
+        "fr": "Mur en ruines",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/74/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/74/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/74/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/74/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/74/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/74/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/74/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/74/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/74/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/74/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/74/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/74/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "Energy Ark",
+        "en": "Energy Ark",
+        "es": "",
+        "fr": "Arche d'Énergie",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/neo/neo2/75/low.webp",
+        "large": "https://assets.tcgdex.net/en/neo/neo2/75/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/neo/neo2/75/low.webp",
+          "large": "https://assets.tcgdex.net/de/neo/neo2/75/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/neo/neo2/75/low.webp",
+          "large": "https://assets.tcgdex.net/fr/neo/neo2/75/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/neo/neo2/75/low.webp",
+          "large": "https://assets.tcgdex.net/es/neo/neo2/75/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/neo/neo2/75/low.webp",
+          "large": "https://assets.tcgdex.net/it/neo/neo2/75/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/neo/neo2/75/low.webp",
+          "large": "https://assets.tcgdex.net/pt/neo/neo2/75/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

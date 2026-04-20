@@ -1,0 +1,1500 @@
+{
+  "edition": {
+    "id": "dc1",
+    "name": "Double Crisis",
+    "nameEN": "Double Crisis",
+    "names": {
+      "de": "",
+      "en": "Double Crisis",
+      "es": "",
+      "fr": "Double Danger",
+      "it": "",
+      "pt": "Crise Dupla"
+    },
+    "series": "XY",
+    "seriesNames": {
+      "de": "",
+      "en": "XY",
+      "es": "",
+      "fr": "XY",
+      "it": "",
+      "pt": "XY"
+    },
+    "total": 34,
+    "releaseDate": "2015-03-25"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Team Magmas Camaub",
+        "en": "Team Magma's Numel",
+        "es": "",
+        "fr": "Chamallot de la Team Magma",
+        "it": "",
+        "pt": "Numel da Equipe Magma"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Team Magmas Camerupt",
+        "en": "Team Magma's Camerupt",
+        "es": "",
+        "fr": "Camérupt de la Team Magma",
+        "it": "",
+        "pt": "Camerupt da Equipe Magma"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Team Aquas Seemops",
+        "en": "Team Aqua's Spheal",
+        "es": "",
+        "fr": "Obalie de la Team Aqua",
+        "it": "",
+        "pt": "Spheal da Equipe Aqua"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Team Aquas Seejong",
+        "en": "Team Aqua's Sealeo",
+        "es": "",
+        "fr": "Phogleur de la Team Aqua",
+        "it": "",
+        "pt": "Sealeo da Equipe Aqua"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Team Aquas Walraisa",
+        "en": "Team Aqua's Walrein",
+        "es": "",
+        "fr": "Kaimorse de la Team Aqua",
+        "it": "",
+        "pt": "Walrein da Equipe Aqua"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "",
+        "en": "Team Aqua's Kyogre EX",
+        "es": "",
+        "fr": "Kyogre-EX de la Team Aqua",
+        "it": "",
+        "pt": "Kyogre-EX da Equipe Aqua"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "",
+        "en": "Team Aqua's Grimer",
+        "es": "",
+        "fr": "Tadmorv de la Team Aqua",
+        "it": "",
+        "pt": "Grimer da Equipe Aqua"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "",
+        "en": "Team Aqua's Muk",
+        "es": "",
+        "fr": "Grotadmorv de la Team Aqua",
+        "it": "",
+        "pt": "Muk da Equipe Aqua"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Team Aquas Vipitis",
+        "en": "Team Aqua's Seviper",
+        "es": "",
+        "fr": "Séviper de la Team Aqua",
+        "it": "",
+        "pt": "Seviper da Equipe Aqua"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Team Magmas Puppance",
+        "en": "Team Magma's Baltoy",
+        "es": "",
+        "fr": "Balbuto de la Team Magma",
+        "it": "",
+        "pt": "Baltoy da Equipe Magma"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Team Magmas Lepumentas",
+        "en": "Team Magma's Claydol",
+        "es": "",
+        "fr": "Kaorine de la Team Magma",
+        "it": "",
+        "pt": "Claydol da Equipe Magma"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/11/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/11/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/11/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/11/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Team Magmas Stollunior",
+        "en": "Team Magma's Aron",
+        "es": "",
+        "fr": "Galekid de la Team Magma",
+        "it": "",
+        "pt": "Aron da Equipe Magma"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/12/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/12/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/12/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/12/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "Team Magmas Stollrak",
+        "en": "Team Magma's Lairon",
+        "es": "",
+        "fr": "Galegon de la Team Magma",
+        "it": "",
+        "pt": "Lairon da Equipe Magma"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/13/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/13/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/13/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/13/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "Team Magmas Stolloss",
+        "en": "Team Magma's Aggron",
+        "es": "",
+        "fr": "Galeking de la Team Magma",
+        "it": "",
+        "pt": "Aggron da Equipe Magma "
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/14/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/14/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/14/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/14/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "",
+        "en": "Team Magma's Groudon EX",
+        "es": "",
+        "fr": "Groudon-EX de la Team Magma",
+        "it": "",
+        "pt": "Groudon-EX da Equipe Magma"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/15/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/15/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/15/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/15/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Team Aquas Fiffyen",
+        "en": "Team Aqua's Poochyena",
+        "es": "",
+        "fr": "Medhyèna de la Team Aqua",
+        "it": "",
+        "pt": "Poochyena da Equipe Aqua"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/16/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/16/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/16/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/16/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Team Magmas Fiffyen",
+        "en": "Team Magma's Poochyena",
+        "es": "",
+        "fr": "Medhyèna de la Team Magma",
+        "it": "",
+        "pt": "Poochyena da Equipe Magma"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/17/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/17/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/17/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/17/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "Team Aquas Magnayen",
+        "en": "Team Aqua's Mightyena",
+        "es": "",
+        "fr": "Grahyèna de la Team Aqua",
+        "it": "",
+        "pt": "Mightyena da Equipe Aqua"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/18/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/18/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/18/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/18/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/18/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/18/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/18/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/18/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/18/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/18/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/18/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/18/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "Team Magmas Magnayen",
+        "en": "Team Magma's Mightyena",
+        "es": "",
+        "fr": "Grahyèna de la Team Magma",
+        "it": "",
+        "pt": "Mightyena da Equipe Magma"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/19/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/19/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/19/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/19/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "Team Aquas Kanivanha",
+        "en": "Team Aqua's Carvanha",
+        "es": "",
+        "fr": "Carvanha de la Team Aqua",
+        "it": "",
+        "pt": "Carvanha da Equipe Aqua"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/20/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/20/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/20/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/20/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "Team Aquas Tohaido",
+        "en": "Team Aqua's Sharpedo",
+        "es": "",
+        "fr": "Sharpedo de la Team Aqua",
+        "it": "",
+        "pt": "Sharpedo da Equipe Aqua"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/21/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/21/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/21/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/21/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/21/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/21/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/21/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/21/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/21/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/21/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/21/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/21/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "Team Magmas Sengo",
+        "en": "Team Magma's Zangoose",
+        "es": "",
+        "fr": "Mangriff de la Team Magma",
+        "it": "",
+        "pt": "Zangoose da Equipe Magma"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/22/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/22/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/22/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/22/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/22/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/22/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/22/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/22/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/22/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/22/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/22/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/22/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "",
+        "en": "Aqua Diffuser",
+        "es": "",
+        "fr": "Diffuseur Aqua",
+        "it": "",
+        "pt": "Difusor Aqua"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/23/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/23/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/23/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/23/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/23/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/23/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/23/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/23/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/23/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/23/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/23/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/23/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "",
+        "en": "Magma Pointer",
+        "es": "",
+        "fr": "Pointeur Magma",
+        "it": "",
+        "pt": "Ponteiro Magma"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/24/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/24/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/24/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/24/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/24/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/24/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/24/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/24/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/24/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/24/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/24/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/24/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "",
+        "en": "Team Aqua Admin",
+        "es": "",
+        "fr": "Admin Team Aqua",
+        "it": "",
+        "pt": "Admin. da Equipe Aqua"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/25/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/25/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/25/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/25/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/25/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/25/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/25/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/25/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/25/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/25/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/25/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/25/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "",
+        "en": "Team Aqua Grunt",
+        "es": "",
+        "fr": "Sbire de la Team Aqua",
+        "it": "",
+        "pt": "Operário da Equipe Aqua"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/26/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/26/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/26/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/26/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/26/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/26/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/26/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/26/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/26/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/26/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/26/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/26/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "",
+        "en": "Team Aqua's Great Ball",
+        "es": "",
+        "fr": "Super Ball de la Team Aqua",
+        "it": "",
+        "pt": "Grande Bola da Equipe Aqua"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/27/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/27/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/27/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/27/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/27/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/27/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/27/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/27/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/27/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/27/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/27/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/27/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "",
+        "en": "Team Aqua's Secret Base",
+        "es": "",
+        "fr": "Base Secrète de la Team Aqua",
+        "it": "",
+        "pt": "Base Secreta da Equipe Aqua"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/28/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/28/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/28/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/28/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/28/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/28/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/28/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/28/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/28/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/28/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/28/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/28/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "",
+        "en": "Team Magma Admin",
+        "es": "",
+        "fr": "Admin Team Magma",
+        "it": "",
+        "pt": "Admin. da Equipe Magma"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/29/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/29/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/29/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/29/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/29/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/29/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/29/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/29/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/29/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/29/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/29/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/29/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "",
+        "en": "Team Magma Grunt",
+        "es": "",
+        "fr": "Sbire de la Team Magma",
+        "it": "",
+        "pt": "Operário da Equipe Magma"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/30/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/30/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/30/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/30/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/30/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/30/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/30/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/30/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/30/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/30/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/30/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/30/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "",
+        "en": "Team Magma's Great Ball",
+        "es": "",
+        "fr": "Super Ball de la Team Magma",
+        "it": "",
+        "pt": "Grande Bola da Equipe Magma"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/31/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/31/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/31/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/31/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/31/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/31/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/31/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/31/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/31/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/31/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/31/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/31/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "",
+        "en": "Team Magma's Secret Base",
+        "es": "",
+        "fr": "Base Secrète de la Team Magma",
+        "it": "",
+        "pt": "Base Secreta da Equipe Magma"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/32/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/32/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/32/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/32/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/32/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/32/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/32/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/32/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/32/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/32/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/32/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/32/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "",
+        "en": "Double Aqua Energy",
+        "es": "",
+        "fr": "Double Énergie Aqua",
+        "it": "",
+        "pt": "Energia Aqua Dupla"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/33/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/33/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/33/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/33/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/33/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/33/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/33/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/33/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/33/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/33/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/33/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/33/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "",
+        "en": "Double Magma Energy",
+        "es": "",
+        "fr": "Double Énergie Magma",
+        "it": "",
+        "pt": "Energia Magma Dupla"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/xy/dc1/34/low.webp",
+        "large": "https://assets.tcgdex.net/en/xy/dc1/34/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/xy/dc1/34/low.webp",
+          "large": "https://assets.tcgdex.net/de/xy/dc1/34/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/xy/dc1/34/low.webp",
+          "large": "https://assets.tcgdex.net/fr/xy/dc1/34/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/xy/dc1/34/low.webp",
+          "large": "https://assets.tcgdex.net/es/xy/dc1/34/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/xy/dc1/34/low.webp",
+          "large": "https://assets.tcgdex.net/it/xy/dc1/34/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/xy/dc1/34/low.webp",
+          "large": "https://assets.tcgdex.net/pt/xy/dc1/34/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

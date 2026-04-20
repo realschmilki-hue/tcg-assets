@@ -1,0 +1,1126 @@
+{
+  "edition": {
+    "id": "hgssp",
+    "name": "HGSS Black Star Promos",
+    "nameEN": "HGSS Black Star Promos",
+    "names": {
+      "de": "Promo HGSS",
+      "en": "HGSS Black Star Promos",
+      "es": "HGSS Black Star Promos",
+      "fr": "Promo HGSS",
+      "it": "HGSS Promo",
+      "pt": ""
+    },
+    "series": "HeartGold & SoulSilver",
+    "seriesNames": {
+      "de": "HeartGold SoulSilver",
+      "en": "HeartGold & SoulSilver",
+      "es": "HeartGold SoulSilver",
+      "fr": "HeartGold SoulSilver",
+      "it": "HeartGold SoulSilver",
+      "pt": ""
+    },
+    "total": 25,
+    "releaseDate": "2010-02-11"
+  },
+  "cards": [
+    {
+      "number": "HGSS01",
+      "names": {
+        "de": "Ho-Oh",
+        "en": "Ho-Oh",
+        "es": "Ho-Oh",
+        "fr": "Ho-Oh",
+        "it": "Ho-Oh",
+        "pt": "Ho-Oh"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS01/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS01/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS01/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS01/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS01/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS01/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS01/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS01/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS01/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS01/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS01/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS01/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS02",
+      "names": {
+        "de": "Lugia",
+        "en": "Lugia",
+        "es": "Lugia",
+        "fr": "Lugia",
+        "it": "Lugia",
+        "pt": "Lugia"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS02/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS02/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS02/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS02/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS02/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS02/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS02/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS02/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS02/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS02/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS02/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS02/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS03",
+      "names": {
+        "de": "Pikachu",
+        "en": "Pikachu",
+        "es": "Pikachu",
+        "fr": "Pikachu",
+        "it": "Pikachu",
+        "pt": "Pikachu"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS03/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS03/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS03/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS03/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS03/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS03/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS03/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS03/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS03/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS03/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS03/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS03/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS04",
+      "names": {
+        "de": "Woingenau",
+        "en": "Wobbuffet",
+        "es": "Wobbuffet",
+        "fr": "Qulbutoke",
+        "it": "Wobbuffet",
+        "pt": "Wobbuffet"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS04/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS04/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS04/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS04/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS04/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS04/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS04/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS04/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS04/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS04/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS04/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS04/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS05",
+      "names": {
+        "de": "Hoothoot",
+        "en": "Hoothoot",
+        "es": "Hoothoot",
+        "fr": "Hoothoot",
+        "it": "Hoothoot",
+        "pt": "Hoothoot"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS05/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS05/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS05/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS05/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS05/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS05/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS05/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS05/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS05/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS05/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS05/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS05/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS06",
+      "names": {
+        "de": "Noctuh",
+        "en": "Noctowl",
+        "es": "Noctowl",
+        "fr": "Noarfang",
+        "it": "Noctowl",
+        "pt": "Noctowl"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS06/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS06/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS06/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS06/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS06/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS06/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS06/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS06/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS06/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS06/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS06/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS06/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS07",
+      "names": {
+        "de": "Impergator",
+        "en": "Feraligatr",
+        "es": "Feraligatr",
+        "fr": "Aligatueur",
+        "it": "Feraligatr",
+        "pt": "Feraligatr"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS07/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS07/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS07/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS07/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS07/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS07/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS07/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS07/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS07/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS07/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS07/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS07/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS08",
+      "names": {
+        "de": "Meganie",
+        "en": "Meganium",
+        "es": "Meganium",
+        "fr": "Meganium",
+        "it": "Meganium",
+        "pt": "Meganium"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS08/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS08/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS08/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS08/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS08/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS08/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS08/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS08/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS08/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS08/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS08/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS08/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS09",
+      "names": {
+        "de": "Tornupto",
+        "en": "Typhlosion",
+        "es": "Typhlosion",
+        "fr": "Typhlosion",
+        "it": "Typhlosion",
+        "pt": "Typhlosion"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS09/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS09/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS09/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS09/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS09/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS09/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS09/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS09/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS09/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS09/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS09/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS09/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS10",
+      "names": {
+        "de": "Latias",
+        "en": "Latias",
+        "es": "Latias",
+        "fr": "Latias",
+        "it": "Latias",
+        "pt": "Latias"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS10/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS10/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS10/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS10/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS11",
+      "names": {
+        "de": "Latios",
+        "en": "Latios",
+        "es": "Latios",
+        "fr": "Latios",
+        "it": "Latios",
+        "pt": "Latios"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS11/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS11/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS11/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS11/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS12",
+      "names": {
+        "de": "Pii",
+        "en": "Cleffa",
+        "es": "Cleffa",
+        "fr": "Melo",
+        "it": "Cleffa",
+        "pt": "Cleffa"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS12/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS12/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS12/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS12/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS13",
+      "names": {
+        "de": "Kussilla",
+        "en": "Smoochum",
+        "es": "Smoochum",
+        "fr": "Lippouti",
+        "it": "Smoochum",
+        "pt": "Smoochum"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS13/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS13/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS13/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS13/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS14",
+      "names": {
+        "de": "Lapras",
+        "en": "Lapras",
+        "es": "Lapras",
+        "fr": "Lokhlass",
+        "it": "Lapras",
+        "pt": "Lapras"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS14/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS14/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS14/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS14/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS15",
+      "names": {
+        "de": "Pottrott",
+        "en": "Shuckle",
+        "es": "Shuckle",
+        "fr": "Caratroc",
+        "it": "Shuckle",
+        "pt": "Shuckle"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS15/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS15/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS15/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS15/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS16",
+      "names": {
+        "de": "Plusle",
+        "en": "Plusle",
+        "es": "Plusle",
+        "fr": "Posipi",
+        "it": "Plusle",
+        "pt": "Plusle"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS16/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS16/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS16/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS16/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS17",
+      "names": {
+        "de": "Minun",
+        "en": "Minun",
+        "es": "Minun",
+        "fr": "Negapi",
+        "it": "Minun",
+        "pt": "Minun"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS17/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS17/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS17/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS17/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS18",
+      "names": {
+        "de": "",
+        "en": "Tropical Tidal Wave",
+        "es": "",
+        "fr": "Raz-de-marée tropical",
+        "it": "",
+        "pt": ""
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS18/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS18/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS18/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS18/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS18/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS18/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS18/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS18/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS18/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS18/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS18/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS18/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS19",
+      "names": {
+        "de": "Raikou",
+        "en": "Raikou",
+        "es": "Raikou",
+        "fr": "Raikou",
+        "it": "Raikou",
+        "pt": "Raikou"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS19/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS19/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS19/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS19/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS20",
+      "names": {
+        "de": "Entei",
+        "en": "Entei",
+        "es": "Entei",
+        "fr": "Entei",
+        "it": "Entei",
+        "pt": "Entei"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS20/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS20/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS20/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS20/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS21",
+      "names": {
+        "de": "Suicune",
+        "en": "Suicune",
+        "es": "Suicune",
+        "fr": "Suicune",
+        "it": "Suicune",
+        "pt": "Suicune"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS21/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS21/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS21/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS21/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS21/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS21/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS21/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS21/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS21/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS21/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS21/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS21/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS22",
+      "names": {
+        "de": "Porygon",
+        "en": "Porygon",
+        "es": "Porygon",
+        "fr": "Porygon",
+        "it": "Porygon",
+        "pt": "Porygon"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS22/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS22/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS22/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS22/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS22/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS22/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS22/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS22/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS22/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS22/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS22/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS22/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS23",
+      "names": {
+        "de": "Porygon2",
+        "en": "Porygon2",
+        "es": "Porygon2",
+        "fr": "Porygon2",
+        "it": "Porygon2",
+        "pt": "Porygon2"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS23/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS23/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS23/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS23/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS23/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS23/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS23/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS23/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS23/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS23/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS23/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS23/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS24",
+      "names": {
+        "de": "Nockchan",
+        "en": "Hitmonchan",
+        "es": "Hitmonchan",
+        "fr": "Tygnon",
+        "it": "Hitmonchan",
+        "pt": "Hitmonchan"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS24/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS24/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS24/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS24/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS24/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS24/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS24/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS24/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS24/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS24/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS24/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS24/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "HGSS25",
+      "names": {
+        "de": "Kicklee",
+        "en": "Hitmonlee",
+        "es": "Hitmonlee",
+        "fr": "Kicklee",
+        "it": "Hitmonlee",
+        "pt": "Hitmonlee"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS25/low.webp",
+        "large": "https://assets.tcgdex.net/en/hgss/hgssp/HGSS25/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS25/low.webp",
+          "large": "https://assets.tcgdex.net/de/hgss/hgssp/HGSS25/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS25/low.webp",
+          "large": "https://assets.tcgdex.net/fr/hgss/hgssp/HGSS25/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS25/low.webp",
+          "large": "https://assets.tcgdex.net/es/hgss/hgssp/HGSS25/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS25/low.webp",
+          "large": "https://assets.tcgdex.net/it/hgss/hgssp/HGSS25/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS25/low.webp",
+          "large": "https://assets.tcgdex.net/pt/hgss/hgssp/HGSS25/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+{
+  "edition": {
+    "id": "tk-dp-m",
+    "name": "DP trainer Kit (Manaphy)",
+    "nameEN": "DP trainer Kit (Manaphy)",
+    "names": {
+      "de": "",
+      "en": "DP trainer Kit (Manaphy)",
+      "es": "Kit de Entrenador Diamante & Perla (Manaphy)",
+      "fr": "DP Kit dresseur (Manaphy)",
+      "it": "Diamond & Pearl trainer Kit (Manaphy)",
+      "pt": ""
+    },
+    "series": "Trainer kits",
+    "seriesNames": {
+      "de": "",
+      "en": "Trainer kits",
+      "es": "Kits de Entrenador",
+      "fr": "Kits du dresseur",
+      "it": "Trainer Kit",
+      "pt": ""
+    },
+    "total": 12,
+    "releaseDate": "2007-09-01"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Bamelin",
+        "en": "Buizel",
+        "es": "Buizel",
+        "fr": "Mustébouée",
+        "it": "Buizel",
+        "pt": "Buizel"
+      },
+      "rarity": "None",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Bojelin",
+        "en": "Floatzel",
+        "es": "Floatzel",
+        "fr": "Mustéflott",
+        "it": "Floatzel",
+        "pt": "Floatzel"
+      },
+      "rarity": "None",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Goldini",
+        "en": "Goldeen",
+        "es": "Goldeen",
+        "fr": "Poissirène",
+        "it": "Goldeen",
+        "pt": "Goldeen"
+      },
+      "rarity": "None",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Manaphy",
+        "en": "Manaphy",
+        "es": "Manaphy",
+        "fr": "Manaphy",
+        "it": "Manaphy",
+        "pt": "Manaphy"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Plinfa",
+        "en": "Piplup",
+        "es": "Piplup",
+        "fr": "Tiplouf",
+        "it": "Piplup",
+        "pt": "Piplup"
+      },
+      "rarity": "None",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Pliprin",
+        "en": "Prinplup",
+        "es": "Prinplup",
+        "fr": "Prinplouf",
+        "it": "Prinplup",
+        "pt": "Prinplup"
+      },
+      "rarity": "None",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Golking",
+        "en": "Seaking",
+        "es": "Seaking",
+        "fr": "Poissoroy",
+        "it": "Seaking",
+        "pt": "Seaking"
+      },
+      "rarity": "None",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Karnimani",
+        "en": "Totodile",
+        "es": "Totodile",
+        "fr": "Kaiminus",
+        "it": "Totodile",
+        "pt": "Totodile"
+      },
+      "rarity": "None",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Finsterball",
+        "en": "Dusk Ball",
+        "es": "Ocaso Ball",
+        "fr": "Sombre Ball",
+        "it": "Scuro Ball",
+        "pt": "Bola de Penumbra"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Energiesuche",
+        "en": "Energy Search",
+        "es": "Búsqueda de Energía",
+        "fr": "Recherche d'énergie",
+        "it": "Ricerca di Energia",
+        "pt": "Busca de Energia"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Trank",
+        "en": "Potion",
+        "es": "Poción",
+        "fr": "Potion",
+        "it": "Pozione",
+        "pt": "Poção"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/11/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/11/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/11/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/11/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Wasser-Energie",
+        "en": "Water Energy",
+        "es": "Energía Agua",
+        "fr": "Énergie Eau",
+        "it": "Energia Acqua",
+        "pt": "Energia de Água"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-dp-m/12/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-dp-m/12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-dp-m/12/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-dp-m/12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-dp-m/12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-dp-m/12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-dp-m/12/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-dp-m/12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-dp-m/12/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-dp-m/12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-dp-m/12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-dp-m/12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

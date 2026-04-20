@@ -1,0 +1,70 @@
+{
+  "edition": {
+    "id": "tk-hs-r",
+    "name": "HS trainer Kit (Raichu)",
+    "nameEN": "HS trainer Kit (Raichu)",
+    "names": {
+      "de": "",
+      "en": "HS trainer Kit (Raichu)",
+      "es": "Kit de Entrenador HeatGold & SoulSilver (Raichu)",
+      "fr": "HS Kit du dresseur (Raichu)",
+      "it": "HS trainer Kit (Raichu)",
+      "pt": ""
+    },
+    "series": "Trainer kits",
+    "seriesNames": {
+      "de": "",
+      "en": "Trainer kits",
+      "es": "Kits de Entrenador",
+      "fr": "Kits du dresseur",
+      "it": "Trainer Kit",
+      "pt": ""
+    },
+    "total": 30,
+    "releaseDate": "2010-05-01"
+  },
+  "cards": [
+    {
+      "number": "019",
+      "names": {
+        "de": "Raichu",
+        "en": "Raichu",
+        "es": "Raichu",
+        "fr": "Raichu",
+        "it": "Raichu",
+        "pt": "Raichu"
+      },
+      "rarity": "None",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-hs-r/19/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-hs-r/19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-hs-r/19/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-hs-r/19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-hs-r/19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-hs-r/19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-hs-r/19/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-hs-r/19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-hs-r/19/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-hs-r/19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-hs-r/19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-hs-r/19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

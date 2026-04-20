@@ -1,0 +1,1336 @@
+{
+  "edition": {
+    "id": "tk-xy-sy",
+    "name": "XY trainer Kit (Sylveon)",
+    "nameEN": "XY trainer Kit (Sylveon)",
+    "names": {
+      "de": "",
+      "en": "XY trainer Kit (Sylveon)",
+      "es": "Kit de Entrenador XY (Pikachu Enmascarada)",
+      "fr": "XY Kit du dresseur (Nymphali)",
+      "it": "XY trainer Kit (Sylveon)",
+      "pt": ""
+    },
+    "series": "Trainer kits",
+    "seriesNames": {
+      "de": "",
+      "en": "Trainer kits",
+      "es": "Kits de Entrenador",
+      "fr": "Kits du dresseur",
+      "it": "Trainer Kit",
+      "pt": ""
+    },
+    "total": 30,
+    "releaseDate": "2014-03-12"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Dartiri",
+        "en": "Fletchling",
+        "es": "Fletchling",
+        "fr": "Passerouge",
+        "it": "Fletchling",
+        "pt": "Fletchling"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Tausch",
+        "en": "Switch",
+        "es": "Cambio",
+        "fr": "Échange",
+        "it": "Scambio",
+        "pt": "Substituição"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Snubbull",
+        "en": "Snubbull",
+        "es": "Snubbull",
+        "fr": "Snubbull",
+        "it": "Snubbull",
+        "pt": "Snubbull"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/11/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/11/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/11/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/11/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/12/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/12/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/12/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/12/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "Evoli",
+        "en": "Eevee",
+        "es": "Eevee",
+        "fr": "Évoli",
+        "it": "Eevee",
+        "pt": "Eevee"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/13/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/13/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/13/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/13/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "Granbull",
+        "en": "Granbull",
+        "es": "Granbull",
+        "fr": "Granbull",
+        "it": "Granbull",
+        "pt": "Granbull"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/14/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/14/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/14/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/14/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "Feelinara",
+        "en": "Sylveon",
+        "es": "Sylveon",
+        "fr": "Nymphali",
+        "it": "Sylveon",
+        "pt": "Sylveon"
+      },
+      "rarity": "None",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/15/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/15/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/15/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/15/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Coiffwaff",
+        "en": "Furfrou",
+        "es": "Furfrou",
+        "fr": "Couafarel",
+        "it": "Furfrou",
+        "pt": "Furfrou"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/16/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/16/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/16/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/16/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/17/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/17/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/17/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/17/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/18/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/18/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/18/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/18/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/18/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/18/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/18/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/18/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/18/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/18/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/18/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/18/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "Dartiri",
+        "en": "Fletchling",
+        "es": "Fletchling",
+        "fr": "Passerouge",
+        "it": "Fletchling",
+        "pt": "Fletchling"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/19/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/19/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/19/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/19/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "Trank",
+        "en": "Potion",
+        "es": "Poción",
+        "fr": "Potion",
+        "it": "Pozione",
+        "pt": "Poção"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/20/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/20/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/20/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/20/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "Evoli",
+        "en": "Eevee",
+        "es": "Eevee",
+        "fr": "Évoli",
+        "it": "Eevee",
+        "pt": "Eevee"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/21/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/21/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/21/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/21/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/21/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/21/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/21/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/21/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/21/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/21/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/21/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/21/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "Coiffwaff",
+        "en": "Furfrou",
+        "es": "Furfrou",
+        "fr": "Couafarel",
+        "it": "Furfrou",
+        "pt": "Furfrou"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/22/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/22/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/22/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/22/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/22/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/22/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/22/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/22/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/22/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/22/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/22/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/22/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "Pokémon-Fänger",
+        "en": "Pokémon Catcher",
+        "es": "Capturapokémon",
+        "fr": "Attrape-Pokémon",
+        "it": "Acchiappa-Pokémon",
+        "pt": "Pegador de Pokémon"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/23/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/23/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/23/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/23/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/23/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/23/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/23/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/23/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/23/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/23/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/23/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/23/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "Trank",
+        "en": "Potion",
+        "es": "Poción",
+        "fr": "Potion",
+        "it": "Pozione",
+        "pt": "Poção"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/24/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/24/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/24/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/24/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/24/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/24/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/24/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/24/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/24/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/24/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/24/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/24/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "Feen-Energie",
+        "en": "Fairy Energy",
+        "es": "Energía Hada",
+        "fr": "Énergie Fée",
+        "it": "Energia Folletto",
+        "pt": "Energia de Fada"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/25/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/25/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/25/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/25/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/25/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/25/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/25/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/25/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/25/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/25/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/25/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/25/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "Pokéball",
+        "en": "Poké Ball",
+        "es": "Poké Ball",
+        "fr": "Poké Ball",
+        "it": "Poké Ball",
+        "pt": "Poké Bola"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/26/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/26/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/26/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/26/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/26/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/26/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/26/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/26/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/26/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/26/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/26/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/26/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "Snubbull",
+        "en": "Snubbull",
+        "es": "Snubbull",
+        "fr": "Snubbull",
+        "it": "Snubbull",
+        "pt": "Snubbull"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/27/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/27/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/27/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/27/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/27/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/27/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/27/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/27/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/27/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/27/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/27/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/27/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "",
+        "en": "Professor’s Letter",
+        "es": "Carta del Profesor",
+        "fr": "Lettre du Professeur",
+        "it": "Lettera del Prof",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/28/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/28/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/28/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/28/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/28/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/28/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/28/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/28/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/28/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/28/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/28/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/28/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "Granbull",
+        "en": "Granbull",
+        "es": "Granbull",
+        "fr": "Granbull",
+        "it": "Granbull",
+        "pt": "Granbull"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/29/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/29/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/29/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/29/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/29/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/29/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/29/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/29/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/29/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/29/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/29/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/29/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "Feelinara",
+        "en": "Sylveon",
+        "es": "Sylveon",
+        "fr": "Nymphali",
+        "it": "Sylveon",
+        "pt": "Sylveon"
+      },
+      "rarity": "None",
+      "types": [
+        "Fairy"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-sy/30/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-sy/30/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-sy/30/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-sy/30/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/30/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-sy/30/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-sy/30/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-sy/30/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-sy/30/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-sy/30/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/30/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/30/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

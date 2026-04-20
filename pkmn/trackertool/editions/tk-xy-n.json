@@ -1,0 +1,1312 @@
+{
+  "edition": {
+    "id": "tk-xy-n",
+    "name": "XY trainer Kit (Noivern)",
+    "nameEN": "XY trainer Kit (Noivern)",
+    "names": {
+      "de": "",
+      "en": "XY trainer Kit (Noivern)",
+      "es": "Kit de Entrenador XY (Noivern)",
+      "fr": "XY Kit du dresseur (Bruyverne)",
+      "it": "XY trainer Kit (Noivern)",
+      "pt": ""
+    },
+    "series": "Trainer kits",
+    "seriesNames": {
+      "de": "",
+      "en": "Trainer kits",
+      "es": "Kits de Entrenador",
+      "fr": "Kits du dresseur",
+      "it": "Trainer Kit",
+      "pt": ""
+    },
+    "total": 30,
+    "releaseDate": "2014-03-12"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Spoink",
+        "en": "Spoink",
+        "es": "Spoink",
+        "fr": "Spoink",
+        "it": "Spoink",
+        "pt": "Spoink"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/1/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/1/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/1/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/1/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/1/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/1/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/1/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/1/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/1/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/1/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/1/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/1/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Pumpdjinn",
+        "en": "Gourgeist",
+        "es": "Gourgeist",
+        "fr": "Banshitrouye",
+        "it": "Gourgeist",
+        "pt": "Gourgeist"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/2/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/2/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/2/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/2/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/2/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/2/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/2/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/2/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/2/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/2/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/2/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/2/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Arbok",
+        "en": "Arbok",
+        "es": "Arbok",
+        "fr": "Arbok",
+        "it": "Arbok",
+        "pt": "Arbok"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/3/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/3/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/3/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/3/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/3/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/3/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/3/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/3/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/3/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/3/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/3/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/3/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Scoppel",
+        "en": "Bunnelby",
+        "es": "Bunnelby",
+        "fr": "Sapereau",
+        "it": "Bunnelby",
+        "pt": "Bunnelby"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/4/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/4/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/4/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/4/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/4/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/4/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/4/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/4/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/4/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/4/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/4/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/4/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/5/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/5/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/5/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/5/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/5/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/5/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/5/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/5/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/5/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/5/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/5/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/5/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/6/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/6/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/6/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/6/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/6/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/6/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/6/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/6/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/6/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/6/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/6/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/6/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/7/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/7/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/7/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/7/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/7/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/7/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/7/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/7/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/7/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/7/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/7/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/7/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/8/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/8/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/8/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/8/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/8/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/8/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/8/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/8/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/8/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/8/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/8/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/8/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/9/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/9/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/9/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/9/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/9/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/9/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/9/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/9/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/9/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/9/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/9/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/9/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/10/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/10/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/10/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/10/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/10/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/10/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/10/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/10/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/10/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/10/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/10/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/10/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Irrbis",
+        "en": "Pumpkaboo",
+        "es": "Pumpkaboo",
+        "fr": "Pitrouille",
+        "it": "Pumpkaboo",
+        "pt": "Pumpkaboo"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/11/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/11/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/11/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/11/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/11/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/11/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/11/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/11/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/11/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/11/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/11/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/11/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "eF-eM",
+        "en": "Noibat",
+        "es": "Noibat",
+        "fr": "Sonistrelle",
+        "it": "Noibat",
+        "pt": "Noibat"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/12/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/12/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/12/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/12/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/12/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/12/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/12/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/12/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/12/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/12/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/12/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/12/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "UHaFnir",
+        "en": "Noivern",
+        "es": "Noivern",
+        "fr": "Bruyverne",
+        "it": "Noivern",
+        "pt": "Noivern"
+      },
+      "rarity": "None",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/13/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/13/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/13/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/13/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/13/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/13/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/13/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/13/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/13/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/13/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/13/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/13/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "Pokémon-Fänger",
+        "en": "Pokémon Catcher",
+        "es": "Capturapokémon",
+        "fr": "Attrape-Pokémon",
+        "it": "Acchiappa-Pokémon",
+        "pt": "Pegador de Pokémon"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/14/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/14/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/14/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/14/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/14/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/14/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/14/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/14/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/14/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/14/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/14/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/14/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "Trank",
+        "en": "Potion",
+        "es": "Poción",
+        "fr": "Potion",
+        "it": "Pozione",
+        "pt": "Poção"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/15/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/15/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/15/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/15/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/15/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/15/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/15/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/15/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/15/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/15/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/15/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/15/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Rettan",
+        "en": "Ekans",
+        "es": "Ekans",
+        "fr": "Abo",
+        "it": "Ekans",
+        "pt": "Ekans"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/16/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/16/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/16/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/16/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/16/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/16/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/16/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/16/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/16/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/16/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/16/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/16/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/17/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/17/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/17/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/17/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/17/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/17/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/17/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/17/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/17/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/17/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/17/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/17/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "Irrbis",
+        "en": "Pumpkaboo",
+        "es": "Pumpkaboo",
+        "fr": "Pitrouille",
+        "it": "Pumpkaboo",
+        "pt": "Pumpkaboo"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/18/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/18/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/18/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/18/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/18/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/18/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/18/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/18/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/18/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/18/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/18/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/18/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "Finsternis-Energie",
+        "en": "Darkness Energy",
+        "es": "Energía Oscura",
+        "fr": "Énergie Obscurité",
+        "it": "Energia Oscurità",
+        "pt": "Energia Noturna"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/19/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/19/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/19/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/19/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/19/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/19/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/19/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/19/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/19/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/19/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/19/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/19/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "Coiffwaff",
+        "en": "Furfrou",
+        "es": "Furfrou",
+        "fr": "Couafarel",
+        "it": "Furfrou",
+        "pt": "Furfrou"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/20/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/20/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/20/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/20/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/20/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/20/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/20/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/20/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/20/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/20/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/20/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/20/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "Pokéball",
+        "en": "Poké Ball",
+        "es": "Poké Ball",
+        "fr": "Poké Ball",
+        "it": "Poké Ball",
+        "pt": "Poké Bola"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/21/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/21/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/21/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/21/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/21/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/21/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/21/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/21/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/21/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/21/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/21/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/21/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "Finsternis-Energie",
+        "en": "Darkness Energy",
+        "es": "Energía Oscura",
+        "fr": "Énergie Obscurité",
+        "it": "Energia Oscurità",
+        "pt": "Energia Noturna"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/22/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/22/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/22/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/22/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/22/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/22/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/22/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/22/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/22/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/22/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/22/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/22/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "eF-eM",
+        "en": "Noibat",
+        "es": "Noibat",
+        "fr": "Sonistrelle",
+        "it": "Noibat",
+        "pt": "Noibat"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/23/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/23/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/23/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/23/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/23/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/23/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/23/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/23/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/23/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/23/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/23/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/23/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "",
+        "en": "Professor’s Letter",
+        "es": "Carta del Profesor",
+        "fr": "Lettre du Professeur",
+        "it": "Lettera del Prof",
+        "pt": ""
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/24/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/24/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/24/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/24/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/24/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/24/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/24/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/24/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/24/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/24/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/24/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/24/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "Psycho-Energie",
+        "en": "Psychic Energy",
+        "es": "Energía Psíquica",
+        "fr": "Énergie Psy",
+        "it": "Energia Psico",
+        "pt": "Energia Psíquica"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/25/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/25/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/25/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/25/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/25/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/25/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/25/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/25/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/25/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/25/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/25/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/25/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "Finsternis-Energie",
+        "en": "Darkness Energy",
+        "es": "Energía Oscura",
+        "fr": "Énergie Obscurité",
+        "it": "Energia Oscurità",
+        "pt": "Energia Noturna"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/26/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/26/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/26/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/26/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/26/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/26/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/26/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/26/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/26/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/26/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/26/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/26/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "Trank",
+        "en": "Potion",
+        "es": "Poción",
+        "fr": "Potion",
+        "it": "Pozione",
+        "pt": "Poção"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/27/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/27/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/27/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/27/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/27/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/27/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/27/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/27/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/27/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/27/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/27/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/27/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "Finsternis-Energie",
+        "en": "Darkness Energy",
+        "es": "Energía Oscura",
+        "fr": "Énergie Obscurité",
+        "it": "Energia Oscurità",
+        "pt": "Energia Noturna"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/28/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/28/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/28/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/28/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/28/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/28/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/28/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/28/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/28/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/28/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/28/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/28/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "Tausch",
+        "en": "Switch",
+        "es": "Cambio",
+        "fr": "Échange",
+        "it": "Scambio",
+        "pt": "Substituição"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/29/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/29/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/29/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/29/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/29/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/29/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/29/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/29/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/29/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/29/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/29/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/29/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "UHaFnir",
+        "en": "Noivern",
+        "es": "Noivern",
+        "fr": "Bruyverne",
+        "it": "Noivern",
+        "pt": "Noivern"
+      },
+      "rarity": "None",
+      "types": [
+        "Dragon"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/tk/tk-xy-n/30/low.webp",
+        "large": "https://assets.tcgdex.net/en/tk/tk-xy-n/30/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/tk/tk-xy-n/30/low.webp",
+          "large": "https://assets.tcgdex.net/de/tk/tk-xy-n/30/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/tk/tk-xy-n/30/low.webp",
+          "large": "https://assets.tcgdex.net/fr/tk/tk-xy-n/30/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/tk/tk-xy-n/30/low.webp",
+          "large": "https://assets.tcgdex.net/es/tk/tk-xy-n/30/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/tk/tk-xy-n/30/low.webp",
+          "large": "https://assets.tcgdex.net/it/tk/tk-xy-n/30/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/tk/tk-xy-n/30/low.webp",
+          "large": "https://assets.tcgdex.net/pt/tk/tk-xy-n/30/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "",
+        "tcgplayer": ""
+      },
+      "notes": ""
+    }
+  ]
+}

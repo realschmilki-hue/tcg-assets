@@ -4,21 +4,21 @@
     "name": "McDonald's Collection 2023",
     "nameEN": "McDonald's Collection 2023",
     "names": {
-      "de": "",
+      "de": "McDonald's Collection 2023",
       "en": "McDonald's Collection 2023",
       "es": "Colección de McDonald's 2023",
       "fr": "Collection McDonald's 2023",
       "it": "McDonald's Collection 2023",
-      "pt": ""
+      "pt": "Coleção McDonald's 2023"
     },
     "series": "McDonald's Collection",
     "seriesNames": {
-      "de": "",
+      "de": "McDonald's Collection",
       "en": "McDonald's Collection",
       "es": "Colección de McDonald's",
       "fr": "Collection McDonald's",
       "it": "McDonald's Collection",
-      "pt": ""
+      "pt": "Coleção McDonald's"
     },
     "total": 15,
     "releaseDate": "2023-08-01"

@@ -11,9 +11,9 @@
         "de": "Optimale Ordnung",
         "en": "Perfect Order",
         "es": "Equilibrio Perfecto",
-        "fr": "??quilibre Parfait",
+        "fr": "Équilibre Parfait",
         "it": "Equilibrio Perfetto",
-        "pt": "Her??is Excelsos"
+        "pt": "Heróis Excelsos"
       },
       "logo": "setlogo/perfect-order.png",
       "logos": {
@@ -42,10 +42,10 @@
       "names": {
         "de": "Erhabene Helden",
         "en": "Ascended Heroes",
-        "es": "H??roes Ascendentes",
-        "fr": "H??ros Transcendants",
+        "es": "Héroes Ascendentes",
+        "fr": "Héros Transcendants",
         "it": "Ascesa Eroica",
-        "pt": "Her??is Excelsos"
+        "pt": "Heróis Excelsos"
       },
       "logo": "setlogo/ascended-heroes.png",
       "logos": {
@@ -77,7 +77,7 @@
         "es": "Fuegos Fantasmales",
         "fr": "Flammes Fantasmagoriques",
         "it": "Flamme Spettrali",
-        "pt": "Fogo Fantasmag??rico"
+        "pt": "Fogo Fantasmagórico"
       },
       "logo": "setlogo/phantasmal-flames.png",
       "logos": {
@@ -106,10 +106,10 @@
       "names": {
         "de": "Mega-Entwicklung",
         "en": "Mega Evolution",
-        "es": "Megaevoluci??n",
-        "fr": "M??ga-??volution",
+        "es": "Megaevolución",
+        "fr": "Méga-Évolution",
         "it": "Megaevoluzione",
-        "pt": "Megaevolu????o"
+        "pt": "Megaevolução"
       },
       "logo": "setlogo/mega-evolution.png",
       "logos": {
@@ -129,6 +129,38 @@
       "links": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Evolution",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/me01-mega-evolution"
+      }
+    },
+    {
+      "id": "sv10.5w",
+      "name": "White Flare",
+      "nameEN": "White Flare",
+      "names": {
+        "de": "Weiße Flammen",
+        "en": "White Flare",
+        "es": "Llama Blanca",
+        "fr": "Flamme Blanche",
+        "it": "Fuoco Bianco",
+        "pt": "Fogo Branco"
+      },
+      "logo": "setlogo/white-flare.png",
+      "logos": {
+        "en": "setlogo/white-flare.png",
+        "de": "setlogo/de/white-flare.png",
+        "fr": "setlogo/fr/white-flare.png",
+        "es": "setlogo/es/white-flare.png",
+        "it": "setlogo/it/white-flare.png",
+        "pt": "setlogo/pt/white-flare.png"
+      },
+      "symbol": "",
+      "total": 173,
+      "releaseDate": "2025-07-17",
+      "maintainer": "RSch",
+      "updated": "2026-04-13",
+      "file": "editions/sv10.5w.json",
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare",
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/sv-white-flare"
       }
     },
     {
@@ -164,38 +196,6 @@
       }
     },
     {
-      "id": "sv10.5w",
-      "name": "White Flare",
-      "nameEN": "White Flare",
-      "names": {
-        "de": "Wei??e Flammen",
-        "en": "White Flare",
-        "es": "Llama Blanca",
-        "fr": "Flamme Blanche",
-        "it": "Fuoco Bianco",
-        "pt": "Fogo Branco"
-      },
-      "logo": "setlogo/white-flare.png",
-      "logos": {
-        "en": "setlogo/white-flare.png",
-        "de": "setlogo/de/white-flare.png",
-        "fr": "setlogo/fr/white-flare.png",
-        "es": "setlogo/es/white-flare.png",
-        "it": "setlogo/it/white-flare.png",
-        "pt": "setlogo/pt/white-flare.png"
-      },
-      "symbol": "",
-      "total": 173,
-      "releaseDate": "2025-07-17",
-      "maintainer": "RSch",
-      "updated": "2026-04-13",
-      "file": "editions/sv10.5w.json",
-      "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/White-Flare",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/sv-white-flare"
-      }
-    },
-    {
       "id": "sv10",
       "name": "Destined Rivals",
       "nameEN": "Destined Rivals",
@@ -203,7 +203,7 @@
         "de": "Ewige Rivalen",
         "en": "Destined Rivals",
         "es": "Rivales Predestinados",
-        "fr": "Rivalit??s Destin??es",
+        "fr": "Rivalités Destinées",
         "it": "Rivali Predestinati",
         "pt": "Rivais Predestinados"
       },
@@ -232,7 +232,7 @@
       "name": "Journey Together",
       "nameEN": "Journey Together",
       "names": {
-        "de": "Reisegef??hrten",
+        "de": "Reisegefährten",
         "en": "Journey Together",
         "es": "Juntos de Aventuras",
         "fr": "Aventures Ensemble",
@@ -266,10 +266,10 @@
       "names": {
         "de": "Prismatische Entwicklungen",
         "en": "Prismatic Evolutions",
-        "es": "Evoluciones Prism??ticas",
-        "fr": "??volutions Prismatiques",
+        "es": "Evoluciones Prismáticas",
+        "fr": "Évolutions Prismatiques",
         "it": "Evoluzioni Prismatiche",
-        "pt": "Evolu????es Prism??ticas"
+        "pt": "Evoluções Prismáticas"
       },
       "logo": "setlogo/prismatic-evolutions.png",
       "logos": {
@@ -292,14 +292,46 @@
       }
     },
     {
+      "id": "2024sv",
+      "links": {
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2024",
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2024"
+      },
+      "logos": {
+        "en": "setlogo/mcdonalds-collection-dragon-discovery-2024.png",
+        "de": "setlogo/mcdonalds-collection-dragon-discovery-2024.png",
+        "it": "setlogo/mcdonalds-collection-dragon-discovery-2024.png",
+        "fr": "setlogo/mcdonalds-collection-dragon-discovery-2024.png",
+        "es": "setlogo/mcdonalds-collection-dragon-discovery-2024.png",
+        "pt": "setlogo/mcdonalds-collection-dragon-discovery-2024.png"
+      },
+      "file": "editions/2024sv.json",
+      "releaseDate": "2024-12-04",
+      "symbol": "",
+      "name": "McDonald's Collection 2024",
+      "logo": "setlogo/mcdonalds-collection-dragon-discovery-2024.png",
+      "nameEN": "McDonald's Collection 2024",
+      "names": {
+        "de": "McDonald's Collection 2024",
+        "it": "McDonald's Collection 2024",
+        "en": "McDonald's Collection 2024",
+        "fr": "Collection McDonald's 2024",
+        "es": "Colección de McDonald's 2024",
+        "pt": "Coleção McDonald's 2024"
+      },
+      "total": 15,
+      "maintainer": "RSch",
+      "updated": "2026-04-20"
+    },
+    {
       "id": "sv08",
       "name": "Surging Sparks",
       "nameEN": "Surging Sparks",
       "names": {
-        "de": "St??rmische Funken",
+        "de": "Stürmische Funken",
         "en": "Surging Sparks",
         "es": "Chispas Fulgurantes",
-        "fr": "??tincelles D??ferlantes",
+        "fr": "Étincelles Déferlantes",
         "it": "Scintille Folgoranti",
         "pt": "Fagulhas Impetuosas"
       },
@@ -362,10 +394,10 @@
       "names": {
         "de": "Nebel der Sagen",
         "en": "Shrouded Fable",
-        "es": "Fabula Sombr??a",
-        "fr": "Fable N??buleuse",
+        "es": "Fábula Sombría",
+        "fr": "Fable Nébuleuse",
         "it": "Segreto Fiabesco",
-        "pt": "F??bulas Nebulosas"
+        "pt": "Fábulas Nebulosas"
       },
       "logo": "setlogo/shrouded-fable.png",
       "logos": {
@@ -395,9 +427,9 @@
         "de": "Maskerade im Zwielicht",
         "en": "Twilight Masquerade",
         "es": "Mascarada Crepuscular",
-        "fr": "Mascarade Cr??pusculaire",
+        "fr": "Mascarade Crépusculaire",
         "it": "Crepuscolo Mascherato",
-        "pt": "M??scaras do Crep??sculo"
+        "pt": "Máscaras do Crepúsculo"
       },
       "logo": "setlogo/twilight-masquerade.png",
       "logos": {
@@ -429,7 +461,7 @@
         "es": "Fuerzas Temporales",
         "fr": "Forces Temporelles",
         "it": "Cronoforze",
-        "pt": "For??as Temporais"
+        "pt": "Forças Temporais"
       },
       "logo": "setlogo/temporal-forces.png",
       "logos": {
@@ -459,7 +491,7 @@
         "de": "Paldeas Schicksale",
         "en": "Paldean Fates",
         "es": "Destinos de Paldea",
-        "fr": "Destin??es de Paldea",
+        "fr": "Destinées de Paldea",
         "it": "Destino di Paldea",
         "pt": "Destinos de Paldea"
       },
@@ -490,7 +522,7 @@
       "names": {
         "de": "Paradoxrift",
         "en": "Paradox Rift",
-        "es": "Brecha Parad??jica",
+        "es": "Brecha Paradójica",
         "fr": "Faille Paradoxe",
         "it": "Paradosso Temporale",
         "pt": "Fenda Paradoxal"
@@ -580,6 +612,38 @@
       }
     },
     {
+      "id": "2023sv",
+      "links": {
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2023",
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Match-Battle-2023"
+      },
+      "logos": {
+        "en": "setlogo/mcdonalds-collection-2023.png",
+        "de": "setlogo/mcdonalds-collection-2023.png",
+        "it": "setlogo/mcdonalds-collection-2023.png",
+        "fr": "setlogo/mcdonalds-collection-2023.png",
+        "es": "setlogo/mcdonalds-collection-2023.png",
+        "pt": "setlogo/mcdonalds-collection-2023.png"
+      },
+      "file": "editions/2023sv.json",
+      "releaseDate": "2023-08-01",
+      "symbol": "",
+      "name": "McDonald's Collection 2023",
+      "logo": "setlogo/mcdonalds-collection-2023.png",
+      "nameEN": "McDonald's Collection 2023",
+      "names": {
+        "de": "McDonald's Collection 2023",
+        "it": "McDonald's Collection 2023",
+        "en": "McDonald's Collection 2023",
+        "fr": "Collection McDonald's 2023",
+        "es": "Colección de McDonald's 2023",
+        "pt": "Coleção McDonald's 2023"
+      },
+      "total": 15,
+      "maintainer": "RSch",
+      "updated": "2026-04-20"
+    },
+    {
       "id": "sv02",
       "name": "Paldea Evolved",
       "nameEN": "Paldea Evolved",
@@ -587,9 +651,9 @@
         "de": "Entwicklungen in Paldea",
         "en": "Paldea Evolved",
         "es": "Evoluciones en Paldea",
-        "fr": "??volutions ?? Paldea",
+        "fr": "Évolutions à Paldea",
         "it": "Evoluzioni a Paldea",
-        "pt": "Evolu????es em Paldea"
+        "pt": "Evoluções em Paldea"
       },
       "logo": "setlogo/paldea-evolved.png",
       "logos": {
@@ -619,9 +683,9 @@
         "de": "Entwicklungen in Paldea",
         "en": "Paldea Evolved",
         "es": "Evoluciones en Paldea",
-        "fr": "??volutions ?? Paldea",
+        "fr": "Évolutions à Paldea",
         "it": "Evoluzioni a Paldea",
-        "pt": "Evolu????es em Paldea"
+        "pt": "Evoluções em Paldea"
       },
       "logo": "setlogo/paldea-evolved.png",
       "logos": {
@@ -677,13 +741,13 @@
     },
     {
       "id": "sv01",
-      "name": "Scarlet \u0026 Violet",
-      "nameEN": "Scarlet \u0026 Violet",
+      "name": "Scarlet & Violet",
+      "nameEN": "Scarlet & Violet",
       "names": {
-        "de": "Karmesin \u0026 Purpur",
-        "en": "Scarlet \u0026 Violet",
-        "es": "Escarlata y P??rpura",
-        "fr": "??carlate et Violet",
+        "de": "Karmesin & Purpur",
+        "en": "Scarlet & Violet",
+        "es": "Escarlata y Púrpura",
+        "fr": "Écarlate et Violet",
         "it": "Scarlatto e Violetto",
         "pt": "Escarlate e Violeta"
       },
@@ -712,10 +776,10 @@
       "name": "Crown Zenith",
       "nameEN": "Crown Zenith",
       "names": {
-        "de": "Zenit der K??nige",
+        "de": "Zenit der Könige",
         "en": "Crown Zenith",
         "es": "Cenit Supremo",
-        "fr": "Z??nith Supr??me",
+        "fr": "Zénith Suprême",
         "it": "Zenit Regale",
         "pt": "Realeza Absoluta"
       },
@@ -747,7 +811,7 @@
         "de": "Silberne Sturmwinde",
         "en": "Silver Tempest",
         "es": "Tempestad Plateada",
-        "fr": "Temp??te Argent??e",
+        "fr": "Tempête Argentée",
         "it": "Tempesta Argentata",
         "pt": "Tempestade Prateada"
       },
@@ -804,16 +868,48 @@
       }
     },
     {
-      "id": "swsh10.5",
-      "name": "Pok??mon GO",
-      "nameEN": "Pok??mon GO",
+      "id": "2022swsh",
+      "links": {
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2022",
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2022"
+      },
+      "logos": {
+        "en": "setlogo/mcdonalds-collection-2022.png",
+        "de": "setlogo/mcdonalds-collection-2022.png",
+        "it": "setlogo/mcdonalds-collection-2022.png",
+        "fr": "setlogo/mcdonalds-collection-2022.png",
+        "es": "setlogo/mcdonalds-collection-2022.png",
+        "pt": "setlogo/mcdonalds-collection-2022.png"
+      },
+      "file": "editions/2022swsh.json",
+      "releaseDate": "2022-08-03",
+      "symbol": "",
+      "name": "McDonald's Collection 2022",
+      "logo": "setlogo/mcdonalds-collection-2022.png",
+      "nameEN": "McDonald's Collection 2022",
       "names": {
-        "de": "Pok??mon GO",
-        "en": "Pok??mon GO",
-        "es": "Pok??mon GO",
-        "fr": "Pok??mon GO",
-        "it": "Pok??mon GO",
-        "pt": "Pok??mon GO"
+        "de": "McDonald's Collection 2022",
+        "it": "McDonald's Collection 2022",
+        "en": "McDonald's Collection 2022",
+        "fr": "Collection McDonald's 2022",
+        "es": "Colección de McDonald's 2022",
+        "pt": "Coleção McDonald's 2022"
+      },
+      "total": 15,
+      "maintainer": "RSch",
+      "updated": "2026-04-20"
+    },
+    {
+      "id": "swsh10.5",
+      "name": "Pokémon GO",
+      "nameEN": "Pokémon GO",
+      "names": {
+        "de": "Pokémon GO",
+        "en": "Pokémon GO",
+        "es": "Pokémon GO",
+        "fr": "Pokémon GO",
+        "it": "Pokémon GO",
+        "pt": "Pokémon GO"
       },
       "logo": "setlogo/pokemon-go.png",
       "logos": {
@@ -831,7 +927,7 @@
       "updated": "2026-04-18",
       "file": "editions/swsh10.5.json",
       "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pok??mon-GO",
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pokemon-GO",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/pokemon-go"
       }
     },
@@ -875,7 +971,7 @@
         "de": "Strahlende Sterne",
         "en": "Brilliant Stars",
         "es": "Astros Brillantes",
-        "fr": "Stars ??tincelantes",
+        "fr": "Stars Étincelantes",
         "it": "Astri Lucenti",
         "pt": "Astros Cintilantes"
       },
@@ -906,10 +1002,10 @@
       "names": {
         "de": "Fusions Angriff",
         "en": "Fusion Strike",
-        "es": "Golpe Fusi??n",
+        "es": "Golpe Fusión",
         "fr": "Poing de Fusion",
         "it": "Colpo Fusione",
-        "pt": "Golpe Fus??o"
+        "pt": "Golpe Fusão"
       },
       "logo": "setlogo/fusion-strike.png",
       "logos": {
@@ -939,9 +1035,9 @@
         "de": "Celebrations",
         "en": "Celebrations",
         "es": "Celebraciones",
-        "fr": "C??l??brations",
+        "fr": "Célébrations",
         "it": "Gran Festa",
-        "pt": "Celebra????es"
+        "pt": "Celebrações"
       },
       "logo": "setlogo/celebrations.png",
       "logos": {
@@ -971,9 +1067,9 @@
         "de": "Drachenwandel",
         "en": "Evolving Skies",
         "es": "Cielos Evolutivos",
-        "fr": "??volution C??leste",
+        "fr": "Évolution Céleste",
         "it": "Evoluzioni Eteree",
-        "pt": "C??us em Evolu????o"
+        "pt": "Céus em Evolução"
       },
       "logo": "setlogo/evolving-skies.png",
       "logos": {
@@ -1003,7 +1099,7 @@
         "de": "Schaurige Herrschaft",
         "en": "Chilling Reign",
         "es": "Reinado Escalofriante",
-        "fr": "R??gne de Glace",
+        "fr": "Règne de Glace",
         "it": "Regno Glaciale",
         "pt": "Reinado Arrepiante"
       },
@@ -1064,10 +1160,10 @@
       "name": "Shining Fates",
       "nameEN": "Shining Fates",
       "names": {
-        "de": "Gl??nzendes Schicksal",
+        "de": "Glänzendes Schicksal",
         "en": "Shining Fates",
         "es": "Destinos Brillantes",
-        "fr": "Destin??es Radieuses",
+        "fr": "Destinées Radieuses",
         "it": "Destino Splendente",
         "pt": "Destinos Brilhantes "
       },
@@ -1092,16 +1188,48 @@
       }
     },
     {
+      "id": "2021swsh",
+      "links": {
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-25th-anniversary-promos",
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-25th-Anniversary"
+      },
+      "logos": {
+        "en": "setlogo/mcdonalds-collection-2021.png",
+        "de": "setlogo/mcdonalds-collection-2021.png",
+        "it": "setlogo/mcdonalds-collection-2021.png",
+        "fr": "setlogo/mcdonalds-collection-2021.png",
+        "es": "setlogo/mcdonalds-collection-2021.png",
+        "pt": "setlogo/mcdonalds-collection-2021.png"
+      },
+      "file": "editions/2021swsh.json",
+      "releaseDate": "2021-02-09",
+      "symbol": "setsymbol/mcdonald-s-collection-2021.png",
+      "name": "McDonald's Collection 2021",
+      "logo": "setlogo/mcdonalds-collection-2021.png",
+      "nameEN": "McDonald's Collection 2021",
+      "names": {
+        "de": "McDonald's Collection 2021",
+        "it": "McDonald's Collection 2021",
+        "en": "McDonald's Collection 2021",
+        "fr": "Collection McDonald's 2021",
+        "es": "Colección de McDonald's 2021",
+        "pt": "Coleção McDonald's 2021"
+      },
+      "total": 25,
+      "maintainer": "RSch",
+      "updated": "2026-04-20"
+    },
+    {
       "id": "swsh4",
       "name": "Vivid Voltage",
       "nameEN": "Vivid Voltage",
       "names": {
         "de": "Farbenschock",
         "en": "Vivid Voltage",
-        "es": "Voltaje V??vido",
-        "fr": "Voltage ??clatant",
+        "es": "Voltaje Vívido",
+        "fr": "Voltage Éclatant",
         "it": "Voltaggio Sfolgorante",
-        "pt": "Voltagem V??vida"
+        "pt": "Voltagem Vívida"
       },
       "logo": "setlogo/vivid-voltage.png",
       "logos": {
@@ -1125,15 +1253,15 @@
     },
     {
       "id": "swsh3.5",
-      "name": "Champion\u0027s Path",
-      "nameEN": "Champion\u0027s Path",
+      "name": "Champion's Path",
+      "nameEN": "Champion's Path",
       "names": {
         "de": "Weg des Champs",
-        "en": "Champion\u0027s Path",
+        "en": "Champion's Path",
         "es": "Camino de Campeones",
-        "fr": "La Voie du Ma??tre",
+        "fr": "La Voie du Maître",
         "it": "Futuri Campioni",
-        "pt": "Caminho do Campe??o"
+        "pt": "Caminho do Campeão"
       },
       "logo": "setlogo/champions-path.png",
       "logos": {
@@ -1163,9 +1291,9 @@
         "de": "Flammende Finsternis",
         "en": "Darkness Ablaze",
         "es": "Oscuridad Incandescente",
-        "fr": "T??n??bres Embras??es",
+        "fr": "Ténèbres Embrasées",
         "it": "Fiamme Oscure",
-        "pt": "Escurid??o Incandescente"
+        "pt": "Escuridão Incandescente"
       },
       "logo": "setlogo/darkness-ablaze.png",
       "logos": {
@@ -1221,13 +1349,13 @@
     },
     {
       "id": "swsh1",
-      "name": "Sword \u0026 Shield",
-      "nameEN": "Sword \u0026 Shield",
+      "name": "Sword & Shield",
+      "nameEN": "Sword & Shield",
       "names": {
-        "de": "Schwert \u0026 Schild",
-        "en": "Sword \u0026 Shield",
+        "de": "Schwert & Schild",
+        "en": "Sword & Shield",
         "es": "Espada y Escudo",
-        "fr": "??p??e et Bouclier",
+        "fr": "Épée et Bouclier",
         "it": "Spada e Scudo",
         "pt": "Espada e Escudo"
       },
@@ -1258,7 +1386,7 @@
       "names": {
         "de": "SCSC Promokarten",
         "en": "SWSH Black Star Promos",
-        "es": "Cartas de promoci??n ESES",
+        "es": "Cartas de promoción ESES",
         "fr": "Promo SWSH",
         "it": "SPSC Promo",
         "pt": "ESES Promos"
@@ -1290,10 +1418,10 @@
       "names": {
         "de": "Welten im Wandel",
         "en": "Cosmic Eclipse",
-        "es": "Eclipse C??smico",
-        "fr": "??clipse Cosmique",
+        "es": "Eclipse Cósmico",
+        "fr": "Éclipse Cosmique",
         "it": "Eclissi Cosmica",
-        "pt": "Eclipse C??smico"
+        "pt": "Eclipse Cósmico"
       },
       "logo": "setlogo/cosmic-eclipse.png",
       "logos": {
@@ -1316,36 +1444,36 @@
       }
     },
     {
-      "id": "sm115",
-      "name": "Hidden Fates",
-      "nameEN": "Hidden Fates",
-      "names": {
-        "de": "Verborgenes Schicksal",
-        "en": "Hidden Fates",
-        "es": "Destinos Ocultos",
-        "fr": "Destin??es Occultes",
-        "it": "Destino Sfuggente",
-        "pt": "Destinos Ocultos"
-      },
-      "logo": "setlogo/hidden-fates.png",
-      "logos": {
-        "en": "setlogo/hidden-fates.png",
-        "de": "setlogo/de/hidden-fates.png",
-        "fr": "setlogo/fr/hidden-fates.png",
-        "es": "setlogo/es/hidden-fates.png",
-        "it": "setlogo/it/hidden-fates.png",
-        "pt": "setlogo/pt/hidden-fates.png"
-      },
-      "symbol": "setsymbol/hidden-fates.png",
-      "total": 69,
-      "releaseDate": "2019-08-23",
-      "maintainer": "RSch",
-      "updated": "2026-04-19",
-      "file": "editions/sm115.json",
+      "id": "2019sm",
       "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/hidden-fates"
-      }
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2019",
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2019"
+      },
+      "logos": {
+        "en": "setlogo/mcdonalds-collection-2019.png",
+        "de": "setlogo/mcdonalds-collection-2019.png",
+        "it": "setlogo/mcdonalds-collection-2019.png",
+        "fr": "setlogo/mcdonalds-collection-2019.png",
+        "es": "setlogo/mcdonalds-collection-2019.png",
+        "pt": "setlogo/mcdonalds-collection-2019.png"
+      },
+      "file": "editions/2019sm.json",
+      "releaseDate": "2019-10-15",
+      "symbol": "",
+      "name": "McDonald's Collection 2019",
+      "logo": "setlogo/mcdonalds-collection-2019.png",
+      "nameEN": "McDonald's Collection 2019",
+      "names": {
+        "de": "McDonald's Collection 2019",
+        "it": "McDonald's Collection 2019",
+        "en": "McDonald's Collection 2019",
+        "fr": "Collection McDonald's 2019",
+        "es": "Colección de McDonald's 2019",
+        "pt": "Coleção McDonald's 2019"
+      },
+      "total": 12,
+      "maintainer": "RSch",
+      "updated": "2026-04-20"
     },
     {
       "id": "sma",
@@ -1355,7 +1483,7 @@
         "de": "Verborgenes Schicksal Glitzer-Tresor",
         "en": "Hidden Fates Shiny Vault",
         "es": "Destinos Ocultos Tesoro Brillante",
-        "fr": "Destin??es Occultes Coffre ??tincelant",
+        "fr": "Destinées Occultes Coffre Étincelant",
         "it": "Destino Sfuggente Tesoro Lucente",
         "pt": "Destinos Ocultos Cofre Brilhante"
       },
@@ -1377,6 +1505,38 @@
       "links": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/hidden-fates-shiny-vault"
+      }
+    },
+    {
+      "id": "sm115",
+      "name": "Hidden Fates",
+      "nameEN": "Hidden Fates",
+      "names": {
+        "de": "Verborgenes Schicksal",
+        "en": "Hidden Fates",
+        "es": "Destinos Ocultos",
+        "fr": "Destinées Occultes",
+        "it": "Destino Sfuggente",
+        "pt": "Destinos Ocultos"
+      },
+      "logo": "setlogo/hidden-fates.png",
+      "logos": {
+        "en": "setlogo/hidden-fates.png",
+        "de": "setlogo/de/hidden-fates.png",
+        "fr": "setlogo/fr/hidden-fates.png",
+        "es": "setlogo/es/hidden-fates.png",
+        "it": "setlogo/it/hidden-fates.png",
+        "pt": "setlogo/pt/hidden-fates.png"
+      },
+      "symbol": "setsymbol/hidden-fates.png",
+      "total": 69,
+      "releaseDate": "2019-08-23",
+      "maintainer": "RSch",
+      "updated": "2026-04-19",
+      "file": "editions/sm115.json",
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Hidden-Fates",
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/hidden-fates"
       }
     },
     {
@@ -1416,12 +1576,12 @@
       "name": "Unbroken Bonds",
       "nameEN": "Unbroken Bonds",
       "names": {
-        "de": "Kr??fte im Einklang",
+        "de": "Kräfte im Einklang",
         "en": "Unbroken Bonds",
-        "es": "V??nculos Indestructibles",
+        "es": "Vínculos Indestructibles",
         "fr": "Alliance Infaillible",
         "it": "Legami Inossidabili",
-        "pt": "Elos Inquebr??veis"
+        "pt": "Elos Inquebráveis"
       },
       "logo": "setlogo/unbroken-bonds.png",
       "logos": {
@@ -1451,7 +1611,7 @@
         "de": "Meisterdetektiv Pikachu",
         "en": "Detective Pikachu",
         "es": "Detective Pikachu",
-        "fr": "D??tective Pikachu",
+        "fr": "Détective Pikachu",
         "it": "Detective Pikachu",
         "pt": "Detetive Pikachu"
       },
@@ -1485,7 +1645,7 @@
         "es": "Union de Aliados",
         "fr": "Duo de Choc",
         "it": "Gioco di Squadra",
-        "pt": "Uni??o de Aliados"
+        "pt": "União de Aliados"
       },
       "logo": "setlogo/team-up.png",
       "logos": {
@@ -1517,7 +1677,7 @@
         "es": "Truenos Perdidos",
         "fr": "Tonnerre Perdu",
         "it": "Tuoni Perduti",
-        "pt": "Trov??es Perdidos"
+        "pt": "Trovões Perdidos"
       },
       "logo": "setlogo/lost-thunder.png",
       "logos": {
@@ -1540,16 +1700,48 @@
       }
     },
     {
+      "id": "2018sm",
+      "links": {
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2018",
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2018"
+      },
+      "logos": {
+        "en": "setlogo/mcdonalds-collection-2018.png",
+        "de": "setlogo/mcdonalds-collection-2018.png",
+        "it": "setlogo/mcdonalds-collection-2018.png",
+        "fr": "setlogo/mcdonalds-collection-2018.png",
+        "es": "setlogo/mcdonalds-collection-2018.png",
+        "pt": "setlogo/mcdonalds-collection-2018.png"
+      },
+      "file": "editions/2018sm.json",
+      "releaseDate": "2018-10-19",
+      "symbol": "",
+      "name": "McDonald's Collection 2018",
+      "logo": "setlogo/mcdonalds-collection-2018.png",
+      "nameEN": "McDonald's Collection 2018",
+      "names": {
+        "de": "McDonald's Collection 2018",
+        "it": "McDonald's Collection 2018",
+        "en": "McDonald's Collection 2018",
+        "fr": "Collection McDonald's 2018",
+        "es": "Colección de McDonald's 2018",
+        "pt": "Coleção McDonald's 2018"
+      },
+      "total": 12,
+      "maintainer": "RSch",
+      "updated": "2026-04-20"
+    },
+    {
       "id": "sm7.5",
       "name": "Dragon Majesty",
       "nameEN": "Dragon Majesty",
       "names": {
-        "de": "Majest??t Der Drachen",
+        "de": "Majestät Der Drachen",
         "en": "Dragon Majesty",
         "es": "Majestad De Dragones",
-        "fr": "Majest?? Des Dragons",
+        "fr": "Majesté Des Dragons",
         "it": "Trionfo Dei Draghi",
-        "pt": "Drag??es Soberanos"
+        "pt": "Dragões Soberanos"
       },
       "logo": "setlogo/dragon-majesty.png",
       "logos": {
@@ -1579,7 +1771,7 @@
         "de": "Sturm Am Firmament",
         "en": "Celestial Storm",
         "es": "Tormenta Celestial",
-        "fr": "Temp??te C??leste",
+        "fr": "Tempête Céleste",
         "it": "Tempesta Astrale",
         "pt": "Tempestade Celestial"
       },
@@ -1611,7 +1803,7 @@
         "de": "Grauen Der Lichtfinsternis",
         "en": "Forbidden Light",
         "es": "Luz Prohibida",
-        "fr": "Lumi??re Interdite",
+        "fr": "Lumière Interdite",
         "it": "Apocalisse Di Luce",
         "pt": "Luz Proibida"
       },
@@ -1672,12 +1864,12 @@
       "name": "Crimson Invasion",
       "nameEN": "Crimson Invasion",
       "names": {
-        "de": "Aufziehen der Sturmr??te",
+        "de": "Aufziehen der Sturmröte",
         "en": "Crimson Invasion",
-        "es": "Invasi??n Carmes??",
+        "es": "Invasión Carmesí",
         "fr": "Invasion Carmin",
         "it": "Invasione Scarlatta",
-        "pt": "Invas??o Carmim"
+        "pt": "Invasão Carmim"
       },
       "logo": "setlogo/crimson-invasion.png",
       "logos": {
@@ -1707,7 +1899,7 @@
         "de": "Schimmernde Legenden",
         "en": "Shining Legends",
         "es": "Leyendas Luminosas",
-        "fr": "L??gendes Brillantes",
+        "fr": "Légendes Brillantes",
         "it": "Leggende Iridescenti",
         "pt": "Lendas Luminescentes"
       },
@@ -1764,16 +1956,48 @@
       }
     },
     {
+      "id": "2017sm",
+      "links": {
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/mcdonalds-promos-2017",
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/McDonalds-Collection-2017"
+      },
+      "logos": {
+        "en": "setlogo/mcdonalds-collection-2017.png",
+        "de": "setlogo/mcdonalds-collection-2017.png",
+        "it": "setlogo/mcdonalds-collection-2017.png",
+        "fr": "setlogo/mcdonalds-collection-2017.png",
+        "es": "setlogo/mcdonalds-collection-2017.png",
+        "pt": "setlogo/mcdonalds-collection-2017.png"
+      },
+      "file": "editions/2017sm.json",
+      "releaseDate": "2017-08-03",
+      "symbol": "",
+      "name": "McDonald's Collection 2017",
+      "logo": "setlogo/mcdonalds-collection-2017.png",
+      "nameEN": "McDonald's Collection 2017",
+      "names": {
+        "de": "McDonald's Collection 2017",
+        "it": "McDonald's Collection 2017",
+        "en": "McDonald's Collection 2017",
+        "fr": "Collection McDonald's 2017",
+        "es": "Colección de McDonald's 2017",
+        "pt": "Coleção McDonald's 2017"
+      },
+      "total": 12,
+      "maintainer": "RSch",
+      "updated": "2026-04-20"
+    },
+    {
       "id": "sm2",
       "name": "Guardians Rising",
       "nameEN": "Guardians Rising",
       "names": {
-        "de": "Stunde der W??chter",
+        "de": "Stunde der Wächter",
         "en": "Guardians Rising",
         "es": "Albor de Guadianes",
         "fr": "Gardiens Ascendants",
         "it": "Guardiani Nascenti",
-        "pt": "Guardi??es Ascendentes"
+        "pt": "Guardiões Ascendentes"
       },
       "logo": "setlogo/guardians-rising.png",
       "logos": {
@@ -1796,38 +2020,6 @@
       }
     },
     {
-      "id": "tk-sm-l",
-      "name": "SM trainer Kit (Lycanroc)",
-      "nameEN": "SM trainer Kit (Lycanroc)",
-      "names": {
-        "de": "",
-        "en": "SM trainer Kit (Lycanroc)",
-        "es": "Kit de Entrenador Sol y Luna (Lycanroc)",
-        "fr": "SM Kit du dresseur (Lougarox)",
-        "it": "Sole e Luna trainer Kit (Lycanroc)",
-        "pt": ""
-      },
-      "logo": "setlogo/sm-trainer-kit-lycanroc.png",
-      "logos": {
-        "en": "setlogo/sm-trainer-kit-lycanroc.png",
-        "de": "setlogo/de/sm-trainer-kit-lycanroc.png",
-        "fr": "setlogo/fr/sm-trainer-kit-lycanroc.png",
-        "es": "setlogo/es/sm-trainer-kit-lycanroc.png",
-        "it": "setlogo/it/sm-trainer-kit-lycanroc.png",
-        "pt": "setlogo/pt/sm-trainer-kit-lycanroc.png"
-      },
-      "symbol": "setsymbol/sm-trainer-kit-lycanroc.png",
-      "total": 30,
-      "releaseDate": "2017-04-21",
-      "maintainer": "RSch",
-      "updated": "2026-04-19",
-      "file": "editions/tk-sm-l.json",
-      "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SM-Trainer-Kit-Lycanroc-Alolan-Raichu",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/sm-trainer-kit-lycanroc-and-alolan-raichu"
-      }
-    },
-    {
       "id": "tk-sm-r",
       "name": "SM trainer Kit (Alolan Raichu)",
       "nameEN": "SM trainer Kit (Alolan Raichu)",
@@ -1835,20 +2027,20 @@
         "de": "",
         "en": "SM trainer Kit (Alolan Raichu)",
         "es": "Kit de Entrenador Sol y Luna (Raichu de Alola)",
-        "fr": "SM Kit du dresseur (Raichu d\u0027Alola)",
+        "fr": "SM Kit du dresseur (Raichu d'Alola)",
         "it": "Sole e Luna trainer Kit (Alolan Raichu)",
         "pt": ""
       },
-      "logo": "setlogo/sm-trainer-kit-alolan-raichu.png",
+      "logo": "setlogo/sun-and-moon-trainer-kit-alolan-raichu.png",
       "logos": {
-        "en": "setlogo/sm-trainer-kit-alolan-raichu.png",
-        "de": "setlogo/de/sm-trainer-kit-alolan-raichu.png",
-        "fr": "setlogo/fr/sm-trainer-kit-alolan-raichu.png",
-        "es": "setlogo/es/sm-trainer-kit-alolan-raichu.png",
-        "it": "setlogo/it/sm-trainer-kit-alolan-raichu.png",
-        "pt": "setlogo/pt/sm-trainer-kit-alolan-raichu.png"
+        "en": "setlogo/sun-and-moon-trainer-kit-alolan-raichu.png",
+        "de": "setlogo/de/sun-and-moon-trainer-kit-alolan-raichu.png",
+        "fr": "setlogo/fr/sun-and-moon-trainer-kit-alolan-raichu.png",
+        "es": "setlogo/es/sun-and-moon-trainer-kit-alolan-raichu.png",
+        "it": "setlogo/it/sun-and-moon-trainer-kit-alolan-raichu.png",
+        "pt": "setlogo/pt/sun-and-moon-trainer-kit-alolan-raichu.png"
       },
-      "symbol": "setsymbol/sm-trainer-kit-alolan-raichu.png",
+      "symbol": "setsymbol/sun-and-moon-trainer-kit-alolan-raichu.png",
       "total": 30,
       "releaseDate": "2017-04-21",
       "maintainer": "RSch",
@@ -1860,44 +2052,44 @@
       }
     },
     {
-      "id": "smp",
-      "name": "SM Black Star Promos",
-      "nameEN": "SM Black Star Promos",
+      "id": "tk-sm-l",
+      "name": "SM trainer Kit (Lycanroc)",
+      "nameEN": "SM trainer Kit (Lycanroc)",
       "names": {
-        "de": "SM Promokarten",
-        "en": "SM Black Star Promos",
-        "es": "SL Cartas de promoci??n",
-        "fr": "Promo SM",
-        "it": "SL Promo",
+        "de": "",
+        "en": "SM trainer Kit (Lycanroc)",
+        "es": "Kit de Entrenador Sol y Luna (Lycanroc)",
+        "fr": "SM Kit du dresseur (Lougarox)",
+        "it": "Sole e Luna trainer Kit (Lycanroc)",
         "pt": ""
       },
-      "logo": "setlogo/sm-black-star-promos.png",
+      "logo": "setlogo/sun-and-moon-trainer-kit-lycanroc.png",
       "logos": {
-        "en": "setlogo/sm-black-star-promos.png",
-        "de": "setlogo/de/sm-black-star-promos.png",
-        "fr": "setlogo/fr/sm-black-star-promos.png",
-        "es": "setlogo/es/sm-black-star-promos.png",
-        "it": "setlogo/it/sm-black-star-promos.png",
-        "pt": "setlogo/pt/sm-black-star-promos.png"
+        "en": "setlogo/sun-and-moon-trainer-kit-lycanroc.png",
+        "de": "setlogo/de/sun-and-moon-trainer-kit-lycanroc.png",
+        "fr": "setlogo/fr/sun-and-moon-trainer-kit-lycanroc.png",
+        "es": "setlogo/es/sun-and-moon-trainer-kit-lycanroc.png",
+        "it": "setlogo/it/sun-and-moon-trainer-kit-lycanroc.png",
+        "pt": "setlogo/pt/sun-and-moon-trainer-kit-lycanroc.png"
       },
-      "symbol": "setsymbol/sm-black-star-promos.png",
-      "total": 244,
-      "releaseDate": "2017-02-03",
+      "symbol": "setsymbol/sun-and-moon-trainer-kit-lycanroc.png",
+      "total": 30,
+      "releaseDate": "2017-04-21",
       "maintainer": "RSch",
       "updated": "2026-04-19",
-      "file": "editions/smp.json",
+      "file": "editions/tk-sm-l.json",
       "links": {
-        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SM-Black-Star-Promos",
-        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/sm-promos"
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SM-Trainer-Kit-Lycanroc-Alolan-Raichu",
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/sm-trainer-kit-lycanroc-and-alolan-raichu"
       }
     },
     {
       "id": "sm1",
-      "name": "Sun \u0026 Moon",
-      "nameEN": "Sun \u0026 Moon",
+      "name": "Sun & Moon",
+      "nameEN": "Sun & Moon",
       "names": {
-        "de": "Sonne \u0026 Mond",
-        "en": "Sun \u0026 Moon",
+        "de": "Sonne & Mond",
+        "en": "Sun & Moon",
         "es": "Sol y Luna",
         "fr": "Soleil et Lune",
         "it": "Sole e Luna",
@@ -1921,6 +2113,38 @@
       "links": {
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Sun-Moon",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/sm-base-set"
+      }
+    },
+    {
+      "id": "smp",
+      "name": "SM Black Star Promos",
+      "nameEN": "SM Black Star Promos",
+      "names": {
+        "de": "SM Promokarten",
+        "en": "SM Black Star Promos",
+        "es": "Promos SM",
+        "fr": "Promo SM",
+        "it": "SL Promo",
+        "pt": ""
+      },
+      "logo": "setlogo/sm-black-star-promos.png",
+      "logos": {
+        "en": "setlogo/sm-black-star-promos.png",
+        "de": "setlogo/de/sm-black-star-promos.png",
+        "fr": "setlogo/fr/sm-black-star-promos.png",
+        "es": "setlogo/es/sm-black-star-promos.png",
+        "it": "setlogo/it/sm-black-star-promos.png",
+        "pt": "setlogo/pt/sm-black-star-promos.png"
+      },
+      "symbol": "setsymbol/sm-black-star-promos.png",
+      "total": 244,
+      "releaseDate": "2017-02-03",
+      "maintainer": "RSch",
+      "updated": "2026-04-19",
+      "file": "editions/smp.json",
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SM-Black-Star-Promos",
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/sm-promos"
       }
     }
   ]

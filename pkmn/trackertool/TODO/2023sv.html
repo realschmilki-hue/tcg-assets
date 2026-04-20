@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>McDonald&#39;s Collection 2023 — Translation TODO</title>
+<style>*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#f1f3f5;color:#212529;font-size:13px;line-height:1.5}
+header{background:#fff;border-bottom:1px solid #dee2e6;padding:10px 20px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+h1{font-size:1rem;font-weight:700}h1 code{font-size:.8em;background:#e9ecef;padding:1px 6px;border-radius:3px;font-weight:400}
+.gen{color:#6c757d;font-size:.78rem}.back{font-size:.8rem;color:#0d6efd;text-decoration:none;margin-right:6px}
+.hstats{margin-left:auto;display:flex;gap:10px;align-items:center;font-size:.82rem}
+.prog{width:90px;height:6px;background:#dee2e6;border-radius:3px;overflow:hidden}
+.progb{height:100%;background:#198754;transition:width .3s}
+.statsbar{background:#e9ecef;padding:5px 20px;display:flex;gap:12px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #dee2e6;font-size:.8rem}
+.badge{display:inline-flex;align-items:center;gap:3px;padding:1px 7px;border-radius:10px;font-weight:600;font-size:.78rem}
+.badge em{font-style:normal;font-weight:400;opacity:.8}
+.badge-de{background:#fff3cd;color:#856404}.badge-fr{background:#cfe2ff;color:#084298}
+.badge-es{background:#f8d7da;color:#842029}.badge-it{background:#d1e7dd;color:#0a3622}
+.badge-pt{background:#e2d9f3;color:#432874}
+.fbar{background:#fff;padding:7px 20px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;border-bottom:1px solid #dee2e6}
+.lt{cursor:pointer;display:flex;align-items:center}.lt input{display:none}.lt input:not(:checked)+.badge{opacity:.3}
+.fbar label{cursor:pointer;display:flex;align-items:center;gap:4px;font-size:.82rem}
+.fbtn{padding:3px 8px;border:1px solid #dee2e6;border-radius:5px;background:#fff;cursor:pointer;font-size:.8rem}
+main{padding:12px 20px;max-width:1100px}
+.tw{overflow-x:auto;background:#fff;border:1px solid #dee2e6;border-radius:7px}
+.ct{width:100%;border-collapse:collapse}
+.ct th{background:#f8f9fa;border-bottom:2px solid #dee2e6;padding:5px 9px;text-align:left;font-size:.72rem;text-transform:uppercase;letter-spacing:.04em;color:#6c757d;white-space:nowrap}
+.ct td{padding:4px 9px;border-bottom:1px solid #f3f4f5;vertical-align:middle}
+.row.done{opacity:.38}.row.done .td-name{text-decoration:line-through}
+.th-cb,.td-cb{width:28px;text-align:center}.th-n,.td-num{width:46px;font-family:monospace;font-size:.82rem;color:#6c757d}
+.th-nm{min-width:130px}.ct th[data-lang],.c-ok,.c-map,.c-miss{text-align:center;width:90px}
+.c-ok span{color:#198754;font-size:.8rem}
+.c-map span{color:#0d6efd;font-size:.78rem;cursor:help}
+.c-miss{color:#dc3545;font-weight:700}
+.cb{width:14px;height:14px;cursor:pointer;accent-color:#198754}
+.ma{color:#0d6efd;font-weight:600}
+.hidden{display:none!important}</style>
+</head>
+<body>
+<header>
+  <a class="back" href="index.html">← Übersicht</a>
+  <h1>McDonald&#39;s Collection 2023 <code>2023sv</code></h1>
+  <span class="gen">Generiert: 2026-04-20</span>
+  <div class="hstats">
+    <span><b>15</b> Karten · <b>30</b> Lücken · <b class="ma">30 auto-fillbar</b></span>
+    <div class="prog" title="Erledigt"><div class="progb" id="progb"></div></div>
+  </div>
+</header>
+<div class="statsbar"><span><span class="badge badge-de">DE <em>15</em></span><span class="ma" style="font-size:.74rem"> ↓15</span></span><span><span class="badge badge-fr">FR <em>0</em></span></span><span><span class="badge badge-es">ES <em>0</em></span></span><span><span class="badge badge-it">IT <em>0</em></span></span><span><span class="badge badge-pt">PT <em>15</em></span><span class="ma" style="font-size:.74rem"> ↓15</span></span></div>
+<div class="fbar">
+  <b>Zeige:</b>
+  <label class="lt"><input type="checkbox" class="filter-lang" data-lang="de" checked><span class="badge badge-de">DE <em>15</em></span></label><label class="lt"><input type="checkbox" class="filter-lang" data-lang="fr" checked><span class="badge badge-fr">FR <em>0</em></span></label><label class="lt"><input type="checkbox" class="filter-lang" data-lang="es" checked><span class="badge badge-es">ES <em>0</em></span></label><label class="lt"><input type="checkbox" class="filter-lang" data-lang="it" checked><span class="badge badge-it">IT <em>0</em></span></label><label class="lt"><input type="checkbox" class="filter-lang" data-lang="pt" checked><span class="badge badge-pt">PT <em>15</em></span></label>
+  <label style="margin-left:8px"><input type="checkbox" id="fDone"> Erledigte anzeigen</label>
+</div>
+<main>
+<div class="tw"><table class="ct">
+<thead><tr><th class="th-cb">✓</th><th class="th-n">#</th><th class="th-nm">EN Name</th><th data-lang="de">DE</th><th data-lang="fr">FR</th><th data-lang="es">ES</th><th data-lang="it">IT</th><th data-lang="pt">PT</th></tr></thead>
+<tbody><tr class="row" data-id="2023sv-001" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-001" data-id="2023sv-001"><label for="c2023sv-001"></label></td><td class="td-num">001</td><td class="td-name">Sprigatito</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Felori</span></td><td class="c-ok" data-lang="fr"><span>Poussacha</span></td><td class="c-ok" data-lang="es"><span>Sprigatito</span></td><td class="c-ok" data-lang="it"><span>Sprigatito</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Sprigatito</span></td></tr><tr class="row" data-id="2023sv-002" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-002" data-id="2023sv-002"><label for="c2023sv-002"></label></td><td class="td-num">002</td><td class="td-name">Fuecoco</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Krokel</span></td><td class="c-ok" data-lang="fr"><span>Chochodile</span></td><td class="c-ok" data-lang="es"><span>Fuecoco</span></td><td class="c-ok" data-lang="it"><span>Fuecoco</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Fuecoco</span></td></tr><tr class="row" data-id="2023sv-003" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-003" data-id="2023sv-003"><label for="c2023sv-003"></label></td><td class="td-num">003</td><td class="td-name">Quaxly</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Kwaks</span></td><td class="c-ok" data-lang="fr"><span>Coiffeton</span></td><td class="c-ok" data-lang="es"><span>Quaxly</span></td><td class="c-ok" data-lang="it"><span>Quaxly</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Quaxly</span></td></tr><tr class="row" data-id="2023sv-004" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-004" data-id="2023sv-004"><label for="c2023sv-004"></label></td><td class="td-num">004</td><td class="td-name">Cetoddle</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Flaniwal</span></td><td class="c-ok" data-lang="fr"><span>Piétacé</span></td><td class="c-ok" data-lang="es"><span>Cetoddle</span></td><td class="c-ok" data-lang="it"><span>Cetoddle</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Cetoddle</span></td></tr><tr class="row" data-id="2023sv-005" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-005" data-id="2023sv-005"><label for="c2023sv-005"></label></td><td class="td-num">005</td><td class="td-name">Cetitan</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Kolowal</span></td><td class="c-ok" data-lang="fr"><span>Balbalèze</span></td><td class="c-ok" data-lang="es"><span>Cetitan</span></td><td class="c-ok" data-lang="it"><span>Cetitan</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Cetitan</span></td></tr><tr class="row" data-id="2023sv-006" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-006" data-id="2023sv-006"><label for="c2023sv-006"></label></td><td class="td-num">006</td><td class="td-name">Pikachu</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Pikachu</span></td><td class="c-ok" data-lang="fr"><span>Pikachu</span></td><td class="c-ok" data-lang="es"><span>Pikachu</span></td><td class="c-ok" data-lang="it"><span>Pikachu</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Pikachu</span></td></tr><tr class="row" data-id="2023sv-007" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-007" data-id="2023sv-007"><label for="c2023sv-007"></label></td><td class="td-num">007</td><td class="td-name">Pawmi</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Pamo</span></td><td class="c-ok" data-lang="fr"><span>Pohm</span></td><td class="c-ok" data-lang="es"><span>Pawmi</span></td><td class="c-ok" data-lang="it"><span>Pawmi</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Pawmi</span></td></tr><tr class="row" data-id="2023sv-008" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-008" data-id="2023sv-008"><label for="c2023sv-008"></label></td><td class="td-num">008</td><td class="td-name">Kilowattrel</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Voltrean</span></td><td class="c-ok" data-lang="fr"><span>Fulgulairo</span></td><td class="c-ok" data-lang="es"><span>Kilowattrel</span></td><td class="c-ok" data-lang="it"><span>Kilowattrel</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Kilowattrel</span></td></tr><tr class="row" data-id="2023sv-009" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-009" data-id="2023sv-009"><label for="c2023sv-009"></label></td><td class="td-num">009</td><td class="td-name">Flittle</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Flattutu</span></td><td class="c-ok" data-lang="fr"><span>Flotillon</span></td><td class="c-ok" data-lang="es"><span>Flittle</span></td><td class="c-ok" data-lang="it"><span>Flittle</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Flittle</span></td></tr><tr class="row" data-id="2023sv-010" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-010" data-id="2023sv-010"><label for="c2023sv-010"></label></td><td class="td-num">010</td><td class="td-name">Sandaconda</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Sanaconda</span></td><td class="c-ok" data-lang="fr"><span>Dunaconda</span></td><td class="c-ok" data-lang="es"><span>Sandaconda</span></td><td class="c-ok" data-lang="it"><span>Sandaconda</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Sandaconda</span></td></tr><tr class="row" data-id="2023sv-011" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-011" data-id="2023sv-011"><label for="c2023sv-011"></label></td><td class="td-num">011</td><td class="td-name">Klawf</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Klibbe</span></td><td class="c-ok" data-lang="fr"><span>Craparoi</span></td><td class="c-ok" data-lang="es"><span>Klawf</span></td><td class="c-ok" data-lang="it"><span>Klawf</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Klawf</span></td></tr><tr class="row" data-id="2023sv-012" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-012" data-id="2023sv-012"><label for="c2023sv-012"></label></td><td class="td-num">012</td><td class="td-name">Blissey</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Heiteira</span></td><td class="c-ok" data-lang="fr"><span>Leuphorie</span></td><td class="c-ok" data-lang="es"><span>Blissey</span></td><td class="c-ok" data-lang="it"><span>Blissey</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Blissey</span></td></tr><tr class="row" data-id="2023sv-013" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-013" data-id="2023sv-013"><label for="c2023sv-013"></label></td><td class="td-num">013</td><td class="td-name">Tandemaus</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Zwieps</span></td><td class="c-ok" data-lang="fr"><span>Compagnol</span></td><td class="c-ok" data-lang="es"><span>Tandemaus</span></td><td class="c-ok" data-lang="it"><span>Tandemaus</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Tandemaus</span></td></tr><tr class="row" data-id="2023sv-014" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-014" data-id="2023sv-014"><label for="c2023sv-014"></label></td><td class="td-num">014</td><td class="td-name">Cyclizar</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Mopex</span></td><td class="c-ok" data-lang="fr"><span>Motorizard</span></td><td class="c-ok" data-lang="es"><span>Cyclizar</span></td><td class="c-ok" data-lang="it"><span>Cyclizar</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Cyclizar</span></td></tr><tr class="row" data-id="2023sv-015" data-missing="de,pt"><td class="td-cb"><input type="checkbox" class="cb" id="c2023sv-015" data-id="2023sv-015"><label for="c2023sv-015"></label></td><td class="td-num">015</td><td class="td-name">Kirlia</td><td class="c-map" data-lang="de" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Kirlia</span></td><td class="c-ok" data-lang="fr"><span>Kirlia</span></td><td class="c-ok" data-lang="es"><span>Kirlia</span></td><td class="c-ok" data-lang="it"><span>Kirlia</span></td><td class="c-map" data-lang="pt" data-missing="1"><span title="Aus Name-Map — 'buildmap' + 'build' ausführen">↓ Kirlia</span></td></tr></tbody>
+</table></div>
+</main>
+<script>
+(function(){
+  var SK='tcg-todo-2023sv';
+  function load(){try{return JSON.parse(localStorage.getItem(SK)||'{}')}catch{return{}}}
+  function save(d){localStorage.setItem(SK,JSON.stringify(d))}
+  var done=load();
+  document.querySelectorAll('.cb').forEach(function(cb){
+    if(done[cb.dataset.id]){cb.checked=true;cb.closest('.row').classList.add('done')}
+    cb.addEventListener('change',function(){
+      var id=cb.dataset.id,row=cb.closest('.row');
+      if(cb.checked){done[id]=1;row.classList.add('done')}else{delete done[id];row.classList.remove('done')}
+      save(done);prog();applyDone();
+    });
+  });
+  function prog(){
+    var all=document.querySelectorAll('.row:not(.hidden)').length;
+    var d=document.querySelectorAll('.row.done:not(.hidden)').length;
+    document.getElementById('progb').style.width=(all?Math.round(d/all*100):0)+'%';
+  }
+  function langs(){return[...document.querySelectorAll('.filter-lang:checked')].map(function(c){return c.dataset.lang})}
+  function applyDone(){
+    var sd=document.getElementById('fDone').checked;
+    document.querySelectorAll('.row.done').forEach(function(r){r.classList.toggle('hidden',!sd)});
+    prog();
+  }
+  function applyAll(){
+    var al=langs(),sd=document.getElementById('fDone').checked;
+    document.querySelectorAll('[data-lang]').forEach(function(el){el.classList.toggle('hidden',!al.includes(el.dataset.lang))});
+    document.querySelectorAll('.row').forEach(function(r){
+      var ms=(r.dataset.missing||'').split(',').filter(Boolean);
+      var vis=ms.some(function(l){return al.includes(l)})&&(!r.classList.contains('done')||sd);
+      r.classList.toggle('hidden',!vis);
+    });
+    prog();
+  }
+  document.querySelectorAll('.filter-lang').forEach(function(c){c.addEventListener('change',applyAll)});
+  document.getElementById('fDone').addEventListener('change',applyAll);
+  applyAll();prog();
+})();
+</script>
+</body>
+</html>

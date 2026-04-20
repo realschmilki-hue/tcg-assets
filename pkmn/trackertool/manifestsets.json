@@ -2146,6 +2146,38 @@
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SM-Black-Star-Promos",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/sm-promos"
       }
-    }
+    },
+    {
+      "id": "base4",
+      "name": "Base Set 2",
+      "nameEN": "Base Set 2",
+      "names": {
+        "de": "Basis Set 2",
+        "en": "Base Set 2",
+        "es": "Set Base 2",
+        "fr": "Set de Base 2",
+        "it": "Set Base 2",
+        "pt": "Conjunto Base 2"
+      },
+      "logo": "setlogo/base-set-2.png",
+      "logos": {
+        "en": "setlogo/base-set-2.png",
+        "de": "setlogo/de/base-set-2.png",
+        "fr": "setlogo/fr/base-set-2.png",
+        "es": "setlogo/es/base-set-2.png",
+        "it": "setlogo/it/base-set-2.png",
+        "pt": "setlogo/pt/base-set-2.png"
+      },
+      "symbol": "setsymbol/base-set-2.png",
+      "total": 130,
+      "releaseDate": "2000-02-24",
+      "maintainer": "your-name",
+      "updated": "2026-04-20",
+      "file": "editions/base4.json",
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Base-Set-2",
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/base-set-2"
+      }
+    }    
   ]
 }

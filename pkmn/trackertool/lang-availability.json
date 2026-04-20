@@ -1,0 +1,1428 @@
+{
+  "version": 2,
+  "lastUpdated": "2026-04-20",
+  "source": "TCGdex API",
+  "editions": {
+    "2011bw": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "2012bw": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "2014xy": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "2015xy": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "2016xy": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "2017sm": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "2018sm": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "2019sm": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "2021swsh": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "2022swsh": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "2023sv": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "2024sv": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "base1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "base2": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "base3": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "base4": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "base5": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "basep": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "bog": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "bw1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "bw10": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": false,
+      "pt": true
+    },
+    "bw11": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": true
+    },
+    "bw2": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "bw3": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "bw4": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "bw5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "bw6": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "bw7": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "bw8": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "bw9": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "bwp": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "cel25": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "col1": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": true
+    },
+    "dc1": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": false,
+      "pt": true
+    },
+    "det1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "dp1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "dp2": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "dp3": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "dp4": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "dp5": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "dp6": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "dp7": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "dpp": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "dv1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "ecard1": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ecard2": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ecard3": {
+      "de": true,
+      "fr": false,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "ex10": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "ex11": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex12": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex13": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex14": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex15": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex16": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "ex2": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex3": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex4": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex5": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex5.5": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "ex6": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "ex7": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": true
+    },
+    "ex8": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": true
+    },
+    "ex9": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": true
+    },
+    "exu": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "g1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "gym1": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "gym2": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "hgss1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "hgss2": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "hgss3": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": true
+    },
+    "hgss4": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": true
+    },
+    "hgssp": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "lc": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "me01": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "me02": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "me02.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "me03": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "me1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "me2": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "me2pt5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "me3": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "neo1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "neo2": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "neo3": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "neo4": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "np": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "pl1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "pl2": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "pl3": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "pl4": {
+      "de": true,
+      "fr": false,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "pop1": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "pop2": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "pop3": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "pop4": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "pop5": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "pop6": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "pop7": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "pop8": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "pop9": {
+      "de": false,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": false
+    },
+    "rsv10pt5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "ru1": {
+      "de": false,
+      "fr": false,
+      "es": true,
+      "it": false,
+      "pt": false
+    },
+    "si1": {
+      "de": false,
+      "fr": false,
+      "es": false,
+      "it": false,
+      "pt": false
+    },
+    "sm1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm10": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm11": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm115": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm12": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm2": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm3": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm3.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm4": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm6": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm7": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm7.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm8": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sm9": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sma": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "smp": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "sv01": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv02": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv03": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv03.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv04": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv04.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv05": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv06": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv06.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv07": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv08": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv08.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv09": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv10": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv10.5b": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv10.5w": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv2": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv3": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv3pt5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv4": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv4pt5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv6": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv6pt5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv7": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv8": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv8pt5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "sv9": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "svp": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh10": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh10.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh11": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh12": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh12.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh2": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh3": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh3.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh4": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh4.5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh6": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh7": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh8": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swsh9": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "swshp": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "tk-bw-e": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": false,
+      "pt": false
+    },
+    "tk-bw-z": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": false,
+      "pt": false
+    },
+    "tk-dp-l": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-dp-m": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-ex-latia": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-ex-latio": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-ex-m": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-ex-p": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-hs-g": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-hs-r": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-sm-l": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-sm-r": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-xy-b": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-xy-latia": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-xy-latio": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-xy-n": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-xy-p": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-xy-su": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-xy-sy": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "tk-xy-w": {
+      "de": false,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "xy0": {
+      "de": true,
+      "fr": true,
+      "es": false,
+      "it": true,
+      "pt": true
+    },
+    "xy1": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy10": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy11": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy12": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy2": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy3": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy4": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy6": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy7": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy8": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xy9": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    },
+    "xya": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "xyp": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": false
+    },
+    "zsv10pt5": {
+      "de": true,
+      "fr": true,
+      "es": true,
+      "it": true,
+      "pt": true
+    }
+  }
+}

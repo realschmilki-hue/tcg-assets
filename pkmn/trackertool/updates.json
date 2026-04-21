@@ -1,18 +1,19 @@
 {
   "updates": [
     {
-      "id": "2026-04-18-fixex-and-available-sets",
-      "version": "1.0.0",
-      "date": "2026-04-18",
-      "title": "New Sets",
-      "message": "Added sets and updated html template with new features and fixes",
+      "id": "2026-04-21-all-sets-imported",
+      "date": "2026-04-21",
+      "title": "All Sets",
+      "message": "Added all sets and updated html template with new features and fixes",
       "changes": [
-        "-----Sword and Shield SERIES-----",
-        "Added all sets from Sword & Shield series",
+        "-----ALL SETS-----",
+        "Added all sets",
         "-----Updates and Patches-----",
-        "Added trainer filter",
+        "Added available languages for each set",
         "added card market and tcg player links for whole sets",
-        "fixed rarity filter issues"
+        "fixed rarity filter issues",
+        "-----Info-----",
+        "Some icons and images have to be fixed and will be fixed in the next update"
       ]
     }
   ]

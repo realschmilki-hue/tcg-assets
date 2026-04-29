@@ -5732,6 +5732,38 @@
       }
     },
     {
+      "id": "mep",
+      "name": "MEP Black Star Promos",
+      "nameEN": "MEP Black Star Promos",
+      "names": {
+        "de": "MEP Black Star Promos",
+        "en": "MEP Black Star Promos",
+        "es": "MEP Black Star Promos",
+        "fr": "MEP Black Star Promos",
+        "it": "MEP Black Star Promos",
+        "pt": "MEP Black Star Promos"
+      },
+      "logo": "setlogo/mep-black-star-promos.png",
+      "logos": {
+        "en": "setlogo/mep-black-star-promos.png",
+        "de": "setlogo/de/mep-black-star-promos.png",
+        "fr": "setlogo/fr/mep-black-star-promos.png",
+        "es": "setlogo/es/mep-black-star-promos.png",
+        "it": "setlogo/it/mep-black-star-promos.png",
+        "pt": "setlogo/pt/mep-black-star-promos.png"
+      },
+      "symbol": "",
+      "total": 37,
+      "releaseDate": "2025-09-26",
+      "maintainer": "your-name",
+      "updated": "2026-04-29",
+      "file": "editions/mep.json",
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Mega-Evolution-IDTH",
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/me-mega-evolution-promo"
+      }
+    },
+    {
       "id": "me01",
       "name": "Mega Evolution",
       "nameEN": "Mega Evolution",

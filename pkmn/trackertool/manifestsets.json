@@ -27,7 +27,7 @@
       "symbol": "setsymbol/base-set.png",
       "total": 102,
       "releaseDate": "1999-01-09",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/base1.json",
       "links": {
@@ -59,7 +59,7 @@
       "symbol": "setsymbol/jungle.png",
       "total": 64,
       "releaseDate": "1999-06-16",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/base2.json",
       "links": {
@@ -91,7 +91,7 @@
       "symbol": "setsymbol/wizards-black-star-promos.png",
       "total": 53,
       "releaseDate": "1999-07-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/basep.json",
       "links": {
@@ -123,7 +123,7 @@
       "symbol": "setsymbol/fossil.png",
       "total": 62,
       "releaseDate": "1999-10-10",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/base3.json",
       "links": {
@@ -155,7 +155,7 @@
       "symbol": "setsymbol/base-set-2.png",
       "total": 130,
       "releaseDate": "2000-02-24",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/base4.json",
       "links": {
@@ -187,7 +187,7 @@
       "symbol": "setsymbol/team-rocket.png",
       "total": 83,
       "releaseDate": "2000-04-24",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/base5.json",
       "links": {
@@ -219,7 +219,7 @@
       "symbol": "setsymbol/gym-heroes.png",
       "total": 132,
       "releaseDate": "2000-08-14",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/gym1.json",
       "links": {
@@ -251,7 +251,7 @@
       "symbol": "setsymbol/gym-challenge.png",
       "total": 132,
       "releaseDate": "2000-10-16",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/gym2.json",
       "links": {
@@ -283,7 +283,7 @@
       "symbol": "setsymbol/neo-genesis.png",
       "total": 111,
       "releaseDate": "2000-12-16",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/neo1.json",
       "links": {
@@ -315,7 +315,7 @@
       "symbol": "setsymbol/neo-discovery.png",
       "total": 75,
       "releaseDate": "2001-06-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/neo2.json",
       "links": {
@@ -347,7 +347,7 @@
       "symbol": "setsymbol/southern-islands.png",
       "total": 18,
       "releaseDate": "2001-07-31",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/si1.json",
       "links": {
@@ -379,7 +379,7 @@
       "symbol": "setsymbol/neo-revelation.png",
       "total": 66,
       "releaseDate": "2001-09-21",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/neo3.json",
       "links": {
@@ -411,7 +411,7 @@
       "symbol": "setsymbol/neo-destiny.png",
       "total": 113,
       "releaseDate": "2002-02-28",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/neo4.json",
       "links": {
@@ -443,7 +443,7 @@
       "symbol": "setsymbol/legendary-collection.png",
       "total": 110,
       "releaseDate": "2002-05-24",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/lc.json",
       "links": {
@@ -475,7 +475,7 @@
       "symbol": "setsymbol/expedition-base-set.png",
       "total": 165,
       "releaseDate": "2002-09-15",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ecard1.json",
       "links": {
@@ -507,7 +507,7 @@
       "symbol": "setsymbol/best-of-game.png",
       "total": 9,
       "releaseDate": "2002-12-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bog.json",
       "links": {
@@ -539,7 +539,7 @@
       "symbol": "setsymbol/aquapolis.png",
       "total": 185,
       "releaseDate": "2003-01-15",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ecard2.json",
       "links": {
@@ -571,7 +571,7 @@
       "symbol": "setsymbol/skyridge.png",
       "total": 182,
       "releaseDate": "2003-05-12",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ecard3.json",
       "links": {
@@ -603,7 +603,7 @@
       "symbol": "setsymbol/ruby-and-sapphire.png",
       "total": 109,
       "releaseDate": "2003-07-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex1.json",
       "links": {
@@ -635,7 +635,7 @@
       "symbol": "setsymbol/sandstorm.png",
       "total": 100,
       "releaseDate": "2003-09-18",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex2.json",
       "links": {
@@ -667,7 +667,7 @@
       "symbol": "setsymbol/nintendo-black-star-promos.png",
       "total": 40,
       "releaseDate": "2003-10-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/np.json",
       "links": {
@@ -699,7 +699,7 @@
       "symbol": "setsymbol/dragon.png",
       "total": 100,
       "releaseDate": "2003-11-24",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex3.json",
       "links": {
@@ -731,7 +731,7 @@
       "symbol": "setsymbol/team-magma-vs-team-aqua.png",
       "total": 97,
       "releaseDate": "2004-03-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex4.json",
       "links": {
@@ -763,7 +763,7 @@
       "symbol": "setsymbol/hidden-legends.png",
       "total": 102,
       "releaseDate": "2004-06-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex5.json",
       "links": {
@@ -795,7 +795,7 @@
       "symbol": "",
       "total": 5,
       "releaseDate": "2004-07-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex5.5.json",
       "links": {
@@ -827,7 +827,7 @@
       "symbol": "setsymbol/ex-trainer-kit-latias.png",
       "total": 10,
       "releaseDate": "2004-07-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-ex-latia.json",
       "links": {
@@ -859,7 +859,7 @@
       "symbol": "setsymbol/ex-trainer-kit-latios.png",
       "total": 10,
       "releaseDate": "2004-07-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-ex-latio.json",
       "links": {
@@ -891,7 +891,7 @@
       "symbol": "setsymbol/firered-and-leafgreen.png",
       "total": 116,
       "releaseDate": "2004-09-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex6.json",
       "links": {
@@ -923,7 +923,7 @@
       "symbol": "setsymbol/pop-series-1.png",
       "total": 17,
       "releaseDate": "2004-09-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pop1.json",
       "links": {
@@ -955,7 +955,7 @@
       "symbol": "setsymbol/team-rocket-returns.png",
       "total": 111,
       "releaseDate": "2004-11-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex7.json",
       "links": {
@@ -987,7 +987,7 @@
       "symbol": "setsymbol/deoxys.png",
       "total": 108,
       "releaseDate": "2005-02-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex8.json",
       "links": {
@@ -1019,7 +1019,7 @@
       "symbol": "setsymbol/emerald.png",
       "total": 107,
       "releaseDate": "2005-05-09",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex9.json",
       "links": {
@@ -1051,7 +1051,7 @@
       "symbol": "setsymbol/pop-series-2.png",
       "total": 17,
       "releaseDate": "2005-08-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pop2.json",
       "links": {
@@ -1083,7 +1083,7 @@
       "symbol": "setsymbol/unseen-forces.png",
       "total": 117,
       "releaseDate": "2005-08-22",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex10.json",
       "links": {
@@ -1115,7 +1115,7 @@
       "symbol": "setsymbol/unseen-forces.png",
       "total": 28,
       "releaseDate": "2005-08-22",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/exu.json",
       "links": {
@@ -1147,7 +1147,7 @@
       "symbol": "setsymbol/delta-species.png",
       "total": 114,
       "releaseDate": "2005-10-31",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex11.json",
       "links": {
@@ -1179,7 +1179,7 @@
       "symbol": "setsymbol/legend-maker.png",
       "total": 93,
       "releaseDate": "2006-02-13",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex12.json",
       "links": {
@@ -1211,7 +1211,7 @@
       "symbol": "setsymbol/ex-trainer-kit-2-minun.png",
       "total": 12,
       "releaseDate": "2006-03-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-ex-m.json",
       "links": {
@@ -1243,7 +1243,7 @@
       "symbol": "setsymbol/ex-trainer-kit-2-plusle.png",
       "total": 12,
       "releaseDate": "2006-03-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-ex-p.json",
       "links": {
@@ -1275,7 +1275,7 @@
       "symbol": "setsymbol/pop-series-3.png",
       "total": 17,
       "releaseDate": "2006-04-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pop3.json",
       "links": {
@@ -1307,7 +1307,7 @@
       "symbol": "setsymbol/holon-phantoms.png",
       "total": 111,
       "releaseDate": "2006-05-03",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex13.json",
       "links": {
@@ -1339,7 +1339,7 @@
       "symbol": "setsymbol/pop-series-4.png",
       "total": 17,
       "releaseDate": "2006-08-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pop4.json",
       "links": {
@@ -1371,7 +1371,7 @@
       "symbol": "setsymbol/crystal-guardians.png",
       "total": 100,
       "releaseDate": "2006-08-30",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex14.json",
       "links": {
@@ -1403,7 +1403,7 @@
       "symbol": "setsymbol/dragon-frontiers.png",
       "total": 101,
       "releaseDate": "2006-11-08",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex15.json",
       "links": {
@@ -1435,7 +1435,7 @@
       "symbol": "setsymbol/power-keepers.png",
       "total": 108,
       "releaseDate": "2007-02-17",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ex16.json",
       "links": {
@@ -1467,7 +1467,7 @@
       "symbol": "setsymbol/pop-series-5.png",
       "total": 17,
       "releaseDate": "2007-03-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pop5.json",
       "links": {
@@ -1499,7 +1499,7 @@
       "symbol": "setsymbol/diamond-and-pearl.png",
       "total": 130,
       "releaseDate": "2007-05-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dp1.json",
       "links": {
@@ -1531,7 +1531,7 @@
       "symbol": "setsymbol/dp-black-star-promos.png",
       "total": 56,
       "releaseDate": "2007-05-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dpp.json",
       "links": {
@@ -1563,7 +1563,7 @@
       "symbol": "setsymbol/mysterious-treasures.png",
       "total": 124,
       "releaseDate": "2007-08-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dp2.json",
       "links": {
@@ -1595,7 +1595,7 @@
       "symbol": "setsymbol/pop-series-6.png",
       "total": 17,
       "releaseDate": "2007-09-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pop6.json",
       "links": {
@@ -1627,7 +1627,7 @@
       "symbol": "setsymbol/dp-trainer-kit-lucario.png",
       "total": 11,
       "releaseDate": "2007-09-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-dp-l.json",
       "links": {
@@ -1659,7 +1659,7 @@
       "symbol": "setsymbol/dp-trainer-kit-manaphy.png",
       "total": 12,
       "releaseDate": "2007-09-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-dp-m.json",
       "links": {
@@ -1691,7 +1691,7 @@
       "symbol": "setsymbol/secret-wonders.png",
       "total": 132,
       "releaseDate": "2007-11-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dp3.json",
       "links": {
@@ -1723,7 +1723,7 @@
       "symbol": "setsymbol/great-encounters.png",
       "total": 106,
       "releaseDate": "2008-02-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dp4.json",
       "links": {
@@ -1755,7 +1755,7 @@
       "symbol": "setsymbol/pop-series-7.png",
       "total": 17,
       "releaseDate": "2008-03-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pop7.json",
       "links": {
@@ -1787,7 +1787,7 @@
       "symbol": "setsymbol/majestic-dawn.png",
       "total": 100,
       "releaseDate": "2008-05-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dp5.json",
       "links": {
@@ -1819,7 +1819,7 @@
       "symbol": "setsymbol/legends-awakened.png",
       "total": 146,
       "releaseDate": "2008-08-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dp6.json",
       "links": {
@@ -1851,7 +1851,7 @@
       "symbol": "setsymbol/pop-series-8.png",
       "total": 17,
       "releaseDate": "2008-09-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pop8.json",
       "links": {
@@ -1883,7 +1883,7 @@
       "symbol": "setsymbol/stormfront.png",
       "total": 106,
       "releaseDate": "2008-11-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dp7.json",
       "links": {
@@ -1915,7 +1915,7 @@
       "symbol": "setsymbol/platinum.png",
       "total": 133,
       "releaseDate": "2009-02-11",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pl1.json",
       "links": {
@@ -1947,7 +1947,7 @@
       "symbol": "setsymbol/pop-series-9.png",
       "total": 17,
       "releaseDate": "2009-03-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pop9.json",
       "links": {
@@ -1979,7 +1979,7 @@
       "symbol": "setsymbol/rising-rivals.png",
       "total": 120,
       "releaseDate": "2009-05-16",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pl2.json",
       "links": {
@@ -2011,7 +2011,7 @@
       "symbol": "setsymbol/supreme-victors.png",
       "total": 153,
       "releaseDate": "2009-08-19",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pl3.json",
       "links": {
@@ -2043,7 +2043,7 @@
       "symbol": "setsymbol/arceus.png",
       "total": 111,
       "releaseDate": "2009-11-04",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/pl4.json",
       "links": {
@@ -2075,7 +2075,7 @@
       "symbol": "setsymbol/pok-mon-rumble.png",
       "total": 16,
       "releaseDate": "2009-12-02",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/ru1.json",
       "links": {
@@ -2107,7 +2107,7 @@
       "symbol": "setsymbol/heartgold-soulsilver.png",
       "total": 124,
       "releaseDate": "2010-02-10",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/hgss1.json",
       "links": {
@@ -2139,7 +2139,7 @@
       "symbol": "setsymbol/hgss-black-star-promos.png",
       "total": 25,
       "releaseDate": "2010-02-11",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/hgssp.json",
       "links": {
@@ -2171,7 +2171,7 @@
       "symbol": "setsymbol/hs-trainer-kit-gyarados.png",
       "total": 30,
       "releaseDate": "2010-05-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-hs-g.json",
       "links": {
@@ -2203,7 +2203,7 @@
       "symbol": "setsymbol/hs-trainer-kit-raichu.png",
       "total": 30,
       "releaseDate": "2010-05-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-hs-r.json",
       "links": {
@@ -2235,7 +2235,7 @@
       "symbol": "setsymbol/unleashed.png",
       "total": 96,
       "releaseDate": "2010-05-12",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/hgss2.json",
       "links": {
@@ -2267,7 +2267,7 @@
       "symbol": "setsymbol/undaunted.png",
       "total": 91,
       "releaseDate": "2010-08-18",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/hgss3.json",
       "links": {
@@ -2299,7 +2299,7 @@
       "symbol": "setsymbol/triumphant.png",
       "total": 103,
       "releaseDate": "2010-11-03",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/hgss4.json",
       "links": {
@@ -2331,7 +2331,7 @@
       "symbol": "setsymbol/call-of-legends.png",
       "total": 106,
       "releaseDate": "2011-02-09",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/col1.json",
       "links": {
@@ -2363,7 +2363,7 @@
       "symbol": "setsymbol/black-and-white.png",
       "total": 115,
       "releaseDate": "2011-04-25",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw1.json",
       "links": {
@@ -2395,7 +2395,7 @@
       "symbol": "setsymbol/bw-black-star-promos.png",
       "total": 101,
       "releaseDate": "2011-04-26",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bwp.json",
       "links": {
@@ -2427,7 +2427,7 @@
       "symbol": "setsymbol/mcdonalds-collection-2011.png",
       "total": 12,
       "releaseDate": "2011-06-17",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/2011bw.json",
       "links": {
@@ -2459,7 +2459,7 @@
       "symbol": "setsymbol/emerging-powers.png",
       "total": 98,
       "releaseDate": "2011-08-31",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw2.json",
       "links": {
@@ -2491,7 +2491,7 @@
       "symbol": "",
       "total": 30,
       "releaseDate": "2011-09-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-bw-e.json",
       "links": {
@@ -2523,7 +2523,7 @@
       "symbol": "",
       "total": 30,
       "releaseDate": "2011-09-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-bw-z.json",
       "links": {
@@ -2555,7 +2555,7 @@
       "symbol": "setsymbol/noble-victories.png",
       "total": 102,
       "releaseDate": "2011-11-16",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw3.json",
       "links": {
@@ -2587,7 +2587,7 @@
       "symbol": "setsymbol/next-destinies.png",
       "total": 103,
       "releaseDate": "2012-02-08",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw4.json",
       "links": {
@@ -2619,7 +2619,7 @@
       "symbol": "setsymbol/dark-explorers.png",
       "total": 111,
       "releaseDate": "2012-05-09",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw5.json",
       "links": {
@@ -2651,7 +2651,7 @@
       "symbol": "setsymbol/mcdonalds-collection-2012.png",
       "total": 12,
       "releaseDate": "2012-06-15",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/2012bw.json",
       "links": {
@@ -2683,7 +2683,7 @@
       "symbol": "setsymbol/dragons-exalted.png",
       "total": 128,
       "releaseDate": "2012-08-15",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw6.json",
       "links": {
@@ -2715,7 +2715,7 @@
       "symbol": "setsymbol/dragon-vault.png",
       "total": 21,
       "releaseDate": "2012-10-05",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dv1.json",
       "links": {
@@ -2747,7 +2747,7 @@
       "symbol": "setsymbol/boundaries-crossed.png",
       "total": 153,
       "releaseDate": "2012-11-07",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw7.json",
       "links": {
@@ -2779,7 +2779,7 @@
       "symbol": "setsymbol/plasma-storm.png",
       "total": 138,
       "releaseDate": "2013-02-06",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw8.json",
       "links": {
@@ -2811,7 +2811,7 @@
       "symbol": "setsymbol/plasma-freeze.png",
       "total": 122,
       "releaseDate": "2013-05-08",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw9.json",
       "links": {
@@ -2843,7 +2843,7 @@
       "symbol": "setsymbol/plasma-blast.png",
       "total": 105,
       "releaseDate": "2013-08-14",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw10.json",
       "links": {
@@ -2875,7 +2875,7 @@
       "symbol": "setsymbol/xy-black-star-promos.png",
       "total": 216,
       "releaseDate": "2013-10-12",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xyp.json",
       "links": {
@@ -2907,7 +2907,7 @@
       "symbol": "setsymbol/legendary-treasures.png",
       "total": 140,
       "releaseDate": "2013-11-06",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/bw11.json",
       "links": {
@@ -2939,7 +2939,7 @@
       "symbol": "setsymbol/kalos-starter-set.png",
       "total": 39,
       "releaseDate": "2013-11-08",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy0.json",
       "links": {
@@ -2971,7 +2971,7 @@
       "symbol": "setsymbol/xy.png",
       "total": 146,
       "releaseDate": "2014-02-05",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy1.json",
       "links": {
@@ -3003,7 +3003,7 @@
       "symbol": "setsymbol/xy-trainer-kit-noivern.png",
       "total": 30,
       "releaseDate": "2014-03-12",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-xy-n.json",
       "links": {
@@ -3035,7 +3035,7 @@
       "symbol": "setsymbol/xy-trainer-kit-sylveon.png",
       "total": 30,
       "releaseDate": "2014-03-12",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-xy-sy.json",
       "links": {
@@ -3067,7 +3067,7 @@
       "symbol": "setsymbol/flashfire.png",
       "total": 110,
       "releaseDate": "2014-05-07",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy2.json",
       "links": {
@@ -3099,7 +3099,7 @@
       "symbol": "setsymbol/mcdonalds-collection-2014.png",
       "total": 12,
       "releaseDate": "2014-05-23",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/2014xy.json",
       "links": {
@@ -3131,7 +3131,7 @@
       "symbol": "setsymbol/furious-fists.png",
       "total": 114,
       "releaseDate": "2014-08-13",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy3.json",
       "links": {
@@ -3163,7 +3163,7 @@
       "symbol": "setsymbol/xy-trainer-kit-bisharp.png",
       "total": 30,
       "releaseDate": "2014-11-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-xy-b.json",
       "links": {
@@ -3195,7 +3195,7 @@
       "symbol": "setsymbol/xy-trainer-kit-wigglytuff.png",
       "total": 30,
       "releaseDate": "2014-11-01",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-xy-w.json",
       "links": {
@@ -3227,7 +3227,7 @@
       "symbol": "setsymbol/phantom-forces.png",
       "total": 124,
       "releaseDate": "2014-11-05",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy4.json",
       "links": {
@@ -3259,7 +3259,7 @@
       "symbol": "setsymbol/primal-clash.png",
       "total": 164,
       "releaseDate": "2015-02-04",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy5.json",
       "links": {
@@ -3291,7 +3291,7 @@
       "symbol": "setsymbol/double-crisis.png",
       "total": 34,
       "releaseDate": "2015-03-25",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/dc1.json",
       "links": {
@@ -3323,7 +3323,7 @@
       "symbol": "setsymbol/xy-trainer-kit-latias.png",
       "total": 30,
       "releaseDate": "2015-04-29",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-xy-latia.json",
       "links": {
@@ -3355,7 +3355,7 @@
       "symbol": "setsymbol/xy-trainer-kit-latios.png",
       "total": 30,
       "releaseDate": "2015-04-29",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-xy-latio.json",
       "links": {
@@ -3387,7 +3387,7 @@
       "symbol": "setsymbol/roaring-skies.png",
       "total": 112,
       "releaseDate": "2015-05-06",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy6.json",
       "links": {
@@ -3419,7 +3419,7 @@
       "symbol": "setsymbol/ancient-origins.png",
       "total": 101,
       "releaseDate": "2015-08-12",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy7.json",
       "links": {
@@ -3451,7 +3451,7 @@
       "symbol": "setsymbol/breakthrough.png",
       "total": 165,
       "releaseDate": "2015-11-04",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy8.json",
       "links": {
@@ -3483,7 +3483,7 @@
       "symbol": "setsymbol/mcdonalds-collection-2015.png",
       "total": 12,
       "releaseDate": "2015-11-27",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/2015xy.json",
       "links": {
@@ -3515,7 +3515,7 @@
       "symbol": "setsymbol/breakpoint.png",
       "total": 126,
       "releaseDate": "2016-02-03",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy9.json",
       "links": {
@@ -3547,7 +3547,7 @@
       "symbol": "setsymbol/generations.png",
       "total": 117,
       "releaseDate": "2016-02-22",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/g1.json",
       "links": {
@@ -3579,7 +3579,7 @@
       "symbol": "setsymbol/xy-trainer-kit-pikachu-libre.png",
       "total": 30,
       "releaseDate": "2016-04-27",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-xy-p.json",
       "links": {
@@ -3611,7 +3611,7 @@
       "symbol": "setsymbol/xy-trainer-kit-suicune.png",
       "total": 30,
       "releaseDate": "2016-04-27",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/tk-xy-su.json",
       "links": {
@@ -3643,7 +3643,7 @@
       "symbol": "setsymbol/fates-collide.png",
       "total": 129,
       "releaseDate": "2016-05-02",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy10.json",
       "links": {
@@ -3675,7 +3675,7 @@
       "symbol": "setsymbol/steam-siege.png",
       "total": 116,
       "releaseDate": "2016-08-03",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy11.json",
       "links": {
@@ -3707,7 +3707,7 @@
       "symbol": "setsymbol/mcdonalds-collection-2016.png",
       "total": 12,
       "releaseDate": "2016-08-20",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/2016xy.json",
       "links": {
@@ -3739,7 +3739,7 @@
       "symbol": "setsymbol/evolutions.png",
       "total": 113,
       "releaseDate": "2016-11-02",
-      "maintainer": "your-name",
+      "maintainer": "RSch",
       "updated": "2026-04-20",
       "file": "editions/xy12.json",
       "links": {
@@ -4511,8 +4511,8 @@
       "updated": "2026-04-19",
       "file": "editions/swshp.json",
       "links": {
-        "cardmarket": "",
-        "tcgplayer": ""
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/SWSH-Black-Star-Promos",
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/swsh-sword-and-shield-promo-cards"
       }
     },
     {
@@ -5144,7 +5144,7 @@
         "it": "setlogo/it/svp-black-star-promos.png",
         "pt": "setlogo/pt/svp-black-star-promos.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/svp-black-star-promos.png",
       "total": 226,
       "releaseDate": "2023-03-31",
       "maintainer": "RSch",

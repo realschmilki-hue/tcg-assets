@@ -5890,6 +5890,38 @@
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Perfect-Order",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/me03-perfect-order"
       }
-    }
+    },
+    {
+      "id": "me04",
+      "name": "Chaos Rising",
+      "nameEN": "Chaos Rising",
+      "names": {
+        "de": "Wachsendes Chaos",
+        "en": "Chaos Rising",
+        "es": "Caos Creciente",
+        "fr": "Chaos Ascendant",
+        "it": "Caos Nascente",
+        "pt": "Caos Ascendente"
+      },
+      "logo": "setlogo/chaos-rising.png",
+      "logos": {
+        "en": "setlogo/chaos-rising.png",
+        "de": "setlogo/de/chaos-rising.png",
+        "fr": "setlogo/fr/chaos-rising.png",
+        "es": "setlogo/es/chaos-rising.png",
+        "it": "setlogo/it/chaos-rising.png",
+        "pt": "setlogo/pt/chaos-rising.png"
+      },
+      "symbol": "setsymbol/chaos-rising.png",
+      "total": 122,
+      "releaseDate": "2026-05-22",
+      "maintainer": "your-name",
+      "updated": "2026-05-24",
+      "file": "editions/me04.json",
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising",
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/me04-chaos-rising"
+      }
+    }    
   ]
 }

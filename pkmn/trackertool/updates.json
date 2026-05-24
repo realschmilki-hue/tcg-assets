@@ -1,19 +1,17 @@
 {
   "updates": [
     {
-      "id": "2026-04-21-all-sets-imported",
-      "date": "2026-04-21",
-      "title": "All Sets",
-      "message": "Added all sets and updated html template with new features and fixes",
+      "id": "2026-05-24-chaos-rising-deckbuilder",
+      "date": "2026-05-24",
+      "title": "Chaos Rising and Deck Builder Added",
+      "message": "Added Chaos Rising and Deck Builder, and updated html template with new features and fixes",
       "changes": [
-        "-----ALL SETS-----",
-        "Added all sets",
         "-----Updates and Patches-----",
-        "Added available languages for each set",
-        "added card market and tcg player links for whole sets",
+        "Added Chaos Rising",
+        "Added Deck Builder",
         "fixed rarity filter issues",
         "-----Info-----",
-        "Some icons and images have to be fixed and will be fixed in the next update"
+        "If you find missing images, please report them to me so I can add them in the next update"
       ]
     }
   ]

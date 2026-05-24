@@ -792,7 +792,7 @@
         "it": "setlogo/it/pok-card-creator-pack.png",
         "pt": "setlogo/pt/pok-card-creator-pack.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/pok-card-creator-pack.png",
       "total": 5,
       "releaseDate": "2004-07-01",
       "maintainer": "RSch",
@@ -4536,7 +4536,7 @@
         "it": "setlogo/it/sword-and-shield.png",
         "pt": "setlogo/pt/sword-and-shield.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/sword-and-shield.png",
       "total": 216,
       "releaseDate": "2020-02-07",
       "maintainer": "RSch",
@@ -4568,7 +4568,7 @@
         "it": "setlogo/it/rebel-clash.png",
         "pt": "setlogo/pt/rebel-clash.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/rebel-clash.png",
       "total": 209,
       "releaseDate": "2020-05-01",
       "maintainer": "RSch",
@@ -4600,7 +4600,7 @@
         "it": "setlogo/it/darkness-ablaze.png",
         "pt": "setlogo/pt/darkness-ablaze.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/darkness-ablaze.png",
       "total": 201,
       "releaseDate": "2020-08-14",
       "maintainer": "RSch",
@@ -4632,7 +4632,7 @@
         "it": "setlogo/it/champions-path.png",
         "pt": "setlogo/pt/champions-path.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/champion-s-path.png",
       "total": 80,
       "releaseDate": "2020-09-25",
       "maintainer": "RSch",
@@ -4664,7 +4664,7 @@
         "it": "setlogo/it/vivid-voltage.png",
         "pt": "setlogo/pt/vivid-voltage.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/vivid-voltage.png",
       "total": 203,
       "releaseDate": "2020-11-13",
       "maintainer": "RSch",
@@ -4728,7 +4728,7 @@
         "it": "setlogo/it/shining-fates.png",
         "pt": "setlogo/pt/shining-fates.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/shining-fates.png",
       "total": 195,
       "releaseDate": "2021-02-19",
       "maintainer": "RSch",
@@ -4760,7 +4760,7 @@
         "it": "setlogo/it/battle-styles.png",
         "pt": "setlogo/pt/battle-styles.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/battle-styles.png",
       "total": 183,
       "releaseDate": "2021-03-19",
       "maintainer": "RSch",
@@ -4792,7 +4792,7 @@
         "it": "setlogo/it/chilling-reign.png",
         "pt": "setlogo/pt/chilling-reign.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/chilling-reign.png",
       "total": 233,
       "releaseDate": "2021-06-18",
       "maintainer": "RSch",
@@ -4824,7 +4824,7 @@
         "it": "setlogo/it/evolving-skies.png",
         "pt": "setlogo/pt/evolving-skies.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/evolving-skies.png",
       "total": 237,
       "releaseDate": "2021-08-27",
       "maintainer": "RSch",
@@ -4888,7 +4888,7 @@
         "it": "setlogo/it/fusion-strike.png",
         "pt": "setlogo/pt/fusion-strike.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/fusion-strike.png",
       "total": 284,
       "releaseDate": "2021-11-12",
       "maintainer": "RSch",
@@ -4920,7 +4920,7 @@
         "it": "setlogo/it/brilliant-stars.png",
         "pt": "setlogo/pt/brilliant-stars.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/brilliant-stars.png",
       "total": 216,
       "releaseDate": "2022-02-25",
       "maintainer": "RSch",
@@ -4952,7 +4952,7 @@
         "it": "setlogo/it/astral-radiance.png",
         "pt": "setlogo/pt/astral-radiance.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/astral-radiance.png",
       "total": 246,
       "releaseDate": "2022-05-27",
       "maintainer": "RSch",
@@ -4984,7 +4984,7 @@
         "it": "setlogo/it/pokemon-go.png",
         "pt": "setlogo/pt/pokemon-go.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/pok-mon-go.png",
       "total": 88,
       "releaseDate": "2022-07-01",
       "maintainer": "RSch",
@@ -5048,7 +5048,7 @@
         "it": "setlogo/it/lost-origin.png",
         "pt": "setlogo/pt/lost-origin.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/lost-origin.png",
       "total": 247,
       "releaseDate": "2022-09-09",
       "maintainer": "RSch",
@@ -5080,7 +5080,7 @@
         "it": "setlogo/it/silver-tempest.png",
         "pt": "setlogo/pt/silver-tempest.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/silver-tempest.png",
       "total": 245,
       "releaseDate": "2022-11-11",
       "maintainer": "RSch",
@@ -5112,7 +5112,7 @@
         "it": "setlogo/it/crown-zenith.png",
         "pt": "setlogo/pt/crown-zenith.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/crown-zenith.png",
       "total": 230,
       "releaseDate": "2023-01-20",
       "maintainer": "RSch",
@@ -5176,7 +5176,7 @@
         "it": "setlogo/it/scarlet-and-violet.png",
         "pt": "setlogo/pt/scarlet-and-violet.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/scarlet-and-violet.png",
       "total": 258,
       "releaseDate": "2023-03-31",
       "maintainer": "RSch",
@@ -5272,7 +5272,7 @@
         "it": "setlogo/it/obsidian-flames.png",
         "pt": "setlogo/pt/obsidian-flames.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/obsidian-flames.png",
       "total": 230,
       "releaseDate": "2023-08-11",
       "maintainer": "RSch",
@@ -5304,7 +5304,7 @@
         "it": "setlogo/it/151.png",
         "pt": "setlogo/pt/151.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/151.png",
       "total": 207,
       "releaseDate": "2023-09-22",
       "maintainer": "RSch",
@@ -5336,7 +5336,7 @@
         "it": "setlogo/it/paradox-rift.png",
         "pt": "setlogo/pt/paradox-rift.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/paradox-rift.png",
       "total": 266,
       "releaseDate": "2023-11-03",
       "maintainer": "RSch",
@@ -5368,7 +5368,7 @@
         "it": "setlogo/it/paldean-fates.png",
         "pt": "setlogo/pt/paldean-fates.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/paldean-fates.png",
       "total": 245,
       "releaseDate": "2024-01-26",
       "maintainer": "RSch",
@@ -5400,7 +5400,7 @@
         "it": "setlogo/it/temporal-forces.png",
         "pt": "setlogo/pt/temporal-forces.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/temporal-forces.png",
       "total": 218,
       "releaseDate": "2024-03-22",
       "maintainer": "RSch",
@@ -5432,7 +5432,7 @@
         "it": "setlogo/it/twilight-masquerade.png",
         "pt": "setlogo/pt/twilight-masquerade.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/twilight-masquerade.png",
       "total": 226,
       "releaseDate": "2024-05-24",
       "maintainer": "RSch",
@@ -5464,7 +5464,7 @@
         "it": "setlogo/it/shrouded-fable.png",
         "pt": "setlogo/pt/shrouded-fable.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/shrouded-fable.png",
       "total": 99,
       "releaseDate": "2024-08-02",
       "maintainer": "RSch",
@@ -5624,7 +5624,7 @@
         "it": "setlogo/it/journey-together.png",
         "pt": "setlogo/pt/journey-together.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/journey-together.png",
       "total": 190,
       "releaseDate": "2025-03-28",
       "maintainer": "RSch",
@@ -5688,7 +5688,7 @@
         "it": "setlogo/it/white-flare.png",
         "pt": "setlogo/pt/white-flare.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/white-flare.png",
       "total": 173,
       "releaseDate": "2025-07-17",
       "maintainer": "RSch",
@@ -5720,7 +5720,7 @@
         "it": "setlogo/it/black-bolt.png",
         "pt": "setlogo/pt/black-bolt.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/black-bolt.png",
       "total": 172,
       "releaseDate": "2025-07-17",
       "maintainer": "RSch",
@@ -5752,7 +5752,7 @@
         "it": "setlogo/it/mep-black-star-promos.png",
         "pt": "setlogo/pt/mep-black-star-promos.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/mep-black-star-promos.png",
       "total": 37,
       "releaseDate": "2025-09-26",
       "maintainer": "your-name",
@@ -5784,7 +5784,7 @@
         "it": "setlogo/it/mega-evolution.png",
         "pt": "setlogo/pt/mega-evolution.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/mega-evolution.png",
       "total": 188,
       "releaseDate": "2025-09-26",
       "maintainer": "RSch",
@@ -5848,7 +5848,7 @@
         "it": "setlogo/it/ascended-heroes.png",
         "pt": "setlogo/pt/ascended-heroes.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/ascended-heroes.png",
       "total": 295,
       "releaseDate": "2026-01-30",
       "maintainer": "RSch",
@@ -5880,7 +5880,7 @@
         "it": "setlogo/it/perfect-order.png",
         "pt": "setlogo/pt/perfect-order.png"
       },
-      "symbol": "",
+      "symbol": "setsymbol/perfect-order.png",
       "total": 124,
       "releaseDate": "2026-03-27",
       "maintainer": "RSch",
@@ -5922,6 +5922,6 @@
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/me04-chaos-rising"
       }
-    }    
+    }
   ]
 }

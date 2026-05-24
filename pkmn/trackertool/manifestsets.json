@@ -1,4 +1,4 @@
-﻿{
+{
   "version": 1,
   "lastUpdated": "2026-04-20",
   "baseUrl": "https://raw.githubusercontent.com/realschmilki-hue/tcg-assets/main/pkmn/trackertool",
@@ -5871,7 +5871,7 @@
         "it": "Equilibrio Perfetto",
         "pt": "Heróis Excelsos"
       },
-      "logo": "",
+      "logo": "setlogo/perfect-order.png",
       "logos": {
         "en": "setlogo/perfect-order.png",
         "de": "setlogo/de/perfect-order.png",

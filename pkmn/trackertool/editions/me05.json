@@ -1,0 +1,5241 @@
+{
+  "edition": {
+    "id": "me05",
+    "name": "Pitch Black",
+    "nameEN": "Pitch Black",
+    "total": 120,
+    "releaseDate": "2026-07-17"
+  },
+  "cards": [
+    {
+      "number": "001",
+      "names": {
+        "de": "Tropius",
+        "en": "Tropius",
+        "es": "Tropius",
+        "fr": "Tropius",
+        "it": "Tropius",
+        "pt": "Tropius"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/001/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/001/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/001/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/001/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/001/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/001/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/001/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/001/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/001/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/001/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/001/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/001/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Tropius-PBL001",
+        "tcgplayer": "https://www.tcgplayer.com/product/704758/pokemon-me05-pitch-black-tropius?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "002",
+      "names": {
+        "de": "Mabula",
+        "en": "Grubbin",
+        "es": "Grubbin",
+        "fr": "Larvibule",
+        "it": "Grubbin",
+        "pt": "Grubbin"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/002/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/002/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/002/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/002/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/002/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/002/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/002/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/002/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/002/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/002/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/002/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/002/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Grubbin-PBL002",
+        "tcgplayer": "https://www.tcgplayer.com/product/704759/pokemon-me05-pitch-black-grubbin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "003",
+      "names": {
+        "de": "Imantis",
+        "en": "Fomantis",
+        "es": "Fomantis",
+        "fr": "Mimantis",
+        "it": "Fomantis",
+        "pt": "Fomantis"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/003/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/003/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/003/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/003/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/003/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/003/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/003/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/003/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/003/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/003/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/003/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/003/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Fomantis-V1-PBL003",
+        "tcgplayer": "https://www.tcgplayer.com/product/704760/pokemon-me05-pitch-black-fomantis-003-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "004",
+      "names": {
+        "de": "Mantidea-ex",
+        "en": "Lurantis ex",
+        "es": "Lurantis ex",
+        "fr": "Floramantis-ex",
+        "it": "Lurantis-ex",
+        "pt": "Lurantis ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/004/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/004/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/004/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/004/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/004/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/004/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/004/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/004/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/004/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/004/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/004/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/004/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Lurantis-ex-V1-PBL004",
+        "tcgplayer": "https://www.tcgplayer.com/product/704761/pokemon-me05-pitch-black-lurantis-ex-004-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "005",
+      "names": {
+        "de": "Mortcha",
+        "en": "Poltchageist",
+        "es": "Poltchageist",
+        "fr": "Poltchageist",
+        "it": "Poltchageist",
+        "pt": "Poltchageist"
+      },
+      "rarity": "Common",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/005/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/005/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/005/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/005/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/005/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/005/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/005/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/005/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/005/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/005/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/005/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/005/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Poltchageist-PBL005",
+        "tcgplayer": "https://www.tcgplayer.com/product/704762/pokemon-me05-pitch-black-poltchageist?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "006",
+      "names": {
+        "de": "Fatalitcha",
+        "en": "Sinistcha",
+        "es": "Sinistcha",
+        "fr": "Théffroyable",
+        "it": "Sinistcha",
+        "pt": "Sinistcha"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/006/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/006/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/006/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/006/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/006/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/006/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/006/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/006/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/006/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/006/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/006/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/006/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Sinistcha-PBL006",
+        "tcgplayer": "https://www.tcgplayer.com/product/704763/pokemon-me05-pitch-black-sinistcha?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "007",
+      "names": {
+        "de": "Heatran",
+        "en": "Heatran",
+        "es": "Heatran",
+        "fr": "Heatran",
+        "it": "Heatran",
+        "pt": "Heatran"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/007/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/007/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/007/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/007/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/007/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/007/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/007/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/007/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/007/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/007/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/007/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/007/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Heatran-PBL007",
+        "tcgplayer": "https://www.tcgplayer.com/product/704764/pokemon-me05-pitch-black-heatran?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "008",
+      "names": {
+        "de": "Mega-Fennexis-ex",
+        "en": "Mega Delphox ex",
+        "es": "Mega-Delphox ex",
+        "fr": "Méga-Goupelin-ex",
+        "it": "Mega Delphox-ex",
+        "pt": "Mega Delphox ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/008/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/008/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/008/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/008/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/008/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/008/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/008/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/008/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/008/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/008/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/008/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/008/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Delphox-ex-PBL008",
+        "tcgplayer": "https://www.tcgplayer.com/product/704765/pokemon-me05-pitch-black-mega-delphox-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "009",
+      "names": {
+        "de": "Thermopod",
+        "en": "Sizzlipede",
+        "es": "Sizzlipede",
+        "fr": "Grillepattes",
+        "it": "Sizzlipede",
+        "pt": "Sizzlipede"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/009/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/009/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/009/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/009/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/009/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/009/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/009/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/009/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/009/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/009/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/009/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/009/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Sizzlipede-PBL009",
+        "tcgplayer": "https://www.tcgplayer.com/product/704766/pokemon-me05-pitch-black-sizzlipede?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "010",
+      "names": {
+        "de": "Infernopod",
+        "en": "Centiskorch",
+        "es": "Centiskorch",
+        "fr": "Scolocendre",
+        "it": "Centiskorch",
+        "pt": "Centiskorch"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/010/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/010/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/010/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/010/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/010/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/010/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/010/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/010/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/010/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/010/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/010/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/010/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Centiskorch-PBL010",
+        "tcgplayer": "https://www.tcgplayer.com/product/704767/pokemon-me05-pitch-black-centiskorch?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "011",
+      "names": {
+        "de": "Knarbon",
+        "en": "Charcadet",
+        "es": "Charcadet",
+        "fr": "Charbambin",
+        "it": "Charcadet",
+        "pt": "Charcadet"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/011/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/011/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/011/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/011/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/011/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/011/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/011/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/011/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/011/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/011/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/011/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/011/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Charcadet-PBL011",
+        "tcgplayer": "https://www.tcgplayer.com/product/704768/pokemon-me05-pitch-black-charcadet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "012",
+      "names": {
+        "de": "Crimanzo",
+        "en": "Armarouge",
+        "es": "Armarouge",
+        "fr": "Carmadura",
+        "it": "Armarouge",
+        "pt": "Armarouge"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/012/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/012/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/012/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/012/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/012/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/012/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/012/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/012/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/012/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/012/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/012/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/012/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Armarouge-V1-PBL012",
+        "tcgplayer": "https://www.tcgplayer.com/product/704769/pokemon-me05-pitch-black-armarouge-012-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "013",
+      "names": {
+        "de": "Goldini",
+        "en": "Goldeen",
+        "es": "Goldeen",
+        "fr": "Poissirène",
+        "it": "Goldeen",
+        "pt": "Goldeen"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/013/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/013/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/013/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/013/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/013/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/013/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/013/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/013/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/013/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/013/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/013/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/013/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Goldeen-V1-PBL013",
+        "tcgplayer": "https://www.tcgplayer.com/product/704770/pokemon-me05-pitch-black-goldeen-013-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "014",
+      "names": {
+        "de": "Golking",
+        "en": "Seaking",
+        "es": "Seaking",
+        "fr": "Poissoroy",
+        "it": "Seaking",
+        "pt": "Seaking"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/014/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/014/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/014/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/014/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/014/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/014/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/014/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/014/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/014/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/014/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/014/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/014/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Seaking-PBL014",
+        "tcgplayer": "https://www.tcgplayer.com/product/704771/pokemon-me05-pitch-black-seaking?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "015",
+      "names": {
+        "de": "Wailmer",
+        "en": "Wailmer",
+        "es": "Wailmer",
+        "fr": "Wailmer",
+        "it": "Wailmer",
+        "pt": "Wailmer"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/015/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/015/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/015/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/015/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/015/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/015/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/015/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/015/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/015/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/015/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/015/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/015/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Wailmer-PBL015",
+        "tcgplayer": "https://www.tcgplayer.com/product/704772/pokemon-me05-pitch-black-wailmer?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "016",
+      "names": {
+        "de": "Wailord-ex",
+        "en": "Wailord ex",
+        "es": "Wailord ex",
+        "fr": "Wailord-ex",
+        "it": "Wailord-ex",
+        "pt": "Wailord ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/016/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/016/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/016/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/016/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/016/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/016/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/016/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/016/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/016/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/016/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/016/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/016/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Wailord-ex-V1-PBL016",
+        "tcgplayer": "https://www.tcgplayer.com/product/704773/pokemon-me05-pitch-black-wailord-ex-016-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "017",
+      "names": {
+        "de": "Relicanth",
+        "en": "Relicanth",
+        "es": "Relicanth",
+        "fr": "Relicanth",
+        "it": "Relicanth",
+        "pt": "Relicanth"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/017/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/017/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/017/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/017/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/017/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/017/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/017/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/017/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/017/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/017/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/017/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/017/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Relicanth-PBL017",
+        "tcgplayer": "https://www.tcgplayer.com/product/704774/pokemon-me05-pitch-black-relicanth?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "018",
+      "names": {
+        "de": "Robball",
+        "en": "Popplio",
+        "es": "Popplio",
+        "fr": "Otaquin",
+        "it": "Popplio",
+        "pt": "Popplio"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/018/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/018/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/018/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/018/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/018/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/018/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/018/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/018/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/018/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/018/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/018/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/018/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Popplio-PBL018",
+        "tcgplayer": "https://www.tcgplayer.com/product/704775/pokemon-me05-pitch-black-popplio?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "019",
+      "names": {
+        "de": "Marikeck",
+        "en": "Brionne",
+        "es": "Brionne",
+        "fr": "Otarlette",
+        "it": "Brionne",
+        "pt": "Brionne"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/019/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/019/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/019/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/019/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/019/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/019/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/019/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/019/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/019/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/019/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/019/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/019/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Brionne-PBL019",
+        "tcgplayer": "https://www.tcgplayer.com/product/704776/pokemon-me05-pitch-black-brionne?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "020",
+      "names": {
+        "de": "Primarene",
+        "en": "Primarina",
+        "es": "Primarina",
+        "fr": "Oratoria",
+        "it": "Primarina",
+        "pt": "Primarina"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/020/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/020/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/020/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/020/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/020/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/020/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/020/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/020/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/020/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/020/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/020/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/020/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Primarina-V1-PBL020",
+        "tcgplayer": "https://www.tcgplayer.com/product/704777/pokemon-me05-pitch-black-primarina-020-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "021",
+      "names": {
+        "de": "Normifin",
+        "en": "Finizen",
+        "es": "Finizen",
+        "fr": "Dofin",
+        "it": "Finizen",
+        "pt": "Finizen"
+      },
+      "rarity": "Common",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/021/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/021/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/021/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/021/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/021/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/021/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/021/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/021/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/021/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/021/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/021/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/021/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Finizen-PBL021",
+        "tcgplayer": "https://www.tcgplayer.com/product/704778/pokemon-me05-pitch-black-finizen?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "022",
+      "names": {
+        "de": "Delfinator",
+        "en": "Palafin",
+        "es": "Palafin",
+        "fr": "Superdofin",
+        "it": "Palafin",
+        "pt": "Palafin"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/022/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/022/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/022/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/022/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/022/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/022/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/022/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/022/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/022/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/022/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/022/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/022/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Palafin-PBL022",
+        "tcgplayer": "https://www.tcgplayer.com/product/704779/pokemon-me05-pitch-black-palafin?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "023",
+      "names": {
+        "de": "Frizelbliz",
+        "en": "Electrike",
+        "es": "Electrike",
+        "fr": "Dynavolt",
+        "it": "Electrike",
+        "pt": "Electrike"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/023/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/023/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/023/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/023/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/023/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/023/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/023/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/023/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/023/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/023/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/023/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/023/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Electrike-PBL023",
+        "tcgplayer": "https://www.tcgplayer.com/product/704780/pokemon-me05-pitch-black-electrike?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "024",
+      "names": {
+        "de": "Voltenso",
+        "en": "Manectric",
+        "es": "Manectric",
+        "fr": "Élecsprint",
+        "it": "Manectric",
+        "pt": "Manectric"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/024/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/024/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/024/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/024/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/024/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/024/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/024/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/024/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/024/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/024/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/024/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/024/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Manectric-V1-PBL024",
+        "tcgplayer": "https://www.tcgplayer.com/product/704781/pokemon-me05-pitch-black-manectric-024-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "025",
+      "names": {
+        "de": "Akkup",
+        "en": "Charjabug",
+        "es": "Charjabug",
+        "fr": "Chrysapile",
+        "it": "Charjabug",
+        "pt": "Charjabug"
+      },
+      "rarity": "Common",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/025/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/025/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/025/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/025/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/025/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/025/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/025/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/025/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/025/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/025/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/025/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/025/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Charjabug-PBL025",
+        "tcgplayer": "https://www.tcgplayer.com/product/704782/pokemon-me05-pitch-black-charjabug?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "026",
+      "names": {
+        "de": "Donarion",
+        "en": "Vikavolt",
+        "es": "Vikavolt",
+        "fr": "Lucanon",
+        "it": "Vikavolt",
+        "pt": "Vikavolt"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/026/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/026/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/026/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/026/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/026/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/026/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/026/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/026/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/026/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/026/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/026/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/026/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Vikavolt-PBL026",
+        "tcgplayer": "https://www.tcgplayer.com/product/704783/pokemon-me05-pitch-black-vikavolt?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "027",
+      "names": {
+        "de": "Mega-Zeraora-ex",
+        "en": "Mega Zeraora ex",
+        "es": "Mega-Zeraora ex",
+        "fr": "Méga-Zeraora-ex",
+        "it": "Mega Zeraora-ex",
+        "pt": "Mega Zeraora ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/027/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/027/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/027/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/027/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/027/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/027/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/027/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/027/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/027/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/027/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/027/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/027/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Zeraora-ex-V1-PBL027",
+        "tcgplayer": "https://www.tcgplayer.com/product/704784/pokemon-me05-pitch-black-mega-zeraora-ex-027-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "028",
+      "names": {
+        "de": "Miraidon",
+        "en": "Miraidon",
+        "es": "Miraidon",
+        "fr": "Miraidon",
+        "it": "Miraidon",
+        "pt": "Miraidon"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/028/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/028/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/028/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/028/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/028/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/028/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/028/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/028/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/028/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/028/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/028/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/028/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Miraidon-PBL028",
+        "tcgplayer": "https://www.tcgplayer.com/product/704785/pokemon-me05-pitch-black-miraidon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "029",
+      "names": {
+        "de": "Flegmon",
+        "en": "Slowpoke",
+        "es": "Slowpoke",
+        "fr": "Ramoloss",
+        "it": "Slowpoke",
+        "pt": "Slowpoke"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/029/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/029/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/029/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/029/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/029/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/029/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/029/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/029/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/029/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/029/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/029/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/029/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Slowpoke-PBL029",
+        "tcgplayer": "https://www.tcgplayer.com/product/704786/pokemon-me05-pitch-black-slowpoke?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "030",
+      "names": {
+        "de": "Lahmus",
+        "en": "Slowbro",
+        "es": "Slowbro",
+        "fr": "Flagadoss",
+        "it": "Slowbro",
+        "pt": "Slowbro"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/030/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/030/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/030/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/030/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/030/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/030/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/030/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/030/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/030/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/030/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/030/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/030/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Slowbro-V1-PBL030",
+        "tcgplayer": "https://www.tcgplayer.com/product/704787/pokemon-me05-pitch-black-slowbro-030-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "031",
+      "names": {
+        "de": "Mega-Lahmus-ex",
+        "en": "Mega Slowbro ex",
+        "es": "Mega-Slowbro ex",
+        "fr": "Méga-Flagadoss-ex",
+        "it": "Mega Slowbro-ex",
+        "pt": "Mega Slowbro ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/031/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/031/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/031/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/031/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/031/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/031/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/031/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/031/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/031/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/031/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/031/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/031/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Slowbro-ex-PBL031",
+        "tcgplayer": "https://www.tcgplayer.com/product/704788/pokemon-me05-pitch-black-mega-slowbro-ex?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "032",
+      "names": {
+        "de": "Rossana",
+        "en": "Jynx",
+        "es": "Jynx",
+        "fr": "Lippoutou",
+        "it": "Jynx",
+        "pt": "Jynx"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/032/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/032/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/032/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/032/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/032/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/032/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/032/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/032/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/032/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/032/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/032/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/032/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Jynx-PBL032",
+        "tcgplayer": "https://www.tcgplayer.com/product/704789/pokemon-me05-pitch-black-jynx?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "033",
+      "names": {
+        "de": "Shuppet",
+        "en": "Shuppet",
+        "es": "Shuppet",
+        "fr": "Polichombr",
+        "it": "Shuppet",
+        "pt": "Shuppet"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/033/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/033/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/033/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/033/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/033/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/033/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/033/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/033/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/033/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/033/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/033/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/033/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Shuppet-PBL033",
+        "tcgplayer": "https://www.tcgplayer.com/product/704790/pokemon-me05-pitch-black-shuppet?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "034",
+      "names": {
+        "de": "Banette",
+        "en": "Banette",
+        "es": "Banette",
+        "fr": "Branette",
+        "it": "Banette",
+        "pt": "Banette"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/034/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/034/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/034/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/034/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/034/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/034/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/034/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/034/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/034/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/034/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/034/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/034/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Banette-PBL034",
+        "tcgplayer": "https://www.tcgplayer.com/product/704791/pokemon-me05-pitch-black-banette?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "035",
+      "names": {
+        "de": "Kryppuk",
+        "en": "Spiritomb",
+        "es": "Spiritomb",
+        "fr": "Spiritomb",
+        "it": "Spiritomb",
+        "pt": "Spiritomb"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/035/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/035/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/035/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/035/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/035/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/035/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/035/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/035/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/035/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/035/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/035/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/035/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Spiritomb-PBL035",
+        "tcgplayer": "https://www.tcgplayer.com/product/704792/pokemon-me05-pitch-black-spiritomb?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "036",
+      "names": {
+        "de": "Lichtel",
+        "en": "Litwick",
+        "es": "Litwick",
+        "fr": "Funécire",
+        "it": "Litwick",
+        "pt": "Litwick"
+      },
+      "rarity": "Common",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/036/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/036/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/036/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/036/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/036/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/036/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/036/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/036/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/036/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/036/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/036/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/036/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Litwick-PBL036",
+        "tcgplayer": "https://www.tcgplayer.com/product/704793/pokemon-me05-pitch-black-litwick?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "037",
+      "names": {
+        "de": "Laternecto",
+        "en": "Lampent",
+        "es": "Lampent",
+        "fr": "Mélancolux",
+        "it": "Lampent",
+        "pt": "Lampent"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/037/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/037/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/037/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/037/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/037/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/037/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/037/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/037/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/037/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/037/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/037/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/037/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Lampent-PBL037",
+        "tcgplayer": "https://www.tcgplayer.com/product/704794/pokemon-me05-pitch-black-lampent?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "038",
+      "names": {
+        "de": "Mega-Skelabra-ex",
+        "en": "Mega Chandelure ex",
+        "es": "Mega-Chandelure ex",
+        "fr": "Méga-Lugulabre-ex",
+        "it": "Mega Chandelure-ex",
+        "pt": "Mega Chandelure ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/038/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/038/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/038/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/038/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/038/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/038/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/038/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/038/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/038/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/038/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/038/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/038/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Chandelure-ex-V1-PBL038",
+        "tcgplayer": "https://www.tcgplayer.com/product/704795/pokemon-me05-pitch-black-mega-chandelure-ex-038-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "039",
+      "names": {
+        "de": "Moruda",
+        "en": "Dhelmise",
+        "es": "Dhelmise",
+        "fr": "Sinistrail",
+        "it": "Dhelmise",
+        "pt": "Dhelmise"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/039/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/039/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/039/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/039/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/039/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/039/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/039/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/039/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/039/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/039/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/039/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/039/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Dhelmise-V1-PBL039",
+        "tcgplayer": "https://www.tcgplayer.com/product/704796/pokemon-me05-pitch-black-dhelmise-039-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "040",
+      "names": {
+        "de": "Marshadow",
+        "en": "Marshadow",
+        "es": "Marshadow",
+        "fr": "Marshadow",
+        "it": "Marshadow",
+        "pt": "Marshadow"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/040/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/040/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/040/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/040/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/040/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/040/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/040/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/040/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/040/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/040/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/040/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/040/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Marshadow-PBL040",
+        "tcgplayer": "https://www.tcgplayer.com/product/704797/pokemon-me05-pitch-black-marshadow?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "041",
+      "names": {
+        "de": "Epitaff",
+        "en": "Annihilape",
+        "es": "Annihilape",
+        "fr": "Courrousinge",
+        "it": "Annihilape",
+        "pt": "Annihilape"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/041/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/041/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/041/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/041/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/041/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/041/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/041/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/041/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/041/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/041/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/041/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/041/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Annihilape-PBL041",
+        "tcgplayer": "https://www.tcgplayer.com/product/704798/pokemon-me05-pitch-black-annihilape?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "042",
+      "names": {
+        "de": "Menki",
+        "en": "Mankey",
+        "es": "Mankey",
+        "fr": "Férosinge",
+        "it": "Mankey",
+        "pt": "Mankey"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/042/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/042/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/042/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/042/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/042/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/042/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/042/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/042/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/042/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/042/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/042/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/042/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mankey-PBL042",
+        "tcgplayer": "https://www.tcgplayer.com/product/704799/pokemon-me05-pitch-black-mankey?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "043",
+      "names": {
+        "de": "Rasaff",
+        "en": "Primeape",
+        "es": "Primeape",
+        "fr": "Colossinge",
+        "it": "Primeape",
+        "pt": "Primeape"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/043/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/043/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/043/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/043/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/043/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/043/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/043/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/043/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/043/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/043/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/043/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/043/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Primeape-PBL043",
+        "tcgplayer": "https://www.tcgplayer.com/product/704800/pokemon-me05-pitch-black-primeape?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "044",
+      "names": {
+        "de": "Koknodon",
+        "en": "Cranidos",
+        "es": "Cranidos",
+        "fr": "Kranidos",
+        "it": "Cranidos",
+        "pt": "Cranidos"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/044/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/044/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/044/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/044/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/044/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/044/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/044/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/044/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/044/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/044/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/044/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/044/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Cranidos-PBL044",
+        "tcgplayer": "https://www.tcgplayer.com/product/704801/pokemon-me05-pitch-black-cranidos?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "045",
+      "names": {
+        "de": "Rameidon-ex",
+        "en": "Rampardos ex",
+        "es": "Rampardos ex",
+        "fr": "Charkos-ex",
+        "it": "Rampardos-ex",
+        "pt": "Rampardos ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/045/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/045/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/045/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/045/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/045/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/045/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/045/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/045/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/045/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/045/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/045/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/045/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Rampardos-ex-V1-PBL045",
+        "tcgplayer": "https://www.tcgplayer.com/product/704802/pokemon-me05-pitch-black-rampardos-ex-045-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "046",
+      "names": {
+        "de": "Rotomurf",
+        "en": "Drilbur",
+        "es": "Drilbur",
+        "fr": "Rototaupe",
+        "it": "Drilbur",
+        "pt": "Drilbur"
+      },
+      "rarity": "Common",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/046/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/046/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/046/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/046/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/046/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/046/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/046/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/046/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/046/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/046/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/046/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/046/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Drilbur-V1-PBL046",
+        "tcgplayer": "https://www.tcgplayer.com/product/704803/pokemon-me05-pitch-black-drilbur?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "047",
+      "names": {
+        "de": "Koraidon",
+        "en": "Koraidon",
+        "es": "Koraidon",
+        "fr": "Koraidon",
+        "it": "Koraidon",
+        "pt": "Koraidon"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/047/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/047/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/047/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/047/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/047/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/047/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/047/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/047/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/047/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/047/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/047/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/047/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Koraidon-PBL047",
+        "tcgplayer": "https://www.tcgplayer.com/product/704804/pokemon-me05-pitch-black-koraidon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "048",
+      "names": {
+        "de": "Mega-Darkrai-ex",
+        "en": "Mega Darkrai ex",
+        "es": "Mega-Darkrai ex",
+        "fr": "Méga-Darkrai-ex",
+        "it": "Mega Darkrai-ex",
+        "pt": "Mega Darkrai ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/048/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/048/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/048/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/048/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/048/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/048/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/048/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/048/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/048/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/048/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/048/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/048/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Darkrai-ex-V1-PBL048",
+        "tcgplayer": "https://www.tcgplayer.com/product/704805/pokemon-me05-pitch-black-mega-darkrai-ex-048-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "049",
+      "names": {
+        "de": "Skallyk",
+        "en": "Vullaby",
+        "es": "Vullaby",
+        "fr": "Vostourno",
+        "it": "Vullaby",
+        "pt": "Vullaby"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/049/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/049/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/049/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/049/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/049/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/049/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/049/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/049/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/049/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/049/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/049/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/049/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Vullaby-PBL049",
+        "tcgplayer": "https://www.tcgplayer.com/product/704806/pokemon-me05-pitch-black-vullaby?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "050",
+      "names": {
+        "de": "Grypheldis",
+        "en": "Mandibuzz",
+        "es": "Mandibuzz",
+        "fr": "Vaututrice",
+        "it": "Mandibuzz",
+        "pt": "Mandibuzz"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/050/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/050/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/050/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/050/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/050/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/050/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/050/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/050/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/050/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/050/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/050/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/050/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mandibuzz-PBL050",
+        "tcgplayer": "https://www.tcgplayer.com/product/704807/pokemon-me05-pitch-black-mandibuzz?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "051",
+      "names": {
+        "de": "Iscalar",
+        "en": "Inkay",
+        "es": "Inkay",
+        "fr": "Sepiatop",
+        "it": "Inkay",
+        "pt": "Inkay"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/051/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/051/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/051/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/051/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/051/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/051/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/051/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/051/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/051/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/051/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/051/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/051/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Inkay-PBL051",
+        "tcgplayer": "https://www.tcgplayer.com/product/704808/pokemon-me05-pitch-black-inkay?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "052",
+      "names": {
+        "de": "Calamanero",
+        "en": "Malamar",
+        "es": "Malamar",
+        "fr": "Sepiatroce",
+        "it": "Malamar",
+        "pt": "Malamar"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/052/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/052/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/052/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/052/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/052/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/052/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/052/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/052/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/052/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/052/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/052/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/052/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Malamar-PBL052",
+        "tcgplayer": "https://www.tcgplayer.com/product/704809/pokemon-me05-pitch-black-malamar?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "053",
+      "names": {
+        "de": "Kleptifux",
+        "en": "Nickit",
+        "es": "Nickit",
+        "fr": "Goupilou",
+        "it": "Nickit",
+        "pt": "Nickit"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/053/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/053/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/053/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/053/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/053/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/053/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/053/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/053/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/053/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/053/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/053/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/053/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Nickit-PBL053",
+        "tcgplayer": "https://www.tcgplayer.com/product/704810/pokemon-me05-pitch-black-nickit?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "054",
+      "names": {
+        "de": "Gaunux",
+        "en": "Thievul",
+        "es": "Thievul",
+        "fr": "Roublenard",
+        "it": "Thievul",
+        "pt": "Thievul"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/054/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/054/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/054/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/054/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/054/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/054/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/054/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/054/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/054/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/054/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/054/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/054/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Thievul-V1-PBL054",
+        "tcgplayer": "https://www.tcgplayer.com/product/704811/pokemon-me05-pitch-black-thievul-054-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "055",
+      "names": {
+        "de": "Morpeko-ex",
+        "en": "Morpeko ex",
+        "es": "Morpeko ex",
+        "fr": "Morpeko-ex",
+        "it": "Morpeko-ex",
+        "pt": "Morpeko ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/055/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/055/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/055/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/055/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/055/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/055/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/055/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/055/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/055/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/055/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/055/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/055/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Morpeko-ex-V1-PBL055",
+        "tcgplayer": "https://www.tcgplayer.com/product/704812/pokemon-me05-pitch-black-morpeko-ex-055-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "056",
+      "names": {
+        "de": "Zarude",
+        "en": "Zarude",
+        "es": "Zarude",
+        "fr": "Zarude",
+        "it": "Zarude",
+        "pt": "Zarude"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/056/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/056/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/056/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/056/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/056/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/056/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/056/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/056/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/056/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/056/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/056/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/056/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Zarude-PBL056",
+        "tcgplayer": "https://www.tcgplayer.com/product/704813/pokemon-me05-pitch-black-zarude?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "057",
+      "names": {
+        "de": "Mobtiff",
+        "en": "Maschiff",
+        "es": "Maschiff",
+        "fr": "Grondogue",
+        "it": "Maschiff",
+        "pt": "Maschiff"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/057/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/057/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/057/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/057/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/057/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/057/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/057/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/057/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/057/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/057/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/057/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/057/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Maschiff-PBL057",
+        "tcgplayer": "https://www.tcgplayer.com/product/704814/pokemon-me05-pitch-black-maschiff?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "058",
+      "names": {
+        "de": "Mastifioso",
+        "en": "Mabosstiff",
+        "es": "Mabosstiff",
+        "fr": "Dogrino",
+        "it": "Mabosstiff",
+        "pt": "Mabosstiff"
+      },
+      "rarity": "Common",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/058/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/058/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/058/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/058/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/058/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/058/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/058/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/058/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/058/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/058/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/058/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/058/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mabosstiff-PBL058",
+        "tcgplayer": "https://www.tcgplayer.com/product/704815/pokemon-me05-pitch-black-mabosstiff?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "059",
+      "names": {
+        "de": "Yuyu",
+        "en": "Chi-Yu",
+        "es": "Chi-Yu",
+        "fr": "Yuyu",
+        "it": "Chi-Yu",
+        "pt": "Chi-Yu"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/059/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/059/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/059/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/059/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/059/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/059/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/059/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/059/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/059/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/059/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/059/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/059/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Chi-Yu-PBL059",
+        "tcgplayer": "https://www.tcgplayer.com/product/704816/pokemon-me05-pitch-black-chi-yu?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "060",
+      "names": {
+        "de": "Panzaeron",
+        "en": "Skarmory",
+        "es": "Skarmory",
+        "fr": "Airmure",
+        "it": "Skarmory",
+        "pt": "Skarmory"
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/060/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/060/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/060/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/060/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/060/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/060/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/060/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/060/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/060/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/060/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/060/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/060/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Skarmory-PBL060",
+        "tcgplayer": "https://www.tcgplayer.com/product/704817/pokemon-me05-pitch-black-skarmory?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "061",
+      "names": {
+        "de": "Schilterus",
+        "en": "Shieldon",
+        "es": "Shieldon",
+        "fr": "Dinoclier",
+        "it": "Shieldon",
+        "pt": "Shieldon"
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/061/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/061/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/061/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/061/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/061/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/061/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/061/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/061/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/061/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/061/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/061/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/061/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Shieldon-PBL061",
+        "tcgplayer": "https://www.tcgplayer.com/product/704818/pokemon-me05-pitch-black-shieldon?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "062",
+      "names": {
+        "de": "Bollterus",
+        "en": "Bastiodon",
+        "es": "Bastiodon",
+        "fr": "Bastiodon",
+        "it": "Bastiodon",
+        "pt": "Bastiodon"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/062/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/062/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/062/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/062/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/062/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/062/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/062/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/062/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/062/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/062/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/062/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/062/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Bastiodon-V1-PBL062",
+        "tcgplayer": "https://www.tcgplayer.com/product/704819/pokemon-me05-pitch-black-bastiodon-062-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "063",
+      "names": {
+        "de": "Bronzel",
+        "en": "Bronzor",
+        "es": "Bronzor",
+        "fr": "Archéomire",
+        "it": "Bronzor",
+        "pt": "Bronzor"
+      },
+      "rarity": "Common",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/063/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/063/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/063/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/063/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/063/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/063/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/063/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/063/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/063/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/063/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/063/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/063/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Bronzor-PBL063",
+        "tcgplayer": "https://www.tcgplayer.com/product/704820/pokemon-me05-pitch-black-bronzor?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "064",
+      "names": {
+        "de": "Bronzong",
+        "en": "Bronzong",
+        "es": "Bronzong",
+        "fr": "Archéodong",
+        "it": "Bronzong",
+        "pt": "Bronzong"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/064/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/064/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/064/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/064/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/064/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/064/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/064/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/064/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/064/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/064/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/064/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/064/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Bronzong-PBL064",
+        "tcgplayer": "https://www.tcgplayer.com/product/704821/pokemon-me05-pitch-black-bronzong?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "065",
+      "names": {
+        "de": "Mega-Stalobor-ex",
+        "en": "Mega Excadrill ex",
+        "es": "Mega-Excadrill ex",
+        "fr": "Méga-Minotaupe-ex",
+        "it": "Mega Excadrill-ex",
+        "pt": "Mega Excadrill ex"
+      },
+      "rarity": "Double rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/065/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/065/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/065/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/065/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/065/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/065/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/065/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/065/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/065/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/065/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/065/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/065/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Excadrill-ex-V1-PBL065",
+        "tcgplayer": "https://www.tcgplayer.com/product/704822/pokemon-me05-pitch-black-mega-excadrill-ex-065-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "066",
+      "names": {
+        "de": "Peppeck",
+        "en": "Pikipek",
+        "es": "Pikipek",
+        "fr": "Picassaut",
+        "it": "Pikipek",
+        "pt": "Pikipek"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/066/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/066/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/066/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/066/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/066/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/066/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/066/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/066/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/066/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/066/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/066/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/066/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Pikipek-PBL066",
+        "tcgplayer": "https://www.tcgplayer.com/product/704823/pokemon-me05-pitch-black-pikipek?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "067",
+      "names": {
+        "de": "Trompeck",
+        "en": "Trumbeak",
+        "es": "Trumbeak",
+        "fr": "Piclairon",
+        "it": "Trumbeak",
+        "pt": "Trumbeak"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/067/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/067/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/067/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/067/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/067/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/067/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/067/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/067/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/067/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/067/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/067/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/067/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Trumbeak-PBL067",
+        "tcgplayer": "https://www.tcgplayer.com/product/704824/pokemon-me05-pitch-black-trumbeak?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "068",
+      "names": {
+        "de": "Tukanon",
+        "en": "Toucannon",
+        "es": "Toucannon",
+        "fr": "Bazoucan",
+        "it": "Toucannon",
+        "pt": "Toucannon"
+      },
+      "rarity": "Uncommon",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/068/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/068/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/068/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/068/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/068/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/068/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/068/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/068/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/068/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/068/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/068/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/068/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Toucannon-V1-PBL068",
+        "tcgplayer": "https://www.tcgplayer.com/product/704825/pokemon-me05-pitch-black-toucannon-068-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "069",
+      "names": {
+        "de": "Typ:Null",
+        "en": "Type: Null",
+        "es": "Código Cero",
+        "fr": "Type:0",
+        "it": "Tipo Zero",
+        "pt": "Tipo Nulo"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/069/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/069/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/069/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/069/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/069/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/069/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/069/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/069/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/069/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/069/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/069/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/069/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Type-Null-PBL069",
+        "tcgplayer": "https://www.tcgplayer.com/product/704826/pokemon-me05-pitch-black-type-null?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "070",
+      "names": {
+        "de": "Amigento",
+        "en": "Silvally",
+        "es": "Silvally",
+        "fr": "Silvallié",
+        "it": "Silvally",
+        "pt": "Silvally"
+      },
+      "rarity": "Rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/070/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/070/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/070/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/070/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/070/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/070/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/070/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/070/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/070/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/070/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/070/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/070/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Silvally-V1-PBL070",
+        "tcgplayer": "https://www.tcgplayer.com/product/704827/pokemon-me05-pitch-black-silvally-070-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "071",
+      "names": {
+        "de": "Adebom",
+        "en": "Bombirdier",
+        "es": "Bombirdier",
+        "fr": "Lestombaile",
+        "it": "Bombirdier",
+        "pt": "Bombirdier"
+      },
+      "rarity": "Common",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/071/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/071/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/071/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/071/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/071/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/071/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/071/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/071/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/071/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/071/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/071/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/071/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Bombirdier-PBL071",
+        "tcgplayer": "https://www.tcgplayer.com/product/704828/pokemon-me05-pitch-black-bombirdier?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "072",
+      "names": {
+        "de": "Antikes Panzerfossil",
+        "en": "Antique Armor Fossil",
+        "es": "Fósil Coraza Antiguo",
+        "fr": "Fossile Armure Ancien",
+        "it": "Vecchio Fossilscudo",
+        "pt": "Fóssil Armadura Arcaico"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/072/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/072/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/072/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/072/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/072/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/072/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/072/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/072/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/072/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/072/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/072/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/072/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Antique-Armor-Fossil-PBL072",
+        "tcgplayer": "https://www.tcgplayer.com/product/704829/pokemon-me05-pitch-black-antique-armor-fossil?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "073",
+      "names": {
+        "de": "Antikes Kopffossil",
+        "en": "Antique Skull Fossil",
+        "es": "Fósil Cráneo Antiguo",
+        "fr": "Fossile Crâne Ancien",
+        "it": "Vecchio Fossilcranio",
+        "pt": "Fóssil Crânio Arcaico"
+      },
+      "rarity": "Common",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/073/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/073/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/073/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/073/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/073/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/073/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/073/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/073/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/073/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/073/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/073/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/073/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Antique-Skull-Fossil-PBL073",
+        "tcgplayer": "https://www.tcgplayer.com/product/704830/pokemon-me05-pitch-black-antique-skull-fossil?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "074",
+      "names": {
+        "de": "Retourorden",
+        "en": "Backtrack Badge",
+        "es": "Insignia Reintento",
+        "fr": "Badge Rebelote",
+        "it": "Distintivo di Rettifica",
+        "pt": "Distintivo de Recomeço"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/074/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/074/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/074/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/074/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/074/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/074/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/074/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/074/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/074/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/074/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/074/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/074/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Backtrack-Badge-PBL074",
+        "tcgplayer": "https://www.tcgplayer.com/product/704831/pokemon-me05-pitch-black-backtrack-badge?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "075",
+      "names": {
+        "de": "Düsterglocke",
+        "en": "Dark Bell",
+        "es": "Campanilla Oscuridad",
+        "fr": "Cloche Ténébreuse",
+        "it": "Campanella Oscura",
+        "pt": "Sino Sombrio"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/075/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/075/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/075/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/075/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/075/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/075/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/075/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/075/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/075/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/075/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/075/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/075/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Dark-Bell-V1-PBL075",
+        "tcgplayer": "https://www.tcgplayer.com/product/704832/pokemon-me05-pitch-black-dark-bell-075-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "076",
+      "names": {
+        "de": "Fossiliengrube",
+        "en": "Fossil Quarry",
+        "es": "Cantera de Fósiles",
+        "fr": "Carrière Fossile",
+        "it": "Cava di Fossili",
+        "pt": "Pedreira de Fóssil"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/076/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/076/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/076/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/076/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/076/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/076/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/076/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/076/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/076/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/076/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/076/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/076/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Fossil-Quarry-PBL076",
+        "tcgplayer": "https://www.tcgplayer.com/product/704833/pokemon-me05-pitch-black-fossil-quarry?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "077",
+      "names": {
+        "de": "Gladios Finalkampf",
+        "en": "Gladion's Final Battle",
+        "es": "Combate Final de Gladio",
+        "fr": "Combat Final de Gladio",
+        "it": "Lotta Finale di Iridio",
+        "pt": "Batalha Decisiva do Gladio"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/077/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/077/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/077/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/077/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/077/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/077/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/077/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/077/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/077/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/077/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/077/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/077/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Gladions-Final-Battle-V1-PBL077",
+        "tcgplayer": "https://www.tcgplayer.com/product/704834/pokemon-me05-pitch-black-gladions-final-battle-077-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "078",
+      "names": {
+        "de": "Gwynn",
+        "en": "Gwynn",
+        "es": "Inma",
+        "fr": "Albia",
+        "it": "Imma",
+        "pt": "Clarita"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/078/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/078/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/078/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/078/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/078/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/078/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/078/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/078/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/078/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/078/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/078/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/078/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Gwynn-V1-PBL078",
+        "tcgplayer": "https://www.tcgplayer.com/product/704835/pokemon-me05-pitch-black-gwynn-078-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "079",
+      "names": {
+        "de": "Jette",
+        "en": "Jett",
+        "es": "Viona",
+        "fr": "Bridjet",
+        "it": "Aviona",
+        "pt": "Jett"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/079/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/079/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/079/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/079/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/079/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/079/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/079/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/079/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/079/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/079/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/079/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/079/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Jett-PBL079",
+        "tcgplayer": "https://www.tcgplayer.com/product/704836/pokemon-me05-pitch-black-jett?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "080",
+      "names": {
+        "de": "Mistys Vitalität",
+        "en": "Misty's Vitality",
+        "es": "Vitalidad de Misty",
+        "fr": "Vitalité d'Ondine",
+        "it": "Vitalità di Misty",
+        "pt": "Vitalidade da Misty"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/080/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/080/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/080/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/080/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/080/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/080/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/080/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/080/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/080/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/080/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/080/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/080/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mistys-Vitality-V1-PBL080",
+        "tcgplayer": "https://www.tcgplayer.com/product/704837/pokemon-me05-pitch-black-mistys-vitality-080-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "081",
+      "names": {
+        "de": "Rüpel vom Corrosio-Clan",
+        "en": "Rust Syndicate Grunt",
+        "es": "Recluta del Clan Corrosión",
+        "fr": "Sbire du Clan Dérouillard",
+        "it": "Recluta del Clan Ruggine",
+        "pt": "Recruta do Clã Corrosão"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/081/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/081/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/081/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/081/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/081/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/081/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/081/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/081/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/081/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/081/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/081/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/081/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Rust-Syndicate-Grunt-V1-PBL081",
+        "tcgplayer": "https://www.tcgplayer.com/product/704838/pokemon-me05-pitch-black-rust-syndicate-grunt-081-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "082",
+      "names": {
+        "de": "Ungeheure Bombe",
+        "en": "Tremendous Bomb",
+        "es": "Bomba Formidable",
+        "fr": "Bombe Géniale",
+        "it": "Bomba Assurda",
+        "pt": "Bombona"
+      },
+      "rarity": "Uncommon",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/082/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/082/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/082/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/082/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/082/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/082/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/082/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/082/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/082/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/082/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/082/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/082/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Tremendous-Bomb-V1-PBL082",
+        "tcgplayer": "https://www.tcgplayer.com/product/704839/pokemon-me05-pitch-black-tremendous-bomb-082-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "083",
+      "names": {
+        "de": "Schattige Darkness-Energie",
+        "en": "Shadowy Darkness Energy",
+        "es": "Energía Darkness Sombría",
+        "fr": "Énergie Darkness Sombre",
+        "it": "Energia Darkness Ombrosa",
+        "pt": "Energia Darkness Sombria"
+      },
+      "rarity": "Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/083/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/083/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/083/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/083/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/083/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/083/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/083/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/083/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/083/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/083/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/083/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/083/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Shadowy-D-Energy-PBL083",
+        "tcgplayer": "https://www.tcgplayer.com/product/704840/pokemon-me05-pitch-black-shadowy-darkness-energy?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "084",
+      "names": {
+        "de": "Voltaische Lightning-Energie",
+        "en": "Voltaic Lightning Energy",
+        "es": "Energía Lightning Voltaica",
+        "fr": "Énergie Lightning Voltaïque",
+        "it": "Energia Lightning Voltaica",
+        "pt": "Energia Lightning Voltaica"
+      },
+      "rarity": "Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/084/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/084/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/084/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/084/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/084/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/084/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/084/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/084/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/084/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/084/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/084/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/084/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Voltaic-L-Energy-PBL084",
+        "tcgplayer": "https://www.tcgplayer.com/product/704841/pokemon-me05-pitch-black-voltaic-lightning-energy?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "085",
+      "names": {
+        "de": "Imantis",
+        "en": "Fomantis",
+        "es": "Fomantis",
+        "fr": "Mimantis",
+        "it": "Fomantis",
+        "pt": "Fomantis"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/085/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/085/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/085/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/085/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/085/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/085/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/085/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/085/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/085/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/085/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/085/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/085/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Fomantis-V2-PBL085",
+        "tcgplayer": "https://www.tcgplayer.com/product/704842/pokemon-me05-pitch-black-fomantis-085-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "086",
+      "names": {
+        "de": "Crimanzo",
+        "en": "Armarouge",
+        "es": "Armarouge",
+        "fr": "Carmadura",
+        "it": "Armarouge",
+        "pt": "Armarouge"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Fire"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/086/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/086/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/086/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/086/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/086/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/086/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/086/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/086/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/086/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/086/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/086/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/086/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Armarouge-V2-PBL086",
+        "tcgplayer": "https://www.tcgplayer.com/product/704843/pokemon-me05-pitch-black-armarouge-086-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "087",
+      "names": {
+        "de": "Goldini",
+        "en": "Goldeen",
+        "es": "Goldeen",
+        "fr": "Poissirène",
+        "it": "Goldeen",
+        "pt": "Goldeen"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/087/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/087/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/087/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/087/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/087/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/087/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/087/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/087/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/087/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/087/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/087/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/087/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Goldeen-V2-PBL087",
+        "tcgplayer": "https://www.tcgplayer.com/product/704844/pokemon-me05-pitch-black-goldeen-087-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "088",
+      "names": {
+        "de": "Primarene",
+        "en": "Primarina",
+        "es": "Primarina",
+        "fr": "Oratoria",
+        "it": "Primarina",
+        "pt": "Primarina"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/088/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/088/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/088/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/088/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/088/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/088/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/088/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/088/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/088/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/088/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/088/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/088/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Primarina-V2-PBL088",
+        "tcgplayer": "https://www.tcgplayer.com/product/704845/pokemon-me05-pitch-black-primarina-088-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "089",
+      "names": {
+        "de": "Voltenso",
+        "en": "Manectric",
+        "es": "Manectric",
+        "fr": "Élecsprint",
+        "it": "Manectric",
+        "pt": "Manectric"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/089/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/089/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/089/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/089/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/089/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/089/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/089/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/089/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/089/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/089/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/089/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/089/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Manectric-V2-PBL089",
+        "tcgplayer": "https://www.tcgplayer.com/product/704846/pokemon-me05-pitch-black-manectric-089-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "090",
+      "names": {
+        "de": "Lahmus",
+        "en": "Slowbro",
+        "es": "Slowbro",
+        "fr": "Flagadoss",
+        "it": "Slowbro",
+        "pt": "Slowbro"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/090/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/090/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/090/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/090/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/090/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/090/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/090/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/090/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/090/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/090/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/090/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/090/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Slowbro-V2-PBL090",
+        "tcgplayer": "https://www.tcgplayer.com/product/704847/pokemon-me05-pitch-black-slowbro-090-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "091",
+      "names": {
+        "de": "Moruda",
+        "en": "Dhelmise",
+        "es": "Dhelmise",
+        "fr": "Sinistrail",
+        "it": "Dhelmise",
+        "pt": "Dhelmise"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/091/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/091/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/091/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/091/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/091/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/091/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/091/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/091/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/091/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/091/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/091/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/091/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Dhelmise-V2-PBL091",
+        "tcgplayer": "https://www.tcgplayer.com/product/704848/pokemon-me05-pitch-black-dhelmise-091-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "092",
+      "names": {
+        "de": "Gaunux",
+        "en": "Thievul",
+        "es": "Thievul",
+        "fr": "Roublenard",
+        "it": "Thievul",
+        "pt": "Thievul"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/092/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/092/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/092/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/092/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/092/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/092/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/092/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/092/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/092/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/092/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/092/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/092/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Thievul-V2-PBL092",
+        "tcgplayer": "https://www.tcgplayer.com/product/704849/pokemon-me05-pitch-black-thievul-092-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "093",
+      "names": {
+        "de": "Bollterus",
+        "en": "Bastiodon",
+        "es": "Bastiodon",
+        "fr": "Bastiodon",
+        "it": "Bastiodon",
+        "pt": "Bastiodon"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/093/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/093/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/093/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/093/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/093/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/093/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/093/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/093/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/093/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/093/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/093/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/093/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Bastiodon-V2-PBL093",
+        "tcgplayer": "https://www.tcgplayer.com/product/704850/pokemon-me05-pitch-black-bastiodon-093-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "094",
+      "names": {
+        "de": "Tukanon",
+        "en": "Toucannon",
+        "es": "Toucannon",
+        "fr": "Bazoucan",
+        "it": "Toucannon",
+        "pt": "Toucannon"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/094/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/094/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/094/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/094/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/094/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/094/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/094/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/094/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/094/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/094/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/094/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/094/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Toucannon-V2-PBL094",
+        "tcgplayer": "https://www.tcgplayer.com/product/704851/pokemon-me05-pitch-black-toucannon-094-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "095",
+      "names": {
+        "de": "Amigento",
+        "en": "Silvally",
+        "es": "Silvally",
+        "fr": "Silvallié",
+        "it": "Silvally",
+        "pt": "Silvally"
+      },
+      "rarity": "Illustration rare",
+      "types": [
+        "Colorless"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/095/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/095/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/095/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/095/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/095/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/095/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/095/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/095/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/095/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/095/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/095/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/095/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Silvally-V2-PBL095",
+        "tcgplayer": "https://www.tcgplayer.com/product/704852/pokemon-me05-pitch-black-silvally-095-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "096",
+      "names": {
+        "de": "Mantidea-ex",
+        "en": "Lurantis ex",
+        "es": "Lurantis ex",
+        "fr": "Floramantis-ex",
+        "it": "Lurantis-ex",
+        "pt": "Lurantis ex"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Grass"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/096/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/096/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/096/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/096/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/096/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/096/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/096/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/096/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/096/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/096/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/096/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/096/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Lurantis-ex-V2-PBL096",
+        "tcgplayer": "https://www.tcgplayer.com/product/704853/pokemon-me05-pitch-black-lurantis-ex-096-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "097",
+      "names": {
+        "de": "Wailord-ex",
+        "en": "Wailord ex",
+        "es": "Wailord ex",
+        "fr": "Wailord-ex",
+        "it": "Wailord-ex",
+        "pt": "Wailord ex"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Water"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/097/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/097/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/097/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/097/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/097/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/097/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/097/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/097/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/097/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/097/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/097/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/097/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Wailord-ex-V2-PBL097",
+        "tcgplayer": "https://www.tcgplayer.com/product/704854/pokemon-me05-pitch-black-wailord-ex-097-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "098",
+      "names": {
+        "de": "Mega-Zeraora-ex",
+        "en": "Mega Zeraora ex",
+        "es": "Mega-Zeraora ex",
+        "fr": "Méga-Zeraora-ex",
+        "it": "Mega Zeraora-ex",
+        "pt": "Mega Zeraora ex"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/098/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/098/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/098/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/098/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/098/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/098/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/098/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/098/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/098/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/098/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/098/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/098/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Zeraora-ex-V2-PBL098",
+        "tcgplayer": "https://www.tcgplayer.com/product/704855/pokemon-me05-pitch-black-mega-zeraora-ex-098-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "099",
+      "names": {
+        "de": "Mega-Skelabra-ex",
+        "en": "Mega Chandelure ex",
+        "es": "Mega-Chandelure ex",
+        "fr": "Méga-Lugulabre-ex",
+        "it": "Mega Chandelure-ex",
+        "pt": "Mega Chandelure ex"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/099/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/099/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/099/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/099/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/099/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/099/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/099/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/099/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/099/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/099/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/099/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/099/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Chandelure-ex-V2-PBL099",
+        "tcgplayer": "https://www.tcgplayer.com/product/704856/pokemon-me05-pitch-black-mega-chandelure-ex-099-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "100",
+      "names": {
+        "de": "Rameidon-ex",
+        "en": "Rampardos ex",
+        "es": "Rampardos ex",
+        "fr": "Charkos-ex",
+        "it": "Rampardos-ex",
+        "pt": "Rampardos ex"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Fighting"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/100/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/100/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/100/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/100/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/100/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/100/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/100/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/100/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/100/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/100/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/100/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/100/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Rampardos-ex-V2-PBL100",
+        "tcgplayer": "https://www.tcgplayer.com/product/704857/pokemon-me05-pitch-black-rampardos-ex-100-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "101",
+      "names": {
+        "de": "Mega-Darkrai-ex",
+        "en": "Mega Darkrai ex",
+        "es": "Mega-Darkrai ex",
+        "fr": "Méga-Darkrai-ex",
+        "it": "Mega Darkrai-ex",
+        "pt": "Mega Darkrai ex"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/101/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/101/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/101/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/101/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/101/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/101/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/101/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/101/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/101/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/101/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/101/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/101/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Darkrai-ex-V2-PBL101",
+        "tcgplayer": "https://www.tcgplayer.com/product/704858/pokemon-me05-pitch-black-mega-darkrai-ex-101-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "102",
+      "names": {
+        "de": "Morpeko-ex",
+        "en": "Morpeko ex",
+        "es": "Morpeko ex",
+        "fr": "Morpeko-ex",
+        "it": "Morpeko-ex",
+        "pt": "Morpeko ex"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/102/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/102/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/102/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/102/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/102/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/102/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/102/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/102/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/102/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/102/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/102/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/102/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Morpeko-ex-V2-PBL102",
+        "tcgplayer": "https://www.tcgplayer.com/product/704859/pokemon-me05-pitch-black-morpeko-ex-102-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "103",
+      "names": {
+        "de": "Mega-Stalobor-ex",
+        "en": "Mega Excadrill ex",
+        "es": "Mega-Excadrill ex",
+        "fr": "Méga-Minotaupe-ex",
+        "it": "Mega Excadrill-ex",
+        "pt": "Mega Excadrill ex"
+      },
+      "rarity": "Ultra Rare",
+      "types": [
+        "Metal"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/103/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/103/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/103/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/103/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/103/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/103/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/103/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/103/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/103/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/103/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/103/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/103/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Excadrill-ex-V2-PBL103",
+        "tcgplayer": "https://www.tcgplayer.com/product/704860/pokemon-me05-pitch-black-mega-excadrill-ex-103-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "104",
+      "names": {
+        "de": "Reif der Tapferkeit",
+        "en": "Brave Bangle",
+        "es": "Pulsera Osada",
+        "fr": "Bracelet Vaillant",
+        "it": "Braccialcoraggio",
+        "pt": "Bracelete Bravio"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/104/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/104/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/104/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/104/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/104/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/104/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/104/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/104/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/104/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/104/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/104/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/104/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Brave-Bangle-PBL104",
+        "tcgplayer": "https://www.tcgplayer.com/product/704861/pokemon-me05-pitch-black-brave-bangle?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "105",
+      "names": {
+        "de": "Schmetterhammer",
+        "en": "Crushing Hammer",
+        "es": "Martillo Demoledor",
+        "fr": "Maillet Écrasant",
+        "it": "Martello Dirompente",
+        "pt": "Martelo Esmagador"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/105/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/105/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/105/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/105/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/105/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/105/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/105/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/105/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/105/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/105/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/105/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/105/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Crushing-Hammer-PBL105",
+        "tcgplayer": "https://www.tcgplayer.com/product/704862/pokemon-me05-pitch-black-crushing-hammer?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "106",
+      "names": {
+        "de": "Düsterglocke",
+        "en": "Dark Bell",
+        "es": "Campanilla Oscuridad",
+        "fr": "Cloche Ténébreuse",
+        "it": "Campanella Oscura",
+        "pt": "Sino Sombrio"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/106/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/106/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/106/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/106/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/106/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/106/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/106/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/106/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/106/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/106/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/106/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/106/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Dark-Bell-V2-PBL106",
+        "tcgplayer": "https://www.tcgplayer.com/product/704863/pokemon-me05-pitch-black-dark-bell-106-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "107",
+      "names": {
+        "de": "Energie-Umschalter",
+        "en": "Energy Switch",
+        "es": "Interruptor de Energía",
+        "fr": "Échange d'Énergie",
+        "it": "Scambio di Energia",
+        "pt": "Substituição de Energia"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/107/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/107/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/107/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/107/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/107/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/107/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/107/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/107/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/107/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/107/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/107/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/107/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Energy-Switch-PBL107",
+        "tcgplayer": "https://www.tcgplayer.com/product/704864/pokemon-me05-pitch-black-energy-switch?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "108",
+      "names": {
+        "de": "Gladios Finalkampf",
+        "en": "Gladion's Final Battle",
+        "es": "Combate Final de Gladio",
+        "fr": "Combat Final de Gladio",
+        "it": "Lotta Finale di Iridio",
+        "pt": "Batalha Decisiva do Gladio"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/108/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/108/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/108/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/108/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/108/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/108/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/108/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/108/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/108/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/108/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/108/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/108/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Gladions-Final-Battle-V2-PBL108",
+        "tcgplayer": "https://www.tcgplayer.com/product/704865/pokemon-me05-pitch-black-gladions-final-battle-108-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "109",
+      "names": {
+        "de": "Gwynn",
+        "en": "Gwynn",
+        "es": "Inma",
+        "fr": "Albia",
+        "it": "Imma",
+        "pt": "Clarita"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/109/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/109/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/109/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/109/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/109/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/109/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/109/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/109/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/109/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/109/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/109/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/109/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Gwynn-V2-PBL109",
+        "tcgplayer": "https://www.tcgplayer.com/product/704866/pokemon-me05-pitch-black-gwynn-109-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "110",
+      "names": {
+        "de": "Eisendefensive",
+        "en": "Iron Defender",
+        "es": "Defensor Férreo",
+        "fr": "Défense de Fer",
+        "it": "Difensore Ferreo",
+        "pt": "Defensor Férreo"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/110/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/110/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/110/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/110/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/110/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/110/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/110/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/110/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/110/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/110/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/110/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/110/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Iron-Defender-PBL110",
+        "tcgplayer": "https://www.tcgplayer.com/product/704867/pokemon-me05-pitch-black-iron-defender?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "111",
+      "names": {
+        "de": "Mistys Vitalität",
+        "en": "Misty's Vitality",
+        "es": "Vitalidad de Misty",
+        "fr": "Vitalité d'Ondine",
+        "it": "Vitalità di Misty",
+        "pt": "Vitalidade da Misty"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/111/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/111/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/111/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/111/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/111/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/111/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/111/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/111/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/111/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/111/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/111/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/111/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mistys-Vitality-V2-PBL111",
+        "tcgplayer": "https://www.tcgplayer.com/product/704868/pokemon-me05-pitch-black-mistys-vitality-111-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "112",
+      "names": {
+        "de": "Rüpel vom Corrosio-Clan",
+        "en": "Rust Syndicate Grunt",
+        "es": "Recluta del Clan Corrosión",
+        "fr": "Sbire du Clan Dérouillard",
+        "it": "Recluta del Clan Ruggine",
+        "pt": "Recruta do Clã Corrosão"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/112/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/112/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/112/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/112/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/112/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/112/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/112/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/112/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/112/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/112/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/112/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/112/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Rust-Syndicate-Grunt-V2-PBL112",
+        "tcgplayer": "https://www.tcgplayer.com/product/704869/pokemon-me05-pitch-black-rust-syndicate-grunt-112-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "113",
+      "names": {
+        "de": "Ungeheure Bombe",
+        "en": "Tremendous Bomb",
+        "es": "Bomba Formidable",
+        "fr": "Bombe Géniale",
+        "it": "Bomba Assurda",
+        "pt": "Bombona"
+      },
+      "rarity": "Ultra Rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/113/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/113/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/113/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/113/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/113/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/113/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/113/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/113/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/113/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/113/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/113/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/113/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Tremendous-Bomb-V2-PBL113",
+        "tcgplayer": "https://www.tcgplayer.com/product/704870/pokemon-me05-pitch-black-tremendous-bomb-113-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "114",
+      "names": {
+        "de": "Mega-Zeraora-ex",
+        "en": "Mega Zeraora ex",
+        "es": "Mega-Zeraora ex",
+        "fr": "Méga-Zeraora-ex",
+        "it": "Mega Zeraora-ex",
+        "pt": "Mega Zeraora ex"
+      },
+      "rarity": "Special illustration rare",
+      "types": [
+        "Lightning"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/114/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/114/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/114/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/114/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/114/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/114/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/114/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/114/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/114/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/114/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/114/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/114/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Zeraora-ex-V3-PBL114",
+        "tcgplayer": "https://www.tcgplayer.com/product/704871/pokemon-me05-pitch-black-mega-zeraora-ex-114-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "115",
+      "names": {
+        "de": "Mega-Skelabra-ex",
+        "en": "Mega Chandelure ex",
+        "es": "Mega-Chandelure ex",
+        "fr": "Méga-Lugulabre-ex",
+        "it": "Mega Chandelure-ex",
+        "pt": "Mega Chandelure ex"
+      },
+      "rarity": "Special illustration rare",
+      "types": [
+        "Psychic"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/115/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/115/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/115/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/115/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/115/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/115/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/115/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/115/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/115/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/115/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/115/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/115/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Chandelure-ex-V3-PBL115",
+        "tcgplayer": "https://www.tcgplayer.com/product/704872/pokemon-me05-pitch-black-mega-chandelure-ex-115-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "116",
+      "names": {
+        "de": "Mega-Darkrai-ex",
+        "en": "Mega Darkrai ex",
+        "es": "Mega-Darkrai ex",
+        "fr": "Méga-Darkrai-ex",
+        "it": "Mega Darkrai-ex",
+        "pt": "Mega Darkrai ex"
+      },
+      "rarity": "Special illustration rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/116/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/116/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/116/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/116/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/116/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/116/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/116/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/116/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/116/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/116/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/116/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/116/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Darkrai-ex-V3-PBL116",
+        "tcgplayer": "https://www.tcgplayer.com/product/704873/pokemon-me05-pitch-black-mega-darkrai-ex-116-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "117",
+      "names": {
+        "de": "Morpeko-ex",
+        "en": "Morpeko ex",
+        "es": "Morpeko ex",
+        "fr": "Morpeko-ex",
+        "it": "Morpeko-ex",
+        "pt": "Morpeko ex"
+      },
+      "rarity": "Special illustration rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/117/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/117/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/117/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/117/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/117/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/117/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/117/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/117/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/117/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/117/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/117/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/117/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Morpeko-ex-V3-PBL117",
+        "tcgplayer": "https://www.tcgplayer.com/product/704874/pokemon-me05-pitch-black-morpeko-ex-117-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "118",
+      "names": {
+        "de": "Gladios Finalkampf",
+        "en": "Gladion's Final Battle",
+        "es": "Combate Final de Gladio",
+        "fr": "Combat Final de Gladio",
+        "it": "Lotta Finale di Iridio",
+        "pt": "Batalha Decisiva do Gladio"
+      },
+      "rarity": "Special illustration rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/118/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/118/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/118/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/118/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/118/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/118/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/118/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/118/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/118/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/118/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/118/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/118/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Gladions-Final-Battle-V3-PBL118",
+        "tcgplayer": "https://www.tcgplayer.com/product/704875/pokemon-me05-pitch-black-gladions-final-battle-118-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "119",
+      "names": {
+        "de": "Gwynn",
+        "en": "Gwynn",
+        "es": "Inma",
+        "fr": "Albia",
+        "it": "Imma",
+        "pt": "Clarita"
+      },
+      "rarity": "Special illustration rare",
+      "types": [],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/119/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/119/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/119/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/119/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/119/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/119/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/119/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/119/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/119/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/119/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/119/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/119/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Gwynn-V3-PBL119",
+        "tcgplayer": "https://www.tcgplayer.com/product/704876/pokemon-me05-pitch-black-gwynn-119-084?page=1&Language=English"
+      },
+      "notes": ""
+    },
+    {
+      "number": "120",
+      "names": {
+        "de": "Mega-Darkrai-ex",
+        "en": "Mega Darkrai ex",
+        "es": "Mega-Darkrai ex",
+        "fr": "Méga-Darkrai-ex",
+        "it": "Mega Darkrai-ex",
+        "pt": "Mega Darkrai ex"
+      },
+      "rarity": "Mega Hyper Rare",
+      "types": [
+        "Darkness"
+      ],
+      "images": {
+        "small": "https://assets.tcgdex.net/en/me/me05/120/low.webp",
+        "large": "https://assets.tcgdex.net/en/me/me05/120/high.webp",
+        "de": {
+          "small": "https://assets.tcgdex.net/de/me/me05/120/low.webp",
+          "large": "https://assets.tcgdex.net/de/me/me05/120/high.webp"
+        },
+        "fr": {
+          "small": "https://assets.tcgdex.net/fr/me/me05/120/low.webp",
+          "large": "https://assets.tcgdex.net/fr/me/me05/120/high.webp"
+        },
+        "es": {
+          "small": "https://assets.tcgdex.net/es/me/me05/120/low.webp",
+          "large": "https://assets.tcgdex.net/es/me/me05/120/high.webp"
+        },
+        "it": {
+          "small": "https://assets.tcgdex.net/it/me/me05/120/low.webp",
+          "large": "https://assets.tcgdex.net/it/me/me05/120/high.webp"
+        },
+        "pt": {
+          "small": "https://assets.tcgdex.net/pt/me/me05/120/low.webp",
+          "large": "https://assets.tcgdex.net/pt/me/me05/120/high.webp"
+        }
+      },
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black/Mega-Darkrai-ex-V4-PBL120",
+        "tcgplayer": "https://www.tcgplayer.com/product/704877/pokemon-me05-pitch-black-mega-darkrai-ex-120-084?page=1&Language=English"
+      },
+      "notes": ""
+    }
+  ]
+}

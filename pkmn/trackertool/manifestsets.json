@@ -5922,6 +5922,38 @@
         "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Chaos-Rising",
         "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/me04-chaos-rising"
       }
+    },
+    {
+      "id": "me05",
+      "name": "Pitch Black",
+      "nameEN": "Pitch Black",
+      "names": {
+        "de": "Dunkelnacht",
+        "en": "Pitch Black",
+        "es": "Oscuridad Absoluta",
+        "fr": "Nuit Noire",
+        "it": "Buio Pesto",
+        "pt": "Escuridão Absoluta"
+      },
+      "logo": "setlogo/pitch-black.png",
+      "logos": {
+        "en": "setlogo/pitch-black.png",
+        "de": "setlogo/de/pitch-black.png",
+        "fr": "setlogo/fr/pitch-black.png",
+        "es": "setlogo/es/pitch-black.png",
+        "it": "setlogo/it/pitch-black.png",
+        "pt": "setlogo/pt/pitch-black.png"
+      },
+      "symbol": "setsymbol/pitch-black.png",
+      "total": 120,
+      "releaseDate": "2026-07-17",
+      "maintainer": "your-name",
+      "updated": "2026-07-18",
+      "file": "editions/me05.json",
+      "links": {
+        "cardmarket": "https://www.cardmarket.com/en/Pokemon/Products/Singles/Pitch-Black",
+        "tcgplayer": "https://www.tcgplayer.com/categories/trading-and-collectible-card-games/pokemon/me05-pitch-black"
+      }
     }
   ]
 }

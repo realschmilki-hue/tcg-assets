@@ -3,13 +3,11 @@
     {
       "id": "2026-05-24-chaos-rising-deckbuilder",
       "date": "2026-05-24",
-      "title": "Chaos Rising and Deck Builder Added",
-      "message": "Added Chaos Rising and Deck Builder, and updated html template with new features and fixes",
+      "title": "Pitch Black Update",
+      "message": "Added Pitch Black",
       "changes": [
         "-----Updates and Patches-----",
-        "Added Chaos Rising",
-        "Added Deck Builder",
-        "fixed rarity filter issues",
+        "Added Pitch Black",
         "-----Info-----",
         "If you find missing images, please report them to me so I can add them in the next update"
       ]
